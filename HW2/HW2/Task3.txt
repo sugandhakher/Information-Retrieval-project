@@ -1,0 +1,44 @@
+Top 5 pages by G1 with maximum inlinks
+International_Standard_Book_Number :(in-link count)  448 : https://en.wikipedia.org/wiki/
+Digital_object_identifier :(in-link count)  420 : https://en.wikipedia.org/wiki/
+Renewable_energy 398 :(in-link count)  : https://en.wikipedia.org/wiki/
+Efficient_energy_use 275 :(in-link count)  : https://en.wikipedia.org/wiki/
+United_States 244:(in-link count) : https://en.wikipedia.org/wiki/
+Biofuel 234 :(in-link count) : https://en.wikipedia.org/wiki/
+
+
+Top 5 pages by page-rank G1
+Digital_object_identifier : https://en.wikipedia.org/wiki/Digital_object_identifier
+International_Standard_Book_Number : https://en.wikipedia.org/wiki/International_Standard_Book_Number
+Integrated_Authority_File : https://en.wikipedia.org/wiki/Integrated_Authority_File
+PubMed_Identifier : https://en.wikipedia.org/wiki/PubMed_Identifier
+United_States : https://en.wikipedia.org/wiki/United_States
+
+
+
+Top 5 pages by G2 with maximum inlinks
+WT21-B37-76 :(in-link count) 2568 : http://fiji4.ccs.neu.edu/~zerg/lemurcgi_IRclass/lemur.cgi?d=0&e=WT21-B37-76
+WT21-B37-75 :(in-link count) 1704 : http://fiji4.ccs.neu.edu/~zerg/lemurcgi_IRclass/lemur.cgi?d=0&e=WT21-B37-75
+WT01-B18-225 :(in-link count) 1137 : http://fiji4.ccs.neu.edu/~zerg/lemurcgi_IRclass/lemur.cgi?d=0&e=WT01-B18-225
+WT08-B19-222 :(in-link count) 1041 : http://fiji4.ccs.neu.edu/~zerg/lemurcgi_IRclass/lemur.cgi?d=0&e=WT08-B19-222
+WT08-B18-400 :(in-link count) 990 : http://fiji4.ccs.neu.edu/~zerg/lemurcgi_IRclass/lemur.cgi?d=0&e=WT08-B18-400
+WT21-B40-447 :(in-link count) 779 : http://fiji4.ccs.neu.edu/~zerg/lemurcgi_IRclass/lemur.cgi?d=0&e=WT21-B40-447
+
+Top 5 pages by page-rank-G2
+WT21-B37-76 : http://fiji4.ccs.neu.edu/~zerg/lemurcgi_IRclass/lemur.cgi?d=0&e=WT21-B37-76
+WT21-B37-75 : http://fiji4.ccs.neu.edu/~zerg/lemurcgi_IRclass/lemur.cgi?d=0&e=WT21-B37-75
+WT25-B39-116 : http://fiji4.ccs.neu.edu/~zerg/lemurcgi_IRclass/lemur.cgi?d=0&e=WT25-B39-116
+WT23-B21-53 : http://fiji4.ccs.neu.edu/~zerg/lemurcgi_IRclass/lemur.cgi?d=0&e=WT23-B21-53
+WT24-B40-171 : http://fiji4.ccs.neu.edu/~zerg/lemurcgi_IRclass/lemur.cgi?d=0&e=WT24-B40-171
+
+
+
+
+We observe that the top 2 links in G2 with maximum number of inlinks is the same as top 2 links in
+pages with top ranks in G2, whereas page with second top most page-rank in G1 has maximum number of inlinks in G1.
+Hence we can deduce that the page rank does not depend on the number of inlinks that the page has.
+
+Page with high ranks does not totally depend on the maximum of inlinks but also depend on the number of outlinks
+going from those inlinks. Also if a page with high page rank points to any page, the page rank of the later
+also increases.
+In G1 and G2 pages with high page ranks is due to the fact that they have aself referential links.

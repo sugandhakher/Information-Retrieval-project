@@ -1,0 +1,48 @@
+Homework 2- readme.txt
+
+The page rank algorithm has been created in Python 2.7
+In order to run the file ensure Python 2.7 is there on the ystem.
+Download the HW2 folder in the system.
+
+Folders and files included in the project HW2:
+Source-code> G1 > Dictionary.py
+                > PageRank.py
+           > G2 > Dictionary.py
+                > PageRank.py
+
+Task1 > Description.txt
+      > G1.txt
+      > G1_no_inlinks.txt
+      > G1_no_outlinks.txt
+      > G2.txt
+      > G2_no_inlinks.txt
+      > G2_no_outlinks.txt
+
+Task2 > page-rank-file-G1.txt
+      > page-rank-file-G2.txt
+      > perplexity-G1.txt
+      > perplexity-G2.txt
+
+Task3.txt
+
+To run the page rank for G1 execute the dictionary.py file in G1 folder in Source-code and then execute the
+PageRank-G1.py file.
+To execute the page rank for G2 run the dictionary.py file in G2 folder in Source-code and then execute the
+PageRank-G2.py file
+
+The PageRank-G1 and PageRank-G2 files provide the code to calculate the page ranks for the graphs G1 and G2
+respectively. The page rank algorithm has been implemented in these codes.
+Calculating the perplexity and entropy the page rank values has been converged where perplexity	is
+simply 2 raised to the (Shannon) entropy of	the	PageRank distribution, i.e., 2^H (PR).
+
+In Task1 the pages with no inlinks and pages with no outlinks in both G1 and G2 are given in the text files.
+Also description.txt file gives the brief statistics of the proportion of pages with no inlinks and no outlinks.
+
+Task2 provides the text files with top 50 page rank values for both G1 and G2. Also it has the text files
+for the perplexity values calculated for both G1 and G2 for their respective loops.
+
+In Task3 there is a brief speculation given about the page rank.
+The pages with maximum inlinks in both the graphs are compared with pages with highest page ranks and it is
+deduced that page rank does not completely dependent on the maximum number of inlinks for that page.
+
+

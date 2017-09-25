@@ -1,0 +1,42 @@
+buildingperformance
+from wikipedia  the free encyclopedia
+jump to 					navigation  					search
+the building performance of a building or built environment is the efficiency of functioning of buildings and the construction industry  its impact on natural environment  urban environment and its users  it is achieved through means such as architectural design values  building science  architectural engineering  efficient energy use and sustainability 
+contents
+1 background
+2 see also
+3 references
+4 external links
+background edit 
+this article may need to be rewritten entirely to comply with wikipedia s quality standards  you can help  the discussion page may contain suggestions   october 2016 
+although many buildings in the u s   canada  u k   and elsewhere claim to be green  low energy  or high performance  it is rarely clear on what evidence or data these claims are based  such claims cannot be credible without standardized performance measurement protocols that are applied consistently  if claims of superior building performance are to be believed  it is essential that a common set of measurements be used and the results reported against meaningful benchmarks  such protocols are also needed to give usable feedback to building designers and operators when measured performance does not match design intent   1  this article describes ashraes performance measurement protocols for commercial buildings  pmp   which provides a standardized  consistent set of protocols  for a range of cost accuracy  to facilitate the appropriate comparison of measured energy  water  and indoor environmental quality  thermal comfort  indoor air quality  iaq   lighting  and acoustics  performance of commercial buildings  while maintaining acceptable levels of building service for the occupants  benchmarks are included in the protocols to facilitate comparison to peer buildings or for self-reference over time  often before and after retrofit   a recent article describing just the acoustic performance measurement protocols in the pmp has been published in the ashrae journal  the pmp is a collaborative effort of ashrae  the u s  green building council  usgbc   and the chartered institution of building service engineers  cibse   it began with a detailed evaluation of literature related to measured building performance that included databases  measurement techniques  m v protocols  and available instrumentation  a project committee representing several ashrae technical committees  tcs 7.6  7.9  4.7  and others  developed the content 
+characteristics of the protocols
+the protocols identify what to measure  how it is to be measured  instrumentation and spatial resolution   and how often it is to be measured for inclusion in the buildings operation and maintenance plan  for each of the six measure categories  energy  water  thermal comfort  iaq  lighting  and acoustics   protocols are developed at three levels  low  medium and high cost and accuracy  providing a range of choices for levels of effort  detail  and rigor to characterize the building stock  and comparison to appropriate benchmarks 
+for each measure category and each level  the following characteristics are described 
+objectives of the measurement 
+metrics to be used  including instrumentation and units of measure 
+performance evaluation and benchmarks  estimates of initial and recurring costs are included 
+in the pmp  first the six measure categories are addressed at the basic level  this is followed by a presentation of the intermediate level protocols and then the advanced level protocols  however  here we will primarily discuss the basic level protocols  with only a brief description of higher levels  details of the intermediate and advanced levels are described in the pmp 
+protocols for energy  water  and ieq
+representative measures at each level were tested by applying them to the newly renovated ashrae headquarters building in atlanta  facing page   measurements were taken by the commissioning authority for the renovation during 2009 and 2010  after the renovated building was reoccupied and was undergoing post-occupancy commissioning  occupant surveys were taken before and after the renovation to evaluate indoor environmental quality 
+see also edit 
+building energy simulation
+ecological design
+energy audit
+environmental impact assessment
+green retrofit
+sociology of architecture
+sustainable architecture
+sustainable design
+weatherization
+references edit 
+  https   www ashrae org resources--publications periodicals ashrae-journal features measuring-commercial-building-performancel permanent dead link 
+external links edit 
+ashrae - measuring commercial building performance
+global buildings performance network
+bpi building performance institute - u s  organization setting home performance technical standards
+efficiency first - u s  trade association of home performance contractors and others promoting performance based energy retrofits 
+home energy magazine - home performance articles 
+saved in parser cache with key enwiki pcache idhash 6234521-0   0  en 4   and timestamp 20161110123829 and revision id 748795012
+retrieved from  https   en wikipedia org w index php title building performance oldid 748795012 
+categories  building engineeringenergy conservationhidden categories  all articles with dead external linksarticles with dead external links from november 2016articles with permanently dead external linkswikipedia articles needing rewrite from october 2016

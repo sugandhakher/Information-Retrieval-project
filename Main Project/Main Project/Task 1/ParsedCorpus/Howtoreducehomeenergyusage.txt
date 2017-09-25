@@ -1,0 +1,23 @@
+howtoreducehomeenergyusage
+from wikipedia  the free encyclopedia
+jump to 					navigation  					search
+function mftempopensection id  var block document getelementbyid  mf-section-  id  block classname    open-block  block previoussibling classname    open-block   
+look for how to reduce home energy usage on one of wikipedia s sister projects 
+wiktionary  free dictionary 
+wikibooks  free textbooks 
+wikiquote  quotations 
+wikisource  free library 
+wikiversity  free learning resources 
+commons  images and media 
+wikivoyage  free travel guide 
+wikinews  free news source 
+wikidata  free linked database 
+wikipedia does not have an article with this exact name  please search for how to reduce home energy usage in wikipedia to check for alternative titles or spellings 
+log in or create an account to start the how to reduce home energy usage article  alternatively use the article wizard  or add a request for it 
+search for  how to reduce home energy usage  in existing articles 
+look for pages within wikipedia that link to this title 
+other reasons this message may be displayed 
+if a page was recently created here  it may not be visible yet because of a delay in updating the database  wait a few minutes or try the purge function 
+titles on wikipedia are case sensitive except for the first character  please check alternative capitalizations and consider adding a redirect here to the correct title 
+if the page has been deleted  check the deletion log  and see why was the page i created deleted  
+retrieved from  https   en wikipedia org wiki how to reduce home energy usage 

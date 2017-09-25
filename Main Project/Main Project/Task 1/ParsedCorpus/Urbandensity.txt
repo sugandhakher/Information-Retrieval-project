@@ -1,0 +1,44 @@
+urbandensity
+from wikipedia  the free encyclopedia
+jump to 					navigation  					search
+urban density is a term used in urban planning and urban design to refer to the number of people inhabiting a given urbanized area  as such it is to be distinguished from other measures of population density  urban density is considered an important factor in understanding how cities function  research related to urban density occurs across diverse areas  including economics  health  innovation  psychology and geography as well as sustainability 
+contents
+1 sustainability
+2 measurement
+3 see also
+4 references
+5 further reading
+6 external links
+sustainability edit 
+a graph showing the relationship between urban density and petrol use 
+it is commonly asserted that higher density cities are more sustainable than low density cities  much urban planning theory  particularly in north america  the uk  australia and new zealand has been developed premised on raising urban densities  such as new urbanism  transit-oriented development  and smart growth  citation needed 
+however  the link between urban density and aspects of sustainability remains a contested area of planning theory citation needed   1  jan gehl  prominent urban designer and expert on sustainable urbanism  argues that low-density  dispersed cities are unsustainable as they are automobile dependent  a minority  such as randy o toole of the libertarian cato institute  counter that raising densities results in more expensive real estate  greater road congestion and more localized air pollution  others counter that traffic congestion is a result not of population density but of parking capacity  2  at a broader level  there is evidence to indicate a strong negative correlation between the total energy consumption of a city and its overall urban density  i e  the lower the density  the more energy consumed  3 
+measurement edit 
+urban density is a very specific measurement of the population of an urbanized area  excluding non-urban land-uses  non-urban uses include regional open space  agriculture and water-bodies 
+there are a variety of other ways of measuring the density of urban areas 
+floor area ratio - the total floor area of buildings divided by land area of the lot upon which the buildings are built
+residential density - the number of dwelling units in any given area
+population density - the number of human persons in any given area
+employment density - the number of jobs in any given area
+gross density - any density figure for a given area of land that includes uses not necessarily directly relevant to the figure  usually roads and other transport infrastructure 
+net density - a density figure for a given area of land that excludes land not directly related to the figure 
+weighted density - a density metric which measures the density at which the average citizen lives  it is determined by calculating the standard density of each census tract  assigning each a weight equal to its share of the total population  and then adding the segments 
+see also edit 
+list of cities proper by population density
+transportation planning
+urban sprawl
+verticalization
+references edit 
+  jones  christopher  energy and resources group  goldman school of public policy  and department of nuclear engineering  university of california  berkeley  california 94720  united states environ  sci  technol   2014  48  2   pp 895902    spatial distribution of u s  household carbon footprints reveals suburbanization undermines greenhouse gas benefits of urban population density   environmental science and technology  doi 10.1021 es4034364  retrieved december 13  2013  line feed character in  date  at position 170  help   check date values in   date   help 
+  jacobsen  shaun  2014-01-14    more density does not equal more  car  traffic   transitized     tall buildings dont create traffic  cars create traffic  if we want less  automobile  traffic on the streets  we need to build less capacity for them  including parking 
+  newman  peter  jeffrey r  kenworthy  1999   sustainability and cities  overcoming automobile dependence  island press  isbn1-55963-660-2 
+further reading edit 
+newman  p and kenworthy  j  1999  cities and sustainability  overcoming automobile dependence  washington  d  c   island press isbn 1-55963-660-2
+pont  meta y  berghauser and haupt  per  2010  spacematrix  space  density and urban form  nai publishers  isbn 9789056627423
+dovey  kim and pafka  elek  2014   the urban density assemblage  modelling multiple measures  in urban design international  vol 19  nr  1  pg 66-76
+external links edit 
+mit density atlas
+urban density and energy consumption
+saved in parser cache with key enwiki pcache idhash 11021342-0   0  en 4   and timestamp 20161027063514 and revision id 736792858
+retrieved from  https   en wikipedia org w index php title urban density oldid 736792858 
+categories  urban planningsustainable developmentdemographypopulationhidden categories  cs1 errors  invisible characterscs1 errors  datesall articles with unsourced statementsarticles with unsourced statements from november 2014

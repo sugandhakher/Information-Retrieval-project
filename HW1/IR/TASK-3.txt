@@ -1,0 +1,7 @@
+TASK-3
+
+The first Task had the strategy that	pages	in	a	shallower	depth	are	more important	than deeper	ones,	also,	within	each	individual	webpage, hyperlinks	appearing	earlier	on	in	the	webpage should	be	crawled	first.
+And the second task was to depth and breadth crawl into the URL given.
+
+So to merge the two approach would be to take a new seed URL : https://en.wikipedia.org/wiki/Solar_power
+and breadth search so that instead of going deeper into the link, we are keeping it shallower.

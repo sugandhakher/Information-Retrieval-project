@@ -1,0 +1,88 @@
+thegeysers
+from wikipedia  the free encyclopedia
+jump to 					navigation  					search
+the geysers
+the sonoma calpine 3 power plant is one of 22 power plants at the geysers
+location of the geysers in california
+country
+united states
+location
+california
+coordinates
+384726n 1224521w   38.79056n 122.75583w   38.79056  -122.75583coordinates  384726n 1224521w   38.79056n 122.75583w   38.79056  -122.75583
+status
+operational
+commissiondate
+1921
+operator s 
+calpine corporation  northern california power agency  silicon valley power
+powergeneration
+nameplatecapacity
+1517 mw
+capacityfactor
+63 
+the geysers is the world s largest geothermal field  containing a complex of 22 geothermal power plants  drawing steam from more than 350 wells  located in the mayacamas mountains approximately 72 miles  116km  north of san francisco  california 
+contents
+1 history
+2 geothermal development
+3 seismicity
+4 geochemistry
+5 production
+6 see also
+7 references
+8 external links
+history edit 
+the geysers resort hotel  ca 1880
+for about 12,000 years  native american tribes built steambaths at the geysers and used the steam and hot water for healing purposes and cooking  1  when euro americans first entered the area  six indian tribes inhabited the area around the geysers  three bands of pomo people  two bands of wappo people  and the lake miwok people  1  the wappo also collected sulfur which they called te ke and a wappo village  named tekena ntsonoma  teke sulphur   nan well containing water   tso ground   no ma village  was located about 12 miles  19km  southeast of cloverdale and on the present-day sulphur creek  1 
+the geysers were first seen by euro americans and named in 1847 during john fremont s survey of the sierra mountains and the great basin by william bell elliot who called the area  the geysers   although the geothermal features he discovered were not technically geysers  but fumaroles  2  between 1848 and 1854  1 
+archibald c  godwin developed the geysers into a spa named the geysers resort hotel  which attracted tourists including ulysses s  grant  theodore roosevelt and mark twain  2  3  the resort declined in popularity in the mid 1880s  and rebranded itself to appeal to lower-income people  1  in 1938  the main building was destroyed in a landslide although the bar restaurant  small cabins and the swimming pool stayed open  despite another fire in march 1957  until about 1979  1  unocal corporation dismantled the remains of the resort in 1980  1 
+five of the geysers facilities were damaged in the valley fire of september 2015  suffering  severe  damage to their cooling towers  the main power houses were not damaged  4 
+geothermal development edit 
+drilling a geothermal well  1977  usgs 
+the geysers is the world s largest geothermal field 5  spanning an area of around 30 square miles  78km2  in sonoma  lake and mendocino counties in california  centered in the area of geyser canyon and cobb mountain  power from the geysers provides electricity to sonoma  lake  mendocino  marin  and napa counties  it is estimated that the development meets 60  of the power demand for the coastal region between the golden gate bridge and the oregon state line  6  unlike most geothermal resources  the geysers is a dry steam field which mainly produces superheated steam  5 
+steam used at the geysers is produced from a greywacke sandstone reservoir  capped by a heterogeneous mix of low permeability rocks and underlaid by a silicic intrusion  2  7  gravity and seismic studies suggest that the source of heat for the steam reservoir is a large magma chamber over 4 miles  6.4km  beneath the surface  and greater than 8 miles  13km  in diameter  8 
+the first geothermal wells drilled in geyser canyon were the first in the western hemisphere  1  the first power plant at the geysers was privately developed by the owner of the geysers resort 1  and opened in 1921  producing 250 kilowatts of energy to light the resort  2  in 1960  pacific gas and electric began operation of their 11-megawatt plant at the geysers  9  the original turbine lasted for more than 30years and produced 11mw net power  10 
+by 1999 the steam to power extraction had begun to deplete the geysers steam field and production began to drop  2  however  since october 16  1997  the geysers steam field has been recharged by injection of treated sewage effluent  producing approximately 77 megawatts of capacity in 2004  11  the effluent is piped up to 50 miles  80km  from its source at the lake county sanitation waste water treatment plants and added to the geysers steam field via geothermal injection  11  in 2004  85  of the effluent produced by four waste-water treatment plants serving 10 lake county communities was diverted to the geysers steam field  11  injecting treated water into the geysers field increases the amount of power that can be generated  11 
+the injection of wastewater to the geysers protects local waterways and clear lake by diverting effluent which used to be put into surface waters  11  and has produced electricity without releasing greenhouse gases into the atmosphere  2 
+seismicity edit 
+according to the lawrence berkeley national laboratory earth sciences division  seismicity was very low prior to the use of the geyser steam field for geothermal energy  although this may have been the result of low seismic coverage of the area  12  before 1969  there were no earthquakes above magnitude 2 recorded by the united states geological survey  usgs  in an approximately 70 square miles  180km2  area around the geysers  12  studies have shown that injecting water into the geysers field produces earthquakes from magnitude 0.5 to 3.0  although a 4.6 occurred in 1973 and magnitude four events increased thereafter  12  even with increasing injection rates over time  the rate of magnitude 3 earthquakes has remained relatively unchanged since the 1980s  12  although the amount of earthquakes has increased significantly  2  a magnitude 4.5 earthquake struck near the geysers on january 12  2014  13  despite the increases in the number of earthquakes and the fears of local residents  it is unlikely that a large earthquake will occur at the geysers since there is no large earthquake fault or fracture nearby  2 
+geochemistry edit 
+in 2005  abatement equipment was installed at two of the geysers plants to reduce the amount of mercury released by the waste vapor even though the amount released was below the legal limit for such releases  5  the geysers air monitoring programs  gamp  has shown limited releases of arsenic  but again below a significant level  5 
+production edit 
+power plants at the geysers are of the dry steam power plant type  where the steam directly powers the generator  5  in general  the geysers has 1517 mw 14  of active installed capacity with an average production factor of 63   955mw   15 
+of nearly two dozen active plants in the geysers in 2013  calpine corporation operated 19 plants in 2004 16  but only 15 in 2013  17  two other plants are owned jointly by the northern california power agency and the city of santa clara s municipal electric utility  now called silicon valley power   the bottle rock power plant  owned by the u s  renewables group  was reopened in 2007  18  in july 2009  altarock energy planned to drill more than 2 miles  3.2km  down to create an  enhanced geothermal  project which was abandoned when federal agencies asked for review  2  another plant was under development by ram power corporation  formerly western geopower  in 2010  but after ram power lost both its ceo and cfo in 2013  it was seeking a buyer for its geysers property  19 
+see also edit 
+geothermal energy in the united states
+geothermal power
+list of geothermal power stations
+list of largest power stations in the world
+energy portal
+references edit 
+  a b c d e f g h i hodgson  susan f   2010   a geysers album  five eras of geothermal history  pdf   sacramento  state of california department of conservation  pp 181  retrieved february 9  2014 
+  a b c d e f g h i the future of energy  earth  wind and fire  scientific american  8 april 2013  pp 160  isbn978-1-4668-3386-9  retrieved february 9  2014 
+   a history of geothermal energy in the united states   u s  department of energy  2010  retrieved may 17  2007 
+   valley fire devastates facilities at the geysers geothermal power plant   cbs bay area  2015  retrieved sep 16  2015 
+  a b c d e kagel  alyssa  diana bates  karl gawell  a guide to geothermal energy and the environment  pdf   geothermal energy association  retrieved february 9  2014 
+   calpine corporation - the geysers   retrieved 2008-06-11 
+  enedy  steve  kathy enedy  john maney  1991   reservoir response to injection in the southeast geysers  pdf   sixteenth workshop on geothermal reservoir engineering  retrieved may 16  2007 
+   cascades volcanic observatory  usgs  - clear lake volcanic field  california   retrieved may 16  2007 
+  lund  j   september 2004    100 years of geothermal power production   pdf   geo-heat centre quarterly bulletin  klamath falls  oregon  oregon institute of technology  25  3   pp 1119  issn0276-1084  retrieved april 13  2009
+  mclarty  lynn  reed  marshall j   october 1992    the u s  geothermal industry  three decades of growth   pdf   energy sources  part a  recovery  utilization  and environmental effects  london  taylor   francis  14  4   443455  doi 10.1080/00908319208908739  issn1556-7230 
+  a b c d e dellinger  mark  eliot allen  mayjune 2004   geothermal and the environment lake county success  generating environmental gains with geothermal power  pdf   lake county  california 
+  a b c d  egs  the geysers  what is the history of seismicity at the geysers    induced seismicity  lawrence berkeley national laboratory  earth sciences divisio  retrieved february 9  2014 
+   m4.5 - 6km nw of the geysers  california   united states geological survey  retrieved february 9  2014 
+  ronald dipippo  2008   geothermal power plants  principles  applications  case studies and environmental impact  elsevier science   technology  isbn978-0-7506-8620-4 
+  lund  john w   bloomquist  r  gordon  boyd  tonya l   renner  joel  2429 april 2005   the united states of america country update  pdf   proceedings world geothermal congress  antalya  turkey  retrieved 2009-11-09
+  ann chambers  2004   renewable energy in nontechnical language  pennwell books  pp 143  isbn978-1-59370-005-8 
+  wilkison  brett  november 15  2013    sonoma clean power makes deal with geysers operator   santa rosa press democrat  retrieved february 9  2014 
+  baker  david r   january 14  2007    steamy industry may clear the air   san francisco chronicle  lake county  p f-1  retrieved november 11  2009 
+  davis  tina  january 28  2013    ram power ceo and cfo to depart  seeks buyer for geysers project   bloomberg news  retrieved february 9  2014 
+external links edit 
+wikimedia commons has media related to the geysers 
+jeremy shere  november 26  2013   renewable  the world-changing power of alternative energy  st  martin s press  pp 151  isbn978-1-250-03822-7 
+ egs  interactive  real-time map of earthquakes at the geysers   induced seismicity  lawrence berkeley national laboratory  earth sciences division  retrieved february 9  2014 
+a geysers album  history of the geysers geothermal field   report   california department of conservation  division of oil  gas  and geothermal resources  1992 
+u s  geological survey professional paper  u s  government printing office  1996  pp 3 
+saved in parser cache with key enwiki pcache idhash 11266584-0   0  en 4   and timestamp 20161027112317 and revision id 742868743
+retrieved from  https   en wikipedia org w index php title the geysers oldid 742868743 
+categories  hot springs of californiamayacamas mountainspower stations in californiageothermal power stations in the united statesbodies of water of lake county  californiabodies of water of mendocino county  californiabodies of water of sonoma county  californiacalifornia coast rangesgeology of mendocino county  californiageology of sonoma county  californiacompanies based in lake county  californiaenergy infrastructure completed in 1960buildings and structures in sonoma county  californiageography of the san francisco bay areaenergy in the san francisco bay areahidden categories  coordinates on wikidatacommons category with local link same as on wikidata

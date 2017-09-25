@@ -1,0 +1,440 @@
+sustainabilitymeasurement
+from wikipedia  the free encyclopedia
+jump to 					navigation  					search
+see also  sustainability accounting
+sustainability measurement is the quantitative basis for the informed management of sustainability  1  the metrics used for the measurement of sustainability  involving the sustainability of environmental  social and economic domains  both individually and in various combinations  are still evolving  they include indicators  benchmarks  audits  indexes and accounting  as well as assessment  appraisal 2  and other reporting systems  they are applied over a wide range of spatial and temporal scales  3  4 
+some of the best known and most widely used sustainability measures include corporate sustainability reporting  triple bottom line accounting  and estimates of the quality of sustainability governance for individual countries using the environmental sustainability index and environmental performance index  an alternative approach  used by the united nations global compact cities programme and explicitly critical of the triple-bottom-line approach is circles of sustainability 
+contents
+1 sustainability indicators and their function
+2 metrics at the global scale
+2.1 united nations indicators
+2.2 benchmarks  indicators  indexes  auditing etc 
+2.3 resource metrics
+2.3.1 economics  oil and energy
+2.4 energy return on energy investment
+2.4.1 growth-based economic models
+3 hubbert peaks
+3.1 natural gas
+3.2 coal
+3.3 fissionable materials
+3.4 metals
+3.5 phosphorus
+3.6 peak water
+3.7 renewable resources
+4 see also
+5 references
+6 external links
+sustainability indicators and their function edit 
+the principal objective of sustainability indicators is to inform public policy-making as part of the process of sustainability governance  5  sustainability indicators can provide information on any aspect of the interplay between the environment and socio-economic activities  6  building strategic indicator sets generally deals with just a few simple questions  what is happening   descriptive indicators   does it matter and are we reaching targets   performance indicators   are we improving   efficiency indicators   are measures working   policy effectiveness indicators   and are we generally better off   total welfare indicators   one popular general framework used by the european environment agency uses a slight modification of the organisation for economic co-operation and development dpsir system  7  this breaks up environmental impact into five stages  social and economic developments  consumption and production   d rive or initiate environmental  p ressures which  in turn  produces a change in the  s tate of the environment which leads to  i mpacts of various kinds  societal  r esponses  policy guided by sustainability indicators  can be introduced at any stage of this sequence of events 
+metrics at the global scale edit 
+united nations indicators edit 
+the united nations has developed extensive sustainability measurement tools in relation to sustainable development  8  as well as a system of integrated environmental and economic accounting  9 
+benchmarks  indicators  indexes  auditing etc  edit 
+in the last couple of decades there has arisen a crowded toolbox of quantitative methods used to assess sustainability  including measures of resource use like life cycle assessment  measures of consumption like the ecological footprint and measurements of quality of environmental governance like the environmental performance index  the following is a list of quantitative  tools  used by sustainability scientists - the different categories are for convenience only as defining criteria will intergrade  it would be too difficult to list all those methods available at different levels of organisation so those listed here are at for the global level only 
+this list is incomplete  you can help by expanding it 
+benchmarks
+a benchmark is a point of reference for a measurement  once a benchmark is established it is possible to assess trends and measure progress  baseline global data on a range of sustainability parameters is available at list of global sustainability statistics
+2010 biodiversity indicators partnership
+indices
+a sustainability index is an aggregate sustainability indicator that combines multiple sources of data  there is a consultative group on sustainable development indices 10 
+air quality index
+child development index
+corruption perceptions index
+democracy index
+environmental performance index
+emergy sustainability index
+education index
+environmental sustainability index
+environmental vulnerability index
+gdp per capita
+gini coefficient
+gender parity index
+gender-related development index
+gender empowerment measure
+gross national happiness
+genuine progress indicator
+ formerly index of sustainable economic welfare 
+gross national product
+happy planet index
+human development index  see list of countries by hdi 
+legatum prosperity index
+index of sustainable economic welfare
+life expectancy index
+sustainable governance indicators  the status index  11  ranks 30 oecd countries in terms of sustainable reform performance
+sustainable society index
+sdewes index
+vehicle technology sustainability index 12 
+water poverty index  13 
+metrics
+many environmental problems ultimately relate to the human effect on those global biogeochemical cycles that are critical to life  over the last decade monitoring these cycles has become a more urgent target for research 
+water cycle
+carbon cycle
+phosphorus cycle
+nitrogen cycle
+sulphur cycle
+oxygen cycle
+auditing
+sustainability auditing and reporting are used to evaluate the sustainability performance of a company  organization  or other entity using various performance indicators  14  popular auditing procedures available at the global level include 
+iso 14000
+iso 14031
+the natural step
+triple bottom line accounting
+input-output analysis can be used for any level of organization with a financial budget  it relates environmental impact to expenditure by calculating the resource intensity of goods and services 
+development and ngo project auditing
+ litmus test  type indicators are also used in the development and ngo community to test conformity and compliance with the guidelines of sustainable human development and the international rio declaration of 1992 
+sustainable development indicator for ngos and other organizations 15 
+reporting
+global reporting initiative global reporting initiative modelling and monitoring procedures  16  17  18  many of these have only just been developed 
+state of the environment reporting provides general background information on the environment and is progressively including more indicators 
+european sustainability  19 
+accounting
+some accounting methods attempt to include environmental costs rather than treating them as externalities
+green accounting
+sustainable value
+sustainability economics  20 
+resource metrics edit 
+part of this process can relate to resource use such as energy accounting or to economic metrics or price system values as compared to non-market economics potential  for understanding resource use  21  an important task for resource theory  energy economics  is to develop methods to optimize resource conversion processes  22  these systems are described and analyzed by means of the methods of mathematics and the natural sciences  23  human factors  however  have dominated the development of our perspective of the relationship between nature and society since at least the industrial revolution  and in particular have influenced how we describe and measure the economic impacts of changes in resource quality  a balanced view of these issues requires an understanding of the physical framework in which all human ideas  institutions  and aspirations must operate  24 
+economics  oil and energy edit 
+oil imports by country
+energy return on energy investment edit 
+when oil production first began in the mid-nineteenth century  the largest oil fields recovered fifty barrels of oil for every barrel used in the extraction  transportation and refining  this ratio is often referred to as the energy return on energy investment  eroi or eroei   currently  between one and five barrels of oil are recovered for each barrel-equivalent of energy used in the recovery process  as the eroei drops to one  or equivalently the net energy gain falls to zero  the oil production is no longer a net energy source  this happens long before the resource is physically exhausted 
+note that it is important to understand the distinction between a barrel of oil  which is a measure of oil  and a barrel of oil equivalent  boe   which is a measure of energy  many sources of energy  such as fission  solar  wind  and coal  are not subject to the same near-term supply restrictions that oil is  accordingly  even an oil source with an eroei of 0.5 can be usefully exploited if the energy required to produce that oil comes from a cheap and plentiful energy source  availability of cheap  but hard to transport  natural gas in some oil fields has led to using natural gas to fuel enhanced oil recovery  similarly  natural gas in huge amounts is used to power most athabasca tar sands plants  cheap natural gas has also led to ethanol fuel produced with a net eroei of less than 1  although figures in this area are controversial because methods to measure eroei are in debate 
+growth-based economic models edit 
+insofar as economic growth is driven by oil consumption growth  post-peak societies must adapt  m  king hubbert believed  25 
+
+our principal constraints are cultural  during the last two centuries we have known nothing but exponential growth and in parallel we have evolved what amounts to an exponential-growth culture  a culture so heavily dependent upon the continuance of exponential growth for its stability that it is incapable of reckoning with problems of nongrowth 
+
+some economists describe the problem as uneconomic growth or a false economy  at the political right  fred ikle has warned about  conservatives addicted to the utopia of perpetual growth   26  brief oil interruptions in 1973 and 1979 markedly slowed - but did not stop - the growth of world gdp  27 
+between 1950 and 1984  as the green revolution transformed agriculture around the globe  world grain production increased by 250   the energy for the green revolution was provided by fossil fuels in the form of fertilizers  natural gas   pesticides  oil   and hydrocarbon fueled irrigation  28 
+david pimentel  professor of ecology and agriculture at cornell university  and mario giampietro  senior researcher at the national research institute on food and nutrition  inran   place in their study food  land  population and the u s  economy the maximum u s  population for a sustainable economy at 200 million  to achieve a sustainable economy world population will have to be reduced by two-thirds  says the study  29  without population reduction  this study predicts an agricultural crisis beginning in 2020  becoming critical c  2050  the peaking of global oil along with the decline in regional natural gas production may precipitate this agricultural crisis sooner than generally expected  dale allen pfeiffer claims that coming decades could see spiraling food prices without relief and massive starvation on a global level such as never experienced before  30  31 
+hubbert peaks edit 
+although hubbert peak theory receives most attention in relation to peak oil production  it has also been applied to other natural resources 
+natural gas edit 
+main article  peak gas
+doug reynolds predicted in 2005 that the north american peak would occur in 2007  32  bentley  p 189  predicted a world  decline in conventional gas production from about 2020   33 
+coal edit 
+main article  peak coal
+peak coal is significantly further out than peak oil  but we can observe the example of anthracite in the usa  a high grade coal whose production peaked in the 1920s  anthracite was studied by hubbert  and matches a curve closely  34  pennsylvania s coal production also matches hubbert s curve closely  but this does not mean that coal in pennsylvania is exhaustedfar from it  if production in pennsylvania returned at its all-time high  there are reserves for 190 years  hubbert had recoverable coal reserves worldwide at 2500  109 metric tons and peaking around 2150 depending on usage  
+more recent estimates suggest an earlier peak  coal  resources and future production  pdf 630kb  35    published on april 5  2007 by the energy watch group  ewg   which reports to the german parliament  found that global coal production could peak in as few as 15 years  36  reporting on this richard heinberg also notes that the date of peak annual energetic extraction from coal will likely come earlier than the date of peak in quantity of coal  tons per year  extracted as the most energy-dense types of coal have been mined most extensively  37  a second study  the future of coal by b  kavalov and s  d  peteves of the institute for energy  ife   prepared for european commission joint research centre  reaches similar conclusions and states that   coal might not be so abundant  widely available and reliable as an energy source in the future   36 
+work by david rutledge of caltech predicts that the total of world coal production will amount to only about 450 gigatonnes  38  this implies that coal is running out faster than usually assumed 
+finally  insofar as global peak oil and peak in natural gas are expected anywhere from imminently to within decades at most  any increase in coal production  mining  per annum to compensate for declines in oil or ng production  would necessarily translate to an earlier date of peak as compared with peak coal under a scenario in which annual production remains constant 
+fissionable materials edit 
+main article  peak uranium
+in a paper in 1956  39  after a review of us fissionable reserves  hubbert notes of nuclear power 
+
+there is promise  however  provided mankind can solve its international problems and not destroy itself with nuclear weapons  and provided world population  which is now expanding at such a rate as to double in less than a century  can somehow be brought under control  that we may at last have found an energy supply adequate for our needs for at least the next few centuries of the  foreseeable future  
+
+technologies such as the thorium fuel cycle  reprocessing and fast breeders can  in theory  considerably extend the life of uranium reserves  roscoe bartlett claims  40 
+
+our current throwaway nuclear cycle uses up the world reserve of low-cost uranium in about 20 years 
+
+caltech physics professor david goodstein has stated 41  that
+
+    you would have to build 10,000 of the largest power plants that are feasible by engineering standards in order to replace the 10 terawatts of fossil fuel we re burning today     that s a staggering amount and if you did that  the known reserves of uranium would last for 10 to 20 years at that burn rate  so  it s at best a bridging technology     you can use the rest of the uranium to breed plutonium 239 then we d have at least 100 times as much fuel to use  but that means you re making plutonium  which is an extremely dangerous thing to do in the dangerous world that we live in 
+
+metals edit 
+main article  peak copper
+hubbert applied his theory to  rock containing an abnormally high concentration of a given metal  42  and reasoned that the peak production for metals such as copper  tin  lead  zinc and others would occur in the time frame of decades and iron in the time frame of two centuries like coal  the price of copper rose 500  between 2003 and 2007 43  was by some attributed to peak copper  44  45  copper prices later fell  along with many other commodities and stock prices  as demand shrank from fear of a global recession  46  lithium availability is a concern for a fleet of li-ion battery using cars but a paper published in 1996 estimated that world reserves are adequate for at least 50 years  47  a similar prediction  48  for platinum use in fuel cells notes that the metal could be easily recycled 
+phosphorus edit 
+phosphorus supplies are essential to farming and depletion of reserves is estimated at somewhere from 60 to 130 years  49  individual countries supplies vary widely  without a recycling initiative america s supply  50  is estimated around 30 years  51  phosphorus supplies affect total agricultural output which in turn limits alternative fuels such as biodiesel and ethanol 
+peak water edit 
+main article  peak water
+hubbert s original analysis did not apply to renewable resources  however over-exploitation often results in a hubbert peak nonetheless  a modified hubbert curve applies to any resource that can be harvested faster than it can be replaced  52 
+for example  a reserve such as the ogallala aquifer can be mined at a rate that far exceeds replenishment  this turns much of the world s underground water  53  and lakes  54  into finite resources with peak usage debates similar to oil  these debates usually center around agriculture and suburban water usage but generation of electricity  55  from nuclear energy or coal and tar sands mining mentioned above is also water resource intensive  the term fossil water is sometimes used to describe aquifers whose water is not being recharged 
+renewable resources edit 
+fisheries  at least one researcher has attempted to perform hubbert linearization  hubbert curve  on the whaling industry  as well as charting the transparently dependent price of caviar on sturgeon depletion  56  another example is the cod of the north sea  57  the comparison of the cases of fisheries and of mineral extraction tells us that the human pressure on the environment is causing a wide range of resources to go through a depletion cycle which follows a hubbert curve 
+see also edit 
+balanced scorecard
+carbon accounting
+circles of sustainability
+corporate social responsibility
+ecolabel
+ecological indicator
+embodied energy
+environmental audits
+sustainable development portal
+glossary of environmental science
+green accounting
+helix of sustainability
+social accounting
+sustainability governance
+sustainability metrics and indices
+sustainability science
+references edit 
+   sustainability accounting in uk local government   the association of chartered certified accountants  retrieved 2008-06-18 
+  dalal-clayton  barry and sadler  barry 2009  sustainability appraisal  a sourcebook and reference guide to international experience  london  earthscan  isbn 978-1-84407-357-3 
+  hak  t  et al  2007  sustainability indicators  scope 67  island press  london 
+  bell  simon and morse  stephen 2008  sustainability indicators  measuring the immeasurable  2nd edn  london  earthscan  isbn 978-1-84407-299-6 
+  paul-marie boulanger   boulanger  p  m   2008   sustainable development indicators  a scientific challenge  a democratic issue     s a p i en s       1     1    sapiens revues org  retrieved 2013-07-23 
+  hak  t   moldan  b    dahl  a l  2007  scope 67  sustainability indicators  island press  london 
+  stanners  d  et al  2007  frameworks for environmental assessment and indicators at the eea  in  hak  t   moldan  b    dahl  a l  2007  scope 67  sustainability indicators  island press  london 
+   1  united nations sustainable development indicators
+   2   international standard industrial classification un system of integrated environmental and economic accounting
+   consultative group on sustainable development indices   international institute for sustainable development  retrieved 2008-06-18 
+   sgi  sustainable governance indicators 2011   sgi-network org  retrieved 2013-07-23 
+   mitropoulos l  and p prevedouros  2014  assessment of sustainability for transportation vehicles  transportation research record  journal of the transportation research board  2344  pp  88-97  use link http   trrjournalonline trb org doi 10.3141/2344-10   external link in  title   help 
+   3  sullivan  c a  et al   eds  2003  the water poverty index  development and application at the community scale  natural resources forum 27  189-199 
+  hill  j  1992  towards good environmental practice  the institute of business ethics  london 
+  sustainable development indicators for ngos and other organization   david lempert and nguyen nhu hue  international journal of sustainable societies  1 1  2008  use link  http   inderscience metapress com app home contribution asp referrer parent backto issue 3,6 journal 1,1 linkingpublicationresults 1 121226,1
+   global reporting initiative   global reporting initiative  retrieved 2008-06-18 
+   global reporting initiative guidelines 2002   pdf   retrieved 2008-06-18 
+   international corporate sustainability reporting   retrieved 2008-06-18 
+  eurostat   2007    measuring progress towards a more sustainable europe  2007 monitoring report of the eu sustainable development strategy   4  retrieved on 2009-04-14 
+   5  publications on sustainability measurement used in sustainability economics
+   net energy analysis   eoearth org  2010-07-23  retrieved 2013-07-23 
+   environmental decision making  science  and technology   telstar ote cmu edu  retrieved 2013-07-23 
+   exergy - a useful concept intro   exergy se  retrieved 2013-07-23 
+   energy and economic myths  historical    eoearth org  retrieved 2013-07-23 
+   exponential growth as a transient phenomenon in human history   hubbertpeak com  retrieved 2013-07-23 
+   our perpetual growth utopia   dieoff org  retrieved 2013-07-23 
+  http   www imf org external np speeches 2006 pdf 050206 pdf
+  how peak oil could lead to starvation
+  taggart  adam  2003-10-02    eating fossil fuels   energybulletin net  retrieved 2013-07-23 
+  peak oil  the threat to our food security archived july 14  2009  at the wayback machine the template wayback is being considered for merging 
+  the oil drum  europe   agriculture meets peak oil   europe theoildrum com  retrieved 2013-07-23 
+  white  bill  december 17  2005    state s consultant says nation is primed for using alaska gas   anchorage daily news 
+  bentley  r w   2002    viewpoint - global oil   gas depletion  an overview   pdf   energy policy  30  3   189205  doi 10.1016 s0301-4215 01 00144-6 
+  geo 3005  earth resources archived july 25  2008  at the wayback machine the template wayback is being considered for merging 
+   startseite   pdf   energy watch group  retrieved 2013-07-23 
+  a b hamilton  rosie  2007-05-21    peak coal  sooner than you think   energybulletin net  retrieved 2013-07-23 
+   museletter   richard heinberg  retrieved 2013-07-23 
+   coal  bleak outlook for the black stuff   by david strahan  new scientist  jan  19  2008  pp  38-41 
+  http   www hubbertpeak com hubbert 1956/1956 pdf
+  http   www bartlett house gov uploadedfiles 5-2-06 20oil 20speech pdf
+  jones  tony  23 november 2004    professor goodstein discusses lowering oil reserves   australian broadcasting corporation  retrieved 14 april 2013 
+   exponential growth as a transient phenomenon in human history   hubbertpeak com  retrieved 2013-07-23 
+  http   minerals usgs gov minerals pubs commodity copper mcs-2008-coppe pdf copper statistics and information  2007  usgs
+  andrew leonard  2006-03-02    peak copper    salon - how the world works  retrieved 2008-03-23 
+  silver seek llc   peak copper means peak silver - silverseek com   news silverseek com  retrieved 2013-07-23 
+  commodities-demand fears hit oil  metals prices  jan 29  2009 
+   impact of lithium abundance and cost on electric vehicle battery applications   cat inist fr  retrieved 2013-07-23 
+   department for transport - inside government - gov uk   dft gov uk  retrieved 2013-07-23 
+   apda   pdf   apda pt  retrieved 2013-07-23 
+  http   minerals usgs gov minerals pubs commodity phosphate rock phospmcs06 pdf
+  http   www ecosanres org pdf 20files fact sheets esr4lowres pdf
+  meena palaniappan and peter h  gleick  2008    the world s water 2008-2009  ch 1    pdf   pacific institute  retrieved 2009-01-31 
+   worlds largest acquifer going dry   uswaternews com  retrieved 2013-07-23 
+   6  archived july 20  2008  at the wayback machine the template wayback is being considered for merging 
+   7  dead link 
+   how general is the hubbert curve    aspoitalia net  retrieved 2013-07-23 
+   laherrere  multi-hubbert modeling   hubbertpeak com  retrieved 2013-07-23 
+external links edit 
+curated bibliography at ideas repec
+v
+t
+e
+sustainability
+principles
+ecological modernization
+environmentalism
+human impact on the environment
+planetary boundaries
+social sustainability
+stewardship
+sustainable development
+consumption
+anthropization
+anti-consumerism
+ecological footprint
+ethical
+over-consumption
+simple living
+sustainability advertising
+sustainability brand
+sustainability marketing myopia
+sustainable
+systemic change resistance
+tragedy of the commons
+population
+birth control
+family planning
+control
+overpopulation
+zero growth
+technology
+appropriate
+environmental
+sustainable
+biodiversity
+biosecurity
+biosphere
+conservation biology
+deep ecology
+endangered species
+holocene extinction
+invasive species
+energy
+carbon footprint
+climate change mitigation
+conservation
+descent
+efficiency
+emissions trading
+fossil-fuel phase-out
+peak oil
+renewable
+energy poverty
+food
+forest gardening
+local
+permaculture
+security
+sustainable agriculture
+sustainable fishery
+urban horticulture
+water
+conservation
+crisis
+efficiency
+footprint
+accountability
+sustainability accounting
+sustainability measurement
+sustainability metrics and indices
+sustainability reporting
+standards and certification
+sustainable yield
+applications
+advertising
+architecture
+art
+business
+city
+college programs
+community
+design
+ecovillage
+education for sustainable development
+fashion
+gardening
+geopark
+green marketing
+industries
+landscape architecture
+living
+low-impact development
+sustainable market
+organizations
+packaging
+practices
+procurement
+tourism
+transport
+urban drainage systems
+urban infrastructure
+urbanism
+management
+environmental
+fisheries
+forest
+materials
+natural resource
+planetary
+waste
+agreements
+un conference on the human environment  stockholm 1972 
+brundtlandt commission report  1983 
+our common future  1987 
+earth summit  1992 
+rio declaration on environment and development
+agenda 21  1992 
+convention on biological diversity  1992 
+icpd programme of action  1994 
+earth charter
+lisbon principles
+un millennium declaration  2000 
+earth summit 2002  rio 10  johannesburg 
+united nations conference on sustainable development  rio 20  2012 
+sustainable development goals
+category
+lists
+outline
+portal
+science
+studies
+degrees
+v
+t
+e
+social and environmental accountability
+ethics and
+principles
+aarhus convention
+corporate accountability  behaviour  social responsibility
+ethical banking
+ethical code
+extended producer responsibility
+organizational ethics
+organizational justice
+principles for responsible investment
+social responsibility
+stakeholder theory
+sullivan principles
+transparency  behavioral
+social 
+un global compact
+social
+accounting
+double bottom line
+ethical positioning index
+higg index
+impact assessment environmental
+equality
+social 
+iso 26000
+genuine progress indicator
+ohsas 18001
+performance indicator
+sa8000
+social return on investment
+whole-life cost
+environmental
+accounting
+carbon accounting
+eco-management and audit scheme
+emission inventory
+environmental full-cost accounting  impact assessment  management system  profit-and-loss account
+iso 14000
+iso 14031 1999
+life-cycle assessment
+pollutant release and transfer register
+sustainability accounting  measurement  metrics and indices  standards and certification  supply chain
+toxics release inventory
+triple bottom line
+reporting
+global reporting initiative
+gxp guidelines
+sustainability reporting
+auditing
+community-based monitoring
+environmental certification 
+fair trade certification 
+iso 19011
+related
+bangladesh accord
+benefit corporation
+child labour
+community interest company
+conflict of interest
+disasters
+disinvestment
+eco-labeling
+environmental pricing reform
+environmental  social and corporate governance
+ethical consumerism
+euthenics
+health impact assessment
+market governance mechanism
+product certification
+public participation
+social enterprise
+socially responsible investing
+stakeholder engagement 
+supply chain management
+environment portal
+category
+commons
+organizations
+saved in parser cache with key enwiki pcache idhash 20638398-0   0  en 4   and timestamp 20161030125336 and revision id 729120374
+retrieved from  https   en wikipedia org w index php title sustainability measurement oldid 729120374 
+categories  sustainable developmenteconomics of sustainabilityeconomic dataenvironmental statisticsenvironmental indiceshidden categories  cs1 errors  external linksarticles with wayback machine linksall articles with dead external linksarticles with dead external links from july 2013incomplete lists from may 2010

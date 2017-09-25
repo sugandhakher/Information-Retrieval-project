@@ -1,0 +1,21 @@
+datacenterinfrastructureefficiency
+from wikipedia  the free encyclopedia
+jump to 					navigation  					search
+data center infrastructure efficiency  dcie   is a performance improvement metric used to calculate the energy efficiency of a data center  dcie is the percentage value derived  by dividing information technology equipment power by total facility power  1  2  3 
+see also edit 
+power usage effectiveness
+performance per watt
+green computing
+data center infrastructure management
+it energy management
+references edit 
+  searchdatacenter com - data center infrastructure efficiency  dcie 
+  the green grid - the green grid data center power efficiency metrics  pue and dcie
+  datacenterdynamics focus - data center efficiency  if you can t measure it  you can t improve it
+this article about electric power is a stub  you can help wikipedia by expanding it 
+v
+t
+e
+saved in parser cache with key enwiki pcache idhash 22742223-0   0    4   and timestamp 20161026120129 and revision id 626947663
+retrieved from  https   en wikipedia org w index php title data center infrastructure efficiency oldid 626947663 
+categories  computer benchmarksenergy conservationelectric powerelectric power stubshidden categories  all stub articles

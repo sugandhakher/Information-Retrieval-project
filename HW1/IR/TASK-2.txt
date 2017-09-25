@@ -1,0 +1,23 @@
+TASK-2 : BREADTH-FIRST AND DEPTH-FIRST CRAWLING:
+
+File- Breadth_search containing code for breadth-search crawling.
+
+Breadth search crawling implies that the crawler takes the seed URL and fetches the URL inside it through a breadth-first searchupto depth 5
+So the basic idea being that after fetching the first seed URL, crawler fetches all the links inside the seed URL. This becomes the 2nd level in breadth-search, first being the seed URL itself.
+Then it fetches the first URL in the 2nd level and crawls all the URLS inside that URL. This becomes the 3rd level in breadth-search.
+And so on, till the 5th level.
+
+In the code Breadth_search, library, BeautifulSoup is being used whose function is basically to pull out the data out of HTML and XML files. Since our basic function is crawling in the web pages, it would be required.
+1 list is maintained which is storing all the URLs crawled.
+Function calling the crawler and giving the base URL as well as the keyword-'solar'.
+This crawler is doing focussed crawling wherein URLs with word 'solar' are searched, so the arguement key is passed.
+In first for loop, crawler crawls the first level of URLs in seed URL maintaining politeness policy. It then goes into the loop inside the first one and crawls through all the URLs in the next level. Also maintaining the list created.
+
+
+In Depth first crawling crawler takes the first seed URL at depth-1 crawls through the frst URL in seed URL(say URL-2), it will again crawl through the URL2 and then crawl through it. This goes on recursively.
+Hence in the code Depth_search, recursive calling has been done.
+So when the crawler crawls through the first URL , it again goes inside that URL and fetches URL from that and this goes on till 1000 URLs are fetched. Again also maintaining the file and the list that appends all the URLs in it.
+
+
+
+
