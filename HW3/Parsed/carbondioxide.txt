@@ -1,0 +1,1014 @@
+carbondioxide
+from wikipedia  the free encyclopedia
+jump to 					 
+ co2  redirects here  for other uses  see  
+carbon dioxide
+names
+other names
+carbonic acid gas
+carbonic anhydride
+carbonic oxide
+carbon oxide
+carbon iv  oxide
+ solid phase 
+identifiers
+y
+3dmet
+1900390
+y
+n
+y
+infocard
+204-696-9
+989
+3d model
+y
+ff6400000
+y
+1013  gas   1845  solid 
+inchi 1s co2 c2-1-3y
+key curltugmzlyldi-uhfffaoysa-ny
+inchi 1 co2 c2-1-3
+key curltugmzlyldi-uhfffaoyao
+o c o
+c  o  o
+properties
+co2
+44.01gmol1
+appearance
+colorless gas
+odorless
+1562 kg m3  solid at 1atm and 78.5c 
+1101 kg m3  liquid at saturation 37c 
+1.977kg m3  gas at 1atm and 0c 
+56.6c  69.8f  216.6k   at 5.1 atm 
+78.5 c  109.2 f  194.7 k  1 atm 
+1.45 g l at 25c  77f   100 kpa
+5.73 mpa  20 c 
+ pka 
+6.35  10.33
+ nd 
+1.00045
+0.07
+at 78.5c
+0 d
+structure
+trigonal
+thermochemistry
+ c 
+37.135 j k mol
+ so298 
+214jmol1k1
+ fho298 
+393.5kjmol1
+pharmacology
+  
+hazards
+see 
+lethal dose or concentration  ld  lc  
+lclo   
+90,000 ppm  human  5 min 
+us health exposure limits    
+ permissible 
+twa 5000 ppm  9000 mg m3 
+ recommended 
+twa 5000 ppm  9000 mg m3  st 30,000 ppm  54,000 mg m3 
+ immediate danger 
+40,000 ppm
+related compounds
+other
+other
+related
+related compounds
+except where otherwise noted  data are given for materials in their
+ at 25c  77f   100kpa  
+n yn  
+carbon dioxide   co2  is a colorless and odorless
+vital to
+on earth  this naturally occurring
+is composed of a
+atom
+to two
+  carbon dioxide exists in
+as a
+at a concentration of about 0.04 percent  400   by volume  natural sources include  
+and   and it is freed from
+by
+in water and acids  because carbon dioxide is soluble in water  it occurs naturally in  
+and   in
+and
+and also in   it is present in deposits of
+and  
+is the primary source of carbon in life on earth and its concentration in earth s pre-industrial atmosphere since late in the
+was regulated by
+organisms and geological phenomena  as part of the       and
+use
+to
+from carbon dioxide and water  with oxygen produced as a waste product 
+carbon dioxide  co2  is produced by all
+when they metabolize carbohydrate and lipids to produce energy by   it is returned to water via the
+and to the air via the lungs of air-breathing land animals  including humans  carbon dioxide is produced during the processes of
+of organic materials and the
+of sugars in  
+and   it is produced by combustion of  
+and
+such as coal   
+and  
+it is a versatile industrial material  used  for example  as an inert gas in welding and fire extinguishers  as a pressurizing gas in air guns and oil recovery  as a chemical feedstock and in liquid form as a solvent in decaffeination of coffee and   it is added to drinking water and
+including
+and
+to add   the frozen solid form of co2  known as    is used as a refrigerant and as an abrasive in  
+carbon dioxide is a significant   since the   anthropogenic emissions - including the burning of carbon-based
+and land use changes  primarily   - have rapidly increased its concentration in the atmosphere  leading to   it is also a major cause of
+because it dissolves in water to form  
+contents
+background  
+crystal structure of
+carbon dioxide was the first gas to be described as a discrete substance  in about 1640  the
+chemist
+observed that when he burned
+in a closed vessel  the mass of the resulting
+was much less than that of the original charcoal  his interpretation was that the rest of the charcoal had been transmuted into an invisible substance he termed a  gas  or  wild spirit   spiritus sylvestre  
+the properties of carbon dioxide were studied more thoroughly in the 1750s by the
+physician   he found that
+   could be heated or treated with
+to yield a gas he called  fixed air   he observed that the fixed air was denser than air and supported neither flame nor animal life  black also found that when bubbled through
+ a saturated aqueous solution of    it would
+calcium carbonate  he used this phenomenon to illustrate that carbon dioxide is produced by animal respiration and microbial fermentation  in 1772  english chemist
+published a paper entitled impregnating water with fixed air in which he described a process of dripping
+ or oil of vitriol as priestley knew it  on chalk in order to produce carbon dioxide  and forcing the gas to dissolve by agitating a bowl of water in contact with the gas 
+carbon dioxide was first liquefied  at elevated pressures  in 1823 by
+and   the earliest description of solid carbon dioxide was given by   who in 1835 opened a pressurized container of liquid carbon dioxide  only to find that the cooling produced by the rapid evaporation of the liquid yielded a  snow  of solid co2 
+chemical and physical properties  
+structure and bonding  
+see also 
+of the co2 carbon dioxide molecule  upper left  symmetric stretching  upper right  antisymmetric stretching  lower line  degenerate pair of bending modes 
+the carbon dioxide molecule is linear and   the two c o bonds are equivalent and are short  116.3    consistent with double bonding  since it is centrosymmetric  the molecule has no electrical   consequently  only two vibrational bands are observed in the
+ an antisymmetric stretching mode at 2349cm1 and a
+pair of bending modes at 667cm1  there is also a symmetric stretching mode at 1388cm1 which is only observed in the  
+in aqueous solution  
+see also 
+carbon dioxide is
+in water  in which it reversibly forms h
+2co
+3     which is a
+since its ionization in water is incomplete 
+co
+2   h
+2o  h
+2co
+3
+the
+of carbonic acid is
+k
+h
+ 
+ 
+h
+2
+c
+o
+3
+ 
+ 
+c
+o
+2
+ 
+a
+q
+ 
+ 
+ 
+1.70
+
+10
+
+3
+  displaystyle k   mathrm  h      frac   rm   h  2 co  3      rm   co  2  aq      1.70 times 10  -3  
+ at 25c   hence  the majority of the carbon dioxide is not converted into carbonic acid  but remains as co2 molecules  not affecting the ph 
+the relative concentrations of co
+2  h
+2co
+3  and the
+forms hco
+3    and co2
+3   depend on the   as shown in a   in neutral or slightly alkaline water  ph   6.5   the bicarbonate form predominates   50   becoming the most prevalent   95   at the ph of seawater  in very alkaline water  ph   10.4   the predominant   50   form is carbonate  the oceans  being mildly alkaline with typical ph   8.28.5  contain about 120mg of bicarbonate per liter 
+being   carbonic acid has two   the first one for the dissociation into the bicarbonate  also called hydrogen carbonate  ion  hco3  
+h2co3  hco3   h 
+ka1   69992500000000000002.5104mol l  pka1   3.6 at 25 c 
+this is the true first acid dissociation constant  defined as
+k
+a
+1
+ 
+ 
+h
+c
+o
+3
+
+ 
+ 
+h
+ 
+ 
+ 
+h
+2
+c
+o
+3
+ 
+  displaystyle k  a1    frac   rm   hco  3   -   h         rm   h  2 co  3      
+  where the denominator includes only covalently bound h2co3 and does not include hydrated co2 aq   the much smaller and often-quoted value near 69934160000000000004.16107 is an apparent value calculated on the  incorrect  assumption that all dissolved co2 is present as carbonic acid  so that
+k
+a
+1
+ 
+a
+p
+p
+a
+r
+e
+n
+t
+ 
+ 
+ 
+h
+c
+o
+3
+
+ 
+ 
+h
+ 
+ 
+ 
+h
+2
+c
+o
+3
+ 
+ 
+ 
+c
+o
+2
+ 
+a
+q
+ 
+ 
+  displaystyle k   mathrm  a1     rm   apparent      frac   rm   hco  3   -   h         rm   h  2 co  3    co  2  aq      
+  since most of the dissolved co2 remains as co2 molecules  ka1 apparent  has a much larger denominator and a much smaller value than the true ka1 
+the
+ion is an
+species that can act as an acid or as a base  depending on ph of the solution  at high   it dissociates significantly into the
+ion  co32  
+hco3  co32   h 
+ka2   69924690000000000004.691011mol l  pka2   10.329
+in organisms carbonic acid production is catalysed by the    
+chemical reactions of co2  
+this section needs expansion  you can help by    june 2014 
+co2 is a weak   its reaction with basic water illustrates this property  in which case
+is the   other nucleophiles react as well  for example 
+as provided by
+and
+react with co2 to give carboxylates 
+mr   co2  rco2m
+where m   li or mgbr and r  
+or  
+in   co2 serves as a ligand  which can facilitate the conversion of co2 to other chemicals 
+the reduction of co2 to co is ordinarily a difficult and slow reaction 
+co2   2 e   2h   co   h2o
+the redox potential for this reaction near ph 7 is about 0.53 v versus the   the nickel-containing enzyme
+catalyses this process 
+physical properties  
+for more details on this topic  see  
+carbon dioxide pressure-temperature phase diagram showing the
+and
+of carbon dioxide
+sample of solid carbon dioxide or  dry ice  pellets
+carbon dioxide is colorless  at low concentrations  the gas is odorless  at higher concentrations it has a sharp  acidic odor  at   the density of carbon dioxide is around 1.98kg m3  about 1.67 times that of  
+carbon dioxide has no liquid state at pressures below 5.1
+ 520kpa   at 1 atmosphere  near mean sea level pressure   the gas
+directly to a solid at temperatures below 78.5c  109.3f  194.7k  and the solid
+directly to a gas above 78.5c  in its solid state  carbon dioxide is commonly called  
+liquid carbon dioxide forms only at
+above 5.1 atm  the
+of carbon dioxide is about 518
+at 56.6c  see phase diagram at left   the
+is 7.38 mpa at 31.1c  another form of solid carbon dioxide observed at high pressure is an
+glass-like solid  this form of glass  called   is produced by
+heated co2 at extreme pressure  4048
+or about 400,000 atmospheres  in a   this discovery confirmed the theory that carbon dioxide could exist in a glass state similar to other members of its elemental family  like
+   and   unlike silica and germania glasses  however  carbonia glass is not stable at normal pressures and reverts to gas when pressure is released 
+at temperatures and pressures above the critical point  carbon dioxide behaves as a
+known as  
+isolation and production  
+carbon dioxide can be obtained by
+from air  but the method is inefficient  industrially  carbon dioxide is predominantly an unrecovered waste product  produced by several methods which may be practiced at various scales 
+the
+of all   such as
+    petroleum distillates           coal  wood and generic organic matter produces carbon dioxide and  except in the case of pure carbon  water  as an example  the chemical reaction between methane and oxygen is given below 
+ch
+4  2 o
+2 co
+2  2 h
+2o
+it is produced by thermal decomposition of limestone  caco
+3 by heating    at about 850c  1,560f   in the manufacture of
+   cao   a compound that has many industrial uses 
+caco
+3 cao   co
+2
+is reduced from its oxides with
+in a   producing
+and carbon dioxide 
+carbon dioxide is a byproduct of the industrial production of hydrogen by
+and
+synthesis  these processes begin with the reaction of water and natural gas  mainly methane  
+acids liberate co
+2 from most metal carbonates  consequently  it may be obtained directly from natural carbon dioxide   where it is produced by the action of acidified water on
+or   the reaction between
+and calcium carbonate  limestone or chalk  is shown below 
+caco
+3  2 hcl  cacl
+2  h
+2co
+3
+the
+ h
+2co
+3  then decomposes to water and co
+2 
+h
+2co
+3 co
+2  h
+2o
+such reactions are accompanied by foaming or bubbling  or both  as the gas is released  they have widespread uses in industry because they can be used to neutralize waste acid streams 
+carbon dioxide is a by-product of the
+of
+in the
+of  
+and other
+and in the production of  
+metabolizes
+to produce co
+2 and   also known as alcohol  as follows 
+c
+6h
+12o
+6  2 co
+2  2 c
+2h
+5oh
+all
+organisms produce co
+2 when they oxidize     and proteins  the large number of reactions involved are exceedingly complex and not described easily  refer to   
+and    the equation for the respiration of glucose and other
+is 
+c
+6h
+12o
+6   6 o
+2  6 co
+2   6 h
+2o
+ i e  plants and   use the energy contained in sunlight to
+simple sugars from co
+2 absorbed from the air and water 
+n co
+2   n h
+2o   ch
+2o 
+n   n o
+2
+carbon dioxide comprises about 40-45  of the gas that emanates from decomposition in landfills  termed  landfill gas    most of the remaining 50-55  is methane 
+uses  
+carbon dioxide bubbles in a soft drink 
+carbon dioxide is used by the food industry  the oil industry  and the chemical industry  the compound has varied commercial uses but one of its greatest use as a chemical is in the production of carbonated beverages  it provides the sparkle in carbonated beverages such as soda water 
+precursor to chemicals  
+this section needs expansion  you can help by    july 2014 
+in the chemical industry  carbon dioxide is mainly consumed as an ingredient in the production of   with a smaller fraction being used to produce
+and a range of other products  metal
+and   as well as some carboxylic acids derivatives  e g     are prepared using co2   
+in addition to conventional processes using co2 for chemical production  electrochemical methods are also being explored at a research level  in particular  the use of renewable energy for production of fuels from co2  such as methanol  is attractive as this could result in fuels that could be easily transported and used within conventional combustion technologies but have no net co2 emissions 
+foods  
+carbon dioxide is a
+used as a propellant and acidity regulator in the food industry  it is approved for usage in the eu  listed as
+e290   us and australia and new zealand  listed by its ins number 290  
+a candy called
+is pressurized with carbon dioxide gas at about 4 x 106 pa  40 bar  580 psi   when placed in the mouth  it dissolves  just like other hard candy  and releases the gas bubbles with an audible pop 
+cause dough to rise by producing carbon dioxide 
+produces carbon dioxide by fermentation of sugars within the dough  while chemical leaveners such as
+and
+release carbon dioxide when heated or if exposed to  
+beverages  
+carbon dioxide is used to produce
+and   traditionally  the carbonation of beer and sparkling wine came about through natural fermentation  but many manufacturers carbonate these drinks with carbon dioxide recovered from the fermentation process  in the case of bottled and kegged beer  the most common method used is carbonation with recycled carbon dioxide  with the exception of british   draught beer is usually transferred from kegs in a cold room or cellar to dispensing taps on the bar using pressurized carbon dioxide  sometimes mixed with nitrogen 
+wine making  
+carbon dioxide in the form of
+is often used in the
+process to cool down clusters of
+quickly after picking to help prevent spontaneous
+by wild   the main advantage of using dry ice over regular water ice is that it cools the grapes without adding any additional water that may decrease the
+concentration in the   and therefore also decrease the
+concentration in the finished wine 
+dry ice is also used during the
+phase of the wine making process to keep grapes cool  the carbon dioxide gas that results from the sublimation of the dry ice tends to settle to the bottom of tanks because it is denser than air  the settled carbon dioxide gas creates a hypoxic environment which helps to prevent bacteria from growing on the grapes until it is time to start the fermentation with the desired strain of yeast 
+carbon dioxide is also used to create a hypoxic environment for   the process used to produce
+wine 
+carbon dioxide is sometimes used to top up wine bottles or other
+vessels such as barrels to prevent oxidation  though it has the problem that it can dissolve into the wine  making a previously still wine slightly fizzy  for this reason  other gases such as
+or
+are preferred for this process by professional wine makers 
+inert gas  
+it is one of the most commonly used compressed gases for pneumatic  pressurized gas  systems in portable pressure tools  carbon dioxide is also used as an atmosphere for   although in the welding arc  it reacts to
+most metals  use in the automotive industry is common despite significant evidence that welds made in carbon dioxide are more
+than those made in more inert atmospheres  and that such weld joints deteriorate over time because of the formation of carbonic acid    it is used as a welding gas primarily because it is much less expensive than more inert gases such as
+or     when used for   co2 use is sometimes referred to as mag welding  for metal active gas  as co2 can react at these high temperatures  it tends to produce a hotter puddle than truly inert atmospheres  improving the flow characteristics  although  this may be due to atmospheric reactions occurring at the puddle site  this is usually the opposite of the desired effect when welding  as it tends to embrittle the site  but may not be a problem for general mild steel welding  where ultimate ductility is not a major concern 
+it is used in many consumer products that require pressurized gas because it is inexpensive and nonflammable  and because it undergoes a phase transition from gas to liquid at room temperature at an attainable pressure of approximately 60
+ 870 psi  59 atm   allowing far more carbon dioxide to fit in a given container than otherwise would  life jackets often contain canisters of pressured carbon dioxide for quick inflation  aluminium capsules of co2 are also sold as supplies of compressed gas for  
+markers  inflating bicycle tires  and for making   rapid vaporization of liquid carbon dioxide is used for blasting in coal mines  high concentrations of carbon dioxide can also be used to kill pests  liquid carbon dioxide is used in
+of some food products and technological materials  in the preparation of specimens for
+and in the
+of
+beans 
+fire extinguisher  
+carbon dioxide can be used to extinguish flames by flooding the environment around the flame with the gas  it does not itself react to extinguish the flame  but starves the flame of oxygen by displacing it  some   especially those designed for electrical fires  contain liquid carbon dioxide under pressure  carbon dioxide extinguishers work well on small flammable liquid and electrical fires  but not on ordinary combustible fires  because although it excludes oxygen  it does not cool the burning substances significantly and when the carbon dioxide disperses they are free to catch fire upon exposure to atmospheric oxygen  their desirability in electrical fire stems from the fact that  unlike water or other chemical based methods  carbon dioxide will not cause short circuits  leading to even more damage to equipment  because it is a gas  it is also easy to dispense large amounts of the gas automatically in it infrastructure rooms  where the fire itself might be hard to reach with more immediate methods because it is behind rack doors and inside of cases  carbon dioxide has also been widely used as an extinguishing agent in fixed fire protection systems for local application of specific hazards and total flooding of a protected space  international maritime organization standards also recognize carbon dioxide systems for fire protection of ship holds and engine rooms  carbon dioxide based fire protection systems have been linked to several deaths  because it can cause suffocation in sufficiently high concentrations  a review of co2 systems identified 51 incidents between 1975 and the date of the report  causing 72 deaths and 145 injuries 
+supercritical co2 as solvent  
+see also 
+liquid carbon dioxide is a good
+for many
+and is used to remove
+from   carbon dioxide has attracted attention in the
+and other chemical processing industries as a less toxic alternative to more traditional solvents such as   it is used by some
+for this reason  see    it is used in the preparation of some
+because of the properties of supercritical carbon dioxide 
+agricultural and biological applications  
+plants require carbon dioxide to conduct   the atmospheres of greenhouses may  if of large size  must  be enriched with additional co2 to sustain and increase the rate of plant growth  at very high concentrations  100 times atmospheric concentration  or greater   carbon dioxide can be toxic to animal life  so raising the concentration to 10,000 ppm  1   or higher for several hours will eliminate pests such as
+and
+in a greenhouse 
+in medicine  up to 5  carbon dioxide  130 times atmospheric concentration  is added to
+for stimulation of breathing after
+and to stabilize the o
+2 co
+2 balance in blood 
+it has been proposed that carbon dioxide from power generation be bubbled into ponds to stimulate growth of algae that could then be converted into
+fuel 
+oil recovery  
+carbon dioxide is used in
+where it is injected into or adjacent to producing oil wells  usually under
+conditions  when it becomes miscible with the oil  this approach can increase original oil recovery by reducing residual oil saturation by between 7 per cent to 23 per cent additional to   it acts as both a pressurizing agent and  when dissolved into the underground   significantly reduces its viscosity  and changing surface chemistry enabling the oil to flow more rapidly through the reservoir to the removal well  in mature oil fields  extensive pipe networks are used to carry the carbon dioxide to the injection points 
+bio transformation into fuel  
+researchers have genetically modified a strain of the
+to produce the fuels
+and
+from co2 using photosynthesis 
+refrigerant  
+comparison of phase diagrams of carbon dioxide  red  and water  blue  as a log-lin chart with phase transitions points at 1 atmosphere
+liquid and solid carbon dioxide are important   especially in the food industry  where they are employed during the transportation and storage of ice cream and other frozen foods  solid carbon dioxide is called  dry ice  and is used for small shipments where refrigeration equipment is not practical  solid carbon dioxide is always below 78.5c at regular atmospheric pressure  regardless of the air temperature 
+liquid carbon dioxide  industry nomenclature r744 or r-744  was used as a refrigerant prior to the discovery of
+and may enjoy a renaissance due to the fact that
+contributes to     its physical properties are highly favorable for cooling  refrigeration  and heating purposes  having a high volumetric cooling capacity  due to the need to operate at pressures of up to 130
+ 1880    co2 systems require highly resistant components that have already been developed for mass production in many sectors  in automobile air conditioning  in more than 90  of all driving conditions for latitudes higher than 50  r744 operates more efficiently than systems using r134a  its environmental advantages   of 1  non-ozone depleting  non-toxic  non-flammable  could make it the future working fluid to replace current hfcs in cars  supermarkets  and heat pump water heaters  among others 
+has fielded co2-based beverage coolers and the
+is interested in co2 refrigeration and heating technology 
+the global automobile industry is expected to decide on the next-generation refrigerant in car air conditioning  co2 is one discussed option  see  
+coal bed methane recovery  
+in   carbon dioxide would be pumped into the coal seam to displace methane  as opposed to current methods which primarily rely on the removal of water  to reduce pressure  to make the coal seam release its trapped methane 
+niche uses  
+a  
+carbon dioxide is the
+in a   which is one of the earliest type of lasers 
+carbon dioxide can be used as a means of controlling the
+of swimming pools  by continuously adding gas to the water  thus keeping the ph from rising  among the advantages of this is the avoidance of handling  more hazardous  acids  similarly  it is also used in the maintaining   where it is commonly used in
+to temporarily lower the ph of water being passed over
+in order to allow the calcium carbonate to dissolve into the water more freely where it is used by some
+to build their skeleton 
+used as the primary coolant in the british
+for nuclear power generation 
+carbon dioxide induction is commonly used for the euthanasia of laboratory research animals  methods to administer co2 include placing animals directly into a closed  prefilled chamber containing co2  or exposure to a gradually increasing concentration of co2  in 2013  the
+issued new guidelines for carbon dioxide induction  stating that a displacement rate of 10  to 30  of the
+volume per minute is optimal for the humane euthanization of small rodents 
+carbon dioxide is also used in several related
+techniques 
+in earth s atmosphere  
+main articles 
+and
+the
+of atmospheric co2 concentrations measured at
+carbon dioxide in
+is a   currently  early 2016  having an average concentration of 402 parts per million by volume  or 611 parts per million by mass   atmospheric concentrations of carbon dioxide fluctuate slightly with the seasons  falling during the
+spring and summer as plants consume the gas and rising during northern autumn and winter as plants go dormant or die and decay  concentrations also vary on a regional basis  most strongly
+with much smaller variations aloft  in urban areas concentrations are generally higher and indoors they can reach 10 times background levels 
+yearly increase of atmospheric co2  in the 1960s  the average annual increase was 37  of the 20002007 average 
+combustion of
+and
+have caused the atmospheric concentration of carbon dioxide to increase by about 43  since the beginning of the   most carbon dioxide from human activities is released from burning coal and other fossil fuels  other human activities  including deforestation  biomass burning  and cement production also produce carbon dioxide  volcanoes emit between 0.2 and 0.3 billion tons of carbon dioxide per year  while human activities emit about 29 billion tons 
+carbon dioxide is a   absorbing and emitting infrared radiation at its two infrared-active vibrational frequencies  see structure and bonding above   this process causes carbon dioxide to warm the surface and lower atmosphere  while cooling the upper atmosphere  the increase in atmospheric concentration of co2  and thus in the co2-induced greenhouse effect  is the reason for the rise in average global temperature since the mid-20th century  although carbon dioxide is the greenhouse gas primarily responsible for the rise  methane  nitrous oxide  ozone  and various other long-lived greenhouse gases also contribute  carbon dioxide is of greatest concern because it exerts a larger overall warming influence than all of those other gases combined  and because it has a long atmospheric lifetime 
+co2 in  s
+if half of global-warming emissions are not absorbed 
+    
+not only do increasing carbon dioxide concentrations lead to increases in global surface temperature  but increasing global temperatures also cause increasing concentrations of carbon dioxide  this produces a
+for changes induced by other processes such as   five hundred million years ago the carbon dioxide concentration was 20 times greater than today  decreasing to 45 times during the
+period and then slowly declining with
+occurring 49 million years ago 
+local concentrations of carbon dioxide can reach high values near strong sources  especially those that are isolated by surrounding terrain  at the bossoleto hot spring near
+in     situated in a bowl-shaped depression about 100m  330ft  in diameter  concentrations of co2 rise to above 75  overnight  sufficient to kill insects and small animals  after sunrise the gas is dispersed by convection during the day  high concentrations of co2 produced by disturbance of deep lake water saturated with co2 are thought to have caused 37 fatalities at  
+in 1984 and 1700 casualties at   cameroon in 1986 
+human-made carbon dioxide  co2  continues to increase above levels not seen in hundreds of thousands of years  currently  about half of the carbon dioxide released from the
+remains in the
+and is not absorbed by vegetation and the oceans 
+in the oceans  
+main article 
+carbon dioxide dissolves in the ocean to form
+ h2co3  
+ hco3  and
+ co32   there is about fifty times as much carbon dissolved in the oceans as exists in the atmosphere  the oceans act as an enormous   and have taken up about a third of co2 emitted by human activity 
+as the concentration of carbon dioxide increases in the atmosphere  the increased uptake of carbon dioxide into the oceans is causing a measurable decrease in the ph of the oceans  which is referred to as   this reduction in ph affects biological systems in the oceans  primarily oceanic
+organisms  these effects span the
+from
+to
+and include organisms such as        
+and   under normal conditions  calcium carbonate is stable in surface waters since the carbonate ion is at
+concentrations  however  as ocean ph falls  so does the concentration of this ion  and when carbonate becomes undersaturated  structures made of calcium carbonate are vulnerable to dissolution  corals  coccolithophore algae  coralline algae  foraminifera 
+and
+experience reduced calcification or enhanced dissolution when exposed to elevated co
+2 
+gas solubility decreases as the temperature of water increases  except when both pressure exceeds 300 bar and temperature exceeds 393 k  only found near deep geothermal vents  and therefore the rate of uptake from the atmosphere decreases as ocean temperatures rise 
+most of the co2 taken up by the ocean  which is about 30  of the total released into the atmosphere  forms carbonic acid in equilibrium with bicarbonate  some of these chemical species are consumed by photosynthetic organisms that remove carbon from the cycle  increased co2 in the atmosphere has led to decreasing
+of seawater  and there is concern that this may adversely affect organisms living in the water  in particular  with decreasing alkalinity  the availability of carbonates for forming shells decreases  although there s evidence of increased shell production by certain species under increased co2 content 
+noaa states in their may 2008  state of the science fact sheet for   that 
+ the oceans have absorbed about 50  of the carbon dioxide  co2  released from the burning of fossil fuels  resulting in chemical reactions that lower ocean ph  this has caused an increase in hydrogen ion  acidity  of about 30  since the start of the industrial age through a process known as  ocean acidification   a growing number of studies have demonstrated adverse impacts on marine organisms  including 
+the rate at which reef-building corals produce their skeletons decreases  while production of numerous varieties of jellyfish increases 
+the ability of marine algae and free-swimming zooplankton to maintain protective shells is reduced 
+the survival of larval marine species  including commercial fish and shellfish  is reduced  
+also  the intergovernmental panel on climate change  ipcc  writes in their climate change 2007  synthesis report 
+ the uptake of anthropogenic carbon since 1750 has led to the ocean becoming more acidic with an average decrease in ph of 0.1 units  increasing atmospheric co2 concentrations lead to further acidification    while the effects of observed ocean acidification on the marine biosphere are as yet undocumented  the progressive acidification of oceans is expected to have negative impacts on marine shell-forming organisms  e g  corals  and their dependent species  
+some marine calcifying organisms  including coral reefs  have been singled out by major research agencies  including noaa  ospar commission  nanoos and the ipcc  because their most current research shows that ocean acidification should be expected to impact them negatively 
+carbon dioxide is also introduced into the oceans through hydrothermal vents  the champagne hydrothermal vent  found at the northwest eifuku volcano at   produces almost pure liquid carbon dioxide  one of only two known sites in the world 
+biological role  
+carbon dioxide is an end product of
+in organisms that obtain energy by breaking down sugars  fats and
+with
+as part of their   this includes all plants  algae and animals and
+fungi and bacteria  in   the carbon dioxide travels in the blood from the body s tissues to the skin  e g     or the gills  e g      from where it dissolves in the water  or to the lungs from where it is exhaled  during active photosynthesis 
+in respiration 
+photosynthesis and carbon fixation  
+overview of photosynthesis and respiration  carbon dioxide  at right   together with water  form oxygen and organic compounds  at left  by   which can be
+to water and  co2  
+figure 2  overview of the
+and carbon fixation
+is a biochemical process by which atmospheric carbon dioxide is incorporated by  
+and    into
+organic
+such as   thus creating their own food by   photosynthesis uses carbon dioxide and
+to produce
+from which other
+can be constructed  and
+is produced as a by-product 
+  commonly abbreviated to rubisco  is the
+involved in the first major step of carbon fixation  the production of two molecules of
+from co2 and   as shown in the diagram at left 
+rubisco is thought to be the single most abundant protein on earth 
+use the products of their photosynthesis as internal food sources and as raw material for the
+of more complex organic molecules  such as  
+and   these are used for their own growth  and also as the basis of the
+and webs that feed other organisms  including animals such as ourselves  some important phototrophs  the
+synthesise hard
+scales  a globally significant species of coccolithophore is
+whose
+scales have formed the basis of many
+such as   where what was previously atmospheric carbon can remain fixed for geological timescales 
+plants can grow as much as 50 percent faster in concentrations of 1,000 ppm co2 when compared with ambient conditions  though this assumes no change in climate and no limitation on other nutrients  elevated co2 levels cause increased growth reflected in the harvestable yield of crops  with wheat  rice and soybean all showing increases in yield of 1214  under elevated co2 in face experiments 
+increased atmospheric co2 concentrations result in fewer stomata developing on plants which leads to reduced water usage and increased   studies using
+have shown that co2 enrichment leads to decreased concentrations of micronutrients in crop plants  this may have knock-on effects on other parts of
+as herbivores will need to eat more food to gain the same amount of protein 
+the concentration of secondary
+such as phenylpropanoids and flavonoids can also be altered in plants exposed to high concentrations of co2 
+plants also emit co2 during respiration  and so the majority of plants and algae  which use   are only net absorbers during the day  though a growing forest will absorb many tons of co2 each year  a mature forest will produce as much co2 from respiration and decomposition of dead specimens  e g   fallen branches  as is used in photosynthesis in growing plants  contrary to the long-standing view that they are carbon neutral  mature forests can continue to accumulate carbon and remain valuable   helping to maintain the carbon balance of earth s atmosphere  additionally  and crucially to life on earth  photosynthesis by phytoplankton consumes dissolved co2 in the upper ocean and thereby promotes the absorption of co2 from the atmosphere 
+toxicity  
+see also 
+main symptoms of carbon dioxide toxicity  by increasing
+in air 
+carbon dioxide content in fresh air  averaged between sea-level and 10 kpa level  i e   about 30km  19mi  altitude  varies between 0.036   360 ppm  and 0.041   410 ppm   depending on the location   
+co2 is an
+and not classified as toxic or harmful in accordance with
+of
+by using the   in concentrations up to 1   10,000 ppm   it will make some people feel drowsy and give the lungs a stuffy feeling  concentrations of 7  to 10   70,000 to 100,000 ppm  may cause suffocation  even in the presence of sufficient oxygen  manifesting as dizziness  headache  visual and hearing dysfunction  and unconsciousness within a few minutes to an hour  the physiological effects of acute carbon dioxide exposure are grouped together under the term   a subset of  
+because it is heavier than air  in locations where the gas seeps from the ground  due to sub-surface volcanic or geothermal activity  in relatively high concentrations  without the dispersing effects of wind  it can collect in sheltered pocketed locations below average ground level  causing animals located therein to be suffocated  carrion feeders attracted to the carcasses are then also killed  children have been killed in the same way near the city of
+by co2 emissions from the nearby volcano   the
+term for this phenomenon is    
+adaptation to increased concentrations of co2 occurs in humans  including
+and kidney bicarbonate production  in order to balance the effects of blood acidification     several studies suggested that 2.0 percent inspired concentrations could be used for closed air spaces  e g  a   since the adaptation is physiological and reversible  as decrement in performance or in normal physical activity does not happen at this level of exposure for five days  yet  other studies show a decrease in cognitive function even at much lower levels  also  with ongoing respiratory acidosis  adaptation or  
+below 1   
+there are few studies of the health effects of long-term continuous co2 exposure on humans and animals at levels below 1  and there is potentially a significant risk to humans in the near future with rising atmospheric co2 levels associated with   occupational co2 exposure limits have been set in the united states at 0.5   5000 ppm  for an eight-hour period  at this co2 concentration 
+crew experienced headaches  lethargy  mental slowness  emotional irritation  and sleep disruption  studies in animals at 0.5  co2 have demonstrated kidney calcification and bone loss after eight weeks of exposure  a study of humans exposed in 2.5 hour sessions demonstrated significant effects on cognitive abilities at concentrations as low as 0.1   1000ppm  co2 likely due to co2 induced increases in cerebral blood flow  another study observed a decline in basic activity level and information usage at 1000 ppm  when compared to 500 ppm 
+ventilation  
+poor ventilation is one of the main causes of excessive co2 concentrations in closed spaces  carbon dioxide differential above outdoor concentrations at steady state conditions  when the occupancy and ventilation system operation are sufficiently long that co2 concentration has stabilized  are sometimes used to estimate ventilation rates per person    higher co2 concentrations are associated with occupant health  comfort and performance degradation   
+standard 62.12007 ventilation rates may result in indoor levels up to 2,100 ppm above ambient outdoor conditions  thus if the outdoor concentration is 400 ppm  indoor concentrations may reach 2,500 ppm with ventilation rates that meet this industry consensus standard  concentrations in poorly ventilated spaces can be found even higher than this  range of 3,000 or 4,000  
+miners  who are particularly vulnerable to gas exposure due to an insufficient ventilation  referred to mixtures of carbon dioxide and nitrogen as      choke damp  or  stythe   before more effective technologies were developed 
+would frequently monitor for dangerous levels of blackdamp and other gases in mine shafts by bringing a caged
+with them as they worked  the canary is more sensitive to asphyxiant gases than humans  and as it became unconscious would stop singing and fall off its perch  the
+could also detect high levels of blackdamp  which sinks  and collects near the floor  by burning less brightly  while   another suffocating gas and explosion risk  would make the lamp burn more brightly 
+human physiology  
+content  
+the body produces approximately 2.3 pounds  1.0kg  of carbon dioxide per day per person  containing 0.63 pounds  290g  of carbon 
+in humans  this carbon dioxide is carried through the
+and is breathed out through the lungs  resulting in lower concentrations in the   the carbon dioxide content of the blood is often given as the   which is the pressure which carbon dioxide would have had if it alone occupied the volume 
+in humans  the carbon dioxide contents are as follows 
+or averages for
+ abbreviated pco2 
+unit
+blood gas
+alveolar
+5.5-6.8
+4.8
+4.7-6.0
+4151
+36
+35-45
+transport in the blood  
+co2 is carried in blood in three different ways   the exact percentages vary depending whether it is arterial or venous blood  
+most of it  about 70  to 80   is converted to
+ions hco
+3 by the enzyme
+in the red blood cells  by the reaction co2   h2o  h2co3  h    hco
+3 
+5   10  is dissolved in the
+5   10  is bound to
+as
+compounds
+  the main oxygen-carrying molecule in   carries both oxygen and carbon dioxide  however  the co2 bound to hemoglobin does not bind to the same site as oxygen  instead  it combines with the n-terminal groups on the four globin chains  however  because of
+effects on the hemoglobin molecule  the binding of co2 decreases the amount of oxygen that is bound for a given partial pressure of oxygen  the decreased binding to carbon dioxide in the blood due to increased oxygen levels is known as the   and is important in the transport of carbon dioxide from the tissues to the lungs  conversely  a rise in the partial pressure of co2 or a lower ph will cause offloading of oxygen from hemoglobin  which is known as the  
+regulation of respiration  
+this section needs additional citations for   please help
+by   unsourced material may be challenged and removed   june 2014    
+carbon dioxide is one of the mediators of local
+of blood supply  if its concentration is high  the
+expand to allow a greater blood flow to that tissue 
+bicarbonate ions are crucial for regulating blood ph  a person s breathing rate influences the level of co2 in their blood  breathing that is too slow or shallow causes   while breathing that is too rapid leads to   which can cause  
+although the body requires oxygen for metabolism  low oxygen levels normally do not stimulate breathing  rather  breathing is stimulated by higher carbon dioxide levels  as a result  breathing low-pressure air or a gas mixture with no oxygen at all  such as pure nitrogen  can lead to loss of consciousness without ever experiencing   this is especially perilous for high-altitude fighter pilots  it is also why flight attendants instruct passengers  in case of loss of cabin pressure  to apply the
+to themselves first before helping others  otherwise  one risks losing consciousness 
+the respiratory centers try to maintain an arterial co2 pressure of 40mm hg  with intentional hyperventilation  the co2 content of arterial blood may be lowered to 1020mm hg  the oxygen content of the blood is little affected   and the respiratory drive is diminished  this is why one can hold one s breath longer after hyperventilating than without hyperventilating  this carries the risk that unconsciousness may result before the need to breathe becomes overwhelming  which is why hyperventilation is particularly dangerous before free diving 
+see also  
+ as refrigerants
+ early work on co2 and climate change 
+and related ions
+compounds
+co2
+carbon ions
+  cc  2     c   4    c c c  4
+  cn  
+  o-cn  
+  s-cn  
+  cn-o  
+  cn-s  
+oxides and related
+compounds
+co2
+references  
+ 
+ 
+ niosh  
+  immediately dangerous to life and health 
+ niosh  
+ 
+values given are dry air
+expressed in parts per million     for an
+mixture this is equivalent to parts per million by volume  ppmv  
+  energy institute  retrieved 2012-03-14 
+donald g  kaufman  cecilia m  franz  1996     kendall hunt pub  co    retrieved 11 october 2011 
+  www legacyproject org  retrieved 2011-10-10 
+  washington  dc  national academies press      
+davidfraser harris  september 1910     the lancet  176  4542   906908    
+almqvist  ebbe  2003   history of   springer    p  93
+  hey  wm  1772     philosophical transactions  62  147264    
+ 1823     philosophical transactions  113  199205      
+thilorier  adrien-jean-pierre  1835 
+ solidification of carbonic acid   comptes rendus      1  194196
+  the london and edinburgh philosophical magazine  8  446447  1836  
+ 
+  earnshaw  alan  1997   chemistry of the elements  2nd ed       
+atkins p  and de paula j  physical chemistry  8th ed   w h  freeman 2006  p 461 and p 464
+jolly  william l   modern inorganic chemistry  mcgraw-hill 1984   p  196
+m  aresta  ed    carbon dioxide as a chemical feedstock  2010  wiley-vch  weinheim 
+finn  colin  schnittger  sorcha  yellowlees  lesley j   love  jason b   2012    molecular approaches to the electrochemical reduction of carbon dioxide   chemical communications  2011  10   13929      
+  national institute of standards and technology  retrieved 2008-01-21 
+kudryavtseva i v   kamotskii v i   rykov s v   rykov v a     processes and equipment for food production  number 4 18   2013
+santoro  m   gorelli  fa  bini  r  ruocco  g  scandolo  s  crichton  wa  2006    amorphous silica-like carbon dioxide   nature  441  7095   857860         
+ 
+pierantozzi  ronald  2001    carbon dioxide   kirk-othmer encyclopedia of chemical technology  kirk-othmer encyclopedia of chemical technology  wiley      
+strassburger  julius  1969   blast furnace theory and practice  new york  american institute of mining  metallurgical  and petroleum engineers   
+susan topham  carbon dioxide  in ullmann s encyclopedia of industrial chemistry  2005  wiley-vch  weinheim   
+badwal  sukhvinder p  s   giddey  sarbjit s   munnings  christopher  bhatt  anand i   hollenkamp  anthony f   24 september 2014     frontiers in chemistry  2  79           
+uk food standards agency    retrieved 2011-10-27 
+us food and drug administration    retrieved 13 june 2015 
+australia new zealand food standards code  retrieved 2011-10-27 
+national fire protection association code 12
+carbon dioxide as a fire suppressant  examining the risks  us epa
+  ext colostate edu  retrieved 2011-10-10 
+  formal stanford edu  retrieved 2011-10-10 
+stafford  ned  7 february 2007    future crops  the other greenhouse effect   nature  448  7153   5268         
+clayton  mark  2006-01-11       retrieved 2007-10-11 
+  global ccs institute  retrieved 2012-02-25 
+austell  j michael  2005     exploration   production  the oil   gas review  archived from
+on 2012-02-07  retrieved 2007-09-28 
+atsum  shota  higashide  wendy  liauo  james c   november 2009     nature biotechnology  27  12   11771180      
+  the coca-cola company  2006-06-05  retrieved 2007-10-11 
+  r744 com  2007-06-28 
+  eth zurich  2006-08-31 
+ pdf   retrieved 2014-01-14 
+pashley  alex  10 march 2016     the guardian  retrieved 14 march 2016 
+  noaa  9 march 2016  retrieved 14 march 2016 
+george  k   ziska  l  h   bunce  j  a   quebedeaux  b   2007    elevated atmospheric co2 concentration and temperature across an urbanrural transect   atmospheric environment  41  35   76547665       
+tans  pieter  3 may 2008   
+earth system research laboratory  global monitoring division    
+  noaa news online  story 2412  2005-03-31 
+ 
+ 
+buis  alan  ramsayer  kate  rasmussen  carol  12 november 2015       retrieved 13 november 2015 
+ 
+staff  12 november 2015       retrieved 12 november 2015 
+ 
+st  fleur  nicholas  10 november 2015       retrieved 11 november 2015 
+ 
+ritter  karl  9 november 2015       retrieved 11 november 2015 
+genthon  g   barnola  j  m   raynaud  d   lorius  c   jouzel  j   barkov  n  i   korotkevich  y  s   kotlyakov  v  m   1987    vostok ice core  climatic response to co2 and orbital forcing changes over the last climatic cycle   nature  329  6138   414418       
+  retrieved 2007-10-10 
+berner  robert a   kothavala  zavareth  2001  
+ pdf     301  2   182204     retrieved 2008-02-15 
+van gardingen  p r   grace  j   jeffree  c e   byari  s h   miglietta  f   raschi  a   bettarini  i   1997    long-term effects of enhanced co2 concentrations on leaf gas exchange  research opportunities using co2 springs   in raschi  a   miglietta  f   tognetti  r   van gardingen  p r  plant responses to elevated co2  evidence from natural springs  cambridge  cambridge university press  pp 6986   
+martini  m   1997    co2 emissions in volcanic areas  case histories and hazards   in raschi  a   miglietta  f   tognetti  r   van gardingen  p r  plant responses to elevated co2  evidence from natural springs  cambridge  cambridge university press  pp 6986   
+doney  scott c   naomi m  levine  2006-11-29     oceanus  retrieved 2007-11-21 
+nienhuis  s   palmer  a   harley  c   2010       277  1693   25532558        
+gattuso  j -p   frankignoulle  m   bourge  i   romaine  s    buddemeier  r  w   1998       18  12   3746       
+gattuso  j -p   allemand  d   frankignoulle  m  1999       39  160183    
+langdon  c  atkinson  m  j   2005    effect of elevated pco2 on photosynthesis and calcification of corals and interactions with seasonal change in temperature irradiance and nutrient enrichment     110  c09s07   c09s07       
+riebesell  ulf  zondervan  ingrid  rost  bjrn  tortell  philippe d   zeebe  richard e    franois m  m  morel  2000    reduced calcification of marine plankton in response to increased atmospheric co
+2     407  6802   364367      
+zondervan  i   zeebe  r e   rost  b   rieblesell  u   2001    decreasing marine biogenic calcification  a negative feedback on rising atmospheric co2     15  2   507516       
+zondervan  i   rost  b   rieblesell  u   2002    effect of co2 concentration on the pic poc ratio in the coccolithophore emiliania huxleyi grown under light limiting conditions and different day lengths     272  1   5570    
+delille  b   harlay  j   zondervan  i   jacquet  s   chou  l   wollast  r   bellerby  r g j   frankignoulle  m   borges  a v   riebesell  u   gattuso  j -p   2005       19  2   gb2023       
+kuffner  i b   andersson  a j   jokiel  p l   rodgers  k s   mackenzie  f t   2007    decreased abundance of crustose coralline algae due to ocean acidification     1  2   114117       
+phillips  graham  chris branagan  2007-09-13     abc tv science  catalyst  australian broadcasting corporation  retrieved 2007-09-18 
+gazeau  f   quiblier  c   jansen  j  m   gattuso  j -p   middelburg  j  j    heip  c  h  r   2007       34  7   l07603       
+comeau  c   gorsky  g   jeffree  r   teyssi  j -l   gattuso  j -p   2009       6  9   18771882    
+duana  zhenhao  rui sun  2003    an improved model calculating co2 solubility in pure water and aqueous nacl solutions from 273 to 533 k and from 0 to 2000 bar   chemical geology  193  34   257271    
+cai  w  -j   chen  l   chen  b   gao  z   lee  s  h   chen  j   pierrot  d   sullivan  k   et al   2010    decrease in the co2 uptake capacity in an ice-free arctic ocean basin   science  329  5991   556559         
+garrison  tom  2004   oceanography  an invitation to marine science    p 125   
+ries  j  b   cohen  a  l   mccorkle  d  c   2009    marine calcifiers exhibit mixed responses to co2-induced ocean acidification   geology  37  12   11311134       
+  ipcc
+  pmel noaa gov  retrieved 2014-01-14 
+lupton  j   lilley  m   butterfield  d   evans  l   embley  r   olson  e   proskurowski  g   resing  j   roe  k   greene  r   lebon  g   2004    liquid carbon dioxide venting at the champagne hydrothermal site  nw eifuku volcano  mariana arc   american geophysical union  fall  meeting  abstract  v43f08   8    
+dhingra a  portis ar  daniell h  2004     proc  natl  acad  sci  u s a  101  16   631520             rubisco  is the most prevalent enzyme on this planet  accounting for 3050  of total soluble protein in the chloroplast 
+blom  t j   w a  straver  f j  ingratta  shalin khosla  wayne brown  december 2002     retrieved 2007-06-12 
+ainsworth  elizabeth a   2008  
+ pdf   global change biology  14  7   16421650     archived from
+ pdf  on 2011-07-19 
+long  sp  ainsworth  ea  leakey  ad  nsberger  j  ort  dr  2006    food for thought  lower-than-expected crop yield stimulation with rising co2 concentrations   science  312  5782   191821         
+f  woodward  c  kelly  1995    the influence of co2 concentration on stomatal density   new phytologist  131  3   311327    
+bert g  drake  gonzalez-meler  miquel a   long  steve p   1997    more efficient plants  a consequence of rising atmospheric co2    annual review of plant physiology and plant molecular biology  48  1   609639      
+loladze  i  2002    rising atmospheric co2 and human nutrition  toward globally imbalanced plant stoichiometry    trends in ecology   evolution  17  10   457461    
+carlos e  coviella  john t  trumble  1999    effects of elevated atmospheric carbon dioxide on insect-plant interactions   conservation biology  13  4   700712      
+davey  m  p   harmens  h   ashenden  t  w   edwards  r   baxter  r   2007    species-specific effects of elevated co2 on resource allocation in plantago maritima and armeria maritima   biochemical systematics and ecology  35  3   121129    
+davey  m   bryant  d  n   cummins  i   ashenden  t  w   gates  p   baxter  r   edwards  r   2004    effects of elevated co2 on the vasculature and phenolic secondary metabolism of plantago maritima   phytochemistry  65  15   21972204      
+    retrieved 2007-11-10 
+luyssaert  sebastiaan  schulze  e  -detlef  brner  annett  knohl  alexander  hessenmller  dominik  law  beverly e   ciais  philippe  grace  john  2008    old-growth forests as global carbon sinks   nature  455  7210   2135         
+falkowski p  scholes rj  boyle e  canadell j  canfield d  elser j  gruber n  hibbard k  hgberg p  linder s  mackenzie ft  moore b 3rd  pedersen t  rosenthal y  seitzinger s  smetacek v  steffen w  2000    the global carbon cycle  a test of our knowledge of earth as a system   science  290  5490   291296         
+ 
+friedman  daniel    inspectapedia
+  esrl noaa gov 
+  u s  environmental protection agency  
+  pbs org  1 november 2005  
+glatte jr h  a   motsay g  j   welch b  e   1967     brooks afb  tx school of aerospace medicine technical report  sam-tr-67-77  retrieved 2008-05-02 
+lambertsen  c  j   1971     environmental biomedical stress data center  institute for environmental medicine  university of pennsylvania medical center  ifem  philadelphia  pa  report no  2-71  retrieved 2008-05-02 
+ 
+satish u   mendell m  j   shekhar k   hotchi t   sullivan d   streufert s   fisk w j   2012  
+ pdf   environmental health perspectives  120  12     
+ 
+joseph g  allen  piers macnaughton  usha satish  suresh santanam  jose vallarino  john d  spengler1satish u   2016     environmental health perspectives  124  6     
+bierwirth p   2014  
+ pdf  
+  inspectapedia com 
+law j   watkins s   alexander  d   2010  
+ pdf   nasa technical report  tp2010216126  retrieved 2014-08-26 
+schaefer k  e   1979     undersea biomed res  s6  155117  retrieved 2014-10-19 
+  archived from
+on 2011-02-02  retrieved 2009-04-30 
+charles henrickson  2005   chemistry  cliffs notes   
+ 
+derived from mmhg values using 0.133322 kpa mmhg
+ 
+  university of texas southwestern medical center at dallas  used in interactive case study companion to pathologic basis of disease 
+ 
+  solarnavigator net  retrieved 2007-10-12 
+further reading  
+seppanen  fisk and mendell  association of ventilation rates and co2 concentrations with health and other responses in commercial and institutional buildings  indoor air 1999 
+shendell  prill  fisk  apte1  blake   faulkner  associations between classroom co2 concentrations and student attendance in washington and idaho  indoor air 2004 
+soentgen  jens  hot air  the science and politics of co2  in  global environment  vol 7  march 2014  pp 134171 
+external links  
+about
+carbon dioxide
+from
+by amerigas in the sdsdata org database 
+ noaa 
+popular science  june 1942  pp 5357 
+and
+at
+ university of nottingham 
+mixed oxidation states
+ 24 
+ 34 
+ 34 
+ 34 
+ 34 
+ 22 
+ 38 
+ 1 oxidation state
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 oxidation state
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 22 
+  
+  
+  
+  
+ 3 oxidation state
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 46 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 23 
+ 4 oxidation state
+carbon dioxide  2 
+ 3 
+ 2 
+ 2 
+ 2 
+ 24 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 2 
+ 5 oxidation state
+ 25 
+ 25 
+ 25 
+ 25 
+ 25 
+ 25 
+ 25 
+ 6 oxidation state
+ 3 
+ 3 
+ 3 
+ 3 
+ 3 
+ 3 
+ 3 
+ 3 
+ 3 
+ 7 oxidation state
+ 27 
+ 27 
+ 27 
+ 27 
+ 8 oxidation state
+ 4 
+ 4 
+ 4 
+ 4 
+ 4 
+related
+oxides are sorted by  
+common oxides
+co
+2
+exotic oxides
+polymers
+compounds derived from oxides
+and
+temperatures
+causes
+carbon dioxide
+  
+  
+history
+opinion and climate change
+  
+ 
+ 
+  
+general
+by country
+  
+governmental
+emissions reduction
+carbon-free energy
+personal
+other
+strategies
+programmes
+radical
+ molecular 
+ molecular 
+ molecular 
+carbon dioxide
+ hcn 
+ hnc 
+carbon dioxide
+ion
+ c60 fullerene  buckyball 
+molecules
+ion
+ pah 
+and related ions
+compounds
+co2
+carbon ions
+  cc  2     c   4    c c c  4
+  cn  
+  o-cn  
+  s-cn  
+  cn-o  
+  cn-s  
+oxides and related
+ 
+ 
+ 
+retrieved from   
+  hidden categories 

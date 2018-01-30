@@ -1,0 +1,288 @@
+biomass
+from wikipedia  the free encyclopedia
+jump to 					 
+this article is about biomass as a renewable energy source  for the use of the term in ecology  see  
+part of a series on
+biomass
+sugarcane
+in  
+is a type of biomass 
+a
+plant in     the station uses waste wood biomass as an energy source  and provides electricity and heat for 30,000 dwellings 
+increases the recovery of biomass from a forest 
+biomass is
+derived from living  or recently living organisms  biomass can be used as a source of energy and it most often refers to plants or plant-based materials that are not used for food or feed  and are specifically called   as an energy source  biomass can either be used directly via combustion to produce heat  or indirectly after converting it to various forms of   conversion of biomass to biofuel can be achieved by different methods which are broadly classified into  thermal  chemical  and biochemical methods 
+contents
+biomass sources  
+in brazil  remains of the tree are reused for power generation 
+historically  humans have harnessed biomass-derived energy since the time when people began burning wood to make fire  even today  biomass is the only source of fuel for domestic use in many developing countries  biomass is all biologically-produced matter based in carbon  hydrogen and oxygen  the estimated biomass production in the world is 104.9 petagrams  104.9   1015 g  about 105 billion metric tons  of carbon per year  about half in the ocean and half on land 
+wood remains the largest biomass energy source today  examples include forest residues  such as dead trees  branches and    yard clippings  wood chips and even   wood energy is derived by using lignocellulosic biomass  second-generation biofuels  as fuel  harvested wood may be used directly as a fuel or collected from wood waste streams to be processed into
+or other forms of fuels  the largest source of energy from wood is pulping liquor or     a waste product from processes of the pulp  paper and paperboard industry    in the second sense  biomass includes plant or animal matter that can be converted into fibers or other industrial   including   industrial biomass can be grown from numerous types of plants  including                   and a variety of
+species  ranging from
+to
+   
+based on the source of biomass  biofuels are classified broadly into two major categories 
+are derived from sources such as sugarcane and
+starch  sugars present in this biomass are fermented to produce   an alcohol fuel which can be used directly in a
+to produce electricity or serve as an additive to gasoline  however  utilizing food-based resources for fuel production only aggravates the food shortage problem    on the other hand  utilize non-food-based biomass sources such as agriculture and municipal waste  these biofuels mostly consist of   which is not edible and is a low-value waste for many industries  despite being the favored alternative  economical production of second-generation biofuel is not yet achieved due to technological issues  these issues arise mainly due to chemical inertness and structural rigidity of  
+plant energy is produced by crops specifically grown for use as fuel that offer high biomass output per
+with low input energy  some examples of these plants are wheat  which typically yields 7.58 tonnes of grain per hectare  and straw  which typically yields 3.55 tonnes per hectare in the uk  the grain can be used for liquid transportation fuels while the straw can be burned to produce heat or electricity  plant biomass can also be degraded from
+to
+through a series of chemical treatments  and the resulting sugar can then be used as a first-generation biofuel 
+the main contributors of
+are     and   energy derived from biomass is projected to be the largest non-hydroelectric renewable resource of electricity in the us between 2000 and 2020 
+biomass can be converted to other usable forms of energy like methane gas or transportation fuels like
+and   rotting garbage  and agricultural and human waste  all release methane gas  also called
+or   crops such as corn and sugarcane can be fermented to produce the transportation fuel ethanol  biodiesel  another transportation fuel  can be produced from leftover food products like vegetable oils and animal fats  several biodiesel companies simply collect used restaurant cooking oil and convert it into biodiesel  also  biomass-to-liquids  called  btls   and cellulosic ethanol are still under research 
+there is research involving algae  or algae-derived  biomass  as this non-food resource can be produced at rates five to ten times those of other types of land-based agriculture  such as corn and soy  once harvested  it can be fermented to produce biofuels such as     and   as well as
+and   efforts are being made to identify which species of algae are most suitable for energy production  genetic engineering approaches could also be utilized to improve microalgae as a source of biofuel 
+the biomass used for electricity generation varies by region  forest by-products  such as wood residues  are common in the   agricultural waste is common in
+ sugar cane residue  and
+ rice husks   animal husbandry residues  such as   are common in the  
+as of 2015  a new
+process aimed at developing countries is under trial  the
+is a self-sustaining process which uses sewerage solids as fuel in a process to convert waste water into drinking water  with surplus electrical energy being generated for export 
+comparison of total plant biomass yields  dry basis   
+world resources  
+if the total annual
+of
+is just over 100 billion  1.0e 11  tonnes of carbon  yr  and the energy reserve per
+of biomass is between about 1.5e3  3e3
+ 5e6  10e6 btu   or 24.8 tw average  then biomass could in principle provide 1.4 times the approximate annual 150e3 terrawatt hours required for current   for reference  the total solar power on earth is 174 ktw  the biomass equivalent to solar energy ratio is 143 ppm  parts per million   given current living system coverage on earth  best in class solar cell efficiency is  2040    additionally  earth s internal radioactive energy production  largely the driver for volcanic activity  continental drift  etc   is in the same range of power  20 tw  at some 50  carbon mass content in biomass  annual production  this corresponds to about 6  of atmospheric carbon content in co2  for the current 400 ppm  
+ 1.0e 11 tonnes biomass annually produced approximately 25 tw 
+annual world biomass energy equivalent  16.7  33.4 tw 
+annual world energy consumption  17.7  on average  biomass production is 1.4 times larger than world energy consumption 
+common commodity food crops  
+agave  121 tons acre
+alfalfa  46 tons acre
+barley  grains  1.62.8 tons acre  straw  0.92.5 tons acre  total  2.55.3 tons acre
+corn  grains  3.24.9 tons acre  stalks and stovers  2.33.4 tons acre  total  5.58.3 tons acre
+jerusalem artichokes  tubers 18 tons acre  tops 213 tons acre  total 913 tons acre
+oats  grains  1.45.4 tons acre  straw  1.93.2 tons acre  total  3.38.6 tons acre
+rye  grains  2.12.4 tons acre  straw  2.43.4 tons acre  total  4.55.8 tons acre
+wheat  grains  1.24.1 tons acre  straw  1.63.8 tons acre  total  2.87.9 tons acre
+woody crops  
+oil palm  fronds 11 ton acre  whole fruit bunches 1 ton acre  trunks 30 ton acre
+not yet in commercial planting  
+giant miscanthus  515 tons acre
+sunn hemp  4.5 tons acre
+switchgrass  46 tons acre
+genetically modified varieties  
+energy sorghum
+biomass conversion  
+this section needs additional citations for   please help
+by   unsourced material may be challenged and removed   november 2010    
+thermal conversion  
+trends in the top five countries generating electricity from biomass
+are an example fuel for production of dendrothermal energy
+thermal conversion processes use heat as the dominant mechanism to convert biomass into another chemical form  also known as thermal oil heating  it is a type of indirect heating in which a liquid phase heat transfer medium is heated and circulated to one or more heat energy users within a closed loop system  the basic alternatives of
+     and   are separated principally by the extent to which the chemical reactions involved are allowed to proceed  mainly controlled by the availability of oxygen and conversion temperature  
+energy created by burning biomass  fuel wood  is particularly suited for countries where the fuel wood grows more rapidly  e g  tropical countries  there are a number of other less common  more experimental or proprietary thermal processes that may offer benefits such as hydrothermal upgrading  htu  and   some have been developed for use on high moisture content biomass  including aqueous slurries  and allow them to be converted into more convenient forms  some of the applications of thermal conversion are combined heat and power  chp  and   in a typical dedicated biomass power plant  efficiencies range from 2027    basis   biomass cofiring with coal  by contrast  typically occurs at efficiencies near those of the coal combustor  3040   higher heating value basis  
+chemical conversion  
+a range of chemical processes may be used to convert biomass into other forms  such as to produce a fuel that is more conveniently used  transported or stored  or to exploit some property of the process itself  many of these processes are based in large part on similar coal-based processes  such as   methanol production  olefins  ethylene and propylene   and similar chemical or fuel feedstocks  in most cases  the first step involves gasification  which step generally is the most expensive and involves the greatest technical risk  biomass is more difficult to feed into a pressure vessel than coal or any liquid  therefore  biomass
+is frequently done at atmospheric pressure and causes combustion of biomass to produce a combustible gas consisting of     and traces of   this gas mixture  called a   can provide fuel for various vital processes  such as   as well as substitute for furnace oil in direct heat applications  because any biomass material can undergo gasification  this process is far more attractive than ethanol or biomass production  where only particular biomass materials can be used to produce a fuel  in addition  biomass gasification is a desirable process due to the ease at which it can convert solid waste  such as wastes available on a farm  into producer gas  which is a very usable fuel 
+conversion of biomass to
+can also be achieved via selective conversion of individual components of biomass  for example 
+can be converted to intermediate platform chemical such a    
+etc  these chemical are then further reacted to produce hydrogen or hydrocarbon fuels 
+biomass also has the potential to be converted to multiple commodity chemicals 
+have successfully been by produced using a combination of a  fermentans and engineered s  cerevisiae  this method converts nax salts and unprocessed biomass such as   sugarcane  corn stover  or
+into halomethanes  s-adenosylmethionine which is naturally occurring in s  cerevisiae allows a methyl group to be transferred  production levels of 150mg l-1h-1 iodomethane were achieved  at these levels roughly 173000l of capacity would need to be operated just to replace the united states need for iodomethane  however  an advantage of this method is that it uses nai rather than i2  nai is significantly less hazardous than i2  this method may be applied to produce ethylene in the future 
+other chemical processes such as converting straight and waste vegetable oils into biodiesel is  
+biochemical conversion  
+as biomass is a natural material  many highly efficient biochemical processes have developed in nature to break down the molecules of which biomass is composed  and many of these biochemical conversion processes can be harnessed 
+biochemical conversion makes use of the enzymes of bacteria and other microorganisms to break down biomass into gaseous or liquid fuels  such a biogas or bioethanol  in most cases  microorganisms are used to perform the conversion process      and  
+electrochemical conversion  
+in addition to combustion  biomass biofuels can be directly converted to electrical energy via electrochemical oxidation of the material  this can be performed directly in a  
+or a microbial fuel cell  the fuel can also be consumed indirectly via a
+system containing a reformer which converts the biomass into a mixture of co and h2 before it is consumed in the fuel cell 
+in the united states  
+the biomass power generating industry in the united states  which consists of approximately 11,000
+of summer operating capacity actively supplying power to the grid  produces about 1.4 percent of the u s  electricity supply 
+currently  the new hope power partnership is the largest biomass power plant in the u s  the 140 mw facility uses sugarcane fiber    and recycled urban wood as fuel to generate enough power for its large milling and refining operations as well as to supply electricity for nearly 60,000 homes 
+second-generation biofuels  
+second-generation biofuels were not  in 2010  produced commercially  but a considerable number of research activities were taking place mainly in north america  europe and also in some emerging countries  these tend to use feedstock produced by rapidly reproducing
+or
+from various sources including
+grown in
+or
+there is huge potential for second generation biofuels but non-edible feedstock resources are highly under-utilized 
+environmental impact  
+using biomass as a fuel produces
+in the form of    
+ nitrogen oxides   vocs     particulates and other pollutants at levels above those from traditional fuel sources such as
+or
+in some cases  such as with indoor heating and cooking   utilization of wood biomass as a fuel can also produce fewer particulate and other pollutants than open burning as seen in wildfires or direct heat applications 
+ a pollutant created by combustion of fossil fuels  biofuels  and biomass  is possibly the second largest contributor to global warming  5657 in 2009 a swedish study of the
+that periodically covers large areas in south asia determined that it had been principally produced by open burning of biomass  and to a lesser extent by fossil-fuel burning  researchers measured a significant concentration of   which is associated with recent plant life rather than with fossil fuels 
+biomass power plant size is often driven by biomass availability in close proximity as transport costs of the  bulky  fuel play a key factor in the plant s economics  it has to be noted  however  that rail and especially shipping on waterways can reduce transport costs significantly  which has led to a global biomass market  to make small plants of 1 mwel economically profitable those power plants need to be equipped with technology that is able to convert biomass to useful electricity with high efficiency such as orc technology  a cycle similar to the water steam power process just with an organic working medium  such small power plants can be found in europe 
+on combustion  the carbon from biomass is released into the atmosphere as   the amount of carbon stored in dry wood is approximately 50  by weight  however  according to the
+of the   plant matter used as a fuel can be replaced by planting for new growth  when the biomass is from forests  the time to recapture the carbon stored is generally longer  and the carbon storage capacity of the forest may be reduced overall if destructive forestry techniques are employed 
+industry professionals claim that a range of issues can affect a plant s ability to comply with emissions standards  some of these challenges  unique to biomass plants  include inconsistent fuel supplies and age  the type and amount of the fuel supply are completely reliant factors  the fuel can be in the form of building debris or agricultural waste  such as removal of invasive species or orchard trimmings   furthermore  many of the biomass plants are old  use outdated technology and were not built to comply with todays stringent standards  in fact  many are based on technologies developed during the term of u s  president   who created the
+in 1977 
+the u s 
+projected that by 2017  biomass is expected to be about twice as expensive as natural gas  slightly more expensive than nuclear power  and much less expensive than solar panels  in another eia study released  concerning the governments plan to implement a 25  renewable energy standard by 2025  the agency assumed that 598 million tons of biomass would be available  accounting for 12  of the renewable energy in the plan 
+the adoption of biomass-based energy plants has been a slow but steady process  between the years of 2002 and 2012 the production of these plants has increased 14   in the united states  alternative electricity-production sources on the whole generate about 13  of power  of this fraction  biomass contributes approximately 11  of the alternative production  according to a study conducted in early 2012  of the 107 operating biomass plants in the united states  85 have been cited by federal or state regulators for the violation of clean air or water standards laws over the past 5 years  this data also includes minor infractions 
+despite harvesting  biomass crops may
+carbon  for example  soil organic carbon has been observed to be greater in switchgrass stands than in cultivated cropland soil  especially at depths below 12inches  the grass sequesters the carbon in its increased root biomass  typically  perennial crops sequester much more carbon than annual crops due to much greater non-harvested living biomass  both living and dead  built up over years  and much less soil disruption in cultivation 
+the proposal that biomass is carbon-neutral put forward in the early 1990s has been superseded by more recent science that recognizes that mature  intact forests sequester carbon more effectively than cut-over areas  when a tree s carbon is released into the atmosphere in a single pulse  it contributes to climate change much more than woodland timber rotting slowly over decades  current studies indicate that  even after 50 years the forest has not recovered to its initial carbon storage  and  the optimal strategy is likely to be protection of the standing forest    
+the pros and cons of biomass usage regarding carbon emissions may be quantified with the
+factor  there is controversy surrounding the usage of the
+factor 
+forest-based biomass has recently come under fire from a number of environmental organizations  including
+and the   for the harmful impacts it can have on forests and the climate  greenpeace recently released a report entitled  fuelling a biomess  which outlines their concerns around forest-based biomass  because any part of the tree can be burned  the harvesting of trees for energy production encourages   which removes more nutrients and soil cover than regular harvesting  and can be harmful to the long-term health of the forest  in some jurisdictions  forest biomass removal is increasingly involving elements essential to functioning forest ecosystems  including standing trees  naturally disturbed forests and remains of traditional logging operations that were previously left in the forest  environmental groups also cite recent scientific research which has found that it can take many decades for the carbon released by burning biomass to be recaptured by regrowing trees  and even longer in low productivity areas  furthermore  logging operations may disturb forest soils and cause them to release stored carbon    in light of the pressing need to reduce greenhouse gas emissions in the short term in order to mitigate the   a number of environmental groups are opposing the large-scale use of forest biomass in energy production 
+supply chain issues  
+with the seasonality of biomass supply and a great variability in sources  supply chains play a key role in cost-effective delivery of bioenergy  there are several potential challenges unique to bioenergy supply chains 
+technical issues
+inefficiencies of the conversion processes
+storage methods for seasonal availability
+complex multi-component constituents incompatible with maximizing efficiency of single purpose use
+high water content of many biomass feedstock
+conflicting decisions  technologies  locations  and routes 
+complex location analysis  source points  inventory facilities  and production plants 
+logistic issues
+seasonal availability leading to storage challenges and or seasonally idle facilities
+low bulk-density and or high water content making transportation of biomass less economical
+finite productivity per area and or time incompatible with conventional approach to economy of scale focusing on maximizing facility size
+financial issues
+the limits for the traditional approach to economy of scale which focuses on maximizing single facility size
+unavailability and complexity of life cycle costing data
+lack of required transport infrastructure
+limited flexibility or inflexibility to energy demand
+risks associated with new technologies  insurability  performance  rate of return 
+extended market volatilities  conflicts with alternative markets for biomass 
+difficult or impossible to use financial hedging methods to control cost
+social issues
+lack of participatory decision making
+lack of public community awareness
+local supply chain impacts vs  global benefits
+health and safety risks
+extra pressure on transport sector
+decreasing the esthetics of rural areas
+policy and regulatory issues
+impact of fossil fuel tax on biomass transport
+lack of incentives to create competition among bioenergy producers
+focus on technology options and less attention to selection of biomass materials
+lack of support for sustainable supply chain solutions
+institutional and organizational issues
+varied ownership arrangements and priorities among supply chain parties
+lack of supply chain standards
+impact of organizational norms and rules on decision making and supply chain coordination
+immaturity of change management practices in biomass supply chains
+see also  
+generates hydrogen or methane
+ a traditional biomass fuel 
+references  
+  biomassenergycentre org uk  retrieved on 2012-02-28 
+ 
+retrieved on 2012-04-12 
+field  c  b   behrenfeld  m  j   randerson  j  t   falkowski  p   1998    primary production of the biosphere  integrating terrestrial and oceanic components   science  281  5374   237240      
+darby  thomas    real world energy  retrieved 12 june 2014 
+t a  volk  l p  abrahamson  e h  white  e  neuhauser  e  gray  c  demeter  c  lindsey  j  jarnefeld  d j  aneshansley  r  pellerin and s  edick  october 1519  2000     proceedings of bioenergy 2000 
+hotel    usa  north east regional biomass program    retrieved 2006-12-16 
+martin  marshall a   1 november 2010    first generation biofuels compete   new biotechnology  27  5   596608      
+naik  s n   goud  vaibhav v   rout  prasant k   dalai  ajay k   2010    production of first and second generation biofuels  a comprehensive review   renewable and sustainable energy reviews  14  2   578597    
+retrieved on 2012-03-31 
+retrieved on 2012-03-31 
+  crops are grown specifically for use as fuel  biomass energy centre  retrieved 6 april 2013 
+  capacity of about 6.7 gigawatts in 2000 to about 10.4 gigawatts by 2020  u s  energy information administration  eia   retrieved 6 april 2013 
+  eia doe gov  retrieved on 2012-02-28 
+  energy digital 
+  u s  department of energy office of science  april 19  2010  archived from
+on 2010-10-28  retrieved 2010-08-02 
+ pdf   june 2006  retrieved 2010-08-02 
+randor radakovits  robert e  jinkerson  al darzins  matthew c  posewitz1  2010     eukaryotic cell  9  4   486501        
+frauke urban and tom mitchell 2011    london 
+and
+  retrieved 11 january 2015 
+  retrieved 11 january 2015 
+ watch bill gates sip water made from sewer sludge   forbes  missing or empty  url    
+field  c b   behrenfeld  m j   randerson  j t   falkowski  p   1998    primary production of the biosphere  integrating terrestrial and oceanic components     281  5374   237240      
+february 12  2015  at the  
+  potential of plants from the genus agave as bioenergy crops
+ 
+  usda agriculture research services  madison  wisconsin
+ 
+barley  chemistry and technology  macgregor   bhatty editors
+biology and chemistry of jerusalem artichoke  table 10-10  stanley kays   stephen nottingham
+  archived from
+on 2014-10-26  retrieved 2014-10-19 
+iowa state university  department of agronomy
+perry  a 
+usda ars news  january 3  2012 
+  sigma thermal  retrieved 2016-10-18 
+  claverton-energy com  2010-09-17   retrieved on 2012-02-28 
+baxter  l   2005    biomass-coal co-combustion  opportunity for affordable renewable energy   fuel 84 10   12951302 
+liu  g   e  d  larson  r  h  williams  t  g  kreutz and x  guo  2011    making fischer-tropsch fuels and electricity from coal and biomass  performance and cost analysis   energy   fuels 25  415437 
+ 
+rajvanshi  a  k   biomass gasification   alternative energy in agriculture  vol  ii  ed  d  yogi goswami  crc press  1986  pp  83102 
+kunkes  e  l   simonetti  d  a   west  r  m   serrano-ruiz  j  c   gartner  c  a   dumesic  j  a   2008    catalytic conversion of biomass to monofunctional hydrocarbons and targeted liquid-fuel classes   science  322  5900   417421      
+shrotri  abhijit  tanksale  akshat  beltramini  jorge norberto  gurav  hanmant  chilukuri  satyanarayana v   2012    conversion of cellulose to polyols over promoted nickel catalysts   catalysis science   technology  2  9   1852    
+kobayashi  hirokazu  yabushita  mizuho  komanoya  tasuku  hara  kenji  fujita  ichiro  fukuoka  atsushi  2013    high-yielding one-pot synthesis of glucose from cellulose using simple activated carbons and trace hydrochloric acid   acs catalysis  3  4   581587    
+chheda  juben n   romn-leshkov  yuriy  dumesic  james a   2007    production of 5-hydroxymethylfurfural and furfural by dehydration of biomass-derived mono- and poly-saccharides   green chemistry  9  4   342    
+huber  george w   iborra  sara  corma  avelino  2006    synthesis of transportation fuels from biomass  chemistry  catalysts  and engineering   chemical reviews  106  9   40444098      
+ 
+alaimo  peter   amanda-lynn marshall  2010   useful products from complex starting materials  common chemicals from biomass feedstocks  chemistry  a european journal 15 49704980 
+  biomassenergycentre org uk  retrieved on 2012-02-28 
+  bioenergy consult  2014-05-29  retrieved 2016-10-18 
+munnings  c   kulkarni  a   giddey  s   badwal  s p s   august 2014    biomass to power conversion in a direct carbon fuel cell   international journal of hydrogen energy  39  23   1237712385    
+knight  chris  2013    chapter 6  application of microbial fuel cells to power sensor networks for ecological monitoring   wireless sensor networks and ecological monitoring  smart sensors  measurement and instrumentation  3  pp 151178      
+badwal  sukhvinder p  s   giddey  sarbjit s   munnings  christopher  bhatt  anand i   hollenkamp  anthony f   24 september 2014    emerging electrochemical energy conversion and storage technologies  open access    frontiers in chemistry  2    
+  u s  energy information administration  july 2001  retrieved 2010-01-25 
+   pdf   retrieved on 2012-02-28 
+  scientificamerican com  retrieved on 2012-02-28 
+kosinkova  jana  doshi  amar  maire  juliette  ristovski  zoran  brown  richard  rainey  thomas  september 2015     renewable and sustainable energy reviews  49  12711285    
+eartha jane melzer  january 26  2010     the michigan messenger  archived from
+on 2010-02-05 
+zhang  j   smith  k  r   2007     environmental health perspectives  115  6   848855        
+ announcement   archives of virology  130  225  1993    
+springsteen  bruce  christofk  tom  eubanks  steve  mason  tad  clavin  chris  storey  brett  2011    emission reductions from woody biomass waste for energy as an alternative to open burning   journal of the air   waste management association  61  1   6    
+starke  linda  2009   state of the world 2009  into a warming world  a worldwatch institute report on progress toward a sustainable society  ww norton   company   
+gustafsson  o   krusa  m   zencak  z   sheesley  r  j   granat  l   engstrom  e   praveen  p  s   rao  p  s  p   et al   2009    brown clouds over south asia  biomass or fossil fuel combustion    science  323  5913   4958      
+    87  4  31
+heinim  j   junginger  m   2009  
+ pdf   biomass and bioenergy  33  9   1310    
+july 21  2011  at the    gmk info  retrieved on 2012-02-28 
+  globaljusticeecology org
+  ctv ca  2008-02-09   retrieved on 2012-02-28 
+  energy-daily com  2007-04-24   retrieved on 2012-02-28 
+july 11  2007  at the     pdf    retrieved on 2012-02-28 
+prasad  ram    food and agriculture organization of the united nations  retrieved 11 august 2010 
+  friends of the earth international  retrieved 11 august 2010 
+laiho  raija  sanchez  felipe  tiarks  allan  dougherty  phillip m   trettin  carl c    united states department of agriculture  retrieved 11 august 2010 
+  food and agriculture organization of the united nations  retrieved 11 august 2010 
+u s  energy information administration  april 2010  
+ pdf   report no  doe eia-0383 2010    washington  dc  national energy information center  retrieved september 27  2012 
+  union of concerned scientists  retrieved 4 april 2013 
+ 
+scheck  justin  et al   july 23  2012     wall street journal  retrieved september 27  2012 
+  nrel s vision is to develop technology  national renewable energy laboratory  retrieved 4 april 2013 
+  usda agricultural research service  april 1  2005
+  jobs and energy  retrieved on 2012-02-28 
+edmunds  joe  richard richets  marshall wise   future fossil fuel carbon emissions without policy intervention  a review   in t  m  l  wigley  david steven schimel  the carbon cycle  cambridge university press  2000  pp 171189
+luyssaert  sebastiaan  -detlef schulze  e   brner  annett  knohl  alexander  hessenmller  dominik  law  beverly e   ciais  philippe  grace  john  11 september 2008    old-growth forests as global carbon sinks   nature  455  7210   213215      
+ biofuel companies question arb s inclusion of indirect effects in low carbon fuel standard   green car congress  2008-10-24  retrieved 2009-04-28 
+ 
+ pdf     october 2011  retrieved 2015-06-14 
+  switchboard nrdc org  2011-05-02   retrieved on 2012-02-28 
+mafakheri  f   nasiri  f   2014    modeling of biomass-to-energy supply chain operations  applications  challenges and research directions   energy policy  67  116    
+external links  
+look up
+in wiktionary  the free dictionary 
+wikimedia commons has media related to  
+ga mansoori  n enayati  lb agyarko  2016     world sci  pub  co  
+  
+technology
+concepts
+types
+  
+and
+  
+  
+biomass
+  
+  
+ 
+ 
+retrieved from   
+  hidden categories 

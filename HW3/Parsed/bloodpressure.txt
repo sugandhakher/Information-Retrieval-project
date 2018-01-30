@@ -1,0 +1,495 @@
+bloodpressure
+from wikipedia  the free encyclopedia
+jump to 					 
+for other uses  see  
+blood pressure
+diagnostics
+a   a device used for measuring arterial pressure
+  
+blood pressure  bp  is the
+of circulating
+on the walls of   when used without further specification   blood pressure  usually refers to the
+pressure in the   blood pressure is usually expressed in terms of the
+ maximum during one heart beat  pressure over
+ minimum in between two heart beats  pressure and is measured in millimeters of mercury     above the surrounding atmospheric pressure  considered to be zero for convenience  
+it is one of the   along with       and   normal resting systolic  diastolic  blood pressure in an adult is approximately 120mmhg  80mmhg   abbreviated  120/80mmhg  
+traditionally  blood pressure is measured non-invasively using a mercury manometer because these gauges are dependent upon only gravity  thus inherently more accurate than alternative types of pressure gauges  in research  the values obtained by an experienced knowledgeable physician using a mercury manometer and
+listing for the
+are typically within 10 mmhg of the pressures measured via higher sophistication internal measurements of central aortic pressures at heart level  other methods  which have become more dominant  for cost  time  convenience and concerns about potential mercury toxicity issues  are inherently less accurate 
+blood pressure is determined  moment by moment  by the balance between
+versus
+and varies depending on situation  emotional state  activity  and relative health disease states  it is
+by the brain via both the
+and
+systems 
+blood pressure that is low
+is called   and pressure that is consistently high is   both have many causes which can range from mild to severe  both may be of sudden onset or of long duration  long term hypertension is a risk factor for many diseases  including  
+and   long term hypertension is more common than long term hypotension in western countries  long term hypertension often goes undetected because of infrequent monitoring and the absence of symptoms 
+contents
+classification  
+systemic arterial pressure  
+classification of blood pressure for adults
+category
+ 
+  mmhg
+  90
+  60
+desired
+90119
+6079
+120139
+8089
+stage 1
+140159
+9099
+stage 2 hypertension
+160179
+100109
+ 180
+ 110
+ 160
+  90
+the table presented here shows the classification of blood pressure adopted by the american heart association for adults who are 18 years and older  it assumes the values are a result of averaging resting blood pressure readings measured at two or more visits to the doctor 
+in the   clinic blood pressures are usually categorized into three groups  low  90/60 or lower   normal  between 90/60 and 139/89   and high  140/90 or higher  
+blood pressure fluctuates from minute to minute and normally shows a circadian rhythm over a 24-hour period  with highest readings in the early morning and evenings and lowest readings at night  loss of the normal fall in blood pressure at night is associated with a greater future risk of cardiovascular disease and there is evidence that night-time blood pressure is a stronger predictor of cardiovascular events than day-time blood pressure 
+various factors  such as age and sex  influence a person s blood pressure and variations in it  in children  the normal ranges are lower than for adults and depend on height  reference blood pressure values have been developed for children in different countries  based on the distribution of blood pressure in children of these countries  as adults age  systolic pressure tends to rise and diastolic tends to fall  in the elderly  systolic blood pressure tends to be above the normal adult range  thought to be largely because of reduced flexibility of the arteries  also  an individual s blood pressure varies with exercise  emotional reactions  sleep  digestion and time of day    
+differences between left and right arm blood pressure measurements tend to be random and average to nearly zero if enough measurements are taken  however  in a small percentage of cases there is a consistent difference greater than 10mmhg which may need further investigation  e g  for  
+the risk of cardiovascular disease increases progressively above 115/75mmhg  in the past 
+was only diagnosed if secondary signs of high arterial pressure were present  along with a prolonged high systolic pressure reading over several visits  regarding hypotension  in practice blood pressure is considered too low only if noticeable
+are present 
+clinical trials demonstrate that people who maintain arterial pressures at the low end of these pressure ranges have much better long term cardiovascular health  the principal medical debate concerns the aggressiveness and relative value of methods used to lower pressures into this range for those who do not maintain such pressure on their own  elevations  more commonly seen in older people  though often considered normal  are associated with increased
+and  
+for blood pressure in children
+stage
+approximate age
+systolic
+diastolic
+infants
+1 to 12 months
+75100
+5070
+toddlers and preschoolers
+1 to 5 years
+80110
+5080
+school age
+6 to 12 years
+85120
+5080
+adolescents
+13 to 18 years
+95140
+6090
+mean arterial pressure  
+the
+ map  is the average over a
+and is determined by the
+ co  
+ svr   and
+ cvp  
+map
+ 
+ 
+co
+
+svr
+ 
+ 
+cvp
+  displaystyle     text map      text co   cdot   text svr      text cvp   
+in practice the contribution of cvp  which is small  is generally ignored and so
+map
+ 
+co
+
+svr
+  displaystyle     text map     text co   cdot   text svr   
+map can be estimated from measurements of the systolic pressure
+p
+sys
+  displaystyle   p   text sys   
+and the diastolic pressure
+p
+dias
+  displaystyle   p   text dias   
+map
+
+p
+dias
+ 
+1
+3
+ 
+p
+sys
+
+p
+dias
+ 
+  displaystyle     text map   approxeq p   text dias     frac  1  3   p   text sys  -p   text dias    
+pulse pressure  
+curve of the arterial pressure during one cardiac cycle  the closing of the aortic valve causes the notch in the curve 
+the
+is the difference between the measured systolic and diastolic pressures 
+p
+pulse
+ 
+p
+sys
+
+p
+dias
+ 
+  displaystyle   p   text pulse   p   text sys  -p   text dias    
+the up and down fluctuation of the
+pressure results from the pulsatile nature of the   i e  the heartbeat  pulse pressure is determined by the interaction of the
+of the heart  the compliance  ability to expand  of the arterial systemlargely attributable to the
+and large elastic arteriesand the
+to flow in the   by expanding under pressure  the aorta absorbs some of the force of the blood surge from the heart during a heartbeat  in this way  the pulse pressure is reduced from what it would be if the aorta were not compliant  the loss of arterial compliance that occurs with aging explains the elevated pulse pressures found in elderly patients 
+systemic venous pressure  
+site
+normal
+pressure range
+ in  
+38
+systolic
+1530
+diastolic
+38
+systolic
+1530
+diastolic
+412
+pulmonary vein 
+215
+systolic
+100140
+diastolic
+3-12
+blood pressure generally refers to the arterial pressure in the   however  measurement of pressures in the venous system and the
+plays an important role in
+but requires invasive measurement of pressure using a  
+venous pressure is the vascular pressure in a
+or in the   it is much less than arterial pressure  with common values of 5mmhg in the
+and 8mmhg in the left atrium 
+variants of venous pressure include 
+  which is a good approximation of right atrial pressure  which is a major determinant of right ventricular end diastolic volume   however  there can be exceptions in some cases  
+the
+ jvp  is the indirectly observed pressure over the venous system  it can be useful in the differentiation of different forms of
+and  
+the
+is the blood pressure in the   it is normally 510mmhg
+pulmonary pressure  
+main article 
+normally  the pressure in the
+is about 15mmhg at rest 
+increased blood pressure in the capillaries of the lung cause   leading to
+if the pressure increases to above 20mmhg  and to
+at pressures above 25mmhg 
+disorders  
+disorders of blood pressure control include      and blood pressure that shows excessive or maladaptive fluctuation 
+high  
+main article 
+overview of main complications of persistent high blood pressure 
+can be an indicator of other problems and may have long-term adverse effects  sometimes it can be an acute problem  for example  
+levels of arterial pressure put mechanical stress on the arterial walls  higher pressures increase heart workload and progression of unhealthy tissue growth    that develops within the walls of arteries  the higher the pressure  the more stress that is present and the more
+tend to progress and the
+tends to thicken  enlarge and become weaker over time 
+persistent
+is one of the risk factors for    
+and arterial aneurysms  and is the leading cause of   even moderate elevation of arterial pressure leads to shortened   at severely high pressures  mean arterial pressures 50  or more above average  a person can expect to live no more than a few years unless appropriately treated 
+in the past  most attention was paid to
+pressure  but nowadays it is recognised that both high
+pressure and high
+ the numerical difference between systolic and diastolic pressures  are also risk factors  in some cases  it appears that a decrease in excessive diastolic pressure can actually increase risk  due probably to the increased difference between systolic and diastolic pressures  see the article on    if systolic blood pressure is elevated   140mmhg  with a normal diastolic blood pressure   90mmhg   it is called  isolated systolic hypertension  and may present a health concern 
+for those with
+regurgitation  a change in its severity may be associated with a change in diastolic pressure  in a study of people with heart valve regurgitation that compared measurements 2 weeks apart for each person  there was an increased severity of
+and
+when diastolic blood pressure increased  whereas when diastolic blood pressure decreased  there was a decreased severity 
+low  
+main article 
+blood pressure that is too low is known as   hypotension is a medical concern if it causes signs or symptoms  such as dizziness  fainting  or in extreme cases   
+when arterial pressure and blood
+decrease beyond a certain point  the
+of the brain becomes critically decreased  i e   the blood supply is not sufficient   causing lightheadedness  dizziness  weakness or fainting 
+sometimes the arterial pressure drops significantly when a patient stands up from sitting  this is known as
+ postural hypotension   gravity reduces the rate of blood return from the body veins below the heart back to the heart  thus reducing stroke volume and cardiac output   
+when people are healthy  the veins below their heart quickly constrict and the heart rate increases to minimize and compensate for the gravity effect  this is carried out involuntarily by the autonomic nervous system  the system usually requires a few seconds to fully adjust and if the compensations are too slow or inadequate  the individual will suffer reduced blood flow to the brain  dizziness and potential blackout  increases in g-loading  such as routinely experienced by aerobatic or combat pilots     greatly increases this effect  repositioning the body perpendicular to gravity largely eliminates the problem   
+other causes of low arterial pressure include   
+ blood loss
+including toxic doses of blood pressure medicine
+abnormalities  such as
+  particularly
+and
+is a complex condition which leads to critically decreased   the usual mechanisms are loss of blood volume  pooling of blood within the veins reducing adequate return to the heart and or low effective heart pumping  low arterial pressure  especially low pulse pressure  is a sign of shock and contributes to and reflects decreased perfusion   
+if there is a significant difference in the pressure from one arm to the other  that may indicate a narrowing  for example  due to    
+or   of an    
+fluctuating blood pressure  
+normal fluctuation in blood pressure is adaptive and necessary  fluctuations in pressure that are significantly greater than the norm are associated with greater   a finding consistent with reduced local cerebral blood flow and a heightened risk of
+disease  within both high and low blood pressure groups  a greater degree of fluctuation was found to correlate with an increase in cerebrovascular disease compared to those with less variability  suggesting the consideration of the clinical management of blood pressure fluctuations  even among
+older adults  older individuals and those who had received blood pressure medications were more likely to exhibit larger fluctuations in pressure 
+physiology  
+systole on the left and diastole on the right
+during each heartbeat  blood pressure varies between a maximum  systolic  and a minimum  diastolic  pressure  the blood pressure in the circulation is principally due to the pumping action of the heart  differences in mean blood pressure are responsible for blood flow from one location to another in the circulation  the rate of mean blood flow depends on both blood pressure and the resistance to flow presented by the blood vessels  mean blood pressure decreases as the
+moves away from the
+through arteries and
+due to
+losses of energy  mean blood pressure drops over the whole circulation  although most of the fall occurs along the small arteries and   gravity affects blood pressure via
+forces  e g   during standing   and valves in veins    and pumping from contraction of skeletal muscles also influence blood pressure in veins 
+hemodynamics  
+main article 
+most influences on blood pressure can be understood in terms of their effect on cardiac output and resistance  the determinants of mean arterial pressure  
+some factors are 
+  the greater the blood volume  the higher the cardiac output  there is some relationship between dietary salt intake and increased blood volume  potentially resulting in higher arterial pressure  though this varies with the individual and is highly dependent on autonomic nervous system response and the  
+cardiac output  the pumping action of the heart is ultimately responsible for blood pressure  increases or decreases in cardiac output can result in increases or decreases respectively in blood pressure 
+systemic vascular resistance  the higher the resistance to blood flow  the higher the arterial pressure upstream needs to be to maintain flow  in simple terms  resistance is related to vessel radius by the
+ resistance1 radius4  so the smaller the radius  the very much higher the resistance   other physical factors that affect resistance include  vessel length  the longer the vessel  the higher the resistance   blood viscosity  the higher the viscosity  the higher the resistance  and the presence of an arterial
+ a narrow stenosis increases resistance to flow  however this increase in resistance rarely if ever increases systemic blood pressure  it decreases downstream flow   substances called
+can reduce the calibre of blood vessels  thereby increasing blood pressure 
+ such as   increase the calibre of blood vessels  thereby decreasing arterial pressure 
+in practice  each individual s autonomic nervous system and other systems regulating blood pressure respond to and regulate all these factors so that  although the above issues are important  they rarely act in isolation and the actual arterial pressure response of a given individual can vary widely in the short and long-term 
+regulation  
+main article 
+the
+regulation of arterial pressure is not completely understood  but the following mechanisms of regulating arterial pressure have been well-characterized 
+ 
+in the
+detect changes in arterial pressure  these baroreceptors send signals ultimately to the   specifically to the
+ rvlm   the medulla  by way of the   adjusts the mean arterial pressure by altering both the force and speed of the heart s contractions  as well as the systemic vascular resistance  the most important arterial baroreceptors are located in the left and right
+and in the  
+ ras   this system is generally known for its long-term adjustment of arterial pressure  this system allows the
+to compensate for loss in
+or drops in arterial pressure by activating an endogenous
+known as  
+release  this
+is released from the
+in response to angiotensin ii or high serum
+levels  aldosterone stimulates
+retention and potassium excretion by the kidneys  since sodium is the main ion that determines the amount of fluid in the blood vessels by   aldosterone will increase fluid retention  and indirectly  arterial pressure 
+in
+ mainly in the
+and the   and in the   result in feedback by regulating the secretion of
+ adh vasopressin  
+and   the resultant increase in
+results in an increased
+by the   in turn increasing arterial blood pressure 
+these different mechanisms are not necessarily independent of each other  as indicated by the link between the ras and aldosterone release  when blood pressure falls many physiological cascades commence in order to return the blood pressure to a more appropriate level 
+the blood pressure fall is detected by a decrease in blood flow and thus a decrease in
+ gfr  
+decrease in gfr is sensed as a decrease in na  levels by the  
+the macula densa cause an increase in na  reabsorption  which causes water to follow in via
+and leads to an ultimate increase in
+volume  further  the macula densa releases adenosine which causes constriction of the afferent arterioles 
+at the same time  the
+sense the decrease in blood pressure and release  
+renin converts
+ inactive form  to
+ active form  
+angiotensin i flows in the bloodstream until it reaches the capillaries of the lungs where
+ ace  acts on it to convert it into  
+angiotensin ii is a vasoconstrictor which will increase bloodflow to the heart and subsequently the preload  ultimately increasing the  
+angiotensin ii also causes an increase in the release of
+from the  
+aldosterone further increases the na  and h2o reabsorption in the
+of the  
+currently  the ras is targeted pharmacologically by
+and   the aldosterone system is directly targeted by   an   the fluid retention may be targeted by   the antihypertensive effect of diuretics is due to its effect on blood volume  generally  the baroreceptor reflex is not targeted in
+because if blocked  individuals may suffer from
+and  
+measurement  
+it has been suggested that this section be
+out into another article      august 2014 
+a medical student checking blood pressure using a sphygmomanometer and stethoscope 
+right position for taking blood pressure
+arterial pressure is most commonly measured via a   which historically used the height of a column of mercury to reflect the circulating pressure  blood pressure values are generally reported in
+ mmhg   though aneroid and electronic devices do not contain  
+for each heartbeat  blood pressure varies between systolic and diastolic pressures  systolic pressure is peak pressure in the arteries  which occurs near the end of the
+when the
+are contracting  diastolic pressure is minimum pressure in the arteries  which occurs near the beginning of the cardiac cycle when the ventricles are filled with blood  an example of normal measured values for a resting  healthy adult human is 120mmhg
+and 80mmhg
+ written as 120/80mmhg  and spoken as  one-twenty over eighty   
+systolic and diastolic arterial blood pressures are not static but undergo natural variations from one heartbeat to another and throughout the day  in a
+rhythm   they also change in response to   nutritional factors    disease  exercise  and   sometimes the variations are large 
+refers to arterial pressure being abnormally high  as opposed to   when it is abnormally low  along with     and   blood pressure is one of the four main vital signs routinely monitored by medical professionals and healthcare providers 
+measuring pressure   by penetrating the arterial wall to take the measurement  is much less common and usually restricted to a hospital setting 
+non-invasive  
+the non-invasive
+and oscillometric measurements are simpler and quicker than invasive measurements  require less expertise  have virtually no complications  are less unpleasant and less painful for the patient  however  non-invasive methods may yield somewhat lower accuracy and small systematic differences in numerical results  non-invasive measurement methods are more commonly used for routine examinations and monitoring 
+palpation  
+a minimum systolic value can be roughly estimated by   most often used in   but should be used with caution  it has been estimated that  using 50    carotid  femoral and radial pulses are present in patients with a systolic blood pressure   70mmhg  carotid and femoral pulses alone in patients with systolic blood pressure of   50mmhg  and only a carotid pulse in patients with a systolic blood pressure of   40mmhg 
+a more accurate value of systolic blood pressure can be obtained with a
+and palpating the radial pulse  the diastolic blood pressure cannot be estimated by this method  the american heart association recommends that palpation be used to get an estimate before using the auscultatory method 
+auscultatory  
+auscultatory method aneroid sphygmomanometer with stethoscope
+mercury manometer
+the auscultatory method  from the latin word for  listening   uses a
+and a   this comprises an inflatable   
+placed around the upper
+at roughly the same vertical height as the heart  attached to a mercury or
+  the mercury manometer  considered the gold standard  measures the height of a column of mercury  giving an absolute result without need for calibration and  consequently  not subject to the errors and drift of calibration which affect other methods  the use of mercury manometers is often required in
+and for the clinical measurement of
+in high-risk patients  such as  
+a cuff of the appropriate size is fitted smoothly and also snugly  then inflated manually by repeatedly squeezing a rubber bulb until the artery is completely occluded  it is important that the cuff size is correct  undersized cuffs record too high a pressure  oversized cuffs may yield too low a pressure  usually three or four cuff sizes should be available to allow measurements in arms of different size  listening with the stethoscope to the
+at the
+of the   the examiner slowly releases the pressure in the cuff  when blood just starts to flow in the artery  the
+creates a  whooshing  or pounding  first    the pressure at which this sound is first heard is the systolic blood pressure  the cuff pressure is further released until no sound can be heard  fifth korotkoff sound   at the diastolic arterial pressure 
+the auscultatory method is the predominant method of clinical measurement 
+oscillometric  
+the oscillometric method was first demonstrated in 1876 and involves the observation of oscillations in the sphygmomanometer cuff pressure which are caused by the oscillations of   i e   the   the electronic version of this method is sometimes used in long-term measurements and general practice  it uses a sphygmomanometer cuff  like the auscultatory method  but with an electronic
+   to observe cuff pressure oscillations  electronics to automatically interpret them  and automatic inflation and deflation of the cuff  the pressure sensor should be calibrated periodically to maintain accuracy 
+oscillometric measurement requires less skill than the auscultatory technique and may be suitable for use by untrained staff and for automated patient home monitoring  as for the auscultatory technique it is important that the cuff size is appropriate for the arm  there are some single cuff devices that may be used for arms of differing sizes  although experience with these is limited 
+the cuff is inflated to a pressure initially in excess of the systolic arterial pressure and then reduced to below diastolic pressure over a period of about 30seconds  when blood flow is nil  cuff pressure exceeding systolic pressure  or unimpeded  cuff pressure below diastolic pressure   cuff pressure will be essentially constant  when blood flow is present  but restricted  the cuff pressure  which is monitored by the pressure sensor  will vary periodically in synchrony with the cyclic expansion and contraction of the brachial artery  i e   it will  
+over the deflation period  the recorded pressure waveform forms a signal known as the cuff deflation curve  a bandpass filter is utilized to extract the oscillometric pulses from the cuff deflation curve  over the deflation period  the extracted oscillometric pulses form a signal known as the oscillometric waveform  omw   the amplitude of the oscillometric pulses increases to a maximum and then decreases with further deflation  a variety of analysis algorithms can be employed in order to estimate the systolic  diastolic  and mean arterial pressure 
+oscillometric monitors may produce inaccurate readings in patients with heart and circulation problems  which include         and  
+in practice the different methods do not give identical results  an algorithm and experimentally obtained coefficients are used to adjust the oscillometric results to give readings which match the auscultatory results as well as possible  some equipment uses computer-aided analysis of the instantaneous arterial pressure
+to determine the systolic  mean  and diastolic points  since many oscillometric devices have not been validated  caution must be given as most are not suitable in clinical and acute care settings 
+recently  several coefficient-free oscillometric algorithms have developed for estimation of blood pressure  these algorithms do not rely on experimentally obtained coefficients and have been shown to provide more accurate and robust estimation of blood pressure  these algorithms are based on finding the fundamental relationship between the oscillometric waveform and the blood pressure using modeling and learning approaches 
+the term nibp  for non-invasive blood pressure  is often used to describe oscillometric monitoring equipment 
+continuous noninvasive techniques  cnap   
+ cnap  is the method of measuring arterial blood pressure in real-time without any interruptions and without cannulating the human body  cnap combines the advantages of the following two clinical gold standards  it measures blood pressure continuously in real-time like the invasive
+system and it is noninvasive like the standard upper arm   latest developments in this field show promising results in terms of accuracy  ease of use and clinical acceptance 
+non-occlusive techniques  the pulse wave velocity  pwv  principle  
+since the 1990s a novel family of techniques based on the so-called
+ pwv  principle have been developed  these techniques rely on the fact that the velocity at which an arterial pressure pulse travels along the arterial tree depends  among others  on the underlying blood pressure  accordingly  after a calibration maneuver  these techniques provide indirect estimates of blood pressure by translating pwv values into blood pressure values 
+the main advantage of these techniques is that it is possible to measure pwv values of a subject continuously  beat-by-beat   without medical supervision  and without the need of inflating brachial cuffs  pwv-based techniques are still in the research domain and are not adapted to clinical settings 
+ambulatory and home monitoring  
+devices take readings regularly  e g  every half-hour throughout the day and night   they have been used to exclude measurement problems like
+and provide more reliable estimates of usual blood pressure and cardiovascular risk  blood pressure readings outside of a clinical setting are usually slightly lower in the majority of people  however studies that quantified the risks from
+and the benefits of lowering blood pressure have mostly been based on readings in a clinical environment  use of ambulatory measurements is not widespread but guidelines developed by the uk national institute for health and care excellence and the british hypertension society recommended that 24-hour ambulatory blood pressure monitoring should be used for diagnosis of hypertension  health economic analysis suggested that this approach would be cost effective compared with repeated clinic measurements 
+home monitoring is a cheap and simple alternative to ambulatory blood pressure monitoring  although it does not usually allow assessment of blood pressure during sleep which may be a disadvantage  automatic self-contained blood pressure monitors are available at reasonable prices  however measurements may not be accurate in patients with atrial fibrillation or other arrhythmias such as frequent ectopic beats  home monitoring may be used to improve hypertension management and to monitor the effects of lifestyle changes and medication related to blood pressure  compared to ambulatory blood pressure measurements  home monitoring has been found to be an effective and lower cost alternative  but ambulatory monitoring is more accurate than both clinic and home monitoring in diagnosing hypertension 
+when measuring blood pressure in the home  an accurate reading requires that one not drink coffee  smoke cigarettes  or engage in strenuous exercise for 30minutes before taking the reading  a full bladder may have a small effect on blood pressure readings  if the urge to urinate arises  one should do so before the reading  for 5minutes before the reading  one should sit upright in a chair with one s feet flat on the floor and with limbs uncrossed  the blood pressure cuff should always be against bare skin  as readings taken over a shirt sleeve are less accurate  the same arm should be used for all measurements  during the reading  the arm that is used should be relaxed and kept at heart level  for example by resting it on a table 
+since blood pressure varies throughout the day  home measurements should be taken at the same time of day  a joint scientific statement from the american heart association  american society of hypertension  and preventive cardiovascular nurses association on home monitoring in 2008 recommended that 2 to 3 readings should be taken in the morning  after awakening  before washing dressing  taking breakfast drink or taking medication  and another 2 to 3 readings at night  each day over a period of 1 week  it was also recommended that the readings from the first day should be discarded and that a total of 12 readings  i e  at least two readings per day for the remaining 6 days of the week  should be used for making clinical decisions 
+white-coat hypertension  
+for some patients  blood pressure measurements taken in a doctor s office may not correctly characterize their typical blood pressure  in up to 25  of patients  the office measurement is higher than their typical blood pressure  this type of error is called
+ wch  and can result from anxiety related to an examination by a health care professional  white coat hypertension can also occur because  in a clinical setting  patients are seldom given the opportunity to rest for five minutes before blood pressure readings are taken  the misdiagnosis of hypertension for these patients can result in needless and possibly harmful medication  wch can be reduced  but not eliminated  with automated blood pressure measurements over 15 to 20 minutes in a quiet part of the office or clinic  in some cases a lower blood pressure reading occurs at the doctor s - this has been termed  masked hypertension  
+blood pressure  take another person 
+blood pressure  take your own 
+invasive  
+arterial blood pressure is most accurately measured invasively through an   invasive arterial pressure measurement with intravascular
+involves direct measurement of arterial pressure by placing a cannula needle in an artery  usually    
+or   
+the cannula must be connected to a sterile  fluid-filled system  which is connected to an electronic pressure transducer  the advantage of this system is that pressure is constantly monitored beat-by-beat  and a waveform  a graph of pressure against time  can be displayed  this invasive technique is regularly employed in human and veterinary     and for research purposes 
+cannulation for invasive vascular pressure monitoring is infrequently associated with complications such as     and   patients with invasive arterial monitoring require very close supervision  as there is a danger of severe bleeding if the line becomes disconnected  it is generally reserved for patients where rapid variations in arterial pressure are anticipated 
+invasive vascular pressure monitors are pressure monitoring systems designed to acquire pressure information for display and processing  there are a variety of invasive vascular pressure monitors for trauma  critical care  and
+applications  these include single pressure  dual pressure  and multi-parameter  i e  pressure   temperature   the monitors can be used for measurement and follow-up of arterial  central venous  pulmonary arterial  left atrial  right atrial  femoral arterial  umbilical venous  umbilical arterial  and intracranial pressures 
+fetal blood pressure  
+further information 
+in   it is the fetal heart and not the mother s heart that builds up the fetal blood pressure to drive blood through the fetal circulation  the blood pressure in the fetal aorta is approximately 30mmhg at 20 weeks of gestation  and increases to approximately 45mmhg at 40 weeks of gestation 
+the average blood pressure for full-term infants 
+systolic 6595mmhg
+diastolic 3060mmhg
+references  
+ 
+    11 january 2011  retrieved 30 march 2011 
+ 
+mayo clinic staff  2009-05-23     mayoclinic com  mayo foundation for medical education and research  retrieved 2010-10-19 
+ 
+chobanian av  bakris gl  black hr  cushman wc  green la  izzo jl  jones dw  materson bj  oparil s  wright jt  roccella ej  december 2003     hypertension  42  6   120652      
+ 
+  national heart lung and blood institute  september 2008  retrieved 2008-09-16 
+retrieved 2012-03-27
+retrieved 2012-03-27
+van berge-landry hm  bovbjerg dh  james gd  october 2008     blood press monit  13  5   25762         nihms90092 
+hansen  t  w   li  y   boggia  j   thijs  l   richart  t   staessen  j  a   2010    predictive role of the nighttime blood pressure   hypertension  57  1   310      
+national heart  lung and blood institute    cs1 maint  uses authors parameter     note that the median blood pressure is given by the 50th percentile and hypertension is defined by the
+for a given age  height  and gender  
+chiolero a  mar 2014    the quest for blood pressure reference values in children    journal of hypertension  32  3   47779      
+   p 145  see isolated systolic hypertension 
+    more than half of all americans aged 65 or older have hypertension      p 144 
+eguchi k  yacoub m  jhalani j  gerin w  schwartz je  pickering tg  february 2007     arch intern med  167  4   38893      
+agarwal r  bunaye z  bekele dm  march 2008    prognostic significance of between-arm blood pressure differences   hypertension  51  3   65762      
+appel lj  brands mw  daniels sr  karanja n  elmer pj  sacks fm  february 2006    dietary approaches to prevent and treat hypertension  a scientific statement from the american heart association   hypertension  47  2   296308      
+  p  6  revised 6/10  by theresa kirkpatrick and kateri tobias  ucla health system
+ 
+klabunde  re  2007     archived from the original on 2009-10-04  retrieved 2008-09-29  cs1 maint  bot  original-url status unknown   
+ 
+klabunde  re  2007     archived from the original on 2009-10-04  retrieved 2008-10-02  cs1 maint  bot  original-url status unknown   
+table 30-1 in  trudie a goers  washington university school of medicine department of surgery  klingensmith  mary e  li ern chen  sean c glasgow  2008   the washington manual of surgery  philadelphia  wolters kluwer health lippincott williams   wilkins   
+  retrieved 2009-02-27 
+tkachenko bi  evlakhov vi  poyasov iz  2002    independence of changes in right atrial pressure and central venous pressure   bull  exp  biol  med  134  4   31820      
+  emedicine  retrieved 2011-08-22 
+from diseases and conditions index  dci   national heart  lung  and blood institute  last updated september 2008  retrieved on 6 april 2009 
+by olivia vynn adair edition  2  illustrated published by elsevier health sciences  2001  
+textbook of medical physiology  7th ed   guyton   hall  elsevier-saunders    p  220 
+  retrieved 2011-12-07 
+  archived from
+on september 29  2011  retrieved 2011-12-07 
+gottdiener js  panza ja  st john sutton m  bannon p  kushner h  weissman nj  july 2002     american heart journal  144  1   11521       retrieved 2010-06-30 
+franco folino a  2007    cerebral autoregulation and syncope   prog cardiovasc dis  50  1   4980      
+thomas aj  perry r  barber r  kalaria rn  o brien jt  2002    pathologies and pathological mechanisms for white matter hyperintensities in depression   annals of the new york academy of sciences  977  333339      
+ 
+brickman am  reitz c  luchsinger ja  manly jj  schupf n  muraskin j  decarli c  brown tr  mayeux r  2010     archives of neurology  67  5   564569        
+  health and life 
+ 
+caro  colin g   1978   the mechanics of the circulation  oxford  oxfordshire   oxford university press   
+klabunde  richard  2005   cardiovascular physiology concepts  lippincott williams   wilkins  pp 934   
+april 15  2011  at the  
+freis ed  1976     circulation  53  4   58995       retrieved 4 april 2012 
+caplea a  seachrist d  dunphy g  ely d  april 2001     ajp  heart  4  280  4   h1793801    retrieved 4 april 2012 
+houston  mark  january 1986     archives of intern medicine  1  146  1   17985     retrieved 4 april 2012 
+guyton  a  c   1981-12-01    the relationship of cardiac output and arterial pressure control   circulation  64  6   10791088     
+lee  a  j   1997-12-01    the role of rheological and haemostatic factors in hypertension   journal of human hypertension  11  12   767776     
+coffman  j  d   1988-12-01    pathophysiology of obstructive arterial disease   herz  13  6   343350     
+klabunde  re  2007     retrieved 2008-09-09 
+booth j  1977     proceedings of the royal society of medicine  70  11   7939     
+  ohsu health information  oregon health   science university  retrieved 2014-04-16 
+ 
+deakin cd  low jl  september 2000     bmj  321  7262   6734        
+    accessed 2008-03-18
+m m  chiappa  y  ostchega  2013    mean mid-arm circumference and blood pressure cuff sizes for u s  adults  national health and nutrition examination survey  1999-2010   blood press monitoring  18  3   138143      
+ 
+o brien e  asmar r  beilin l  imai y  mallion jm  mancia g  et al   2003    european society of hypertension recommendations for conventional  ambulatory and home blood pressure measurement   j  hypertens  21  5   82148      
+  slide seven of twenty-two  cardiff university prfysgol caerdydd  accessed 27 september 2016
+   p 146  see blood pressure measurement methods 
+   p 147  see the oscillometric technique 
+laurent  p  2003-09-28     retrieved 2009-10-05 
+hamzaoui o  monnet x  teboul jl  2013    pulsus paradoxus   eur  respir  j  42  6   1696705      
+forouzanfar m  2014     ieee trans  instrum  meas  63  25012503    
+forouzanfar m  2013     ieee trans  biomed  eng  60  18141824    
+m  forouzanfar  h  r  dajani  v  z  groza  m  bolic  and s  rajan   feature-based neural network approach for oscillometric blood pressure estimation   ieee trans  instrum  meas   vol  60  pp  27862796  aug  2011 
+asmar  roland  1999   arterial stiffness and pulse wave velocity  paris  elsevier   
+sol  josep  2011  
+ pdf   zurich  ethz phd dissertation 
+hypertension guideline 2011  cg127  produced in a collaboration between the british hypertension society and nice 
+lovibond k  jowett s  barton p  caulfield m  heneghan c  hobbs fd  et al   2011    cost-effectiveness of options for the diagnosis of high blood pressure in primary care  a modelling study   lancet  378  9798   121930      
+ 
+mancia g  de backer g  dominiczak a  cifkova r  fagard r  germano g  grassi g  heagerty am  kjeldsen se  laurent s  narkiewicz k  ruilope l  rynkiewicz a  schmieder re  struijker boudier ha  zanchetti a  vahanian a  camm j  de caterina r  dean v  dickstein k  filippatos g  funck-brentano c  hellemans i  kristensen sd  mcgregor k  sechtem u  silber s  tendera m  widimsky p  zamorano jl  kjeldsen se  erdine s  narkiewicz k  kiowski w  agabiti-rosei e  ambrosioni e  cifkova r  dominiczak a  fagard r  heagerty am  laurent s  lindholm lh  mancia g  manolis a  nilsson pm  redon j  schmieder re  struijker-boudier ha  viigimaa m  filippatos g  adamopoulos s  agabiti-rosei e  ambrosioni e  bertomeu v  clement d  erdine s  farsang c  gaita d  kiowski w  lip g  mallion jm  manolis aj  nilsson pm  o brien e  ponikowski p  redon j  ruschitzka f  tamargo j  van zwieten p  viigimaa m  waeber b  williams b  zamorano jl  june 2007    2007 guidelines for the management of arterial hypertension  the task force for the management of arterial hypertension of the european society of hypertension  esh  and of the european society of cardiology  esc    eur heart j  28  12   1462536      
+ 
+pickering tg  miller nh  ogedegbe g  krakoff lr  artinian nt  goff d  2008    call to action on use and reimbursement for home blood pressure monitoring  executive summary  a joint scientific statement from the american heart association  american society of hypertension  and preventive cardiovascular nurses association   hypertension  52  1   19      
+niiranen tj  kantola im  vesalainen r  johansson j  ruuska mj  2006    a comparison of home measurement and ambulatory monitoring of blood pressure in the adjustment of antihypertensive treatment   am j hypertens  19  5   46874      
+shimbo d  pickering tg  spruill tm  abraham d  schwartz je  gerin w  2007     am j hypertens  20  5   47682         archived from
+on january 14  2012 
+national heart  lung and blood institute    archived from
+on 2014-07-02  cs1 maint  uses authors parameter   
+elliot  victoria stagg  2007-06-11     american medical news  american medical association  retrieved 2008-08-16 
+jhalani j  goyal t  clemow l  schwartz je  pickering tg  gerin w  2005     blood pressure monitoring  10  6   3179      
+   p 145  see white coat hypertension or isolated office hypertension 
+   p 146  see masked hypertension or isolated ambulatory hypertension 
+struijk pc  mathews vj  loupas t  stewart pa  clark eb  steegers ea  wladimiroff jw  october 2008    blood pressure estimation in the human fetal descending aorta   ultrasound obstet gynecol  32  5   67381      
+sharon  s  m    emily  s  m   2006   foundations of maternal-newborn nursing   4th ed p 476   philadelphia elsevier 
+further reading  
+pickering tg  hall je  appel lj  et al   2005   subcommittee of professional public education of the american heart association council on high blood pressure research    hypertension  45  5   14261       retrieved 2009-10-01 
+external links  
+wikimedia commons has media related to  
+ 
+ 
+  vaughn s summaries
+   
+    end-diastolic dimension
+  
+  
+ contractility 
+ excitability 
+ relaxation 
+conduction
+action potential
+chamber pressure
+right
+left
+other
+ 
+blood pressure
+ 
+ 
+retrieved from   
+  hidden categories 

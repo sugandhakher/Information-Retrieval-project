@@ -1,0 +1,147 @@
+turboexpander
+from wikipedia  the free encyclopedia
+jump to 					 
+figure 1  schematic diagram of a turboexpander driving a compressor 
+a turboexpander  also referred to as a turbo-expander or an expansion turbine  is a centrifugal or axial flow
+through which a high
+is expanded to produce work that is often used to drive a  
+because work is extracted from the expanding high pressure gas  the expansion is approximated by an
+process  i e   a constant
+process  and the low pressure exhaust gas from the turbine is at a very low   150c or less depending upon the operating pressure and gas properties  partial liquefaction of the expanded gas is not uncommon 
+turboexpanders are very widely used as sources of
+in industrial processes such as the extraction of
+and
+ ngls  from   the
+ such as      
+and   and other low-temperature processes 
+turboexpanders currently in operation range in size from about 750
+to about 7.5 mw  1
+to about 10,000hp  
+contents
+applications  
+although turboexpanders are very commonly used in low-temperature processes  they are used in many other applications as well  this section discusses one of the low temperature processes as well as some of the other applications 
+extracting hydrocarbon liquids from natural gas  
+figure 2  a schematic diagram of a demethanizer extracting hydrocarbon liquids from natural gas 
+raw natural gas consists primarily of methane  ch4   the shortest and lightest
+molecule  as well as various amounts of heavier hydrocarbon gases such as
+ c2h6  
+ c3h8  
+ n-c4h10  
+ i-c4h10  
+and even higher
+hydrocarbons  the raw gas also contains various amounts of
+such as
+ co2  
+ h2s  and
+such as
+ ch3sh  and
+ c2h5sh  
+when processed into finished by-products  see    these heavier hydrocarbons are collectively referred to as ngl  natural gas liquids   the extraction of the ngl often involves a turboexpander and a low-temperature
+ called a demethanizer  as shown in figure 2  the inlet gas to the demethanizer is first cooled to about 51c in a
+ referred to as a cold box  which partially
+the inlet gas  the resultant gas-liquid mixture is then separated into a gas stream and a liquid stream 
+the liquid stream from the
+flows through a valve and undergoes a
+from an absolute pressure of 62 bar to 21 bar  6.2 to 2.1 mpa   which is an
+process  i e   a constant enthalpy process  that results in lowering the temperature of the stream from about 51c to about 81c as the stream enters the demethanizer 
+the gas stream from the gas-liquid separator enters the turboexpander where it undergoes an
+expansion from an absolute pressure of 62 bar to 21 bar  6.2 to 2.1 mpa  that lowers the gas stream temperature from about 51c to about 91c as it enters the demethanizer to serve as distillation  
+liquid from the top
+of the demethanizer  at about 90c  is routed through the cold box where it is warmed to about 0c as it cools the inlet gas  and is then returned to the lower section of the demethanizer  another liquid stream from the lower section of the demethanizer  at about 2c  is routed through the cold box and returned to the demethanizer at about 12c  in effect  the inlet gas provides the
+required to  reboil  the bottom of the demethanizer and the turboexpander removes the heat required to provide reflux in the top of the demethanizer 
+the overhead gas product from the demethanizer at about 90c is processed natural gas that is of suitable quality for distribution to end-use consumers by   it is routed through the cold box where it is warmed as it cools the inlet gas  it is then compressed in the gas compressor which is driven by the turbo expander and further compressed in a second-stage gas compressor driven by an
+before entering the distribution pipeline 
+the bottom product from the demethanizer is also warmed in the cold box  as it cools the inlet gas  before it leaves the system as ngl 
+power generation  
+figure 3  schematic diagram of power generation system using a turboexpander 
+figure 3 depicts an electric power generation system that uses a heat source  a cooling medium  air  water or other   a circulating working fluid and a turboexpander  the system can accommodate a wide variety of heat sources such as 
+geothermal hot water
+exhaust gas from internal combustion engines burning a variety of fuels        or  
+a variety of waste heat sources  in the form of either gas or liquid 
+referring to figure 3  the circulating working fluid  usually an
+such as r-134a  is pumped to a high pressure and then vaporized in the evaporator by
+with the available heat source  the resulting high-pressure vapor flows to the turboexpander where it undergoes an isentropic expansion and exits as a vapor-liquid mixture which is then condensed into a liquid by heat exchange with the available cooling medium  the condensed liquid is pumped back to the evaporator to complete the cycle 
+the system in figure 3 is a
+as is used in
+where water is the working fluid and the heat source is derived from the
+of natural gas 
+or
+used to generate high-pressure steam  the high-pressure steam then undergoes an isentropic expansion in a conventional   the steam turbine exhaust steam is next condensed into liquid water which is then pumped back to steam generator to complete the cycle 
+when an organic working fluid such as r-134a is used in the rankine cycle  the cycle is sometimes referred to as an
+ orc  
+refrigeration system  
+figure 4  schematic diagram of a refrigeration system using a turboexpander  compressor and a motor 
+figure 4 depicts a refrigeration system with a capacity of about 100 to 1000
+ i e   350 to 3,500kw   the system utilizes a compressor  a turboexpander and an electric motor 
+depending on the operating conditions  the turboexpander reduces the load on the electric motor by some 6 to 15  as compared to a conventional
+system that uses a
+valve rather than a turboexpander  basically  this can be seen as a form of  
+the system employs a high-pressure refrigerant  i e   one with a low   such as 
+ chclf2  known as r-22  with a normal boiling point of 47c
+ c2h2f4  known as r-134a  with a normal boiling point of 26c 
+as shown in figure 4  refrigerant vapor is compressed to a higher pressure resulting in a higher temperature as well  the hot  compressed vapor is then
+into a liquid  the
+is where heat is expelled from the circulating refrigerant and is carried away by whatever cooling medium is used in the condenser  air  water  etc   
+the refrigerant liquid flows through the turboexpander where it is vaporized and the vapor undergoes an isentropic expansion which results in a low-temperature mixture of vapor and liquid  the vapor-liquid mixture is then routed through the evaporator where it is vaporized by heat absorbed from the space being cooled  the vaporized refrigerant flows to the compressor inlet to complete the cycle 
+power recovery in fluid catalytic cracker  
+figure 5  a schematic diagram of the power recovery system in a fluid catalytic cracking unit 
+the
+from the catalyst regenerator of a
+is at a temperature of about 715c and at a pressure of about 2.4
+ 240 kpa gauge   its gaseous components are mostly
+ co  
+ co2  and
+ n2   although the flue gas has been through two stages of
+ located within the regenerator  to remove entrained catalyst fines  it still contains some residual catalyst fines 
+figure 5 depicts how power is recovered and utilized by routing the regenerator flue gas through a turboexpander  after the flue gas exits the regenerator  it is routed through a secondary catalyst separator containing
+designed to remove 70 to 90 percent of the residual catalyst fines  this is required to prevent erosion damage to the turboexpander 
+as shown in figure 5  expansion of the flue gas through a turboexpander provides sufficient power to drive the regenerator s combustion air compressor  the electrical
+in the power recovery system can consume or produce electrical power  if the expansion of the flue gas does not provide enough power to drive the air compressor  the electric motor-generator provides the needed additional power  if the flue gas expansion provides more power than needed to drive the air compressor  than the electric motor-generator converts the excess power into electric power and exports it to the refinery s electrical system  the
+shown in figure 5 is used to drive the regenerator s combustion air compressor during start-ups of the fluid catalytic cracker until there is sufficient combustion flue gas to take over that task 
+the expanded flue gas is then routed through a steam-generating
+ referred to as a   where the carbon monoxide in the flue gas is burned as fuel to provide steam for use in the refinery 
+the flue gas from the co boiler is processed through an
+ esp  to remove residual   the esp removes particulates in the size range of 2 to 20
+from the flue gas 
+history  
+the possible use of an expansion machine for isentropically creating low temperatures was suggested by
+    a
+engineer in 1857  about three decades later  in 1885  ernest solvay of
+attempted to use a reciprocating expander machine but could not attain any temperatures lower than 98c because of problems with lubrication of the machine at such temperatures 
+in 1902    a
+engineer  successfully used a reciprocating expansion machine to liquefy air  he used a degreased  burnt leather packing as a piston seal without any lubrication  with an air pressure of only 40 bar  4 mpa   claude achieved an almost isentropic expansion resulting in a lower temperature than had before been possible 
+the first turboexpanders seem to have been designed in about 1934 or 1935 by guido zerkowitz  an italian engineer working for the german firm of  
+in 1939  the
+physicist
+perfected the design of centrifugal turboexpanders  his first practical prototype was made of
+metal  had an outside diameter of only 8cm  3.1in   operated at 40,000 revolutions per minute and expanded 1,000 cubic metres of air per hour  it used a water pump as a brake and had an efficiency of 79 to 83 percent  most turboexpanders in industrial use since then have been based on kapitsa s design and centrifugal turboexpanders have taken over almost 100 percent of the industrial gas liquefaction and low temperature process requirements  the availability of liquid
+revolutionized the production of steel using the
+process 
+in 1978  pyotr kapitsa was awarded a nobel physics prize for his body of work in the area of low-temperature physics 
+in 1983  san diego gas and electric was among the first to install a turboexpander in a natural gas letdown station for
+types  
+turboexpanders can be classified by loading device or bearings 
+three main loading devices used in turboexpanders are   electrical generators or hydraulic brakes  with centrifugal compressors and electrical generators the shaft power from the turboexpander is recouped either to recompress the process gas or to generate electrical energy lowering utility bills 
+hydraulic brakes are used when the turboexpander is very small and harvesting the shaft power is not economically justifiable 
+bearings used are either oil bearings or  
+see also  
+references  
+heinz bloch and claire soares  2001   turboexpanders and process applications  gulf professional publishing   
+ 
+frank g  kerry  2007   industrial gas handbook gas separation and purification  crc press   
+thomas flynn  2004   cryogenics engineering  second ed    crc press   
+  use search function for keyword  expansion 
+gas processes 2002  hydrocarbon processing  pages 83-84  may 2002  schematic flow diagrams and descriptions of the ngl-pro and ngl recovery processes 
+ 
+refrigeration apparatus with expansion turbine  european patent ep 0 676 600 b1  september 6  2000  joost j  brasz  carrier corporation
+ this website requires registration 
+alex c  hoffnab and lewis e  stein  2002   gas cyclones and swirl tubes principles   design and operation  1st ed    springer   
+ 
+reza sadeghbeigi  2000   fluid catalytic cracking handbook  2nd ed    gulf publishing   
+turbine for low temperature gas separation  u s  patent 2,165,994  july 1939  continuation of an application in march 1934   guido zerkowitz  linde ag
+ this website requires registration 
+ 
+ebbe almqvist  2002   history of industrial gases  first ed    springer  p 165   
+external links  
+retrieved from   
+ 

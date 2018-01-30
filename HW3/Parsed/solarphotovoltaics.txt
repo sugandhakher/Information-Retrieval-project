@@ -1,0 +1,551 @@
+solarphotovoltaics
+from wikipedia  the free encyclopedia
+ redirected from  
+jump to 					 
+the   a sustainable housing community project in   germany 
+double glass photovoltaic solar modules  installed in a support structure 
+photovoltaic sudi shade is an autonomous and mobile station in france  developed by herv thermique and   that provides energy for electric vehicles using solar energy 
+solar panels on the
+photovoltaics  pv  covers the conversion of light into
+using
+that exhibit the   a phenomenon studied in     and  
+a typical
+employs   each comprising a number of   which generate electrical power  the first step is the photoelectric effect followed by an
+process where crystallized atoms 
+in a series  generate an electric current  pv installations may be ground-mounted 
+mounted or wall mounted 
+solar pv generates no pollution  the direct conversion of sunlight to electricity occurs without any moving parts  photovoltaic systems have been used for fifty years in specialized applications  standalone and
+have been in use for more than twenty years  they were first mass-produced in 2000  when german environmentalists and the
+organization got government funding for a ten thousand roof program 
+on the other hand  grid-connected pv systems have the major disadvantage that the power output is dependent on direct sunlight  so about 10-25  is lost if a tracking system is not used  since the cell wil not be directly facing the sun at all times power output is also adversely affected by weather conditions such as the amount of dust and water vapour in the air or the amount of cloud cover  this means that  in the national grid for example  this power has to be made up by other power sources  hydrocarbon  nuclear  hydroelectric or wind energy 
+advances in technology and increased manufacturing scale have reduced the cost  increased the reliability  and increased the efficiency of photovoltaic instalations and the
+from pv is competitive  on a kilowatt  hour basis  with conventional electricity sources in an expanding list of geographic regions  solar pv regularly costs usd 0.05-0.10 per kilowatt-hour  kwh  in      
+and the   in 2015  record low prices were set in the
+ 5.84 cents kwh  
+ 4.8 cents kwh  and
+ 4.8 cents kwh   in may 2016  a solar pv auction in
+attracted a bid of 3 cents kwh 
+and financial incentives  such as preferential
+for solar-generated electricity  have supported solar pv installations in many countries  more than
+now use solar pv  after
+and   pv is the third renewable energy source in terms of globally capacity  in 2014  worldwide installed pv capacity increased to 177
+ gw   which is two percent of global     followed by
+and the   is the fastest growing market  while
+remains the world s largest producer  both in per capita and absolute terms   with solar pv providing seven percent of annual domestic electricity consumption 
+with current technology  as of 2013   photovoltaics
+the energy needed to manufacture them in 1.5 years in southern europe and 2.5 years in northern europe 
+contents
+etymology  
+the term  photovoltaic  comes from the
+  phs  meaning  light   and from  volt   the unit of electro-motive force  the   which in turn comes from the last name of the
+physicist   inventor of the battery     the term  photo-voltaic  has been in use in english since 1849 
+solar cells  
+main article 
+generate
+directly from  
+average insolation  note that this is for a horizontal surface  solar panels are normally propped up at an angle and receive more energy per unit area 
+photovoltaics are best known as a method for generating electric power by using solar cells to convert energy from the sun into a flow of electrons  the
+refers to photons of light exciting electrons into a higher state of energy  allowing them to act as charge carriers for an electric current  the photovoltaic effect was first observed by
+in 1839  the term photovoltaic denotes the unbiased operating mode of a
+in which current through the device is entirely due to the transduced light energy  virtually all photovoltaic devices are some type of photodiode 
+solar cells produce direct current electricity from sun light which can be used to power equipment or to   the first practical application of photovoltaics was to power orbiting satellites and other   but today the majority of
+are used for grid connected power generation  in this case an
+is required to convert the dc to ac  there is a smaller market for off-grid power for remote dwellings      electric cars  roadside emergency telephones    and
+of  
+photovoltaic power generation employs
+composed of a number of
+containing a photovoltaic material  materials presently used for photovoltaics include         and  sulfide 
+connect modules  module cable   arrays  array cable   and sub-fields  because of the growing demand for
+sources  the manufacturing of solar cells and
+has advanced considerably in recent years 
+solar photovoltaics power generation has long been seen as a
+technology which draws upon the planets most plentiful and widely distributed renewable energy source  the sun  the technology is  inherently elegant  in that the direct conversion of sunlight to electricity occurs without any moving parts or environmental emissions during operation  it is well proven  as photovoltaic systems have now been used for fifty years in specialised applications  and grid-connected systems have been in use for over twenty years 
+cells require protection from the environment and are usually packaged tightly behind a glass sheet  when more power is required than a single cell can deliver  cells are electrically connected together to form photovoltaic modules  or solar panels  a single module is enough to power an emergency telephone  but for a house or a power plant the modules must be arranged in multiples as  
+photovoltaic power capacity is measured as maximum power output under standardized test conditions  stc  in  wp      the actual power output at a particular point in time may be less than or greater than this standardized  or  rated   value  depending on geographical location  time of day  weather conditions  and other factors  solar photovoltaic array
+are typically under 25   which is lower than many other industrial sources of electricity 
+current developments  
+for best performance  terrestrial pv systems aim to maximize the time they face the sun 
+achieve this by moving pv panels to follow the sun  the increase can be by as much as 20  in winter and by as much as 50  in summer  static mounted systems can be optimized by analysis of the   panels are often set to latitude tilt  an angle equal to the latitude  but performance can be improved by adjusting the angle for summer or winter  generally  as with other semiconductor devices  temperatures above room temperature reduce the performance of photovoltaics 
+a number of solar panels may also be mounted vertically above each other in a tower  if the
+of the
+is greater than zero  and the tower can be turned horizontally as a whole and each panels additionally around a horizontal axis  in such a tower the panels can follow the sun exactly  such a device may be described as a
+mounted on a turnable disk  each step of that ladder is the middle axis of a rectangular   in case the zenith distance of the sun reaches zero  the  ladder  may be rotated to the north or the south to avoid a solar panel producing a shadow on a lower solar panel  instead of an exactly vertical tower one can choose a tower with an axis directed to the   meaning that it is parallel to the rotation axis of the   in this case the angle between the axis and the sun is always larger than 66 degrees  during a day it is only necessary to turn the panels around this axis to follow the sun  installations may be ground-mounted  and sometimes integrated with farming and grazing  or built into the roof or walls of a building    
+another recent development involves the makeup of solar cells 
+is a very inexpensive material which is being used to replace the expensive
+which is still part of a standard pv cell build to this day  michael graetzel  director of the laboratory of photonics and interfaces at epfl says   today  efficiency has peaked at 18 percent  but it s expected to get even higher in the future   this is a significant claim  as 20  efficiency is typical among solar panels which use more expensive materials 
+efficiency  
+main article 
+best research-cell efficiencies
+electrical efficiency  also called conversion efficiency  is a contributing factor in the selection of a photovoltaic system  however  the most efficient solar panels are typically the most expensive  and may not be commercially available  therefore  selection is also driven by cost efficiency and other factors 
+the electrical efficiency of a pv cell is a
+which represents how much electrical power a cell can produce for a given   the basic expression for maximum efficiency of a photovoltaic cell is given by the ratio of output power to the incident solar power  radiation flux times area 
+
+ 
+p
+m
+a
+x
+e
+
+a
+c
+e
+l
+l
+ 
+  displaystyle  eta    frac  p  max   e cdot a  cell     
+the efficiency is measured under ideal laboratory conditions and represents the maximum achievable efficiency of the pv material  actual efficiency is influenced by the output voltage  current  junction temperature  light intensity and spectrum   
+the most efficient type of solar cell to date is a multi-junction concentrator solar cell with an efficiency of 46.0  produced by
+in december 2014  the highest efficiencies achieved without concentration include a material by
+at 35.8  using a proprietary triple-junction manufacturing technology in 2009  and boeing spectrolab  40.7  also using a triple-layer design   the us company
+produces cells that have an efficiency of 21.5   well above the market average of 1218  
+there is an ongoing effort to increase the conversion efficiency of pv cells and modules  primarily for competitive advantage  in order to increase the efficiency of solar cells  it is important to choose a semiconductor material with an appropriate
+that matches the solar spectrum  this will enhance the electrical and optical properties  improving the method of charge collection is also useful for increasing the efficiency  there are several groups of materials that are being developed  ultrahigh-efficiency devices   30   are made by using gaas and gainp2 semiconductors with multijunction tandem cells  high-quality  single-crystal silicon materials are used to achieve high-efficiency  low cost cells   20   
+recent developments in organic photovoltaic cells  opvs  have made significant advancements in power conversion efficiency from 3  to over 15  since their introduction in the 1980s  to date  the highest reported power conversion efficiency ranges from 6.7  to 8.94  for small molecule  8.4 10.6  for polymer opvs  and 7  to 21  for perovskite opvs  opvs are expected to play a major role in the pv market  recent improvements have increased the efficiency and lowered cost  while remaining environmentally-benign and renewable 
+several companies have begun embedding
+into pv modules called   these modules perform
+ mppt  for each module individually  measure performance data for monitoring  and provide additional safety features  such modules can also compensate for shading effects  wherein a shadow falling across a section of a module causes the electrical output of one or more strings of cells in the module to decrease 
+one of the major causes for the decreased performance of cells is overheating  the efficiency of a solar cell declines by about 0.5  for every 1 degree celsius increase in temperature  this means that a 100 degree increase in surface temperature could decrease the efficiency of a solar cell by about half  self-cooling solar cells are one solution to this problem  rather than using energy to cool the surface  pyramid and cone shapes can be formed from   and attached to the surface of a solar panel  doing so allows visible light to reach the   but reflects
+rays  which carry heat  
+growth  
+main article 
+on a semi-log plot since 1992
+projected global growth  mw 
+100,000
+200,000
+300,000
+400,000
+500,000
+600,000
+2009
+2011
+2013
+2015
+2017
+2019
+projected global cumulative capacity   
+historical cumulative capacity
+average projection for 2015   55 gw  233gw 
+low scenario reaches 396gw by 2019
+high scenario reaches 540gw by 2019
+further 
+solar photovoltaics is growing rapidly and worldwide installed capacity reached at least 177
+ gw  by the end of 2014  the total power output of the worlds pv capacity in a calendar year is now beyond 200 twh of electricity  this represents 1  of worldwide electricity demand  more than 100
+use solar pv    followed by
+and the
+is now the fastest growing market  while
+remains the world s largest producer  contributing more than 7  to its national electricity demands  photovoltaics is now  after hydro and wind power  the third most important renewable energy source in terms of globally installed capacity 
+several market research and financial companies foresee record-breaking global installation of more than 50gw in 2015  china is predicted to take the lead from germany and to become the world s largest producer of pv power by installing another targeted 17.8gw in 2015  india is expected to install 1.8gw  doubling its annual installations  by 2018  worldwide photovoltaic capacity is projected to doubled or even triple to 430gw 
+ formerly known as epia  also estimates that photovoltaics will meet 10  to 15  of europe s energy demand in 2030 
+the epia  solar generation paradigm shift scenario  formerly called advanced scenario  from 2010 shows that by the year 2030  1,845gw of pv systems could be generating approximately 2,646twh year of electricity around the world  combined with
+improvements  this would represent the electricity needs of more than 9  of the world s population  by 2050  over 20  of all electricity could be provided by photovoltaics 
+  from   anticipates a tipping point for solar energy  the costs of power from wind and solar are already below those of conventional electricity generation in some parts of the world  as they have fallen sharply and will continue to do so  he also asserts  that the electrical grid has been greatly expanded worldwide  and is ready to receive and distribute electricity from renewable sources  in addition  worldwide electricity prices came under strong pressure from renewable energy sources  that are  in part  enthusiastically embraced by consumers 
+sees a  second gold rush  for the photovoltaic industry to come 
+has already been reached in at least 19 markets by january 2014  photovoltaics will prevail beyond   becoming more competitive as deployment increases and prices continue to fall 
+in june 2014
+downgraded bonds of u s  utility companies  barclays expects more competition by a growing self-consumption due to a combination of decentralized pv-systems and residential   this could fundamentally change the utility s business model and transform the system over the next ten years  as prices for these systems are predicted to fall 
+top 10 pv countries in 2014  mw 
+total capacity
+1 
+38,200
+2 
+28,199
+3 
+23,300
+4 
+18,460
+5 
+18,280
+6 
+5,660
+7 
+5,358
+8 
+5,104
+9 
+4,136
+10 
+3,074
+added capacity
+1 
+10,560
+2 
+9,700
+3 
+6,201
+4 
+2,273
+5 
+1,900
+6 
+927
+7 
+910
+8 
+909
+9 
+800
+10 
+616
+data 
+snapshot of global pv 19922014 report  march 2015 15
+also see section
+for a complete and continuously updated list
+environmental impacts of photovoltaic technologies  
+types of impacts
+while solar photovoltaic  pv  cells are promising for clean energy production  their deployment is hindered by production costs  material availability  and toxicity 
+ lca  is one method of determining environmental impacts from pv  many studies have been done on the various types of pv including   second generation  and   usually these pv lca studies select a cradle to gate system boundary because often at the time the studies are conducted  it is a new technology not commercially available yet and their required balance of system components and disposal methods are unknown 
+a traditional lca can look at many different impact categories ranging from   eco-toxicity  human toxicity  water depletion  and many others  most lcas of pv have focused on two categories  carbon dioxide equivalents per kwh and energy pay-back time  epbt   the epbt is defined as   the time needed to compensate for the total renewable- and non-renewable- primary energy required during the life cycle of a pv system   a 2015 review of epbt from first and second generation pv suggested that there was greater variation in embedded energy than in efficiency of the cells implying that it was mainly the embedded energy that needs to reduce to have a greater reduction in epbt  one difficulty in determining impacts due to pv is to determine if the wastes are released to the air  water  or soil during the manufacturing phase  research is underway to try to understand emissions and releases during the lifetime of pv systems 
+impacts from first-generation pv
+modules are the most extensively studied pv type in terms of lca since they are the most commonly used 
+photovoltaic systems  mono-si  have an average efficiency of 14.0   the cells tend to follow a structure of front electrode  anti-reflection film  n-layer  p-layer  and back electrode  with the sun hitting the front electrode  epbt ranges from 1.7 to 2.7 years  the cradle to gate of co2-eq kwh ranges from 37.3 to 72.2 grams 
+techniques to produce
+ multi-si  photovoltaic cells are simpler and cheaper than mono-si  however tend to make less efficient cells  an average of 13.2   epbt ranges from 1.5 to 2.6 years  the cradle to gate of co2-eq kwh ranges from 28.5 to 69 grams  some studies have looked beyond epbt and gwp to other environmental impacts  in one such study  conventional energy mix in greece was compared to multi-si pv and found a 95  overall reduction in impacts including carcinogens  eco-toxicity  acidification  eutrophication  and eleven others 
+impacts from second generation
+ cdte  is one of the fastest-growing
+which are collectively known as second generation devices  this new thin film device also shares similar performance restrictions    as conventional si devices but promises to lower the cost of each device by both reducing material and energy consumption during manufacturing  today the global market share of cdte is 5.4   up from 4.7  in 2008  this technologys highest power conversion efficiency is 21   the cell structure includes glass substrate  around 2mm   transparent conductor layer  cds buffer layer  50150nm   cdte absorber and a metal contact layer 
+cdte pv systems require less energy input in their production than other commercial pv systems per unit electricity production  the average co2-eq kwh is around 18 grams  cradle to gate   cdte has the fastest epbt of all commercial pv technologies  which varies between 0.3 and 1.2 years 
+ cigs  is a thin film solar cell based on the copper indium diselenide  cis  family of chalcopyrite   cis and cigs are often used interchangeably within the cis cigs community  the cell structure includes soda lime glass as the substrate  mo layer as the back contact  cis cigs as the absorber layer  cadmium sulfide  cds  or zn  s oh x as the buffer layer  and zno al as the front contact  cigs is approximately 1/100th the thickness of conventional silicon solar cell technologies  materials necessary for assembly are readily available  and are less costly per watt of solar cell  cigs based solar devices resist performance degradation over time and are highly stable in the field 
+reported global warming potential impacts of cigs range from 20.5  58.8 grams co2-eq kwh of electricity generated for different
+ 1,700 to 2,200 kwh m2 y  and power conversion efficiency  7.8  9.12    epbt ranges from 0.2 to 1.4 years  while harmonized value of epbt was found 1.393 years  toxicity is an issue within the buffer layer of cigs modules because it contains cadmium and gallium  cis modules do not contain any heavy metals 
+impacts from third generation
+third-generation pvs are designed to combine the advantages of both the first and second generation devices and they do not have shockley-queisser efficiency limit  a theoretical limit for first and second generation pv cells  the thickness of a third generation device is less than 1m 
+one emerging alternative and promising technology is based on an organic-inorganic hybrid solar cell made of methylammonium lead halide perovskites 
+have progressed rapidly over the past few years and have become one of the most attractive areas for pv research  the cell structure includes a metal back contact  which can be made of al  au or ag   a hole transfer layer  spiro-meotad  p3ht  ptaa  cuscn  cui  or nio   and absorber layer  ch3nh3pbixbr3-x  ch3nh3pbixcl3-x or ch3nh3pbi3   an electron transport layer  tio  zno  al2o3 or sno2  and a top contact layer  fluorine doped tin oxide or tin doped indium oxide  
+there are a limited number of published studies to address the environmental impacts of perovskite solar cells 
+the major environmental concern is the lead used in the absorber layer  due to the instability of perovskite cells lead may eventually be exposed to fresh water during the use phase  these lca studies looked at human and ecotoxicity of perovskite solar cells and found they were surprisingly low and may not be an environmental issue  global warming potential of perovskite pvs were found to be in the range of 241500 grams co2-eq kwh electricity production  similarly  reported epbt of the published paper range from 0.2 to 15 years  the large range of reported values highlight the uncertainties associated with these studies  celik et al   2016  critically discussed the assumptions made in perovskite pv lca studies 
+two new promising thin film technologies are
+ cu2znsns4 or czts  and
+ zn3p2   both of these thin films are currently only produced in the lab but may be commercialized in the future  their manufacturing processes are expected to be similar to those of current thin film technologies of cigs and cdte  respectively  yet  contrary to cigs and cdte  czts and zn3p2 are made from earth abundant  nontoxic materials and have the potential to produce more electricity annually than the current worldwide consumption  while czts and zn3p2 offer good promise for these reasons  the specific environmental implications of their commercial production are not yet known  global warming potential of czts and zn3p2 were found 38 and 30 grams co2-eq kwh while their corresponding epbt were found 1.85 and 0.78 years  respectively  overall  cdte and zn3p2 have similar environmental impacts but can slightly outperform cigs and czts 
+and
+ opv  are a relatively new area of research  the tradition opv cell structure layers consist of a semi-transparent electrode  electron blocking layer  tunnel junction  holes blocking layer  electrode  with the sun hitting the transparent electrode  opv replaces silver with carbon as an electrode material lowering manufacturing cost and making them more environmentally friendly  opv are flexible  low weight  and work well with roll-to roll manufacturing for mass production  opv uses  only abundant elements coupled to an extremely low embodied energy through very low processing temperatures using only ambient processing conditions on simple printing equipment enabling energy pay-back times   current efficiencies range from 16.5   however theoretical analyses show promise beyond 10  efficiency 
+many different configurations of opv exist using different materials for each layer  opv technology rivals existing pv technologies in terms of epbt even if they currently present a shorter operational lifetime  a 2013 study analyzed 12 different configurations all with 2  efficiency  the epbt ranged from 0.290.52 years for 1 m of pv  the average co2-eq kwh for opv is 54.922 grams 
+economics  
+source  apricus
+there have been major changes in the underlying costs  industry structure and market prices of solar photovoltaics technology  over the years  and gaining a coherent picture of the shifts occurring across the industry value chain globally is a challenge  this is due to   the rapidity of cost and price changes  the complexity of the pv supply chain  which involves a large number of manufacturing processes  the balance of system  bos  and installation costs associated with complete pv systems  the choice of different distribution channels  and differences between regional markets within which pv is being deployed   further complexities result from the many different policy support initiatives that have been put in place to facilitate photovoltaics commercialisation in various countries 
+the pv industry has seen dramatic drops in module prices since 2008  in late 2011  factory-gate prices for crystalline-silicon photovoltaic modules dropped below the  1.00 w mark  the  1.00 w installed cost  is often regarded in the pv industry as marking the achievement of
+for pv  technological advancements  manufacturing process improvements  and industry re-structuring  mean that further price reductions are likely in coming years 
+  such as   have often been offered to electricity consumers to install and operate solar-electric generating systems  government has sometimes also offered incentives in order to encourage the pv industry to achieve the
+needed to compete where the cost of pv-generated electricity is above the cost from the existing grid  such policies are implemented to promote national or territorial  
+job creation and reduction of
+which cause global warming  due to economies of scale solar panels get less costly as people use and buy moreas manufacturers increase production to meet demand  the cost and price is expected to drop in the years to come 
+solar cell efficiencies vary from 6  for amorphous silicon-based solar cells to 44.0  with multiple-junction   solar cell energy conversion efficiencies for commercially available photovoltaics are around 1422   concentrated photovoltaics  cpv  may reduce cost by concentrating up to 1,000 suns  through magnifying lens  onto a smaller sized photovoltaic cell  however  such concentrated solar power requires sophisticated heat sink designs  otherwise the photovoltaic cell overheats  which reduces its efficiency and life  to further exacerbate the concentrated cooling design  the heat sink must be passive  otherwise the power required for active cooling would reduce the overall efficiency and economy 
+crystalline silicon solar cell prices have fallen from  76.67 watt in 1977 to an estimated  0.74 watt in 2013  this is seen as evidence supporting   an observation similar to the famous
+that states that solar cell prices fall 20  for every doubling of industry capacity 
+as of 2011  the price of pv modules has fallen by 60  since the summer of 2008  according to bloomberg new energy finance estimates  putting solar power for the first time on a competitive footing with the retail price of electricity in a number of sunny countries  an alternative and consistent price decline figure of 75  from 2007 to 2012 has also been published  though it is unclear whether these figures are specific to the united states or generally global  the levelised cost of electricity    from pv is competitive with conventional electricity sources in an expanding list of geographic regions  particularly when the time of generation is included  as electricity is worth more during the day than at night  there has been fierce competition in the supply chain  and further improvements in the levelised cost of energy for solar lie ahead  posing a growing threat to the dominance of fossil fuel generation sources in the next few years  as time progresses  renewable energy technologies generally get cheaper  while fossil fuels generally get more expensive 
+the less solar power costs  the more favorably it compares to conventional power  and the more attractive it becomes to utilities and energy users around the globe  utility-scale solar power can now be delivered in california at prices well below  100 mwh   0.10 kwh  less than most other peak generators  even those running on low-cost natural gas  lower solar module costs also stimulate demand from consumer markets where the cost of solar compares very favorably to retail electric rates 
+history for conventional    solar cells since 1977 
+as of 2011  the cost of pv has fallen well below that of nuclear power and is set to fall further  the average retail price of solar cells as monitored by the solarbuzz group fell from  3.50 watt to  2.43 watt over the course of 2011 
+for large-scale installations  prices below  1.00 watt were achieved  a module price of 0.60 euro watt   0.78 watt  was published for a large scale 5-year deal in april 2012 
+by the end of 2012  the  best in class  module price had dropped to  0.50 watt  and was expected to drop to  0.36 watt by 2017 
+in many locations  pv has reached grid parity  which is usually defined as pv production costs at or below retail electricity prices  though often still above the power station prices for coal or gas-fired generation without their distribution and other costs   however  in many countries there is still a need for more access to capital to develop pv projects  to solve this problem
+has been proposed and used to accelerate development of solar photovoltaic projects  for example 
+offered  the first u s 
+in the solar industry in 2013 
+photovoltaic power is also generated during a time of day that is close to peak demand  precedes it  in electricity systems with high use of air conditioning  more generally  it is now evident that  given a carbon price of  50 ton  which would raise the price of coal-fired power by 5c kwh  solar pv will be cost-competitive in most locations  the declining price of pv has been reflected in rapidly growing installations  totaling about 23gw in 2011  although some consolidation is likely in 2012  due to support cuts in the large markets of germany and italy  strong growth seems likely to continue for the rest of the decade  already  by one estimate  total investment in renewables for 2011 exceeded investment in carbon-based electricity generation 
+in the case of self consumption payback time is calculated based on how much electricity is not brought from the grid  additionally  using pv solar power to charge dc batteries  as used in plug-in hybrid electric vehicles and electric vehicles  leads to greater efficiencies  traditionally  dc generated electricity from solar pv must be converted to ac for buildings  at an average 10  loss during the conversion  an additional efficiency loss occurs in the transition back to dc for battery driven devices and vehicles  and using various interest rates and energy price changes were calculated to find present values that range from  2,057.13 to  8,213.64  analysis from 2009  
+for example  in germany with electricity prices of 0.25 euro kwh and
+of 900 kwh kw one kwp will save 225 euro per year and with installation cost of 1700 euro kwp means that the system will pay back in less than 7 years 
+manufacturing  
+see also 
+overall the manufacturing process of creating solar photovoltaics is simple in that it does not require the culmination of many complex or moving parts  because of the solid state nature of pv systems they often have relatively long lifetimes  anywhere from 10 to 30 years  in order to increase electrical output of a pv system the manufacturer must simply add more photovoltaic components and because of this economies of scale are important for manufacturers as costs decrease with increasing output 
+while there are many types of pv systems known to be effective  crystalline silicon pv accounted for around 90  of the worldwide production of pv in 2013  manufacturing silicon pv systems has several steps  first  polysilicon is processed from mined quartz until it is very pure  semi-conductor grade   this is melted down when small amounts of boron  a group iii element  are added to make a p-type semiconductor rich in electron holes  typically using a seed crystal  an ingot of this solution is grown from the liquid polycrystalline  the ingot may also be cast in a mold  wafers of this semiconductor material are cut from the bulk material with wire saws  and then go through surface etching before being cleaned  next  the wafers are placed into a phosphorus vapor deposition furnace which lays a very thin layer of phosphorus  a group v element  which creates an n-type semiconducting surface  to reduce energy losses an anti-reflective coating is added to the surface  along with electrical contacts  after finishing the cell  cells are connected via electrical circuit according to the specific application and prepared for shipping and installation 
+crystalline silicon photovoltaics are only one type of pv  and while they represent the majority of solar cells produced currently there are many new and promising technologies that have the potential to be scaled up to meet future energy needs 
+another newer technology  thin-film pv  are manufactured by depositing semiconducting layers on substrate in vacuum  the substrate is often glass or stainless-steel  and these semiconducting layers are made of many types of materials including cadmium telluride  cdte   copper indium diselenide  cis   copper indium gallium diselenide  cigs   and amorphous silicon  a-si   after being deposited onto the substrate the semiconducting layers are separated and connected by electrical circuit by laser-scribing  thin-film photovoltaics now make up around 20  of the overall production of pv because of the reduced materials requirements and cost to manufacture modules consisting of thin-films as compared to silicon-based wafers 
+other emerging pv technologies include organic  dye-sensitized  quantum-dot  and perovskite photovoltaics  opvs fall into the thin-film category of manufacturing  and typically operate around the 12  efficiency range which is lower than the 1221  typically seen by silicon based pvs  because organic photovoltaics require very high purity and are relatively reactive they must be encapsulated which vastly increases cost of manufacturing and meaning that they are not feasible for large scale up  dye-sensitized pvs are similar in efficiency to opvs but are significantly easier to manufacture  however these dye-sensitized photovoltaics present storage problems because the liquid electrolyte is toxic and can potentially permeate the plastics used in the cell  quantum dot solar cells are quantum dot sensitized dsscs and are solution processed meaning they are potentially scalable  but currently they have not reached greater than 10  efficiency  perovskite solar cells are a very efficient solar energy converter and have excellent optoelectric properties for photovoltaic purposes  but they are expensive and difficult to manufacture 
+applications  
+photovoltaic systems  
+main article 
+a photovoltaic system  or solar pv system is a power system designed to supply usable solar power by means of photovoltaics  it consists of an arrangement of several components  including solar panels to absorb and directly convert sunlight into electricity  a solar inverter to change the electric current from dc to ac  as well as mounting  cabling and other electrical accessories  pv systems range from small 
+or
+systems with capacities from a few to several tens of   to large utility-scale
+of hundreds of   nowadays  most pv systems are   while
+systems only account for a small portion of the market 
+rooftop and building integrated systems
+rooftop pv on half-timbered house
+photovoltaic arrays are often associated with buildings  either integrated into them  mounted on them or mounted nearby on the ground 
+are most often retrofitted into existing buildings  usually mounted on top of the existing roof structure or on the existing walls  alternatively  an array can be located separately from the building but connected by cable to supply power for the building 
+ bipv  are increasingly incorporated into the roof or walls of new domestic and industrial buildings as a principal or ancillary source of electrical power  roof tiles with integrated pv cells are sometimes used as well  provided there is an open gap in which air can circulate  rooftop mounted solar panels can provide a passive cooling effect on buildings during the day and also keep accumulated heat in at night  typically  residential rooftop systems have small capacities of around 510kw  while commercial rooftop systems often amount to several hundreds of kilowatts  although rooftop systems are much smaller than ground-mounted utility-scale power plants  they account for most of the worldwide installed capacity 
+concentrator photovoltaics
+ cpv  is a photovoltaic technology that contrary to conventional flat-plate pv systems uses lenses and curved mirrors to focus sunlight onto small  but highly efficient 
+ mj  solar cells  in addition  cpv systems often use
+and sometimes a cooling system to further increase their efficiency  ongoing research and development is rapidly improving their competitiveness in the utility-scale segment and in areas of high solar  
+photovoltaic thermal hybrid solar collector
+ pvt  are systems that convert solar radiation into
+and electrical energy  these systems combine a solar pv cell  which converts sunlight into electricity  with a   which captures the remaining energy and removes waste heat from the pv module  the capture of both electricity and heat allow these devices to have higher
+and thus be more overall energy efficient than solar pv or solar thermal alone 
+power stations
+satellite image of the
+many utility-scale
+have been constructed all over the world  as of 2015  the 579-megawatt  mwac 
+is the world s largest   followed by the
+and the   both with a capacity of 550 mwac  constructed by us-company   using   a
+pv technology  all three power stations are located in the californian desert  many solar farms around the world are integrated with agriculture and some use innovative solar tracking systems that follow the sun s daily path across the sky to generate more electricity than conventional fixed-mounted systems  there are no fuel costs or emissions during operation of the power stations 
+rural electrification
+where many villages are often more than five kilometers away from grid power are increasingly using photovoltaics  in remote locations in india a rural lighting program has been providing solar powered
+lighting to replace kerosene lamps  the solar powered lamps were sold at about the cost of a few months  supply of kerosene  cuba is working to provide solar power for areas that are off grid  more complex applications of off-grid solar energy use include  
+3d printers have been solar powered with photovoltaic technology  which enables
+for   these are areas where the social costs and benefits offer an excellent case for going solar  though the lack of profitability has relegated such endeavors to humanitarian efforts  however  in 1995 solar rural electrification projects had been found to be difficult to sustain due to unfavorable economics  lack of technical support  and a legacy of ulterior motives of north-to-south technology transfer 
+standalone systems
+standalone pv system at an ecotourism resort      
+until a decade or so ago  pv was used frequently to power calculators and novelty devices  improvements in integrated circuits and low power
+make it possible to power such devices for several years between battery changes  making pv use less common  in contrast  solar powered remote fixed devices have seen increasing use recently in locations where significant connection cost makes grid power prohibitively expensive  such applications include   water pumps        temporary traffic signs  charging stations  and remote guard posts and signals 
+floatovoltaics
+in may 2008  the far niente winery in oakville  ca pioneered the world s first  floatovoltaic  system by installing 994 photovoltaic solar panels onto 130 pontoons and floating them on the winery s irrigation pond  the floating system generates about 477kw of peak output and when combined with an array of cells located adjacent to the pond is able to fully offset the winery s electricity consumption  the primary benefit of a floatovoltaic system is that it avoids the need to sacrifice valuable land area that could be used for another purpose  in the case of the far niente winery  the floating system saved three-quarters of an acre that would have been required for a land-based system  that land area can instead be used for agriculture  another benefit of a floatovoltaic system is that the panels are kept at a lower temperature than they would be on land  leading to a higher efficiency of solar energy conversion  the floating panels also reduce the amount of water lost through evaporation and inhibit the growth of algae 
+in transport
+2  a
+pv has traditionally been used for electric power in space  pv is rarely used to provide motive power in transport applications  but is being used increasingly to provide auxiliary power in boats and cars  some automobiles are fitted with solar-powered air conditioning to limit interior temperatures on hot days  a self-contained
+would have limited power and utility  but a solar-charged
+allows use of solar power for transportation  solar-powered cars  boats and airplanes have been demonstrated  with the most practical and likely of these being   the swiss     achieved the
+and plan to make the first solar-powered
+of the globe in 2015 
+telecommunication and signaling
+solar pv power is ideally suited for telecommunication applications such as local telephone exchange  radio and tv broadcasting  microwave and other forms of electronic communication links  this is because  in most telecommunication application  storage batteries are already in use and the electrical system is basically dc  in hilly and mountainous terrain  radio and tv signals may not reach as they get blocked or reflected back due to undulating terrain  at these locations 
+are installed to receive and retransmit the signal for local population 
+spacecraft applications
+part of  s solar array
+are usually the sole source of power to run the sensors  active heating and cooling  and communications  a battery stores this energy for use when the solar panels are in shadow  in some  the power is also used for   spacecraft were one of the earliest applications of photovoltaics  starting with the silicon solar cells used on the
+satellite  launched by the us in 1958  since then  solar power has been used on missions ranging from the
+probe to mercury  to as far out in the solar system as the
+probe to jupiter  the largest solar power system flown in space is the   to increase the power generated per kilogram  typical spacecraft solar panels use high-cost  high-efficiency  and close-packed rectangular
+made of
+ gaas  and other semiconductor materials 
+specialty power systems
+photovoltaics may also be incorporated as energy conversion devices for objects at elevated temperatures and with preferable radiative emissivities such as  
+advantages  
+the 122 of sunlight reaching the earth s surface is plentifulalmost 10,000 times more than the 13tw equivalent of average power consumed in 2005 by humans  this abundance leads to the suggestion that it will not be long before solar energy will become the world s primary energy source  additionally  solar electric generation has the highest power density  global mean of 170w m2  among renewable energies 
+solar power is pollution-free during use  production end-wastes and emissions are manageable using existing pollution controls  end-of-use recycling technologies are under development and policies are being produced that encourage recycling from producers 
+pv installations can operate for 100 years or even more with little maintenance or intervention after their initial set-up  so after the initial
+of building any solar power plant 
+are extremely low compared to existing power technologies 
+grid-connected solar electricity can be used locally thus reducing transmission distribution losses  transmission losses in the us were approximately 7.2  in 1995  
+compared to fossil and nuclear energy sources  very little research money has been invested in the development of solar cells  so there is considerable room for improvement  nevertheless  experimental
+already have efficiencies of over 40  in case of concentrating photovoltaic cells and efficiencies are rapidly rising while mass-production costs are rapidly falling 
+in some states of the united states  much of the investment in a home-mounted system may be lost if the home-owner moves and the buyer puts less value on the system than the seller  the city of
+developed an innovative financing method to remove this limitation  by adding a tax assessment that is transferred with the home to pay for the solar panels  now known as   property assessed clean energy  30 u s  states have duplicated this solution 
+there is evidence  at least in california  that the presence of a home-mounted solar system can actually increase the value of a home  according to a paper published in april 2011 by the ernest orlando lawrence berkeley national laboratory titled an analysis of the effects of residential photovoltaic energy systems on home sales prices in california 
+the research finds strong evidence that homes with pv systems in california have sold for a premium over comparable homes without pv systems  more specifically  estimates for average pv premiums range from approximately  3.9 to  6.4 per installed watt  dc  among a large number of different model specifications  with most models coalescing near  5.5 watt  that value corresponds to a premium of approximately  17,000 for a relatively new 3,100 watt pv system  the average size of pv systems in the study  
+see also  
+wikimedia commons has media related to  
+references  
+  chemistryexplained com  retrieved on 2015-11-10 
+pearce  joshua  2002     futures  34  7   663674    
+ 
+bazilian  m   onyeji  i   liebreich  m   macgill  i   chase  j   shah  j   gielen  d   arent  d   landfear  d   zhengrong  s   2013  
+ pdf   renewable energy  53  329338    
+palz  wolfgang  2013     crc press  pp 131   
+bushong  steven  advantages and disadvantages of a solar tracker system   retrieved 20 august 2016  missing or empty  title    
+ 
+swanson  r  m   2009  
+ pdf   science  324  5929   8912      
+ 
+branker  k   pathak  m j m   pearce  j m   2011    a review of solar photovoltaic levelized cost of electricity   renewable and sustainable energy reviews  15  9   44704482       
+ 
+  international renewable energy agency  irena   june 2016 
+renewable energy policy network for the 21st century  ren21     paris  2010  pp  180 
+tam hunt  9 march 2015     greentech media  retrieved 29 april 2015 
+ 
+ pdf   international energy agency  photovoltaic power systems programme  30 march 2015 
+from the original on 30 march 2015 
+  fraunhofer institute for solar energy systems ise  7 november 2013 
+smee  alfred  1849     london  longman  brown  green  and longmans  p 15 
+  mrsolar com  retrieved 12 december 2010
+  encyclobeamia solarbotics net  retrieved on 12 december 2010 
+jacobson  mark z   2009     energy   environmental science  2  2   148173    
+  solarbuzz com  retrieved on 3 june 2012 
+  renewableenergyaccess com  23 march 2007  retrieved on 3 june 2012 
+bullis  kevin  23 june 2006     technologyreview com  retrieved on 3 june 2012 
+luque  antonio   hegedus  steven  2003     john wiley and sons   
+retrieved on 7 september 2012
+  remenergyco com  retrieved on 31 may 2013 
+vick  b d   clark  r n   2005     pp  159164 in  proceedings of the international solar energy society  ises  2005 solar water congress  bringing water to the world  812 august 2005  orlando  florida 
+  huliq com  12 april 2007   retrieved on 3 june 2012 
+  cnn com  17 december 2014   retrieved on 1 april 2015 
+  pvpower com
+frank  dimroth    fraunhofer-gesellschaft  retrieved 14 march 2016 
+  physorg com  22 october 2009  retrieved on 3 june 2012 
+ pdf     april 2013  retrieved 25 october 2015 
+deb  satyen k   may 2000    nrel gov
+yu  j   zheng  y   huang  j   2014    towards high performance organic photovoltaic cells  a review of recent development in organic photovoltaics   polymers  6  9   24732509    
+sun  y   welch  g  c   leong  w  l   takacs  c  j   bazan  g  c   heeger  a  j   2011    solution-processed small-molecule solar cells with 6.7  efficiency   nature materials  11  1   448         
+  dyesol com  8 december 2015 
+st  john  jeff  23 august 2012    greentechmedia com
+  cnn  2014-09-18
+    2011  p 22 
+ pdf     2012  pp 9  11  12  64 
+  ihs technology  january 2015  retrieved february 2015  check date values in   access-date    
+  renewableenergyinvestments com  18 february 2015 
+ 
+  mercomcapital  march 2015 
+michael liebreich  27 january 2015     bloomberg new energy finance  retrieved february 2015  solar solid with 55gwour prediction for solar in 2015 is that the world will add more than 55gw of capacity  and indeed  if the sector gathers steam during the year as we think it might  it could reach as much as 60gw  up from a record of just under 50gw last year  check date values in   access-date    
+  cleantechnica  19 march 2015 
+  epia-publications  european photovoltaic industry association  march 2014 
+from the original on 4 april 2014 
+european photovoltaic industry association  2013    
+  epia org  22 september 2012   retrieved on 31 may 2013 
+liebreich  michael  29 january 2014     bloomberg new energy finance  retrieved 24 april 2014 
+ pdf   deutsche bank markets research  6 january 2014 
+from the original on 22 november 2014  retrieved 22 november 2014 
+  in  solarserver de  16  juni 2014  abgerufen am 16  juni 2014 
+ 
+collier  j   wu  s    apul  d   2014    life cycle environmental impacts from czts  copper zinc tin sulfide  and zn3p2  zinc phosphide  thin film pv  photovoltaic  cells   energy  74  314321     cs1 maint  multiple names  authors list   
+ 
+anctil  a   babbitt  c  w   raffaelle  r  p    landi  b  j   2013    cumulative energy demand for small molecule and polymer photovoltaics   progress in photovoltaics  research and applications  21  7   15411554     cs1 maint  multiple names  authors list   
+ 
+bhandari  k  p   collier  j  m   ellingson  r  j    apul  d  s   2015    energy payback time  epbt  and energy return on energy invested  eroi  of solar photovoltaic systems  a systematic review and meta-analysis   renewable and sustainable energy reviews  47  133141     cs1 maint  multiple names  authors list   
+ 
+fthenakis  v  m   kim  h  c    alsema  e   2008    emissions from photovoltaic life cycles   environmental science   technology  42  6   21682174     cs1 maint  multiple names  authors list   
+ 
+life cycle greenhouse gas emissions from solar photovoltaics  national renewable energy laboratory  u s  department of energy  2012  12 
+ 
+krebs  f  c   2009    fabrication and processing of polymer solar cells  a review of printing and coating techniques   solar energy materials and solar cells  93  4   394412    
+ 
+yue  d   you  f    darling  s  b   2014    domestic and overseas manufacturing scenarios of silicon-based photovoltaics  life cycle energy and environmental comparative analysis   solar energy  105  669678     cs1 maint  multiple names  authors list   
+gaidajis  g    angelakoglou  k   2012    environmental performance of renewable energy systems with the application of life-cycle assessment  a multi-si photovoltaic module case study   civil engineering and environmental systems  29  4   231238    
+photovoltaics report   fraunhofer institute for solar energy systems  ise  2015  
+ 
+goe  m    gaustad  g   2014    strengthening the case for recycling photovoltaics  an energy payback analysis   applied energy  120  4148    
+eisenberg  d  a   yu  m   lam  c  w   ogunseitan  o  a    schoenung  j  m   2013    comparative alternative materials assessment to screen toxicity hazards in the life cycle of cigs thin film photovoltaics   journal of hazardous materials  260  534542       cs1 maint  multiple names  authors list   
+kim  h  c   fthenakis  v   choi  j  k    turney  d  e   2012    life cycle greenhouse gas emissions of thin-film photovoltaic electricity generation   journal of industrial ecology  16  s110s121     cs1 maint  multiple names  authors list   
+werner  j  h   zapf-gottwick  r   koch  m    fischer  k  in proceedings of the 21st international photovoltaic science and engineering conference  fukuoka  japan 
+brown  g  f    wu  j   2009    third generation photovoltaics   laser   photonics reviews  3  4   394405    
+ 
+celik  i   song  z   cimaroli  a  j   yan  y   heben  m  j     apul  d   2016   life cycle assessment  lca  of perovskite pv cells projected from lab to fab  solar energy materials and solar cells 
+ 
+espinosa  n   serrano-lujn  l   urbina  a    krebs  f  c   2015    solution and vapour deposited lead perovskite solar cells  ecotoxicity from a life cycle assessment perspective   solar energy materials and solar cells  137  303310     cs1 maint  multiple names  authors list   
+ 
+gong  j   darling  s  b    you  f   2015    perovskite photovoltaics  life-cycle assessment of energy and environmental impacts   energy   environmental science  8  7   19531968     cs1 maint  multiple names  authors list   
+wadia  c   alivisatos  a  p    kammen  d  m   2009    materials availability expands the opportunity for large-scale photovoltaics deployment   environmental science and technology  43  6   20722077       cs1 maint  multiple names  authors list   
+alharbi  fahhad  bass  john d   salhi  abdelmajid  alyamani  ahmed  kim  ho-cheol  miller  robert d   2011    abundant non-toxic materials for thin film solar cells  alternative to conventional materials   renewable energy  36  10   27532758    
+dos reis benatto  gisele a   roth  brenger  madsen  morten v   hsel  markus  sndergaard  roar r   jrgensen  mikkel  krebs  frederik c   2014    carbon  the ultimate electrode choice for widely distributed polymer solar cells   advanced energy materials  4  15   n a    
+lattante  sandro  2014    electron and hole transport layers  their use in inverted bulk heterojunction polymer solar cells   electronics  3  132164    
+ 
+krebs  frederik c   jrgensen  mikkel  2013    polymer and organic solar cells viewed as thin film technologies  what it will take for them to become a success outside academia   solar energy materials and solar cells  119  7376    
+espinosa  nieves  garca-valverde  rafael  urbina  antonio  krebs  frederik c   2011    a life cycle analysis of polymer solar cell modules prepared using roll-to-roll methods under ambient conditions   solar energy materials and solar cells  95  5   12931302    
+espinosa  nieves  lenzmann  frank o   ryley  stephen  angmo  dechan  hsel  markus  sndergaard  roar r   huss  dennis  dafinger  simone  gritsch  stefan  kroon  jan m   jrgensen  mikkel  krebs  frederik c   2013    opv for mobile applications  an evaluation of roll-to-roll processed indium and silver free polymer solar cells through analysis of life cycle  cost and layer quality using inline optical and functional inspection tools   journal of materials chemistry a  1  24   7037    
+garca-valverde  r   miguel  c   martnez-bjar  r   urbina  a   2009    life cycle assessment study of a 4.2k wp stand-alone photovoltaic system   solar energy  83  9   14341445    
+  apricus solar  archived from
+on 17 april 2012  retrieved 14 april 2012 
+  udaily  university of delaware  24 july 2007  retrieved 24 july 2007 
+schultz  o   mette  a   preu  r   glunz  s w   silicon solar cells with screen-printed front side metallization exceeding 19  efficiency     pp 980983   
+shahan  zachary   20 june 2011    reuters com  retrieved on 31 may 2013 
+ 
+  the economist  21 november 2012  retrieved 28 december 2012 
+wells  ken  25 october 2012       retrieved 1 november 2012 
+  greentechmedia com  7 may 2012   retrieved on 31 may 2013 
+  renewable energy world  29 august 2011 
+reuters  23 november 2009 
+  reuters  24 november 2009 
+harris  arno  31 august 2011     renewable energy world 
+ 
+quiggin  john  3 january 2012     national interest 
+  solarserver com  april 30  2012
+  greentechmedia com  2013-06-18   retrieved on 2015-04-15 
+alafita  t   pearce  j  m   2014    securitization of residential solar photovoltaic assets  costs  risks and uncertainty   energy policy  67  488498    
+lowder  t     mendelsohn  m   2013   the potential of securitization in solar pv finance 
+  forbes  21 november 2013
+  verdel3c com  may 2009  
+  docs google com  retrieved on 31 may 2013 
+platzer  michael  january 27  2015    u s  solar photovoltaic manufacturing  industry trends  global competition  federal support   congressional research service 
+  www fsec ucf edu  retrieved 2015-11-05 
+  www fsec ucf edu  retrieved 2015-11-05 
+secor  ethan   emerging photovoltaic technologies   mse 381 lecture  evanston  3 nov  2015  lecture 
+  wisconsin public service corporation  accessed  23 march 2007 
+2 february 2007 at the  
+  university of california  san diego  retrieved 19 may 2015 
+ pdf   epia  european photovoltaic industry association  p 45 
+from the original on 12 june 2014  retrieved 19 may 2015 
+mojiri  a   taylor  r   thomsen  e   rosengarten  g   2013    spectral beam splitting for efficient conversion of solar energya review   renewable and sustainable energy reviews  28  654663    
+pathak  m  j  m   sanders  p  g   pearce  j  m   2014    optimizing limited solar roof access by exergy analysis of solar thermal  photovoltaic  and hybrid photovoltaic thermal systems   applied energy  120  115124    
+  renewable energy world  30 september 2011 
+  bbc news  29 april 2007   retrieved on 3 june 2012 
+  ebono org   26 february 2008  
+barclay  eliza  31 july 2003     islamonline net 
+ motherboard  nov  2014
+king  debbie l   babasola  adegboyega  rozario  joseph  pearce  joshua m   2014    mobile open-source solar-powered 3-d printers for distributed manufacturing in off-grid communities   challenges in sustainability  2    
+  jon d   chapman  duane  1995    photovoltaic technology  markets  economics  and development   world development  23  7   11291141    
+  builditsolar com  retrieved 16 june 2010 
+  10news com  18 february 2009   retrieved on 3 june 2012 
+  impactnews com  22 july 2009  retrieved 19 september 2011 
+  msnbc  24 july 2009   retrieved on 3 june 2012 
+retrieved 28 june 2013
+retrieved 28 june 2013
+  sfgate  29 may 2008   retrieved on 31 may 2013 
+  farniente com
+  forbes  18 april 2012   retrieved on 31 may 2013 
+miller  ross  13 january 2009    engadget com 
+retrieved 28 june 2013
+  nydailynews com  2013-06-17   retrieved on 2015-04-15 
+  cambridgenetwork co uk  4 february 2009  
+khan  b  h   2006  non-conventional energy resources  tmh publications
+ 
+nasa jpl publication    chapter 11  typical onboard systems  propulsion subsystems
+perlin  john  2005     solar evolution  the history of solar energy  the rahus institute  retrieved 25 february 2007 
+terracciano  anthony  2016     applied energy  179  1   228236    
+ 
+smil  vaclav  2006    oecd org  retrieved on 3 june 2012 
+prof  gordon aubrecht  ohio state at marion  tedxcolumbus  the innovators  18 october 2012
+nieuwlaar  evert and alsema  erik    iea pvps task 1 workshop  2527 june 1997  utrecht  the netherlands
+mcdonald  n c   pearce  j m   2010    producer responsibility and recycling solar photovoltaic modules   energy policy  38  11   70417047    
+  retrieved on 25 december 2013 
+   pdf    retrieved on 3 june 2012 
+  renewableenergyfocus com  28 january 2009  
+  solar cells info  16 october 2007   retrieved on 3 june 2012 
+  cityofberkeley info 
+  dsireusa org  4 april 2011   retrieved on 3 june 2012 
+hoen  ben  wiser  ryan  cappers  peter   thayer  mark  april 2011  
+ pdf   berkeley national laboratory 
+further reading  
+  how the u s  can lead in the new global economy  2012  by
+and
+ 2011  by the
+ 2011  by
+ 2011  by the
+ 2011  by the
+by
+photovoltaics
+concepts
+technology
+photovoltaics
+materials
+history
+system components
+system concepts
+applications
+appliances
+land transport
+air transport
+water transport
+solar vehicle racing
+individual projects
+building-mounted
+by country
+individual producers
+concepts
+and
+photovoltaics
+ 
+ solar panel 
+ and systems 
+experimental
+  proposed
+and
+distribution
+  uses
+storage
+adoption
+applications
+other applications
+and
+building
+lighting
+process heat
+cooking
+disinfection
+desalination
+water heating
+see also
+ 
+ 
+retrieved from   
+  hidden categories 

@@ -1,0 +1,432 @@
+pipelinetransport
+from wikipedia  the free encyclopedia
+jump to 					 
+part of a series on
+pipeline
+topics
+an elevated section of the  
+pipeline transport is the transportation of goods or material through a   the latest data  in 2014  gives a total of slightly less than 2,175,000 miles  3,500,000km  of pipeline in 120 countries of the world  the united states had 65   russia had 8   and canada had 3   thus 75  of all pipeline was in three countries 
+pipeline and gas journals worldwide survey figures indicate that 118,623 miles  190,905km  of pipelines are planned and under construction  of these  88,976 miles  143,193km  represent projects in the planning and design phase  29,647 miles  47,712km  reflect pipelines in various stages of construction  liquids and gases are transported in pipelines and any chemically stable substance can be sent through a pipeline  pipelines exist for the transport of crude and refined petroleum 
+- such as oil  natural gas and biofuels - and other fluids including       and   pipelines are useful for transporting water for
+or
+over long distances when it needs to move over   or where
+or
+are poor choices due to considerations of     or environmental impact 
+using compressed air can be used to transport solid capsules 
+oil pipelines are made from
+or
+tubes which are usually buried  the oil is moved through the pipelines by
+stations along the pipeline  natural gas  and similar gaseous fuels  are lightly pressurised into liquids known as natural gas liquids  ngls   natural gas pipelines are constructed of   highly toxic
+is theoretically the most dangerous substance to be transported through long-distance pipelines  but accidents have been rare 
+is the transportation of hydrogen through a  
+or teleheating systems use a network of
+pipes which transport heated water 
+or sometimes
+to the customer 
+pipelines conveying flammable or explosive material  such as natural gas or oil  pose special safety concerns and there have been various   pipelines can be the target of     or even   in war  pipelines are often the target of military attacks 
+contents
+oil and natural gas  
+this section needs additional citations for   please help
+by   unsourced material may be challenged and removed   february 2014    
+see also 
+and
+a    launcher receiver  belonging to the natural gas pipeline in switzerland
+it is uncertain when the first
+pipeline was built  credit for the development of pipeline transport is disputed  with competing claims for
+and the
+company in the late 19th century  and the oil transport association  which first constructed a 2-inch  51mm  wrought iron pipeline over a 6-mile  9.7km  track from an oil field in pennsylvania to a railroad station in   in the 1860s  pipelines are generally the most economical way to transport large quantities of oil 
+or
+over land 
+natural gas  and similar gaseous fuels  are lightly pressurized into liquids knows as natural gas liquids  ngls   small ngl processing facilities can be located in oil fields so the butane and propane liquid under light pressure of 125 pounds per square inch  860kpa   can be shipped by rail  truck or pipeline  propane can be used as a fuel in oil fields to heat various facilities used by the oil drillers or equipment and trucks used in the oil patch  eg  propane will convert from a gas to a liquid under light pressure  100 psi  give or take depending on temperature  and is pumped into cars and trucks at less than 125psi  860kpa  at retail stations  pipelines and rail cars use about double that pressure to pump at 250psi  1,700kpa  
+the distance to ship propane to markets is much shorter as thousands of ngl processing plants are located in oil fields or close by when a number of pipelines tie into each other from various relatively close fields  many bakken basin oil companies in north dakota  montana  manitoba and saskatchewan gas fields separate the ngls in the field  allowing the drillers to sell propane directly to small wholesalers  eliminating the large refinery control of product and prices for propane or butane 
+the most recent major pipeline to start operating in north america  is a transcanada natural gas line going north across the niagara region bridges with marcellus shale gas from pennsylvania and others tied in methane or natural gas sources  into the canadian province of ontario as of the fall of 2012  supplying 16 percent of all the natural gas used in ontario 
+major russian gas pipelines to europe in 2009
+this new us supplied natural gas displaces the natural gas formerly shipped to ontario from western canada in alberta and manitoba  thus dropping the government regulated pipeline shipping charges because of the significantly shorter distance from gas source to consumer  compared to shipping by   pipelines have lower cost per unit and higher capacity  pipelines are preferable to transportation by truck for a number of reasons  employment on completed pipelines represents only  1  of that of the trucking industry  
+to avoid delays and us government regulation  many small  medium and large oil producers in north dakota have decided to run an oil pipeline north to canada to meet up with a canadian oil pipeline shipping oil from west to east  this allows the bakken basin and three forks oil producers to get higher negotiated prices for their oil because they will not be restricted to just one wholesale market in the us  the distance from the biggest oil patch in north dakota  is   only about 85 miles or 137 kilometers to the canadaus border and  
+and
+are big investors in new oil and gas pipelines  in the fall of 2012  the us began exporting
+to europe  known as lpg  as wholesale prices there are much higher than in north america 
+as more north american pipelines are built  even more exports of lng  propane  butane  and other natural gas products will occur on all three us coasts  to give insight  north dakota s oil production has grown to 5 times in late 2012 compared to what it was just 6 years ago creating thousands of good paying long term jobs    north dakota oil companies are shipping huge amounts of oil by tanker rail car as they can direct the oil to the market that gives the best price but pipelines are cheaper  rail cars can be used to avoid a congested oil pipeline to get the oil to a different pipeline in order to get the oil to market faster or to a different less busy oil refinery 
+enbridge in canada is applying to reverse an oil pipeline going from east-to-west  line 9  and expanding it and using it to ship western canadian bitumen oil eastward  from a presently rated 250,000 barrels equivalent per day pipeline  it will be expanded to between one million to 1.3 million barrels per day  it will bring western oil to refineries in ontario  michigan  ohio  pennsylvania  quebec and new york by early 2014  new brunswick will also refine some of this western canadian crude and export some crude and refined oil to europe from its deep water oil ulcc loading port 
+although pipelines can be built under the sea  that process is economically and technically demanding  so the majority of oil at sea is transported by
+ships 
+the enbridge
+is proposed to transfer valuable oil from western north dakota through northwestern minnesota  the pipeline will be 24-30 inches in diameter  it will carry over 300,000 barrels of oil a day with a volatility of 32 
+growth of market  
+gas pipe in the dry region of antofagasta  chile 
+the market size for oil and gas pipeline construction experienced tremendous growth prior to the economic downturn in 2008  after faltering in 2009  demand for pipeline expansion and updating increased the following year as energy production grew  by 2012  almost 32,000 miles of north american pipeline were being planned or under construction 
+construction and operation  
+oil pipelines are made from
+or
+tubes with inner diameter typically from 4 to 48 inches  100 to 1,220mm   most pipelines are typically buried at a depth of about 3 to 6 feet  0.91 to 1.83m   to protect pipes from     and   a variety of methods are used  these can include
+ wood slats  
+coating  rockshield    imported sand padding  and padding machines 
+crude oil contains varying amounts of
+and in colder climates wax buildup may occur within a pipeline  often these pipelines are inspected and cleaned using   the practice of using devices known as  pigs  to perform various maintenance operations on a pipeline  the devices are also known as  scrapers  or  go-devils    smart pigs   also known as  intelligent  or  intelligence  pigs  are used to detect anomalies in the pipe such as dents  metal loss caused by corrosion  cracking or other mechanical damage  these devices are launched from pig-launcher stations and travel through the pipeline to be received at any other station down-stream  either cleaning wax deposits and material that may have accumulated inside the line or inspecting and recording the condition of the line 
+for natural gas  pipelines are constructed of carbon steel and vary in size from 2 to 60 inches  51 to 1,524mm  in diameter  depending on the type of pipeline  the gas is pressurized by compressor stations and is odorless unless mixed with a
+where required by a regulating authority 
+ammonia  
+the world s longest ammonia pipeline from
+to  
+highly toxic
+is theoretically the most dangerous substance to be transported through long-distance pipelines    however  incidents on ammonia-transporting lines are uncommon - unlike on industrial ammonia-processing equipment    a major ammonia pipeline is the
+transammiak line connecting the
+facility in
+to the exporting -port of  
+alcohol fuels  
+see also 
+pipelines have been used for transportation of ethanol in brazil  and there are several ethanol pipeline projects in brazil and the united states  the main problems related to the transport of ethanol by pipeline are its corrosive nature and tendency to absorb water and impurities in pipelines  which are not problems with oil and natural gas  insufficient volumes and cost-effectiveness are other considerations limiting construction of ethanol pipelines 
+coal and ore  
+are sometimes used to transport coal or ore from mines  the material to be transported is closely mixed with water before being introduced to the pipeline  at the far end  the material must be dried  one example is a 525-kilometre  326mi  slurry pipeline which is planned to transport iron ore from the
+mine  producing 26.5 million tonnes per year  to the
+in   an existing example is the 85-kilometre  53mi  savage river slurry pipeline in     possibly the world s first when it was built in 1967  it includes a 366-metre  1,201ft  bridge span at 167 metres  548ft  above the savage river 
+hydrogen  
+main article 
+is a transportation of hydrogen through a
+as part of the   hydrogen pipeline transport is used to connect the point of
+or delivery of hydrogen with the point of demand  with transport costs similar to   the technology is proven  most
+is produced at the place of demand with every 50 to 100 miles  160km  an industrial production facility  the 1938
+240-kilometre  150mi  hydrogen pipeline is still in operation  as of 2004  there are 900 miles  1,400km  of low pressure hydrogen pipelines in the us and 930 miles  1,500km  in europe 
+water  
+main article 
+the
+in  
+two millennia ago  the
+made use of large
+to transport water from higher elevations by building the aqueducts in graduated segments that allowed
+to push the water along until it reached its destination  hundreds of these were built throughout europe and elsewhere  and along with
+were considered the lifeline of the roman empire  the
+also made use of channels and pipe systems for public works  the famous
+court
+ d  189ad  once ordered the
+bi lan to construct a series of square-pallet
+outside the capital city of   these chain pumps serviced the imperial
+and living quarters of the capital city as the water lifted by the chain pumps was brought in by a
+system 
+pipelines are useful for transporting water for
+or
+over long distances when it needs to move over   or where
+or
+are poor choices due to considerations of     or environmental impact 
+the 530km  330mi 
+in
+using 750mm  30inch  pipe and completed in 1903 was the largest water supply scheme of its time 
+examples of significant water pipelines in
+are the morgan-whyalla pipelne  completed 1944  and -  completed 1955  pipelines  both part of the larger  
+there are two
+aqueducts  the
+ completed 1913  and the
+ completed 1970  which also include extensive use of pipelines 
+the
+of libya supplies 3,680,000 cubic metres  4,810,000cuyd  of water each day to tripoli  benghazi  sirte  and several other cities in libya  the pipeline is over 2,800 kilometres  1,700mi  long  and is connected to wells tapping an aquifer over 500 metres  1,600ft  underground 
+other systems  
+district heating  
+district heating pipeline in
+with a length of 31km
+main article 
+district heating or teleheating systems consist of a network of
+feed and return pipes which transport heated water 
+or sometimes
+to the customer  while steam is hottest and may be used in
+due to its higher temperature  it is less
+to produce and transport due to greater heat losses  heat transfer oils are generally not used for economic and ecological reasons  the typical annual loss of thermal energy through distribution is around 10   as seen in norway s district heating network 
+district heating pipelines are normally installed underground  with some exceptions  within the system 
+may be installed to even out peak load demands  heat is transferred into the
+of the dwellings through
+at   without mixing of the fluids in either system 
+beer  
+thor pipeline in  
+bars in the   a major
+ground in     are interconnected by a 5-kilometre  3.1mi  long beer pipeline  in
+city in   the so-called thor beer pipeline was operated  originally  copper pipes ran directly from the brewery  but when the brewery moved out of the city in the 1990s  thor beer replaced it with a giant tank 
+a three-kilometer beer pipeline was completed in  
+in september 2016 to reduce truck traffic on the city streets 
+brine  
+the village of
+in   which is known for its long history of   claims to contain  the oldest industrial pipeline in the world   dating back to 1595  it was constructed from 13,000 hollowed-out tree
+to transport
+40 kilometres  25mi  from hallstatt to  
+milk  
+between 1978 and 1994  a 15km milk pipeline ran between the
+island of
+and
+on the mainland  of which 8km beneath the   every day  30.000 litres of milk produced on the island were transported to be processed on the mainland  in 1994  the milk transport was abandoned 
+marine pipelines  
+main article 
+in places  a pipeline may have to cross water expanses  such as small seas  straits and rivers  in many instances  they lie entirely on the seabed  these pipelines are referred to as  marine  pipelines  also   submarine  or  offshore  pipelines   they are used primarily to carry oil or gas  but transportation of water is also important  in offshore projects  a distinction is made between a  flowline  and a pipeline  the former is an intrafield pipeline  in the sense that it is used to connect subsea   manifolds and the
+within a particular development field  the latter  sometimes referred to as an  export pipeline   is used to bring the resource to shore  the construction and maintenance of marine pipelines imply logistical challenges that are different from those onland  mainly because of wave and current dynamics  along with other  
+functions  
+in general  pipelines can be classified in three categories depending on purpose 
+gathering pipelines
+group of smaller interconnected pipelines forming complex networks with the purpose of bringing crude oil or natural gas from several nearby wells to a treatment plant or processing facility  in this group  pipelines are usually short- a couple hundred metres- and with small diameters  sub-sea pipelines for collecting product from deep water production platforms are also considered gathering systems 
+transportation pipelines
+mainly long pipes with large diameters  moving products  oil  gas  refined products  between cities  countries and even continents  these transportation networks include several compressor stations in gas lines or pump stations for crude and multi-products pipelines 
+distribution pipelines
+composed of several interconnected pipelines with small diameters  used to take the products to the final consumer  feeder lines to distribute gas to homes and businesses downstream  pipelines at terminals for distributing products to tanks and storage facilities are included in this groups 
+development and planning  
+when a pipeline is built  the construction project not only covers the
+work to lay the pipeline and build the pump compressor stations  it also has to cover all the work related to the installation of the field devices that will support remote operation 
+the pipeline is routed along what is known as a  right of way   pipelines are generally developed and built using the following stages 
+open season to determine market interest  potential customers are given the chance to sign up for part of the new pipeline s capacity rights  this stage lasts up to two months  if interest in the pipeline is limited  the project does not move forward 
+route  right of way  selection
+pipeline design  the pipeline project may take a number of forms  including the construction of a new pipeline  conversion of existing pipeline from one fuel type to another  or improvements to facilities on a current pipeline route  the design process may take up to six months 
+obtaining approval  once the design is finalized and the first pipeline customers have purchased their share of capacity  the project must be approved by the relevant regulatory agencies  the process can last up to 18 months  particularly for pipelines that span multiple states 
+surveying the route
+clearing the route
+trenching - main route and crossings  roads  rail  other pipes  etc  
+installing the pipe
+installing valves  intersections  etc 
+covering the pipe and trench
+testing  once construction is completed  the new pipeline is subjected to tests to ensure its structural integrity  these may include hydrostatic testing and line packing 
+russia has  pipeline troops  as part of the   who are trained to build and repair pipelines  russia is the only country to have pipeline troops 
+operation  
+field devices are instrumentation  data gathering units and communication systems  the field
+includes flow  pressure and temperature gauges transmitters  and other devices to measure the relevant data required  these instruments are installed along the pipeline on some specific locations  such as injection or delivery stations  pump stations  liquid pipelines  or compressor stations  gas pipelines   and block valve stations 
+the information measured by these field instruments is then gathered in local
+ rtu  that transfer the field data to a central location in real time using communication systems  such as satellite channels  microwave links  or cellular phone connections 
+pipelines are controlled and operated remotely  from what is usually known as the  main control room   in this center  all the data related to field measurement is consolidated in one central database  the data is received from multiple rtus along the pipeline  it is common to find rtus installed at every station along the pipeline 
+the scada system for pipelines 
+the
+system at the main control room receives all the field data and presents it to the pipeline operator through a set of screens or   showing the operational conditions of the pipeline  the operator can monitor the hydraulic conditions of the line  as well as send operational commands  open close valves  turn on off compressors or pumps  change setpoints  etc   through the scada system to the field 
+to optimize and secure the operation of these assets  some pipeline companies are using what is called  advanced pipeline applications   which are software tools installed on top of the scada system  that provide extended functionality to perform leak detection  leak location  batch tracking  liquid lines   pig tracking  composition tracking  predictive modeling  look ahead modeling  and operator training 
+technology  
+components  
+the trans alaska pipeline crossing under the
+and over ridge of the
+pipeline networks are composed of several pieces of equipment that operate together to move products from location to location  the main elements of a pipeline system are 
+initial injection station
+known also as  supply  or  inlet  station  is the beginning of the system  where the product is injected into the line  storage facilities  pumps or compressors are usually located at these locations 
+compressor pump stations
+for liquid pipelines and
+for gas pipelines  are located along the line to move the product through the pipeline  the location of these stations is defined by the topography of the terrain  the type of product being transported  or operational conditions of the network 
+partial delivery station
+known also as  intermediate stations   these facilities allow the pipeline operator to deliver part of the product being transported 
+block valve station
+these are the first line of protection for pipelines  with these valves the operator can isolate any segment of the line for maintenance work or isolate a rupture or leak  block valve stations are usually located every 20 to 30 miles  48km   depending on the type of pipeline  even though it is not a design rule  it is a very usual practice in liquid pipelines  the location of these stations depends exclusively on the nature of the product being transported  the trajectory of the pipeline and or the operational conditions of the line 
+regulator station
+this is a special type of valve station  where the operator can release some of the pressure from the line  regulators are usually located at the downhill side of a peak 
+final delivery station
+known also as  outlet  stations or terminals  this is where the product will be distributed to the consumer  it could be a tank terminal for liquid pipelines or a connection to a distribution network for gas pipelines 
+leak detection systems  
+since oil and gas pipelines are an important asset of the economic development of almost any country  it has been required either by government regulations or internal policies to ensure the safety of the assets  and the population and environment where these pipelines run 
+pipeline companies face government regulation  environmental constraints and social situations  government regulations may define minimum staff to run the operation  operator training requirements  pipeline facilities  technology and applications required to ensure operational safety  for example  in the state of washington it is mandatory for pipeline operators to be able to detect and locate leaks of 8 percent of maximum flow within fifteen minutes or less  social factors also affect the operation of pipelines  product theft is sometimes also a problem for pipeline companies  in this case  the detection levels should be under two percent of maximum flow  with a high expectation for location accuracy 
+various technologies and strategies have been implemented for monitoring pipelines  from physically walking the lines to satellite surveillance  the most common technology to protect pipelines from occasional leaks is computational pipeline monitoring or cpm  cpm takes information from the field related to pressures  flows  and temperatures to estimate the hydraulic behavior of the product being transported  once the estimation is completed  the results are compared to other field references to detect the presence of an anomaly or unexpected situation  which may be related to a leak 
+the
+has published several articles related to the performance of cpm in liquids pipelines  the api publications are 
+ram 1130  computational pipeline monitoring for liquids pipelines
+api 1155  evaluation methodology for software based leak detection systems
+api 1149  pipeline variable uncertainties   their effects on leak detectability
+where a pipeline containing passes under a road or railway  it is usually enclosed in a protective casing  this casing is vented to the atmosphere to prevent the build-up of flammable gases or corrosive substances  and to allow the air inside the casing to be sampled to detect leaks  the casing vent  a pipe protruding from the ground  often doubles as a warning marker called a casing vent marker 
+implementation  
+as a rule pipelines for all uses are laid in most cases underground    however  in some cases it is necessary to cross a valley or a river on a   pipelines for centralized heating systems are often laid on the ground or overhead  pipelines for petroleum running through permafrost areas as trans-alaska-pipeline are often run overhead in order to avoid melting the frozen ground by hot petroleum which would result in sinking the pipeline in the ground 
+maintenance  
+maintenance of pipelines includes checking
+levels for the proper range  surveillance for construction  erosion  or leaks by foot  land vehicle  boat  or air  and running cleaning pigs  when there is anything carried in the pipeline that is corrosive 
+us pipeline maintenance rules are covered in  cfr  sections  49 cfr 192 for natural gas pipelines  and 49 cfr 195 for petroleum liquid pipelines 
+regulation  
+an underground petroleum pipeline running through a park
+in the us  onshore and offshore pipelines used to transport oil and gas are regulated by the
+ phmsa   certain offshore pipelines used to produce oil and gas are regulated by the
+ mms   in canada  pipelines are regulated by either the provincial regulators or  if they cross provincial boundaries or the canadaus border  by the
+ neb   government regulations in canada and the united states require that buried fuel pipelines must be protected from   often  the most economical method of corrosion control is by use of pipeline
+in conjunction with
+and technology to monitor the pipeline  above ground  cathodic protection is not an option  the coating is the only external protection 
+pipelines and geopolitics  
+pipelines for major energy resources  petroleum and natural gas  are not merely an element of trade  they connect to issues of
+and
+as well  and the construction  placement  and control of oil and gas pipelines often figure prominently in
+interests and actions  a notable example of pipeline politics occurred at the beginning of the year 2009  wherein
+between
+and
+ostensibly over pricing led to a major political crisis  russian state-owned gas company
+cut off natural gas supplies to ukraine after talks between it and the ukrainian government fell through  in addition to cutting off supplies to ukraine  russian gas flowing through ukrainewhich included nearly all supplies to
+and some supplies to
+and was cut off  creating a major crisis in several countries heavily dependent on russian gas as fuel  russia was accused of using the dispute as leverage in its attempt to keep other powers  and particularly the   from interfering in its    
+oil and gas pipelines also figure prominently in the politics of
+and the  
+hazard identification  
+because the
+fraction of
+typically comprises
+like
+and   reasonably rapid carrier
+can be expected to follow an above-ground spillostensibly enabling timely intervention by leaving only a
+residue that is slow to migrate  effective protocols to minimize exposure to
+vapours are well-established  and oil spilled from the pipeline would be unlikely to reach the
+unless incomplete remediation were followed by the introduction of another carrier  e g  a series of torrential downpours  
+the keystone xl extension is designed to be buried under four feet of soil  which will hinder post-spill vaporization of the carrier fraction  diluent and bitumen will migrate at different rates  depending on the temperature- and composition of the surrounding soils  but separation will take place more slowly as the aromatics diffuse through sediment rather than through air 
+the introduction of
+and other volatile organic compounds  collectively   to the subterranean environment compounds the threat posed by a pipeline leak  particularly if followed by rain  a pipeline breach would result in btex
+and
+of benzene in water  followed by
+of the admixture into the aquifer  benzene can cause many
+and is
+with epa
+ mcl  set at 5 g l for   although it is not well studied  single benzene exposure events have been linked to acute carcinogenesis  additionally  the exposure of livestock  mainly cattle  to benzene has been shown to cause many health issues  such as   fetal damage and fatal poisoning 
+the entire surface of an above-ground pipeline can be directly examined for material breach  pooled petroleum is unambiguous  readily spotted  and indicates the location of required repairs  because the effectiveness of remote inspection is limited by the cost of monitoring equipment  gaps between   and data that requires interpretation  small leaks in buried pipe can sometimes go undetected
+pipeline developers do not always prioritize effective surveillance against leaks  buried pipes draw fewer complaints  they are
+from extremes in
+temperature  they are shielded from   and they are less exposed to   buried pipes are isolated from airborne debris          and   they are protected from nesting birds 
+mammals  and wayward buckshot  buried pipe is less vulnerable to accident damage  e g    and less accessible to     and  
+exposure  
+previous work has shown that a  worst-case exposure scenario  can be limited to a specific set of conditions  based on the advanced detection methods and pipeline shut-off
+developed by transcanada  the risk of a substantive or large release over a short period of time contaminating groundwater with benzene is unlikely  detection  shutoff  and remediation procedures would limit the dissolution and transport of benzene  therefore  the exposure of benzene would be limited to leaks that are below the
+and go unnoticed for extended periods of time  leak detection is monitored through a
+system that assesses pressure and volume flow every 5 seconds  a pinhole leak that releases small quantities that cannot be detected by the scada system   1.5  flow  could accumulate into a substantive spill  detection of pinhole leaks would come from a visual or
+inspection  aerial surveying  or mass-balance inconsistencies  it is assumed that pinhole leaks are discovered within the 14-day inspection interval  however snow cover and location  e g  remote  deep  could delay detection  benzene typically makes up 0.1  1.0  of oil and will have varying degrees of
+and dissolution based on environmental factors 
+even with pipeline leak volumes within scada detection limits  sometimes pipeline leaks are misinterpreted by pipeline operators to be pump malfunctions  or other problems  the
+line 6b
+in
+on july 25  2010 was thought by operators in edmonton to be from column separation of the
+in that pipeline  the leak in wetlands along the kalamazoo river was only confirmed 17 hours after it happened by a local gas company employee in michigan 
+spill frequency-volume  
+although the
+ phmsa  has standard baseline incident frequencies to estimate the number of spills  transcanada altered these assumptions based on improved pipeline design  operation  and safety  whether these adjustments are justified is debatable as these assumptions resulted in a nearly 10-fold decrease in spill estimates  given that the pipeline crosses 247 miles of the ogallala aquifer  or 14.5  of the entire pipeline length  and the 50-year life of the entire pipeline is expected to have between 11  91 spills  approximately 1.6  13.2 spills can be expected to occur over the aquifer  an estimate of 13.2 spills over the aquifer  each lasting 14 days  results in 184 days of potential exposure over the 50 year lifetime of the pipeline  in the reduced scope worst case exposure scenario  the volume of a pinhole leak at 1.5  of max flow-rate for 14 days has been estimated at 189,000 barrels or 7.9 million gallons of oil  according to phmsas incident database  only 0.5  of all spills in the last 10 years were  10,000 barrels 
+benzene fate and transport  
+scenario for benzene leaching to groundwater
+benzene is considered a light
+with high solubility and high volatility    it is unclear how temperature and depth would impact the volatility of benzene  so assumptions have been made that benzene in oil  1  weight by volume  would not volatilize before equilibrating with water  using the octanol-water partition coefficient and a 100-year precipitation event for the area  a worst-case estimate of 75mg l of benzene is anticipated to flow toward the aquifer  the actual movement of the
+through
+systems is not well described  although one estimate is that up to 4.9 billion gallons of water in the ogallala aquifer could become contaminated with benzene at concentrations above the mcl  the final environmental impact statement from the state department does not include a quantitative analysis because it assumed that most benzene will volatilize 
+previous dilbit spill remediation difficulties  
+one of the major concerns about
+is the difficulty in cleaning it up  enbridge s line 6b  a 30-inch crude oil pipeline  ruptured in marshall  michigan on july 25  2010  mentioned above  spilled at least 843,000 gallons of dilbit  after detection of the leak  booms and vacuum trucks were deployed  heavy rains caused the river to overtop existing dams  and carried dilbit 30 miles downstream before the spill was contained  remediation work collected over 1.1 million gallons of oil and almost 200,000 cubic yards of oil-contaminated sediment and debris from the kalamazoo river system  however  oil was still being found in affected waters in october 2012 
+dangers  
+accidents  
+for a more comprehensive list  see  
+pipelines conveying flammable or explosive material  such as natural gas or oil  pose special safety concerns 
+1965 - a 32-inch gas transmission pipeline  north of natchitoches  louisiana  belonging to the tennessee gas pipeline exploded and burned from
+failure on march 4  killing 17 people  at least 9 others were injured  and 7 homes 450 feet from the rupture were destroyed  this accident  and others of the era  led then-president lyndon b  johnson to call for the formation of a national pipeline safety agency in 1967  the same pipeline had also had an explosion on may 9  1955  just 930 feet  280 m  from the 1965 failure 
+june 16  1976 - a gasoline pipeline was ruptured by a road construction crew in   gasoline sprayed across the area  and soon ignited  killing 9  and injuring at least 14 others  confusion over the depth of the pipeline in the construction area seemed to be a factor in the accident 
+june 4  1989 - the   sparks from two passing trains detonated gas leaking from a
+pipeline near     at least 575 people were reported killed 
+october 17  1998 -   a
+pipeline exploded at jesse on the
+in   killing about 1,200 villagers  some of whom were scavenging  
+june 10  1999 - a pipeline rupture in a
+park led to the release of 277,200 gallons of gasoline  the gasoline was ignited  causing an explosion that killed two children and one adult  misoperation of the pipeline and a previously damaged section of the pipe that was not detected before were identified as causing the failure 
+august 19  2000 - a natural gas pipeline rupture and fire near   this explosion and fire killed 12 members of an extended family  the cause was due to severe internal corrosion of the pipeline 
+july 30  2004 - a major
+pipeline exploded in  
+near
+ thirty kilometres southwest of    killing at least 24 people and leaving 132 wounded  some critically 
+may 12  2006 - an oil pipeline ruptured outside     up to 200 people may have been killed  see  
+november 1  2007 - a propane pipeline exploded near carmichael  mississippi  about 30 miles  48km  south of   two people were killed instantly and an additional four were injured  several homes were destroyed and sixty families were displaced  the pipeline is owned by enterprise products partners lp  and runs from   to   inability to find flaws in pre-1971 erw seam welded pipe flaws was a contributing factor to the accident 
+september 9  2010 -   a 30inch diameter high pressure natural gas pipeline owned by pacific gas   electric exploded in the crestmoor residential neighborhood 2mi  3.2km  west of san francisco international airport  killing 8  injuring 58  and destroying 38 homes  poor quality control of the pipe used   of the construction were cited as factors in the accident 
+june 27  2014 - an explosion occurred after a natural gas pipe line ruptured in nagaram village  east godavari district    india causing 16 deaths and destroying  scores of homes  
+july 31  2014 - on the night of july 31 
+originating in underground gas pipelines occurred in the city of   leaking gas filled the sewers along several major thoroughfares and the resulting explosions turned several kilometers of road surface into deep trenches  sending vehicles and debris high into the air and igniting fires over a large area  at least 32 people were killed and 321 injured 
+as targets  
+pipelines can be the target of     or even   in war  pipelines are often the target of military attacks  as destruction of pipelines can seriously disrupt enemy  
+see also  
+central gas system
+ gic 
+  a method for sending documents and other solid materials in capsules through a tube
+references  
+ 
+  www cia gov  retrieved september 6  2016 
+  retrieved 26 january 2015 
+ pdf   cepac cheme cmu edu  retrieved 2015-05-04 
+wednesday  january 28  2015 3 58 pm est  2014-01-17     thestar com  retrieved 2015-01-28  cs1 maint  multiple names  authors list   
+  honorearth org  retrieved 2015-05-04 
+   november 2012  ibisworld 
+   pipeline and gas journal 239  1   january 2012 
+mohitpour  mo  2003   pipeline design and construction  a practical approach  asme press   
+by the free online dictionary  thesaurus and encyclopedia 
+ 
+james macpherson  2007-11-18     usa today  retrieved 2008-08-23 
+ 
+john whims  august 2002  
+ pdf   kansas state university  retrieved 2008-08-23 
+  the daily iowan  2008-08-24  retrieved 2008-08-23 
+  2010-12-12  retrieved 2010-12-12 
+  january 2011  retrieved 2011-05-07 
+  2009-12-17  retrieved 2011-05-07 
+ pdf   leightyfoundation org  retrieved 2015-05-04 
+ pdf   eere energy gov  retrieved 2015-05-04 
+june 4  2009  at the  
+ pdf   storhy net  p 24  retrieved 2015-05-04 
+ 
+needham  joseph  1986   science and civilization in china  volume 4  part 2  taipei  caves books ltd  page 33 
+needham  volume 4  part 2  345-346 
+australian dictionary of biography online version 
+dynasties  abc  retrieved 17 september 2006 
+  sa water  retrieved 2015-01-28 
+  water-technology net  retrieved apr 15  2012 
+paper in german  retrieved 2010-09-20
+ pdf   retrieved 2011-09-25 
+  september 15  2016  retrieved 2016-10-28 
+billie ann lopez    archived from
+on 2007-02-10  retrieved 2007-05-15 
+see the article
+for details and references 
+  reformatorisch dagblad 20 january 1994 
+ 
+palmer   king  p  2-3
+ 
+dean  p  338
+bai   bai  p  22
+ 
+   u s  energy information administration  retrieved december 12  2012 
+ in german   ria novosti  16 january 2012  retrieved 17 january 2012 
+  consol energy  accessed 2015-05-13
+epa   
+calabrese  ej  blain  rb  1999    the single exposure carcinogen database  assessing the circumstances under which a single exposure to a carcinogen can cause cancer   toxicological sciences  50  2   169185    
+pattanayek  m    deshields  b 
+ pdf   blasland  bouck  and lee  inc  retrieved 2011-11-13 
+ 
+stansbury  john 
+ pdf  
+ 
+us state dept 
+ pdf   retrieved 2 november 2011 
+us state dept 
+ pdf   retrieved 2 november 2011 
+phmsa    retrieved 2 november 2011 
+    july 6  2012  lisa song  a reporter for inside climate news  interviewed by bruce gellerman  retrieved 2013-01-01 
+september 28  2014  at the  
+  us epa  october 3  2012 
+  retrieved 30 september 2014 
+  retrieved 30 september 2014 
+october 31  2012  at the  
+october 31  2012  at the  
+november 1  2013  at the  
+  retrieved 30 september 2014 
+october 28  2013  at the  
+june 11  2014  at the  
+  retrieved 30 september 2014 
+  yahoo news  2 august 2014  retrieved 30 september 2014 
+  retrieved 30 september 2014 
+tubb  rita 
+ pdf   www api org   oildom publishing company of texas  archived from
+ pdf  on march 4  2016  retrieved september 6  2016 
+external links  
+wikimedia commons has media related to  
+  by mikkal e  herberg et al     2010 
+  by justin dargin 
+jan 2008 working paper ng  22
+uk -
+- a joint awareness initiative between 14 oil and gas pipeline operators
+november 1951 article about first undersea gas pipeline constructed in the us and the problems encountered
+ company video from the 1970s with subtitles 
+data
+natural gas
+petroleum
+  
+  
+  
+  
+  
+pipeline transport
+provinces
+and fields
+other topics
+companies and organisations
+major
+other
+major
+other
+ 
+retrieved from   
+  hidden categories 

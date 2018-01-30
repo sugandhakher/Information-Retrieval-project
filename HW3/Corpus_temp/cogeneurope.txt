@@ -1,0 +1,67 @@
+cogeneurope
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="plainlinks metadata ambox ambox-content ambox-Primary_sources" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="Question book-new.svg" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>relies too much on <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references</a> to <a href="/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources" title="Wikipedia:No original research">primary sources</a></b>. <span class="hide-when-compact">Please improve this by adding <a href="/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources" title="Wikipedia:No original research">secondary or tertiary sources</a>.</span> <small><i>(December 2012)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p><b>COGEN Europe</b> is a European <a href="/wiki/Advocacy_group" title="Advocacy group">advocacy group</a> based in <a href="/wiki/Belgium" title="Belgium">Belgium</a> that promotes the practice of <a href="/wiki/Cogeneration" title="Cogeneration">cogeneration</a> in energy production. The group acts as a liaison between its member companies and <a href="/wiki/European_Union" title="European Union">European Union</a> energy organizations and committees.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<p>The managing director of COGEN Europe is also the coordinator of the <a class="external text" href="http://enefield.eu/" rel="nofollow">ene.field project</a>.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=COGEN_Europe&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Combined_Heat_and_Power_Association" title="Combined Heat and Power Association">Combined Heat and Power Association</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=COGEN_Europe&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.cogeneurope.eu/about-cogen-europe_2.html" rel="nofollow">COGEN Europe</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.code-project.eu/wp-content/uploads/2011/02/D6.1-Proposal-for-a-European-Cogeneration-Roadmap.pdf" rel="nofollow">Growing cogeneration in Europe</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.chpa.co.uk/microchp-championed-by-cogen-europe-in-latest-position-statement_1520.html" rel="nofollow">MicroCHP championed by COGEN Europe in latest position statement</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.fch-ju.eu/sites/default/files/documents/sga2012/Presentation%20Fiona%20Riddoch-%20Session%20II.pdf" rel="nofollow">5th stakeholders general assembly of the FCH JU</a></span></li>
+</ol>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=COGEN_Europe&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a class="external text" href="http://www.cogeneurope.eu/" rel="nofollow">Official website</a></span></span></li>
+</ul>
+<p><br/></p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a class="image" href="/wiki/File:Crystal_128_energy.png"><img alt="Stub icon" data-file-height="128" data-file-width="128" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Crystal_128_energy.png/30px-Crystal_128_energy.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Crystal_128_energy.png/45px-Crystal_128_energy.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Crystal_128_energy.png/60px-Crystal_128_energy.png 2x" width="30"/></a></td>
+<td><i>This article about energy, its collection, its distribution, or its uses is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=COGEN_Europe&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Energy-stub" title="Template:Energy-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Energy-stub" title="Template talk:Energy-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Energy-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a class="image" href="/wiki/File:Ruzgar-deneme-y%C3%B6netici4.png"><img alt="Stub icon" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ruzgar-deneme-y%C3%B6netici4.png/40px-Ruzgar-deneme-y%C3%B6netici4.png" srcset="//upload.wikimedia.org/wikipedia/commons/f/fb/Ruzgar-deneme-y%C3%B6netici4.png 1.5x" width="40"/></a></td>
+<td><i>This organization-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=COGEN_Europe&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Org-stub" title="Template:Org-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Org-stub" title="Template talk:Org-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Org-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:38063354-0!*!0!!*!4!* and timestamp 20161105160934 and revision id 719526947
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=COGEN_Europe&amp;oldid=719526947">https://en.wikipedia.org/w/index.php?title=COGEN_Europe&amp;oldid=719526947</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Industry_trade_groups_based_in_Belgium" title="Category:Industry trade groups based in Belgium">Industry trade groups based in Belgium</a></li><li><a href="/wiki/Category:Cogeneration" title="Category:Cogeneration">Cogeneration</a></li><li><a href="/wiki/Category:International_energy_organizations" title="Category:International energy organizations">International energy organizations</a></li><li><a href="/wiki/Category:Energy_stubs" title="Category:Energy stubs">Energy stubs</a></li><li><a href="/wiki/Category:Organization_stubs" title="Category:Organization stubs">Organization stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_December_2012" title="Category:Articles lacking reliable references from December 2012">Articles lacking reliable references from December 2012</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

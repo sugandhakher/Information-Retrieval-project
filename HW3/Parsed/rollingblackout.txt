@@ -1,0 +1,155 @@
+rollingblackout
+from wikipedia  the free encyclopedia
+ redirected from  
+jump to 					 
+for the album by the go  team  see  
+this article has multiple issues  please help
+or discuss these issues on the     
+the examples and perspective in this article may not represent a
+of the subject  you may   discuss the issue on the   or   as appropriate   may 2015    
+this article needs additional citations for   please help
+by   unsourced material may be challenged and removed   july 2009    
+  
+a rolling blackout  also referred to as rotational load shedding or feeder rotation  is an intentionally engineered electrical power shutdown where electricity delivery is stopped for non-overlapping periods of time over different parts of the distribution region  rolling blackouts are a last-resort measure used by an
+company to avoid a total blackout of the power system  they are a type of
+for a situation where the demand for electricity exceeds the power supply capability of the network  rolling blackouts may be localised to a specific part of the electricity network or may be more widespread and affect entire countries and continents  rolling blackouts generally result from two causes  insufficient
+capacity or inadequate
+infrastructure to deliver sufficient power to the area where it is needed 
+rolling blackouts are a common or even a normal daily event in many
+where electricity generation capacity is underfunded or
+is poorly managed  rolling blackouts in
+are rare because demand is accurately forecasted  adequate infrastructure investment is scheduled and networks are well managed  such events are considered an unacceptable failure of planning and can cause significant political damage to responsible governments  in well managed under-capacity systems  blackouts are scheduled in advance and advertised to allow people to work around them  but in most cases they happen without warning  typically whenever the transmission frequency falls below the  safe  limit  rolling blackouts are also used as a response strategy to cope with reduced output beyond reserve capacity from power stations taken offline unexpectedly such as through an extreme weather event 
+contents
+canada  
+in january 2014  the canadian province of newfoundland   labrador renewed rolling blackouts to compensate for the cascading failure of the holyrood generating station after a fire at the sunnyside substation on jan 4 following a blizzard  the rolling blackouts started before the storm on the 4th  rather were caused by extreme cold weather and a high demand for power at the time 
+on 9 july 2012  the
+ordered
+to institute rolling blackouts during a heat wave as six generating plants failed during peak demand in the heat of the afternoon  because the shortage increased the amount consumers paid to generators  members of the
+voiced concerns that price manipulation might have been involved 
+in both cases the blackouts were rolled fairly rapidly  so that no area had to spend more than one hour without power 
+egypt  
+summer blackouts have been common in egypt since 2010 but became more severe and widespread after the   in april 2014  the minister of electricity and renewable energy said that the problem would take a few years to resolve  the government is blaming the unrest the country is experiencing for the blackouts  however  blame between different ministries reveals their poor organization  some also point to the fact that the infrastructure is old and lacks maintenance 
+ghana  
+main article 
+in ghana  rolling blackouts occurred in 2007-2008 and again after 2012  at the beginning of 2015  the dumsor schedule went from 24 hours with light and 12 without to 12 hours with light and 24 without 
+italy  
+after the great 2003 blackout in italy  a rolling blackout program
+ it piano di emergenza per la sicurezza del sistema electrico en  emergency plan for national grid safety  was issued  it has 5 degrees of severity  any controlled blackout can t exceed 90 minutes 
+india  
+due to a chronic shortage of electricity 
+are common throughout india  adversely affecting the country s potential for economic growth  even in the country s capital of   rolling blackouts are common  especially during the hot summer season when demand far outstrips supply capacity  rural areas are the most severely affected  it is common for the 14  of rural households having access to electricity to lose power for more than 2 hours each day  the states periodically and chronically affected by load-shedding are              
+and   the states of    
+and
+are largely free of any load-shedding due to surplus power 
+japan  
+rolling blackout in japan after the 2011 tohoku earthquake 
+this section s
+may be compromised due to out-of-date information  please update this article to reflect recent events or newly available information   april 2012 
+japan instituted rolling blackouts starting on 14 march 2011 due to power shortages caused by the   the   which normally provides approximately 40,000 mw of electricity  announced that it could only provide about 30,000 mw  a shortfall of 25 percent  this is because about 40 percent of the electricity used in the greater tokyo area is supplied by
+plants in the
+and
+prefectures    two of those plants  the
+and   were automatically taken offline when the first earthquake occurred and have sustained major damage related to the earthquake and subsequent tsunami  rolling blackouts of three hours were expected to last until the end of april 2011 and affected the                 and
+prefectures 
+pakistan  
+main article 
+rolling blackouts began nationwide in
+in early 2008 with the resurgence of democracy and presently continue in 2015  it intensifies in the long summers  with many places around the country having no electricity for 6 hours per day  according to pakistan electric power company  pepco   pakistan s electricity shortfall is normally 2,500 megawatts  mw  but reaches around 6,000 mw or more during the summer season  the country s electricity problems are so severe that violent riots sometimes take place in some regions  including   the country s most populous province 
+poland  
+during the period of soviet-controlled
+rolling blackouts begun in 1976 due to economic crisis poland was suffering then  the point of rolling blackouts was to spare the energy for key industry sectors  which were hoped to help the economy  however  due to poor management  which contributed to the crisis in the first place  the planned outages were barely synchronised with the industry requirements  therefore most of the effort was in fact wasted  with decreasing frequency  the rolling blackouts were performed till the half of 1980s  since then polish economy improved as well as the capability of the national grid 
+rolling blackouts have occurred unexpectedly in late july 2015 due to extremely hot weather which made the power stations to reduce their output  there is possibility that rolling blackouts may occur in the following summers for the same reason  however  contrary to 1970/80s outages  in these emergency blackouts the industry is cut off first  the power flow to the houses is usually uninterrupted 
+south africa  
+there is a long history of rolling blackouts in south africa  with multiple causes  in south africa the major producer and distributor of electricity is   which provides over 95  of the country s energy usage  during the 1980s eskom mothballed three of their coal-fired power stations  as there was an excess of
+capacity at the time  with the demise of
+in the 1990s came massive investment and economic growth  at the same time the government tried to deregulate the electricity supply industry by inviting the
+to build new power stations to meet the rapidly growing demand for electricity  eskom was at the time prevented from building new power stations  including de-mothballing the three existing power stations  or from strengthening the transmission network  the transmission network is especially important in delivering power from   where the majority of the power stations are located  to other parts of the country such as
+and the   with no bidders coming forward to construct new power stations  there was effectively no investment into new generation plants during the early 1990s  which eventually led to the shortage of capacity that was experienced in the 2000s 
+in 1998  the department of minerals and energy released a detailed energy review in which it explicitly warned that unless  timely steps were taken to ensure that demand does not exceed available supply capacity   generating capacity would reach its limit by 2007 
+country-wide blackouts 20072008  
+with the freeze on any new developments being placed on eskom during the early 1990s  south africa was faced with a situation where for the next few years the electricity demand kept rising  without any new power stations being built to keep up the necessary supply  by october 2007 the situation had deteriorated to such an extent that eskom implemented rolling blackouts throughout the country  blackouts occurred in most suburbs throughout the country for a period of two hours at a time 
+the situation came to a head on 24 january 2008 when the national grid was brought to near collapse  multiple trips at a number of different power stations rapidly reduced the available supply  resulting in eskom declaring
+and instructing its largest industrial customers  mainly gold and platinum mining companies  to shut down their operations and reduce consumption to  minimal levels   just sufficient to evacuate workers that were still in the mines 
+in january 2008  with no short- or medium-term relief available to ease the power shortages  eskom warned the public that the country s electricity demand would exceed the supply until 2013  when the first new power stations would be brought online  
+eskom also began recommissioning older power stations which had been
+in earlier decades 
+country-wide blackouts 2014-2015  
+load shedding was reintroduced in early november 2014  the majuba power plant lost its capacity to generate power after a collapse of one of its coal storage silos on 1 november 2014  the majuba power plant delivered approximately 10  of the country s entire capacity and the collapse halted the delivery of coal to the plant  a second silo developed a major crack on 20 november causing the shut down of the plant again  this was after temporary measures were instated to deliver coal to the plant 
+on 5 december  eskom launched a major stage three load shedding in south africa after the shut down of two power plants on thursday 4 november 2014 due to diesel shortages  it was also reported that the palmiet and drakenburg stations were also experiencing difficulties due to a depletion of water reserve to the hydro plants  on thursday 4 november  eskom fell 4,000mw short of the electricity countries demand of 28,000mw  the power utility has the ability to produce 45,583mw  but could only supply 24,000mw due to  planned and unplanned  maintenance  one turbine at eskoms
+is also currently   out of commission due to an  unexplained incident  in march 2014 
+tajikistan  
+see also 
+in january 2008
+faced its coldest winter in 50 years  and the country s energy grid began to fail  by february 2008 tajikistan s energy grid was near collapse and there were blackouts in most of the country  hospitals throughout the country were on limited electricity use  and nurses and doctors were forced to keep newborn babies warm with hot water bottles  there were reports of newborns freezing to death  the un reported that with so much energy required to keep warm there was a danger of people starving to death 
+ukraine  
+due to the
+and a shut down one of the six reactors of the
+lead to rolling blackouts throughout
+from early till late december 2014 
+united states  
+texas  
+in february 2011  north and central texas experienced rolling blackouts due to 50 power plants tripping offline  temperatures ranged between 8 and 19f  13 and 7c   the coldest in 15 years  the time of the power outages ranged from twenty minutes to over eight hours  areas affected included bell  bexar  brazos  collin  comal  dallas  delta  denton  el paso  fort bend  guadalupe  harris  hays  hill  hidalgo  hunt  mclennan  montgomery  navarro  palacios  smith  tarrant  travis  webb and williamson counties  as well as some counties in new mexico  including doa ana  otero  and eddy counties 
+the 2006 and 2011 blackouts were the only two to occur in two decades 
+california  
+though the term did not enter popular use in the u s  until the
+of the early 2000s  outages had indeed occurred previously  the outages were almost always triggered by unusually hot temperatures during the summer  which causes a surge in demand due to heavy use of   however  in 2004  taped conversations of
+traders became public  showing that traders were purposely manipulating the supply of electricity to raise energy prices 
+on 13 december 2003  shortly before leaving office  governor
+officially brought the energy crisis to an end by issuing a proclamation ending the state of emergency he declared on 17 january 2001  the state of emergency allowed the state to buy electricity for the financially strapped utility companies  the emergency authority allowed davis to order the california energy commission to streamline the application process for new power plants  during that time  california issued licenses to 38 new power plants  amounting to the addition of 14,365 megawatts of electricity production when completed   
+references  
+ 
+  january 5  2014 
+ 
+gerein  keith  9 july 2012     the vancouver sun  archived from
+on 18 july 2012 
+  daily egypt news  april 13  2014 
+  ahram online  june 12  2013 
+  free-press-release com 
+range  jackie  28 october 2008     the wall street journal 
+11 january 2010 at the  
+  the news minute  2016-03-17  retrieved 2016-06-21 
+  mangalorean com 
+ tokyo electric power company
+ nikkansports com
+  the express tribune 
+  the nation  2 october 2011 
+    karachi  pakistan  18 june 2012 
+from the original on 18 june 2012  retrieved 18 june 2012 
+  mg co za 
+  moneyweb  25 january 2008  archived from
+on 31 march 2008  retrieved 12 february 2009 
+mcgreal  chris  26 january 2008       london  retrieved 12 february 2009 
+  fin 24  2 february 2011
+  the citizen  4 november 2014  retrieved 6 december 2014  external link in  title    
+  business day live  21 november 2014  retrieved 6 december 2014 
+  business day live  5 december 2014  retrieved 6 december 2014 
+  moneyweb  6 december 2014  retrieved 6 december 2014 
+farangis najibullah  13 january 2008       retrieved 2008-02-08 
+united nations office for the coordination of humanitarian affairs
+ 
+ 28 december 2014 
+ 
+ dec  24  2014 
+ 
+ december 31  2014 
+ dec 03  2014 
+ 
+ dec 31  2014 
+  the dallas morning news  2 february 2011 
+heinz  frank    nbc 5 dallas-fort worth 
+  reuters  2 february 2011 
+lauren johnston  2 june 2004     cbs evening news 
+concepts
+sources
+and
+  
+ tso 
+protective
+devices
+ gfi 
+economics
+and policies
+categories
+portals
+retrieved from   
+  hidden categories 

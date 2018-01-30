@@ -1,0 +1,287 @@
+megawatt
+from wikipedia  the free encyclopedia
+ redirected from  
+jump to 					 
+for other uses  see  
+watt
+unitof
+symbol
+w
+named after
+unit conversions
+1 w in    
+    is equal to    
+23
+70071000000000000001107
+1
+the watt  symbol  w  is a
+of
+in the
+ si   named after the scottish engineer
+ 17361819   the unit is defined as 1
+per
+and can be used to express the rate of
+or transfer with respect to time  it has dimensions of 23 
+contents
+examples  
+when an object s
+is held constant at one
+against constant opposing force of one
+the rate at which
+is done is 1 watt 
+1
+w
+ 
+1
+j
+s
+ 
+1
+n
+
+m
+s
+ 
+1
+k
+g
+
+m
+2
+s
+3
+  displaystyle  mathrm  1 w 1   frac  j  s   1   frac  n cdot m  s   1   frac  kg cdot m  2   s  3      
+in terms of   one watt is the rate at which
+is done when one
+ a  of current flows through an electrical
+of one
+ v  
+1
+w
+ 
+1
+v
+
+a
+  displaystyle  mathrm  1 w 1 v cdot a   
+two additional
+for watt can be found using the above equation and  
+1
+w
+ 
+1
+v
+2
+
+ 
+1
+a
+2
+
+
+  displaystyle  mathrm  1 w 1   frac  v  2    omega    1 a  2  cdot  omega    
+where
+ 
+
+  displaystyle  omega  
+  is the
+of  
+a person having a mass of 100 kilograms who climbs a 3-meter-high ladder in 5 seconds is doing work at a rate of about 600 watts  mass times acceleration due to gravity times height divided by the time it takes to lift the object to the given height gives the rate of doing work or power 
+a laborer over the course of an 8-hour day can sustain an average output of about 75 watts  higher power levels can be achieved for short intervals and by athletes 
+origin and adoption as an si unit  
+the watt is named after the scottish scientist
+for his contributions to the development of the   the measurement unit was recognized by the second congress of the
+in 1882  concurrent with the start of commercial power production from both
+and   in 1960 the 11th
+adopted it for the measurement of power into the
+ si  
+multiples  
+for additional examples of magnitude for multiples and submultiples of the watt  see
+si multiples for watt  w 
+submultiples
+multiples
+value
+si symbol
+name
+value
+si symbol
+name
+101 w
+dw
+deciwatt
+101 w
+daw
+decawatt
+102 w
+cw
+centiwatt
+102 w
+hw
+hectowatt
+103 w
+mw
+milliwatt
+103 w
+kw
+kilowatt
+106 w
+w
+microwatt
+106 w
+mw
+megawatt
+109 w
+nw
+nanowatt
+109 w
+gw
+gigawatt
+1012 w
+pw
+picowatt
+1012 w
+tw
+terawatt
+1015 w
+fw
+femtowatt
+1015 w
+pw
+petawatt
+1018 w
+aw
+attowatt
+1018 w
+ew
+exawatt
+1021 w
+zw
+zeptowatt
+1021 w
+zw
+zettawatt
+1024 w
+yw
+yoctowatt
+1024 w
+yw
+yottawatt
+common multiples are in bold face
+femtowatt  
+the femtowatt is equal to one quadrillionth  1015  of a watt  technologically important powers that are measured in femtowatts are typically found in reference s  to
+and
+receivers  for example  meaningful fm tuner performance figures for sensitivity  quieting and signal-to-noise require that the rf energy applied to the antenna input be specified  these input levels are often stated in dbf   referenced to 1 femtowatt   this is 0.2739 microvolt across a 75-ohm load or 0.5477 microvolt across a 300-ohm load  the specification takes into account the rf input impedance of the tuner 
+picowatt  
+the picowatt is equal to one trillionth  1012  of a watt  technologically important powers that are measured in picowatts are typically used in reference to radio and radar receivers  acoustics and in the science of  
+nanowatt  
+the nanowatt is equal to one billionth  109  of a watt  important powers that are measured in nanowatts are also typically used in reference to radio and radar receivers 
+microwatt  
+the microwatt is equal to one millionth  106  of a watt  important powers that are measured in microwatts are typically stated in
+systems such as the
+and the   in a wide variety of scientific and engineering instruments and also in reference to radio and radar receivers  compact
+for devices such as calculators and watches are typically measured in microwatts 
+milliwatt  
+the milliwatt is equal to one thousandth  103  of a watt  a typical
+outputs about five milliwatts of light power  whereas a typical
+for people uses less than one milliwatt 
+and other electronic signal levels are often measured in   referenced to one milliwatt 
+kilowatt  
+ kilowatt  and  kilowatts  redirect here  for the place in the united states  see   for the musician james watts  see  
+ kw  redirects here  for other uses  see  
+the kilowatt is equal to one thousand  103  watts  this unit is typically used to express the output power of
+and the power of electric motors  tools  machines  and heaters  it is also a common unit used to express the
+power output of broadcast radio and television  
+one kilowatt is approximately equal to 1.34   a small electric heater with one heating element can use 1.0 kilowatt  the average electric power consumption of a household in the united states is about one kilowatt 
+also  kilowatts of
+power can be measured in the output pulses of some  
+a surface area of one square meter on earth receives typically about one kilowatt of
+from the sun  the    on a clear day at mid day  close to the equator  
+megawatt  
+the megawatt is equal to one million  106  watts  many events or machines produce or sustain the conversion of energy on this scale  including large electric motors  large
+such as     and   large
+or   and some scientific research equipment  such as   and the output pulses of very large lasers  a large residential or commercial building may use several megawatts in electric power and heat  on railways  modern high-powered
+typically have a peak power output of 5 or 6mw  although some produce much more  the   for example  uses more than 12mw  while heavy
+typically produce use 3 to 5mw  u s 
+have net summer capacities between about 500 and 1300mw 
+the earliest citing of the megawatt in the
+ oed  is a reference in the 1900   the oed also states that megawatt appeared in a 28 november 1947 article in the journal
+ 506 2  
+gigawatt  
+the gigawatt is equal to one billion  109  watts or 1 gigawatt   1000 megawatts  this unit is often used for large power plants or power grids  for example  by the end of 2010 power shortages in china s shanxi province were expected to increase to 56 gw and the installed capacity of wind power in germany was 25.8 gw  the largest unit  out of four  of the belgian
+has a peak output of 1.04 gw 
+have been built with power ratings of up to 2gw 
+terawatt  
+the terawatt is equal to one trillion  1012  watts  the total power used by humans worldwide is commonly measured in terawatts  see    the most powerful
+from the mid-1960s to the mid-1990s produced power in terawatts  but only for
+time frames  the average
+strike peaks at 1 terawatt  but these strikes only last for 30  
+petawatt  
+the petawatt is equal to one quadrillion  1015  watts and can be produced by the current generation of lasers for time-scales on the order of picoseconds  1012s   one such laser is the lawrence livermore s   which achieved a power output of 1.25pw  70151250000000000001.251015w  by a process called   the duration of the pulse was roughly 0.5  698750000000000000051013s   giving a total energy of 600j  or enough energy to power a 100w light bulb for six seconds  another example is the laser for fast ignition experiments  lfex  at the institute of laser engineering  ile     which achieved a power output of 2pw  701520000000000000021015w  for a duration of approximately 1 
+based on the average
+of 1.366kw m2  the total power of
+striking earth s atmosphere is estimated at 174pw  see    
+electrical and thermal watts  
+in the electric power industry  megawatt electrical  mwe or mwe  is   while megawatt thermal or thermal megawatt  mwt  mwt  or mwth  mwth  refers to thermal power produced  other
+are sometimes used  for example gigawatt electrical  gwe   the   which maintains the si-standard  states that further information about a quantity should not be attached to the unit symbol but instead to the quantity symbol  i e   pthermal 270w rather than p 270wth  and regards these symbols as incorrect and thus non-si 
+for example  the
+in argentina uses a
+to generate 2109mwt  i e  heat   which creates steam to drive a turbine  which generates 648mwe  i e  electricity  
+radio transmission  
+main article 
+usually report the power of their transmitters in units of watts  referring to the   it refers to the relative power of the transmission when it is directed towards the horizon for maximum geographic coverage  rather than uniformly broadcast in all directions 
+confusion of watts  watt-hours and watts per hour  
+this section needs additional citations for   please help
+by   unsourced material may be challenged and removed   july 2016    
+the terms
+and
+are frequently confused  power is the rate at which energy is generated or consumed and hence is measured in units  e g  watts  that represent energy per unit time 
+for example  when a light bulb with a power rating of 100w is turned on for one hour  the energy used is 100  wh   0.1kilowatt hour  or 360   this same amount of energy would light a 40-watt bulb for 2.5hours  or a 50-watt bulb for 2hours  a power station would be rated in multiples of watts  for example  the
+is rated at approximately 22 gigawatts   but its annual energy sales or output would be in multiples of watt hours  major energy production or consumption is often expressed as
+for a given period that is often a calendar year or financial year  one terawatt hour is equal to a sustained power of approximately 114 megawatts for a period of one year 
+the
+is a unit of energy  equal to the   one kilowatt hour is 3 600 000 watt seconds  the watt second is used  for example  to rate the energy storage of
+used in photography  although the term joule is generally employed 
+terms such as watts per hour  w h  are often misused when watts would be correct  watts per hour properly refers to a change of power per hour  watts per hour might be useful to characterize the ramp-up behavior of   for example  a power plant that changes its power output from 0mw to 1mw in 15 minutes has a ramp-up rate of 4mw h 
+power plants have a very high ramp-up rate  which makes them particularly useful in peak load and emergency situations  the
+watts per hour is essentially the
+of
+and should be called rate of watt change per hour 
+see also  
+ power plants 
+ rms 
+notes  
+the energy in climbing the stairs is given by mgh  setting m 100kg  g 9.8m s2 and h 3m gives 2940j  dividing this by the time taken  5s  gives a power of 588w 
+average household electric power consumption is 1.19kw in the us  0.53kw in the uk  in india it is 0.13kw  urban  and 0.03kw  rural   computed from gj figures quoted by nakagami  murakoshi and iwafune 
+references  
+ 2006  
+ pdf   8th ed    pp 118  144 
+avallone  eugene a  et  al  eds   2007   marks  standard handbook for mechanical engineers  11th ed    new york  mc-graw hill  pp 94   
+  the new york times  jul 18  2010 
+stetzler  trudy  magotra  neeraj  gelabert  pedro  kasthuri  preethi  bangalore  sridevi    datasheet archive  retrieved 8 february 2010 
+nakagami  hidetoshi  murakoshi  chiharu  iwafune  yumiko  2008  
+ pdf       american council for an energy-efficient economy  figure 3  energy consumption per household by fuel type  8 2148 224  retrieved 14 february 2013 
+elena papadopoulou  photovoltaic industrial systems  an environmental approach springer 2011   p 153
+      2007  retrieved 27 january 2008 
+bai  jim  chen  aizhu  11 november 2010   lewis  chris  ed    peking  reuters 
+  the economist  19 august 2010 
+  electrabel  who are we  nuclear  in french   2011 
+davidson  cc  preedy  rm  cao  j  zhou  c  fu  j  october 2010    ultra-high-power thyristor valves for hvdc in developing countries   9th international conference on ac dc power transmission  london   
+      lawrence livermore national laboratory  retrieved 19 june 2012 
+  ifl science 
+ publicity release   aug 2015 
+    pmodwrc  retrieved 2005-10-05 
+  how many  a dictionary of units of measurement  unc 
+cleveland  cj  2007     encyclopedia of earth 
+    department of energy   25 march 2009 
+ 2006  
+ pdf   8th ed    p 138 
+  northern arizona wind and sun  retrieved 27 march 2009 
+external links  
+look up
+in wiktionary  the free dictionary 
+borvon  grard      free 
+nelson  robert a  february 2000     via satellite  ati courses 
+watt
+see also
+retrieved from   
+  hidden categories 

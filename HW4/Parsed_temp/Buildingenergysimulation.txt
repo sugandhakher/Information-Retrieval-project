@@ -1,0 +1,50 @@
+buildingenergysimulation
+from wikipedia  the free encyclopedia
+jump to 					navigation  					search
+this article is about energy use in buildings  for the modeling of energy systems more generally  see energy modeling 
+graph originally published in 3rd international congress on energy efficiency and renewable energy sources proceedings  2007 paper  determining energy savings using utility bills  a winning method for escos
+building energy simulation  also called building energy modeling  or energy modeling in context   is the use of software to predict the energy use of a building 
+contents
+1 background
+2 applications
+2.1 accuracy of building simulation
+3 standards and practices
+4 professional associations and certifications
+5 see also
+6 references
+7 external links
+background edit 
+a typical energy model will have inputs for climate  envelope  internal gains from lighting  equipment  and occupants  heating  cooling  and ventilation systems  schedules of occupants  equipment  and lighting  1  energy models will output building energy use predictions in typical end-use categories  heating  cooling  lighting  fan  plug  process  in addition to energy units  most software includes utility rates input  and can predict energy costs 
+energy-savings measures can be calculated using simple spreadsheets 2  and a wide variety of bespoke software applications are available 
+applications edit 
+building design  many modern commercial or residential building codes require minimum energy performance  energy modeling can be used to demonstrate compliance  or predict energy consumption of proposed developments 
+life-cycle cost analysis  comparing different building design alternatives to determine which is the least cost  including capital costs and  at a minimum  energy costs  sometimes referred to as total cost of ownership analysis 
+energy retrofit analysis  in conjunction with an energy audit  or deep energy retrofit an energy model can be used to predict savings associated to proposed energy cost measures  often called ecms  
+accuracy of building simulation edit 
+there are normally occurring uncertainties in building design and building energy assessment  yezioro  dong and leite 3  developed an artificial intelligence approach towards assessing building performance simulation results and found that more detailed simulation tools have the best simulation performance in terms of heating and cooling electricity consumption within 3  of mean absolute error 
+standards and practices edit 
+ashrae 90.1  in the us  ashrae 90.1 s energy cost budget  ecb  method is a commonly used baseline for energy modeling comparisons 
+professional associations and certifications edit 
+professional associations supporting energy modeling 
+international building performance simulation association  ibpsa  4 
+energy trust of oregon  building simulation forum 5 
+certifications
+bemp - building energy modeling professional  administered by ashrae 6 
+besa - certified building energy simulation analyst  administered by aee 7 
+see also edit 
+building simulation
+energy modeling
+references edit 
+  rosenbaum  marc  2003    understanding the energy modeling process  simulation literacy 101   http   www buildinggreen com   buildinggreen com  retrieved 2014-06-15  external link in  website   help 
+   california commissioning collaborative  spreadsheet tool   retrieved 13 june 2014 
+  yezioro  a  dong  b  leite  f  2008    an applied artificial intelligence approach towards assessing building performance simulation tools   energy and buildings  40  4   612  doi 10.1016 j enbuild 2007.04.014 
+   ibpsa-usa   ibpsa-usa  retrieved 13 june 2014 
+   energy trust of oregon building simulation forum   energy trust of oregon  retrieved 13 june 201  check date values in   access-date   help 
+   building energy modeling professional certification   ashrae org  ashrae  retrieved 13 june 2014 
+   certified building energy simulation analyst   aeecenter org  association of energy engineers  retrieved 13 june 2014 
+external links edit 
+bldg-sim mailing list http   lists onebuilding org listinfo cgi bldg-sim-onebuilding org for building modeling professionals 
+energy modeling instruction and discussion http   energy-models com forum
+saved in parser cache with key enwiki pcache idhash 43045000-0   0  en 4   and timestamp 20161109140255 and revision id 743594881
+retrieved from  https   en wikipedia org w index php title building energy simulation oldid 743594881 
+categories  architecturebuilding engineeringenergy conservationlow-energy buildinghidden categories  cs1 errors  external linkscs1 errors  dates

@@ -1,0 +1,64 @@
+integratedauthorityfile
+from wikipedia  the free encyclopedia
+jump to 					 
+gnd screenshot
+the integrated authority file    gemeinsame normdatei  also known as  universal authority file  or gnd is an international
+for the organisation of personal names  subject headings and corporate bodies from   it is used mainly for
+in
+and increasingly also by
+and   the gnd is managed by the
+in cooperation with various regional library networks in
+and other partners  the gnd falls under the
+ cc0  license 
+the gnd specification provides a hierarchy of high-level entities and sub-classes  useful in   and an approach to unambiguous identification of single elements  it also comprises an
+intended for
+in the   available in the
+format 
+the integrated authority file became operational in april 2012 and integrates the content of the following authority files which have since been discontinued 
+ german  personennamendatei  pnd 
+ german  gemeinsame krperschaftsdatei  gkd 
+ german  schlagwortnormdatei  swd 
+uniform title file of the deutsches musikarchiv  german  einheitssachtitel-datei des deutschen musikarchivs  dma-est 
+at the time of its introduction   gnd-grundbestand  from 5 april 2012   the gnd holds 9,493,860 files  including 2,650,000 personalized names 
+contents
+see also  
+types of gnd high-level entities  
+there are seven main types of gnd entities 
+typ
+german  official 
+english  translation 
+p
+person  individualisiert 
+person  individualized 
+n
+name  nicht individualisiert 
+name  not individualized 
+k
+krperschaft
+corporate body
+v
+veranstaltung
+event
+w
+werk
+work
+s
+sachbegriff
+topical term
+g
+geografikum
+geographical place name
+references  
+  version 2012-06-30 
+ short lists  old and new version 
+external links  
+has the property 
+ see  
+from the german national library
+ bibliotheksservice-zentrum baden-wrttemberg 
+dnb  19 april 2012
+presentation given by reinhold heuvelmann  german national library  to the ala marc formats interest group  june 2012
+ 
+gnd 
+retrieved from   
+  hidden categories 

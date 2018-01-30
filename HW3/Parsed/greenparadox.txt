@@ -1,0 +1,56 @@
+greenparadox
+from wikipedia  the free encyclopedia
+jump to 					 
+part of
+about
+concepts
+policies
+dynamics
+green paradox
+carbon related
+the green paradox  identified by german economist   is the observation that an
+that becomes greener with the passage of time acts like an
+for the owners of
+resources  inducing them to accelerate
+and hence to accelerate  
+contents
+main line of reasoning  
+the green paradoxs line of reasoning starts by recognizing a fundamental  unavoidable fact  every
+atom in the gas  coal or oil extracted from the ground to be used as fuel ends up in the atmosphere  in particular if high efficiency combustion processes ensure that no part of it ends up as soot  about a quarter of the emitted carbon will stay in the atmosphere practically forever  contributing to the
+that causes global warming 
+apart from   only two things can mitigate the accumulation of carbon in the atmosphere  either less carbon is extracted from the ground  or it is injected back underground after harvesting its energy 
+environmental policy efforts  however  in particular european ones  go in neither of these two directions  aiming instead at the promotion of alternative  co2-free energy sources and a more efficient use of energy  in other words  they only address the demand side of the carbon market  neglecting the supply side  despite considerable investment  the efforts to curtail demand have not entirely had the effect hoped for 
+the reason behind this  according to sinn  is that green policies  by heralding a gradual tightening of policy over the coming decades  exert a stronger downward pressure on future prices than on current ones  decreasing thus the rate of capital appreciation of the fossil fuel deposits  the owners of these resources regard this development with concern and react by increasing extraction volumes  converting the proceeds into investments in the capital markets  which offer higher yields  that is the green paradox  environmental policy slated to become greener over time acts as an announced expropriation that provokes owners to react by accelerating the rate of extraction of their fossil fuel stocks  thus accelerating climate change 
+countries that do not partake of the efforts to curb demand have a double advantage  they burn the carbon set free by the green countries    and they also burn the additional carbon extracted as a reaction to the announced and expected price cuts resulting from the gradual greening of environmental policies  green paradox  
+sinn writes in his abstract that    demand reduction strategies  simply depress the world price of carbon and induce the environmental sinners to consume what the
+have economized on  even worse  if suppliers feel threatened by a gradual greening of economic policies in the kyoto countries that would damage their future prices  they will extract their stocks more rapidly  thus accelerating global warming  
+sinn emphasizes that a condition for the green paradox is that the resource be scarce in the sense that its price will always be higher than the unit extraction and exploration costs combined  he points out that this condition is likely to be satisfied as backstop technologies will at best offer a perfect substitute for electricity  but not for fossil fuels  the prices of coal and crude oil are currently many times higher than the corresponding exploration and extraction costs combined 
+practicable solutions  
+an effective climate policy must perforce focus on the hitherto neglected supply side of the carbon market in addition to the demand side  the ways proposed as practicable by sinn include levying a withholding tax on the capital gains on the financial investments of fossil fuel resource owners  or the establishment of a seamless global emissions trading system that would effectively put a cap on worldwide fossil fuel consumption  thereby achieving the desired reduction in carbon extraction rates 
+a suggestion for a solution might also be to pay suppliers for the destruction of fossil fuels  or transform them into raw material  not fuel   thus making sure that on the demand side the independancy for fossil fuels still pays off  while there is reduction in carbon extraction 
+works on the subject  
+hans-werner sinns ideas on the green paradox have been presented in detail in a number of scientific articles  his 2007 thnen lecture at the annual meeting of the   his 2007 presidential address to the international institute of public finance in warwick  two working papers  and a german-language book  das grne paradoxon  2008   they build on his earlier studies on supply reactions of the owners of natural resources to announced price changes 
+see also  
+notes and references  
+archer  d   2005    fate of fossil fuel co2 in geologic time   journal of geophysical research  110  511    
+archer  d   brovkin  v   2006    millennial atmospheric lifetime of anthropogenic co2   climate change  mimeo 
+hoos  g   voss  r   hasselmann  k   meier-reimer  e   joos  f   2001    a nonlinear impulse response model of the coupled carbon cycle-climate system  niccs      18  189202    
+long  n  v   1975    resource extraction under the uncertainty about possible nationalization     10  1   4253    
+konrad  k  a   olson  t  e   schb  r   1994    resource extraction and the threat of possible expropriation  the role of swiss bank accounts     26  149162    
+felder  s   rutherford  t  f   1993    unilateral co2 reductions and carbon leakage  the consequences of international trade in oil and basic materials   journal of environmental economics and management  25  162176    
+burniaux  j -m   martins  j  oliveira  2000    carbon emission leakages  a general equilibrium view   oecd working paper no  242   
+sinn  h  w   2008  
+ pdf   international tax and public finance  15  4   360394    
+public policies against global warming  a supply side approach  international tax and public finance 15  2008  p  360394 
+h -w  sinn  das grne paradoxon  warum man das angebot bei der klimapolitik nicht vergessen darf  perspektiven der wirtschaftspolitik 9  2008  p  109142 
+ 
+h -w  sinn  public policies against global warming    august 2007
+h -w  sinn  pareto optimality in the extraction of fossil fuels and the greenhouse effect  a note    august 2007
+  econ  berlin  2008  480 pages 
+sinn  h -w   1982  
+ pdf   in siebert  h  reaktionen auf energiepreisnderungen  frankfurt and bern  lang  pp 83103 
+long  n  v   sinn  h -w   1985  
+ pdf   australian economic papers  24  278289    
+green
+retrieved from   
+ 

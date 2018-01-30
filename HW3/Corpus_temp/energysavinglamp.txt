@@ -1,0 +1,21 @@
+energysavinglamp
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><p><b>Energy saving lamps</b> are sources of <a class="mw-redirect" href="/wiki/Artificial_light" title="Artificial light">artificial light</a> that employ advanced <a href="/wiki/Technology" title="Technology">technology</a> to reduce the amount of <a href="/wiki/Electricity" title="Electricity">electricity</a> used to generate light, relative to traditional filament-burning <a class="mw-redirect" href="/wiki/Light_bulb" title="Light bulb">light bulbs</a>.</p>
+<p>Examples of energy saving lamps include:</p>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Fluorescent_lamps" title="Fluorescent lamps">Fluorescent lamps</a>; i.e. <a class="mw-redirect" href="/wiki/Fluorescent_lamp_formats" title="Fluorescent lamp formats">regular</a> and <a href="/wiki/Compact_fluorescent_lamp" title="Compact fluorescent lamp">compact</a></li>
+<li>a <a href="/wiki/Light-emitting_diode" title="Light-emitting diode">Light-emitting diode</a> bulb</li>
+<li>a <a class="mw-redirect" href="/wiki/Light-emitting_Electrochemical_Cell" title="Light-emitting Electrochemical Cell">Light-emitting Electrochemical Cell</a></li>
+<li><a href="/wiki/Electrodeless_lamp#Magnetic_induction_lamps" title="Electrodeless lamp">Magnetic induction lamps</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:17669754-0!*!0!*!*!*!* and timestamp 20161028070357 and revision id 702439006
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Energy_saving_lamp&amp;oldid=702439006">https://en.wikipedia.org/w/index.php?title=Energy_saving_lamp&amp;oldid=702439006</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Energy-saving_lighting" title="Category:Energy-saving lighting">Energy-saving lighting</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

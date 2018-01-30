@@ -1,0 +1,331 @@
+carbonfootprint
+from wikipedia  the free encyclopedia
+jump to 					 
+the carbon footprint explained
+a carbon footprint is historically defined as  the total set of
+emissions caused by an  individual  event  organisation  product  expressed as   
+the total carbon footprint cannot be calculated because of the large amount of data required and the fact that carbon dioxide can be produced by natural occurrences  it is for this reason that wright  kemp  and williams  writing in the journal carbon management  have suggested a more practicable definition 
+a measure of the total amount of
+ co2  and
+ ch4  emissions of a defined population  system or activity  considering all relevant sources  sinks and storage within the spatial and temporal boundary of the population  system or activity of interest  calculated as
+ co2e  using the relevant 100-year
+ gwp100  
+greenhouse gases  ghgs  can be emitted through transport  land clearance  and the production and consumption of food  fuels  manufactured goods  materials  wood  roads  buildings  and services  for simplicity of reporting  it is often expressed in terms of the amount of   or its equivalent of other ghgs  emitted 
+most of the carbon footprint emissions for the average u s  household come from  indirect  sources  i e  fuel burned to produce goods far away from the final consumer  these are distinguished from emissions which come from burning fuel directly in one s car or stove  commonly referred to as  direct  sources of the consumer s carbon footprint 
+the concept name of the carbon footprint originates from   discussion  which was developed by rees and wackernagel in the 1990s which estimates the number of  earths  that would theoretically be required if everyone on the planet consumed resources at the same level as the person calculating their ecological footprint  however  given that ecological footprints are a measure of failure  anindita mitra  crea  seattle  chose the more easily calculated  carbon footprint  to easily measure use of carbon  as an indicator of unsustainable energy use  in 2007  carbon footprints was used as a measure of carbon emissions to develop the energy plan for city of lynnwood  washington  carbon footprints are much more specific than ecological footprints since they measure direct emissions of gases that cause climate change into the atmosphere 
+carbon footprint is one of a family of footprint indicators  which also includes
+and  
+contents
+measuring carbon footprints  
+an individual s  nation s  or organization s carbon footprint can be measured by undertaking a ghg emissions assessment or other calculative activities denoted as   once the size of a carbon footprint is known  a strategy can be devised to reduce it  e g  by technological developments  better process and product management  changed green public or private procurement  gpp     consumption strategies  carbon offsetting and others 
+several free online carbon footprint calculators exist  including a few supported by publicly available peer-reviewed data and calculations including the university of california  berkeley s coolclimate network research consortium and carbonstory  these websites ask you to answer more or less detailed questions about your diet  transportation choices  home size  shopping and recreational activities  usage of electricity  heating  and heavy appliances such as dryers and refrigerators  and so on  the website then estimates your carbon footprint based on your answers to these questions  a systematic literature review was conducted to objectively determine the best way to calculate individual household carbon footprints  this review identified 13 calculation principles and subsequently used the same principles to evaluate the 15 most popular online carbon footprint calculators  the research documented significant shortcomings of a majority of the calculators 
+the mitigation of carbon footprints through the development of alternative projects  such as
+or
+or   represents one way of reducing a carbon footprint and is often known as  
+the main influences on carbon footprints include population  economic output  and energy and carbon intensity of the economy  these factors are the main targets of individuals and businesses in order to decrease carbon footprints  scholars suggest the most effective way to decrease a carbon footprint is to either decrease the amount of energy needed for production or to decrease the dependence on carbon emitting fuels 
+average carbon emissions per person by country  
+main article 
+the examples and perspective in this section deal primarily with the united states and do not represent a
+of the subject  you may   discuss the issue on the   or   as appropriate   june 2016    
+the average u s  household carbon footprint is about 50 tons co2e per year  the single largest source of emissions for the typical household is from driving  gasoline use   transportation as a whole  driving  flying   small amount from public transit  is the largest overall category  followed by housing  electricity  natural gas  waste  construction  then food  mostly from red meat  dairy and seafood products  but also includes emissions from all other food   then goods followed lastly by services  the carbon footprint of u s  households is about 5 times greater than the global average  which is approximately 10 tons co2e per household per year  for most u s  households  the single most important action to reduce their carbon footprint is driving less or switching to a more efficient vehicle 
+direct carbon emissions  
+the carbon footprint of energy  
+main article 
+the following table compares  from peer-reviewed studies of full life cycle emissions and from various other studies  the carbon footprint of various forms of energy generation  nuclear  hydro  coal  gas  solar cell  peat and wind generation technology 
+the vattenfall study found renewable and nuclear generation responsible for far less co2 than fossil fuel generation 
+emission factors of common fuels
+fuel 
+resource
+thermal
+g co2-eq  mjth
+grams of co2equivalent per megajoule of
+energy intensity
+whth whe
+electric
+g co2-eq  kwhe
+grams of co2equivalent per kilowatt-hour of
+7001925100000000000b 91.5091.72
+br 94.33
+88
+7000299000000000000b 2.622.85
+br 3.46
+3.01
+7002994000000000000b 863941
+br 1,175
+955
+700173000000000000073
+70003400000000000003.40
+7002893000000000000893
+7001683000000000000cc 68.20
+oc 68.4
+
+7002664000000000000cc 577
+oc 751
+599
+70003000000000000003 
+
+7001410000000000000tl01
+th91122
+
+6999190000000000000wl0.18
+wh0.20
+7001625000000000000wl60
+wh65
+ run of river 
+
+69984600000000000000.046
+700115000000000000015
+70014000000000000004015 
+69993300000000000000.33
+7002106000000000000106
+69986600000000000000.066
+700121000000000000021
+note  3.6 mj   megajoule s     1kwh   kilowatt-hour s   thus 1 g mj   3.6 g kwh 
+legend b blackcoal supercritical  newsubcritical   br browncoal newsubcritical   cc combinedcycle  oc opencycle  tl low-temperature closed-circuit geothermaldoublet   th high-temperature open-circuit  wl lightwaterreactors  wh heavywaterreactors   educatedestimate 
+these three studies thus concluded that hydroelectric  wind  and nuclear power produced the least co2 per kilowatt-hour of any other electricity sources  these figures do not allow for emissions due to accidents or terrorism 
+and   emit no carbon from the operation  but do leave a footprint during construction phase and maintenance during operation 
+from reservoirs also has large footprints from initial removal of vegetation and ongoing methane  stream detritus decays anaerobically to methane in bottom of reservoir  rather than aerobically to co2 if it had stayed in an unrestricted stream  
+the table above gives the carbon footprint per kilowatt-hour of electricity generated  which is about half the world s man-made co2 output  the co2 footprint for heat is equally significant and research shows that using waste heat from power generation in combined heat and power district heating  chp dh has the lowest carbon footprint  much lower than micro-power or heat pumps 
+passenger transport  
+average carbon dioxide emissions  grams  per passenger mile  usa   based on  updated comparison of energy use   co 2 emissions from different transportation modes  october 2008   manchester  nh  m j  bradley   associates  2008   p 4  table 1.1
+this section gives representative figures for the carbon footprint of the fuel burned by different transport types  not including the carbon footprints of the vehicles or related infrastructure themselves   the precise figures vary according to a wide range of factors 
+flight  
+main article 
+some representative figures for co2 emissions are provided by lipasto s survey of average direct emissions  not accounting for high-altitude radiative effects  of airliners expressed as co2 and co2 equivalent per passenger kilometre 
+domestic  short distance  less than 463km  288mi   257 g km co2 or 259 g km  14.7 oz mile  co2e
+long distance flights  113 g km co2 or 114 g km  6.5 oz mile  co2e
+however  emissions per unit distance traveled is not necessarily the best indicator for the carbon footprint of air travel  because the distances covered are commonly longer than by other modes of travel  it is the total emissions for a trip that matters for a carbon footprint  not the merely rate of emissions  for example  a greatly more distant holiday destination may be chosen than if another mode of travel were used  because air travel makes the longer distance feasible in the limited time available 
+road  
+co2 emissions per passenger kilometre  pkm  for all road travel for 2011 in europe as provided by the european environment agency 
+109 g pkm co2  figure 2 
+for vehicles  average figures for co2 emissions per kilometre for road travel for 2013 in europe  normalized to the   are provided by the international council on clean transportation 
+newly registered   127 g km co2
+  92 g km co2
+ lcv   175 g km co2
+average figures for the
+are provided by the   based on the   for the following categories 
+passenger cars  322 g mi  200 g km  co2
+  450 g mi  280 g km  co2
+combined  369 g mi  229 g km  co2
+rail  
+in 2005  the us company amtrak s carbon dioxide equivalent emissions per passenger kilometre were 0.116kg  about twice as high as the uk rail average  where much more of the system is electrified   and about eight times a finnish electric intercity train 
+sea  
+average carbon dioxide emissions by ferries per passenger-kilometre seem to be 0.12kg  4.2oz   however  18- ferries between finland and sweden produce 0.221kg  7.8oz  of co2  with total emissions equalling a co2 equivalent of 0.223kg  7.9oz   while 2427-knot ferries between finland and estonia produce 0.396kg  14.0oz  of co2 with total emissions equalling a co2 equivalent of 0.4kg  14oz  
+indirect carbon emissions  the carbon footprints of products  
+several organizations offer footprint calculators for public and corporate use  and several organizations have calculated carbon footprints of products  the us environmental protection agency has addressed paper  plastic  candy wrappers   glass  cans  computers  carpet and tires  australia has addressed lumber and other building materials  academics in australia  korea and the us have addressed paved roads  companies  nonprofits and academics have addressed mailing letters and packages  carnegie mellon university has estimated the co2 footprints of 46 large sectors of the economy in each of eight countries  carnegie mellon  sweden and the carbon trust have addressed foods at home and in restaurants 
+the carbon trust has worked with uk manufacturers on foods  shirts and detergents  introducing a
+in march 2007  the label is intended to comply with a new british
+ i e  not a standard   pas 2050  and is being actively piloted by the carbon trust and various industrial partners  as of august 2012 the carbon trust state they have measured 27,000 certifiable product carbon footprints 
+evaluating the package of some products is key to figuring out the carbon footprint  the key way to determine a carbon footprint is to look at the materials used to make the item  for example  a juice carton is made of an aseptic carton  a beer can is made of aluminum  and some water bottles either made of glass or plastic  the larger the size  the larger the footprint will be 
+food  
+main article 
+in a 2014 study by scarborough et al   the real-life diets of british people were surveyed and their dietary
+estimated  average dietary greenhouse-gas emissions per day  in kilograms of carbon dioxide equivalent  were 
+7.19 for high meat-eaters
+5.63 for medium meat-eaters
+4.67 for low meat-eaters
+3.91 for fish-eaters
+3.81 for vegetarians
+2.89 for vegans
+textiles  
+the precise carbon footprint of different textiles varies considerably according to a wide range of factors  however  studies of textile production in europe suggest the following carbon dioxide equivalent emissions footprints per kilo of texile at the point of purchase by a consumer 
+cotton  7
+nylon  5.43
+pet  e g  synthetic fleece   5.55
+wool  5.48
+accounting for durability and energy required to wash and dry textile products  synthetic fabrics generally have a substantially lower carbon footprint than natural ones 
+materials  
+the carbon footprint of materials  also known as embodied carbon  varies widely  the carbon footprint of many common materials can be found in the inventory of carbon   energy database  the greet databases and models  and lca databases via openlca nexus
+cement  
+production and carbon footprint resulting from soil sealing was 8.0 mg person1 of total per capita co2 emissions  italy  year 2003   the balance between c loss due to soil sealing and c stocked in man-made infrastructures resulted in a net loss to the atmosphere  -0.6 mg c ha1 y1 
+schemes to reduce carbon emissions  kyoto protocol  carbon offsetting  and certificates  
+carbon dioxide emissions into the atmosphere  and the emissions of other ghgs  are often associated with the burning of fossil fuels  like natural gas  crude oil and coal  while this is harmful to the environment 
+can be purchased in an attempt to make up for these harmful effects 
+the
+defines legally binding targets and timetables for cutting the ghg emissions of industrialized countries that ratified the kyoto protocol  accordingly  from an economic or market perspective  one has to distinguish between a mandatory market and a voluntary market  typical for both markets is the trade with emission certificates 
+ cer 
+ eru 
+ ver 
+mandatory market mechanisms  
+to reach the goals defined in the kyoto protocol  with the least economical costs  the following
+were introduced for the mandatory market 
+ cdm 
+ ji 
+the cdm and ji mechanisms requirements for projects which create a supply of emission reduction instruments  while
+allows those instruments to be sold on international markets 
+- projects which are compliant with the requirements of the cdm mechanism generate
+ cers  
+- projects which are compliant with the requirements of the ji mechanism generate
+ erus  
+the cers and erus can then be sold through   the demand for the cers and erus being traded is driven by 
+- shortfalls in national emission reduction obligations under the kyoto protocol 
+- shortfalls amongst entities obligated under local emissions reduction schemes 
+nations which have failed to deliver their kyoto emissions reductions obligations can enter
+to purchase cers and erus to cover their treaty shortfalls  nations and groups of nations can also create local emission reduction schemes which place mandatory carbon dioxide emission targets on entities within their national boundaries  if the rules of a scheme allow  the obligated entities may be able to cover all or some of any reduction shortfalls by purchasing cers and erus through   while local emissions reduction schemes have no status under the
+itself  they play a prominent role in creating the demand for cers and erus  stimulating
+and setting a
+for emissions 
+a well-known mandatory local emissions trading scheme is the
+ eu ets  
+new changes are being made to the trading schemes  the
+is set to make some new changes within the next year  the new changes will target the emissions produced by flight travel in and out of the european union 
+other nations are scheduled to start participating in emissions trading schemes within the next few year  these nations include china  india and the united states 
+voluntary market mechanisms  
+in contrast to the strict rules set out for the mandatory market  the voluntary market provides companies with different options to acquire emissions reductions  a solution  comparable with those developed for the mandatory market  has been developed for the voluntary market  the verified emission reductions  ver   this measure has the great advantage that the projects activities are managed according to the quality standards set out for cdm ji projects but the certificates provided are not registered by the governments of the host countries or the executive board of the uno  as such  high quality vers can be acquired at lower costs for the same project quality  however  at present vers can not be used in the mandatory market 
+the voluntary market in north america is divided between members of the chicago climate exchange and the over the counter  otc  market  the
+is a voluntary yet legally binding
+whereby members commit to the capped emission reductions and must purchase allowances from other members or offset excess emissions  the otc market does not involve a legally binding scheme and a wide array of buyers from the public and private spheres  as well as special events that want to go   being carbon neutral refers to achieving net zero carbon emissions by balancing a measured amount of carbon released with an equivalent amount sequestered or offset  or buying enough carbon credits to make up the difference 
+there are project developers  wholesalers  brokers  and retailers  as well as carbon funds  in the voluntary market  some businesses and nonprofits in the voluntary market encompass more than just one of the activities listed above  a report by ecosystem marketplace shows that carbon offset prices increase as it moves along the supply chainfrom project developer to retailer 
+while some mandatory emission reduction schemes exclude forest projects  these projects flourish in the voluntary markets  a major criticism concerns the imprecise nature of ghg sequestration quantification methodologies for forestry projects  however  others note the community co-benefits that
+projects foster  project types in the voluntary market range from avoided   afforestation reforestation  industrial gas   increased   fuel switching 
+from coal plants and   and even   renewable energy certificates  recs  sold on the voluntary market are quite controversial due to
+concerns  industrial gas projects receive criticism because such projects only apply to large industrial plants that already have high fixed costs  siphoning off industrial gas for sequestration is considered picking the low hanging fruit  which is why credits generated from industrial gas projects are the cheapest in the voluntary market 
+the size and activity of the voluntary carbon market is difficult to measure  the most comprehensive report on the voluntary carbon markets to date was released by ecosystem marketplace and new carbon finance in july 2007 
+of japan is firstly approved by japanese authority to indicate carbon footprint on three
+goods in october 2009 
+ways to reduce carbon footprint  
+the most common way to reduce the carbon footprint of humans is to   in manufacturing this can be done by recycling the packing materials  by selling the obsolete inventory of one industry to the industry who is looking to buy unused items at lesser price to become competitive  nothing should be disposed off into the soil  all the ferrous materials which are prone to degrade or oxidize with time should be sold as early as possible at reduced price 
+this can also be done by using reusable items such as thermoses for daily coffee or plastic containers for water and other cold beverages rather than disposable ones  if that option isn t available  it is best to properly recycle the disposable items after use  when one household recycles at least half of their household waste  they can save 1.2 tons of carbon dioxide annually   
+another easy option is to drive less  by walking or biking to the destination rather than driving  not only is a person going to save money on gas  but they will be burning less fuel and releasing fewer emissions into the atmosphere  however  if walking is not an option  one can look into
+or
+options in their area 
+yet another option for reducing the
+footprint of humans is to use less air conditioning and heating in the home  by adding insulation to the walls and attic of one s home  and installing
+or
+around doors and windows one can lower their heating costs more than 25 percent  similarly  one can very inexpensively upgrade the  insulation   clothing  worn by residents of the home  for example  it s estimated that wearing a base layer of long underwear  top and bottom  made from a lightweight  super insulating fabric like microfleece  aka polartec  capilene  can conserve as much body heat as a full set of clothing  allowing a person to remain warm with the thermostat lowered by over 5c  these measures all help because they reduce the amount of energy needed to heat and cool the house  one can also turn down the heat while sleeping at night or away during the day  and keep temperatures moderate at all times  setting the thermostat just 2 degrees lower in winter and higher in summer could save about 1 ton of
+each year   
+choice of diet is a major influence on a person s carbon footprint  animal sources of protein  especially red meat   rice  typically produced in high methane-emitting paddies   foods transported long distance and or via fuel-inefficient transport  e g   highly perishable produce flown long distance  and heavily processed and packaged foods are among the major contributors to a high carbon diet  scientists at the university of chicago have estimated  that the average american diet  which derives 28  of its calories from animal foods  is responsible for approximately one and a half more tonnes of greenhouse gasses  as co2 equivalents  per person  per year than a fully plant-based  or vegan  diet   their calculations suggest that even replacing one third of the animal protein in the average american s diet with plant protein  e g   beans  grains  can reduce the diet s carbon footprint by half a tonne  exchanging two thirds of the animal protein with plant protein is roughly equivalent to switching from a toyota camry to a prius  finally  throwing food out not only adds its associated carbon emissions to a person or household s footprint  it adds the emissions of transporting the wasted food to the garbage dump and the emissions of food decomposition  mostly in the form of the highly potent greenhouse gas  methane 
+the carbon handprint movement emphasizes individual forms of carbon offsetting  like using more public transportation or planting trees in deforested regions  to reduce one s carbon footprint and increase their  handprint  
+furthermore  the
+footprint in the
+industry can be reduced by optimizing the   a life cycle or supply chain
+footprint study can provide useful data which will help the business to identify critical areas for improvement and provides a focus  such studies also demonstrate a companys commitment to reducing carbon footprint now ahead of other competitors as well as preparing companies for potential regulation  in addition to increased market advantage and differentiation eco-efficiency can also help to reduce costs where
+systems are implemented 
+ghg footprint  
+the   or greenhouse gas footprint  refers to the amount of ghg that are emitted during the creation of products or services  it is more comprehensive than the commonly used carbon footprint  which measures only carbon dioxide  one of many greenhouse gases  one of methodologies used for the estimation of ghg footprint is   a life cycle assessment assesses multiple environmental impact categories  typically including categories assessing the human health  ecosystem and resources impacts  from cradle to grave  raw material extraction  manufacturing  distribution  use and disposal  
+see also  
+notes  
+  archived from
+on 11 may 2009  retrieved 2009-07-24 
+wright  l   kemp  s   williams  i   2011     carbon footprinting   towards a universally accepted definition   carbon management  2  1   6172    
+  retrieved 2011-03-18 
+  retrieved 4 may 2012 
+safire  william  2008-02-17     the new york times  retrieved 2010-04-28 
+ 
+  co2list org  retrieved 2013-08-23 
+  retrieved 4 may 2012 
+  retrieved 4 may 2012 
+  carbonstory org  retrieved 12 march 2014 
+birnik  a  2013    the international journal of greenhouse gas control  17 280-293 
+ 
+brown  marilyn a   frank southworth  and andrea sarzynski  shrinking the carbon footprint of metropolitan america  brookings institution metropolitan policy program  may 2008  web  23 feb  2011 
+jones  christopher  kammen  daniel  2011     environmental science   technology  45  9   40884095     retrieved 4 may 2012 
+ 
+bilek  marcela  hardy  clarence  lenzen  manfred  dey  christopher  2008  
+ pdf   sls  49  8   21782199  retrieved 2009-11-04 
+ 
+fridleifsson   ingvar b   bertani  ruggero  huenges  ernst  lund  john w   ragnarsson  arni  rybach  ladislaus  2008-02-11   o  hohmeyer and t  trittin  ed 
+ pdf   luebeck  germany  5980  retrieved 2009-04-06 
+hanova  j  dowlatabadi  h  9 november 2007  
+ pdf   environmental research letters  2  uk  iop publishing  pp 044001 8pp       retrieved 2009-03-22 
+  co2list  retrieved 30 sep 2013 
+  claverton-energy com 
+  lipasto vtt fi  retrieved 3 july 2009 
+gssling s   upham p   2009     earthscan  386pp 
+  europa eu 
+ pdf   theicct org  p 28 
+ pdf  
+ 
+ pdf   retrieved 2012-11-23 
+  vtt fi 
+holthof  philippe  10 april 2009  
+ pdf   ferry shipping conference 08  building bridges in the industry  p 3 
+  retrieved 27 october 2009 
+  bsigroup com 
+  carbontrust co uk 
+  the carbon trust  retrieved 14 august 2012 
+peter scarborough  paul n  appleby  anja mizdrak  adam d  m  briggs  ruth c  travis  kathryn e  bradbury  and timothy j  key   dietary greenhouse gas emissions of meat-eaters  fish-eaters  vegetarians and vegans in the uk   climatic change  july 2014  volume 125  issue 2  pp  179-192   
+berners-lee  mike   
+berners-lee  mike   
+g p hammond and c i jones  2011 
+greet databases
+lca databases via openlca nexus
+scalenghe  r   malucelli  f   ungaro  f   perazzone  l   filippi  n   edwards  a c   2011    influence of 150 years of land use on anthropogenic and natural carbon stocks in emilia-romagna region  italy    environmental science   technology  45  12   51125117    
+ 
+callick  rowan   nations split on route to reduce carbon emissions   the australian  02 mar  2011  web  01 mar  2011 
+ 
+ 
+larry west    about com news   issues 
+ 
+  enlighten up  with the aquarian 
+  lowtechmagazine com 
+  ametsoc org 
+  retrieved 4 march 2012 
+  sftool gov  retrieved 2015-11-26 
+references  
+wright  l   kemp  s   williams  i   2011   carbon footprinting   towards a universally accepted definition  carbon management  2  1   61-72 
+uk carbon trust  2008     
+  researchbriefings parliament uk    retrieved september 14  2016  october 2006  number 268
+wiedmann  t  and j  minx  2008   a definition of  carbon footprint   ecological economics research trends  c  c  pertsova  chapter 1  pp 111    inc  hauppauge ny  usa 
+also available as
+world energy council report  2004   comparison of energy systems using life cycle assessment 
+energetics  2007   the reality of carbon neutrality 
+external links  
+wikinews has related news 
+find more about
+carbon footprint
+at wikipedia s
+from wiktionary
+from commons
+from wikinews
+from wikiquote
+from wikisource
+from wikibooks
+from wikiversity
+at
+technology
+energy
+carbon footprint
+food
+water
+accountability
+applications
+management
+agreements
+ rio 10  johannesburg 
+ rio 20  2012 
+and
+temperatures
+causes
+  
+  
+history
+opinion and climate change
+  
+ 
+ 
+  
+general
+by country
+  
+governmental
+emissions reduction
+carbon-free energy
+personal
+other
+strategies
+programmes
+human 
+major topics
+biological and
+related topics
+literature
+  
+publications
+lists
+events and
+organizations
+related topics
+ 
+retrieved from   
+  hidden categories 

@@ -1,0 +1,366 @@
+waterdesalination
+from wikipedia  the free encyclopedia
+ redirected from  
+jump to 					 
+this article is about removing salt from water  for soil desalination  see  
+methods
+distillation
+ msf 
+ med me 
+ vc 
+ edr 
+ ro 
+ nf 
+ md 
+ fo 
+dehumidification  hdh 
+ meh 
+crystallization
+high grade
+desalination is a process that removes
+from saline   more generally  desalination refers to the removal of salts and minerals from a target substance  as in   which is an issue for agriculture 
+is desalinated to produce water suitable for
+or   one
+of desalination is   desalination is used on many seagoing
+and   most of the modern interest in desalination is focused on cost-effective provision of
+for human use  along with recycled   it is one of the few rainfall-independent water sources 
+due to its energy consumption  desalinating sea water is generally more costly than fresh water from rivers or  
+and   however  these alternatives are not always available and depletion of reserves is a critical problem worldwide  currently  approximately 1  of the world s population is dependent on desalinated water to meet daily needs  but the un expects that 14  of the world s population will encounter water scarcity by 2025 
+desalination is particularly relevant in dry countries such as   which traditionally have relied on collecting rainfall behind dams for water 
+according to the international desalination association  in june 2015  18,426 desalination plants operated worldwide  producing 86.8 million cubic meters per day  providing water for 300 million people  this number increased from 78.4 million cubic meters in 2013  a 57  increase in just 5 years  the single largest desalination project is
+in   which produced 1,025,000 cubic meters per day in 2014  although this plant is expected to be surpassed by a plant in california 
+produces a higher proportion of its water than any other country  totaling 40  of its water use 
+schematic of a
+a  steam in
+b  seawater in
+c  potable water out
+d  waste out
+e  steam out
+f  heat exchange
+g  condensation collection
+h  brine heater
+plan of a typical
+desalination plant
+contents
+methods  
+the traditional process used in these operations is essentially boiling it to leave impurities behind  in desalination  atmospheric pressure is reduced  thus lowering the required temperature needed  liquids boil when the
+equals the ambient pressure and vapor pressure increases with temperature  thus  because of the reduced temperature  low-temperature  waste  heat from electrical power generation or industrial processes can be employed   
+reverse osmosis desalination plant in barcelona  spain
+the principal competing processes use membranes to desalinate  principally applying   membrane processes use semipermeable membranes and pressure to separate salts from water 
+membrane systems typically use less energy than thermal distillation  desalination remains energy intensive  however  and future costs will continue to depend on the energy prices 
+considerations and criticism  
+energy consumption  
+energy consumption of seawater desalination has reached as low as 3 kwh m3  including pre-filtering and ancillaries  similar to the energy consumption of other fresh water supplies transported over large distances  but much higher than local fresh water supplies that use 0.2 kwh m3 or less 
+a minimum energy consumption for seawater desalination of around 1 kwh m3 has been determined  excluding prefiltering and intake outfall pumping  under 2 kwh m3 has been achieved with
+membrane technology  leaving limited scope for further energy reductions 
+supplying all us domestic water by desalination would increase
+by around 10   about the amount of energy used by domestic refrigerators  domestic consumption is a relatively small fraction of the total water usage 
+energy consumption of seawater desalination methods 
+desalination method   
+electrical energy  kwh m3 
+46
+1.52.5
+712
+35.5
+thermal energy  kwh m3 
+50110
+60110
+none
+none
+electrical equivalent of thermal energy  kwh m3 
+9.519.5
+58.5
+none
+none
+total equivalent electrical energy  kwh m3 
+13.525.5
+6.511
+712
+35.5
+note   electrical equivalent  refers to the amount of electrical energy that could be generated using a given quantity of thermal energy and appropriate turbine generator  these calculations do not include the energy required to construct or refurbish items consumed in the process 
+cogeneration  
+is generating excess heat and electricity generation from a single process  cogeneration can provide usable heat for desalination in an integrated  or  dual-purpose   facility where a power plant provides the energy for desalination  alternatively  the facility s energy production may be dedicated to the production of potable water  a stand-alone facility   or excess energy may be produced and incorporated into the energy grid  cogeneration takes various forms  and theoretically any form of energy production could be used  however  the majority of current and planned cogeneration desalination plants use either
+or
+as their source of energy  most plants are located in the
+or   which use their petroleum resources to offset limited water resources  the advantage of dual-purpose facilities is they can be more efficient in energy consumption  thus making desalination more viable 
+the shevchenko bn350  a nuclear-heated desalination unit
+the current trend in dual-purpose facilities is hybrid configurations  in which the permeate from reverse osmosis desalination is mixed with distillate from thermal desalination  basically  two or more desalination processes are combined along with power production  such facilities have been implemented in saudi arabia at
+and  
+a typical
+in the us military uses nuclear power to desalinate 400,000 us gallons  1,500,000l  330,000impgal  of water per day 
+economics  
+costs of desalinating sea water  infrastructure  energy  and maintenance  are generally higher than fresh water from rivers or     and   but alternatives are not always available  desalination costs in 2013 ranged from us 0.45 to  1.00 cubic metre   us2 to 4 kgal    1 cubic meter is about 264 gallons   more than half of the cost comes directly from energy cost  and since energy prices are very volatile  actual costs can vary substantially 
+the cost of untreated fresh water in the developing world can reach us 5 cubic metre 
+average water consumption and cost of supply by sea water desalination at us 1 per cubic metre 50  
+area
+consumption usgal person day
+consumption litre person day
+desalinated water cost us  person day
+usa
+100
+378
+0.38
+europe
+50
+189
+0.19
+africa
+15
+57
+0.06
+un recommended minimum
+13
+49
+0.05
+factors that determine the costs for desalination include capacity and type of facility  location  feed water  labor  energy  financing and concentrate disposal  desalination
+control pressure  temperature and brine concentrations to optimize efficiency 
+desalination might be economical on a large scale 
+while noting costs are falling  and generally positive about the technology for affluent areas in proximity to oceans  a 2004 study argued   desalinated water may be a solution for some water-stress regions  but not for places that are poor  deep in the interior of a continent  or at high elevation  unfortunately  that includes some of the places with biggest water problems    and   indeed  one needs to lift the water by 2,000m  6,600ft   or transport it over more than 1,600km  990mi  to get transport costs equal to the desalination costs  thus  it may be more economical to transport fresh water from somewhere else than to desalinate it  in places far from the sea  like   or in high places  like   transport costs could match desalination costs  desalinated water is also expensive in places that are both somewhat far from the sea and somewhat high  such as
+and   by contrast in other locations transport costs are much less  such as         and  of course  coastal cities like    after desalination at   saudi arabia  water is pumped 200mi  320km  inland to   for coastal cities  desalination is increasingly viewed as a competitive choice 
+in 2014  the israeli facilities of hadera  palmahim  ashkelon  and sorek were desalinizing water for less than us 0.40 per cubic meter  as of 2006  singapore was desalinating water for us 0.49 per cubic meter  the city of
+began operating a reverse osmosis seawater desalination plant in 2006  a desalination plant now operates in   and the
+was under construction in  
+the perth desalination plant is powered partially by renewable energy from the   a wind farm at
+in
+was purpose-built to generate enough
+to offset the sydney plant s energy use  mitigating concerns about harmful
+emissions 
+in december 2007  the south australian government announced it would build a seawater desalination plant for the city of adelaide  australia  located at   the desalination plant was to be funded by raising water rates to achieve full cost recovery 
+a january 17  2008  article in the
+stated   in november  connecticut-based poseidon resources corp  won a key regulatory approval to build the  300 million water- in   north of   the facility would produce 50,000,000 us gallons  190,000,000l  42,000,000impgal  of drinking water per day  enough to supply about 100,000 homes  as of june 2012  the cost for the desalinated water had risen to  2,329 per acre-foot  each  1,000 per acre-foot works out to  3.06 for 1,000 gallons  or   81 per cubic meter 
+poseidon resources made an unsuccessful attempt to construct a desalination plant in tampa bay  fl  in 2001  the board of directors of
+was forced to buy the plant from poseidon in 2001 to prevent a third failure of the project  tampa bay water faced five years of engineering problems and operation at 20  capacity to protect marine life  the facility reached capacity only in 2007 
+in 2008  a
+was desalinating water for  0.46 per cubic meter 
+environmental  
+factors that determine the costs for desalination include capacity and type of facility  location  feed water  labor  energy  financing and concentrate disposal 
+intake  
+in the   cooling water intake structures are regulated by the
+ epa   these structures can have the same impacts to the environment as desalination facility intakes  according to epa  water intake structures cause adverse environmental impact by sucking fish and shellfish or their eggs into an industrial system  there  the organisms may be killed or injured by heat  physical stress  or chemicals  larger organisms may be killed or injured when they become trapped against screens at the front of an intake structure  alternative intake types that mitigate these impacts include beach wells  but they require more energy and higher costs 
+the
+opened in perth in 2007  water there and at queensland s
+and sydney s
+is withdrawn at 0.1m s  0.33ft s   which is slow enough to let fish escape  the plant provides nearly 140,000m3  4,900,000cuft  of clean water per day 
+outflow  
+this section needs additional citations for   please help
+by   unsourced material may be challenged and removed   january 2012    
+desalination processes produce large quantities of   possibly at above ambient temperature  and contain residues of pretreatment and cleaning chemicals  their reaction byproducts and heavy metals due to corrosion  chemical pretreatment and cleaning are a necessity in most desalination plants  which typically includes prevention of biofouling  scaling  foaming and corrosion in thermal plants  and of biofouling  suspended solids and scale deposits in membrane plants 
+to limit the environmental impact of returning the brine to the ocean  it can be diluted with another stream of water entering the ocean  such as the outfall of a
+or power plant  with medium to large power plant and desalination plants  the power plant s cooling water flow is likely to be several times larger than that of the desalination plant  reducing the salinity of the combination  another method to dilute the brine is to mix it via a diffuser in a mixing zone  for example  once a pipeline containing the brine reaches the sea floor  it can split into many branches  each releasing brine gradually through small holes along its length  mixing can be combined with power plant or wastewater plant dilution 
+brine is denser than seawater and therefore sinks to the ocean bottom and can damage the ecosystem  careful reintroduction can minimize this problem  typical ocean conditions allow for rapid dilution  thereby minimizing harm 
+alternatives without pollution  
+some methods of desalination  particularly in combination with     and
+    do not discharge brine  they do not use chemicals or burn fossil fuels  they do not work with membranes or other critical parts  such as components that include heavy metals  thus do not produce toxic waste  and high maintenance  
+a new approach that works like a solar still  but on the scale of industrial evaporation ponds is the   it can be considered  full desalination  because it converts the entire amount of saltwater intake into distilled water  one of the advantages of this system is the feasibility for inland operation  standard advantages also include no air pollution and no temperature increase of endangered natural water bodies from power plant cooling-water discharge  another important advantage is the production of sea salt for industrial and other uses  as of 2015  50  of the world s sea salt production relies on fossil energy sources 
+alternatives to desalination  
+increased
+and efficiency remain the most cost-effective approaches in areas with a large potential to improve the efficiency of water use practices  wastewater reclamation provides multiple benefits over desalination  urban runoff and storm water capture also provide benefits in treating  restoring and recharging groundwater 
+a proposed alternative to desalination in the american southwest is the commercial importation of bulk water from water-rich areas either by
+converted to water carriers  or pipelines  the idea is politically unpopular in canada  where governments imposed trade barriers to bulk water exports as a result of a
+ nafta  claim 
+public health concerns  
+desalination removes iodine from water and could increase the risk of iodine deficiency disorders  israeli researchers claimed a possible link between seawater desalination and iodine deficiency  finding deficits among
+adults exposed to iodine-poor water concurrently with an increasing proportion of their area s drinking water from seawater reverse osmosis  swro   they later found probable iodine deficiency disorders in a population reliant on desalinated seawater 
+experimental techniques  
+other desalination techniques include 
+waste heat  
+commonly provide electricity in remote areas  about 40 50  of the energy output is low-grade heat that leaves the engine via the exhaust  connecting a
+system to the diesel engine exhaust repurposes this low-grade heat for desalination  the system actively cools the   improving its efficiency and increasing its electricity output  this results in an energy-neutral desalination solution  an example plant was commissioned by dutch company
+in march 2014 for    
+low-temperature thermal  
+originally stemming from
+research 
+ lttd  takes advantage of water boiling at low pressure  even at   the system uses pumps to create a low-pressure  low-temperature environment in which water boils at a temperature gradient of 810c  4650f  between two volumes of water  cool ocean water is supplied from depths of up to 600m  2,000ft   this water is pumped through coils to condense the water vapor  the resulting condensate is purified water  lttd may take advantage of the temperature gradient available at power plants  where large quantities of warm wastewater are discharged from the plant  reducing the energy input needed to create a temperature gradient 
+experiments were conducted in the us and japan to test the approach  in japan  a spray-ash evaporation system was tested by saga university  in hawaii  the national energy laboratory tested an open-cycle otec plant with fresh water and power production using a temperature difference of 20 c between surface water and water at a depth of around 500m  1,600ft   lttd was studied by india s national institute of ocean technology  niot  in 2004  their first lttd plant opened in 2005 at kavaratti in the
+islands  the plant s capacity is 100,000l  22,000impgal  26,000usgal  day  at a capital cost of inr 50 million  922,000   the plant uses deep water at a temperature of 10 to 12c  50 to 54f   in 2007  niot opened an experimental  floating lttd plant off the coast of   with a capacity of 1,000,000l  220,000impgal  260,000usgal  day  a smaller plant was established in 2009 at the north chennai thermal power station to prove the lttd application where power plant cooling water is available 
+thermoionic process  
+in october 2009  saltworks technologies announced a process that uses solar or other thermal heat to drive an
+current that removes all
+and
+ions from the water using ion-exchange membranes 
+evaporation and condensation for crops  
+the
+uses natural evaporation and condensation processes inside a
+powered by solar energy to grow crops in arid coastal land 
+other approaches  
+adsorption-based desalination  ad  relies on the moisture absorption properties of certain materials such as silica gel 
+forward osmosis  
+one process was commercialized by modern water plc using   with a number of plants reported to be in operation 
+small-scale solar  
+the united states  france and the united arab emirates are working to develop practical   aquadania s waterstillar has been installed at dahab  egypt  and in playa del carmen  mexico  in this approach  a solar thermal collector measuring two square metres can distill from 40 to 60 litres per day from any local water source  five times more than conventional stills  it eliminates the need for plastic
+bottles or energy-consuming water transport  in central california  a startup company waterfx is developing a solar-powered method of desalination that can enable the use of local water  including runoff water that can be treated and used again  salty groundwater in the region would be treated to become freshwater  and in areas near the ocean  seawater could be treated 
+passarell  
+the passarell process uses reduced atmospheric pressure rather than heat to drive evaporative desalination  the pure water vapor generated by distillation is then compressed and condensed using an advanced compressor  the compression process improves distillation efficiency by creating the reduced pressure in the evaporation chamber  the compressor
+the pure water vapor after it is drawn through a demister  removing residual impurities  causing it to compress against tubes in the collection chamber  the compression of the vapor increases its temperature  the heat is transferred to the input water falling in the tubes  vaporizing the water in the tubes  water vapor condenses on the outside of the tubes as product water  by combining several physical processes  passarell enables most of the system s energy to be recycled through its evaporation  demisting  vapor compression  condensation  and water movement processes 
+geothermal  
+geothermal energy can drive desalination  in most locations 
+beats using scarce groundwater or surface water  environmentally and economically   
+nanotechnology  
+may prove to be effective for water filtration and desalination processes that would require substantially less energy than reverse osmosis 
+hermetic  sulphonated nano-composite membranes have shown to be capable of reducing almost all forms of contamination to the parts per billion level  these nano-materials  using a non-reverse osmosis process  have little or no susceptibility to high salt concentration levels 
+abstracted animation of the nanoscale graphene membrane desalination process 
+biomimesis  
+are another approach 
+electrochemical  
+in 2008  siemens water technologies announced technology that applied electric fields to desalinate one cubic meter of water while using only a purported 1.5 kwh of energy  if accurate  this process would consume one-half the energy of other processes  as of 2012 a demonstration plant was operating in singapore  researchers at the university of texas at austin and the university of marburg are developing more efficient methods of electrochemically mediated seawater desalination 
+freeze-thaw  
+freeze-thaw desalination uses freezing to remove fresh water from frozen seawater 
+electrokinetic shocks  
+a process employing electrokinetic shocks waves can be used to accomplish membraneless desalination at ambient temperature and pressure  in this process  anions and cations in salt water are exchanged for carbonate anions and calcium cations  respectively using electrokinetic shockwaves  calcium and carbonate ions react to form   which precipitates  leaving fresh water  the theoretical energy efficiency of this method is on par with
+and  
+facilities  
+main article 
+estimates vary widely between 15,00020,000 desalination plants producing more than 20,000m3 day  micro desalination plants operate near almost every
+or
+facility found in the united states   
+in nature  
+mangrove leaf with salt crystals
+evaporation of water over the oceans in the
+is a natural desalination process 
+the formation of
+produces ice with little salt  much lower than in seawater 
+seabirds distill seawater using
+in a
+with a   the gland
+stored near the nostrils above the beak  the bird then  sneezes  the brine out  as freshwater is not usually available in their environments  some seabirds  such as      
+and   possess this gland  which allows them to drink the salty water from their environments while they are far from land 
+trees grow in seawater  they secrete salt by trapping it in parts of the root  which are then eaten by animals  usually crabs   additional salt is removed by storing it in leaves that fall off  some types of mangroves have glands on their leaves  which work in a similar way to the seabird desalination gland  salt is extracted to the leaf exterior as small   which then fall off the leaf 
+trees and
+absorb salt and other contaminants  effectively desalinating the water  this is used in artificial   for treating    
+history  
+this section needs expansion  you can help by    october 2016 
+before the industrial revolution  desalination was primarily of concern to oceangoing ships  which otherwise needed to keep on board supplies of fresh water  in the newly formed united states  thomas jefferson catalogued heat-based methods going back to the 1500s  and formulated practical advice that was publicized to all u s  ships on the backs of sailing clearance permits 
+significant research into improved desalination methods occurred in the united states after world war ii  the
+was created in the
+by the
+of 1952  it was merged into the
+in 1974 
+research also took place at state universities in california  followed by development at the
+and  
+see also  
+references  
+ definition   the american heritage science dictionary  houghton mifflin company  via dictionary com  retrieved august 19  2007 
+people s daily online  2001-08-03  via english people com cn  retrieved august 19  2007 
+fischetti  mark  september 2007    fresh from the sea   scientific american  297  3   118119      
+ 
+globalwaterintel com 
+henthorne  lisa  june 2012       retrieved september 5  2016 
+  the economic times 
+pyper  julia  february 7  2014    eenews
+fritzmann  c  lowenberg  j  wintgens  t  melin  t  2007    state-of-the-art of reverse osmosis desalination   desalination  216  176    
+thiel  gregory p   2015-06-01     physics today  68  6   6667         
+  p  343 table 1  international journal of environmental science and development  vol  3  no  4  august 2012
+wilkinson  robert c   march 2007    table on p  4
+  pp  14 table 1-1  electric power research institute  epri  water   sustainability  volume 4   2000
+elimelech  menachem  2012    p  12 ff
+semiat  r   2008    energy issues in desalination processes   environmental science   technology  42  22   8193       
+  p6 figure 1.2  stephen dundorf at the ida world congress november 2009
+  american membrane technology association amta  april 2009
+total water use in the united states
+  encyclopedia of desalination and water resources  desware   retrieved june 24  2013
+hamed  o  a   2005    overview of hybrid desalination systems  current status and future prospects   desalination  186  207    
+misra  b  m   kupitz  j   2004    the role of nuclear desalination in meeting the potable water needs in water scarce areas in the next decades   desalination  166  1    
+ludwig  h   2004    hybrid systems in seawater desalinationpractical design aspects  present status and development perspectives   desalination  164  1    
+tom harris  august 29  2002    howstuffworks com  retrieved may 29  2011 
+zhang  s x   v  babovic  2012  
+ pdf   journal of hydroinformatics 
+ips news item 2008
+    january 2010  retrieved february 1  2010 
+  and  
+the nation  2002-09-02  via thenation com  retrieved august 20  2007 
+yuan zhou and richard s j  tol 
+at the
+ archived march 25  2009   working paper   hamburg university  december 9  2004  retrieved august 20  2007 
+  redorbit  may 2  2008
+  haaretz  january 24  2014
+ press release   black   veatch ltd   via edie net  may 4  2006  retrieved august 20  2007 
+  water technology  retrieved march 20  2011 
+australian broadcasting corporation  june 25  2007  retrieved august 20  2007 
+ 
+sullivan  michael  june 18  2007    npr 
+px
+energy recovery devices from
+  morning edition  npr  june 18  2007
+  sydney water
+  news com au  december 4  2007   retrieved march 20  2011 
+  ministers sa gov au  december 5  2007
+kranhold  kathryn   january 17  2008 
+the wall street journal  retrieved march 20  2011 
+mike lee    u-t san diego 
+sweet  phoebe  march 21  2008    las vegas sun 
+  tampabaywater org
+  forbes  may 9  2008
+  water epa gov 
+cooley  heather 
+and wolff  gary  june 2006    pacific institute for studies in development  environment  and security 
+greenberg  joel  march 20  2014   
+lattemann  sabine  hpner  thomas  2008  
+ pdf   desalination  220  1    
+  by nicol-andr berdell  february 20  2011
+jollibee  merci    reviews 2015 ultimate guide 
+  dana haasz  christine henges-jeck  veena srinivasan  gary wolff  katherine kao cushing  and amardip mann   november 2003  
+ website     retrieved september 20  2007 
+cooley  heather    and gary wolff   june 2006  
+ website     retrieved september 20  2007   
+  heather cooley  david groves   september 2005       retrieved september 20  2007 
+  sunbeltwater com  retrieved may 29  2011 
+            agri huji ac il  july 2014
+yaniv ovadia    researchgate 
+ovadia ys  troen am  gefel d  august 2013  
+ pdf   idd newsletter 
+ovadia  yaniv s  gefel  dov  aharoni  dorit  turkot  svetlana  fytlovich  shlomo  troen  aron m  may 1  2016     firstview  110     via cambridge journals online 
+european innovation partnerships  eip  news  retrieved march 18  2014
+  global water intelligence  february 24  2014  retrieved march 18  2014
+ 
+sistla  phanikumar v s   et al 
+ pdf   proceedings of the eighth  2009  isope ocean mining symposium  chennai  india  september 2024  2009  international society of offshore and polar engineers  retrieved june 22  2010 
+haruo uehara and tsutomu nakaoka   ioes saga-u ac jp
+  irc nl  may 31  2005   retrieved march 20  2011 
+  headlinesindia com  april 18  2007   retrieved may 29  2011 
+  the hindu  april 21  2007   retrieved march 20  2011 
+  the economist  october 29  2009
+ pdf   jun wei wu  retrieved november 3  2016 
+ pdf   water desalination report  23  november 15  2010  retrieved may 28  2011 
+ pdf   the independent  november 23  2009  retrieved may 28  2011 
+thompson n a   nicoll p g   september 2011    forward osmosis desalination  a commercial reality  
+ pdf   perth  western australia  international desalination association 
+  clean technica  january 25  2015
+  cnbc european business  october 1  2008
+peters  adele    fast company  retrieved february 24  2015 
+  waterdesalination com  november 16  2004   retrieved may 14  2012 
+ press release  
+public affairs  may 18  2006  retrieved september 7  2007 
+cao  liwei    retrieved july 9  2013 
+wnek  gary    retrieved july 9  2013 
+cao  liwei  june 5  2013     pr newswire  retrieved july 9  2013 
+  sandia gov  2007  retrieved july 9  2013 
+  the straits times  june 23  2008
+  mining com  2012-09-06  retrieved 2016-06-11 
+  science daily  june 27  2013  retrieved june 29  2013 
+boysen  john e   august 2002  
+ pdf  
+shkolnikov  viktor  bahga  supreet s   santiago  juan g   april 5  2012  
+ pdf   stanford microfluidics laboratory  14  32   11534        retrieved july 9  2013 
+proctor  noble s   lynch  patrick j   1993   manual of ornithology  yale university press   
+ritchison  gary    retrieved april 16  2011  including images of the gland and its function
+thomas jefferson  21 november 1791    
+david talbot  23 november 2015    
+further reading  
+committee on advancing desalination technology  national research council   2008     national academies press 
+articles  
+from
+elimelech  m   phillip  w  a   2011  
+ pdf   science  333  6043   712717          significant review article 
+external links  
+ carbon nanotube-based membranes will dramatically cut the cost of desalination
+emissions
+  
+types  location
+aspects
+desalination
+related
+ 
+ 
+ 
+retrieved from   
+  hidden categories 

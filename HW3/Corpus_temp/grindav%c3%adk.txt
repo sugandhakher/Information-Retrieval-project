@@ -1,0 +1,428 @@
+grindav%c3%adk
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Grindavíkurbær</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Grindavik0_(2).JPG"><img alt="Grindavik0 (2).JPG" data-file-height="768" data-file-width="1024" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Grindavik0_%282%29.JPG/250px-Grindavik0_%282%29.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Grindavik0_%282%29.JPG/375px-Grindavik0_%282%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Grindavik0_%282%29.JPG/500px-Grindavik0_%282%29.JPG 2x" width="250"/></a>
+<div>Skyline of Grindavíkurbær</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:COA_Grindavik.png"><img alt="COA Grindavik.png" data-file-height="405" data-file-width="350" height="98" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/COA_Grindavik.png/85px-COA_Grindavik.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/COA_Grindavik.png/128px-COA_Grindavik.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/COA_Grindavik.png/170px-COA_Grindavik.png 2x" width="85"/></a>
+<div><a href="/wiki/Coat_of_arms" title="Coat of arms">Coat of arms</a> of Grindavíkurbær</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="width:250px;float:right;clear:right">
+<div style="width:250px;padding:0">
+<div style="position:relative;width:250px"><a class="image" href="/wiki/File:Iceland_relief_map.jpg" title="Grindavíkurbær is located in Iceland"><img alt="Grindavíkurbær is located in Iceland" data-file-height="851" data-file-width="1200" height="177" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Iceland_relief_map.jpg/250px-Iceland_relief_map.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Iceland_relief_map.jpg/375px-Iceland_relief_map.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Iceland_relief_map.jpg/500px-Iceland_relief_map.jpg 2x" width="250"/></a>
+<div style="position:absolute;top:80.18%;left:21.389%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Grindavíkurbær" data-file-height="64" data-file-width="64" height="8" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" title="Grindavíkurbær" width="8"/></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:5px;text-align:left"><span style="padding:1px;float:left">Grindavíkurbær</span></div>
+</div>
+</div>
+</div>
+</div>
+<span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Grindav%C3%ADk&amp;params=63_50__N_22_26__W_region:IS_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">63°50′N</span> <span class="longitude">22°26′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">63.833°N 22.433°W</span><span style="display:none">﻿ / <span class="geo">63.833; -22.433</span></span></span></a></span></span></span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Regions_of_Iceland" title="Regions of Iceland">Region</a></th>
+<td><a href="/wiki/Southern_Peninsula_(Iceland)" title="Southern Peninsula (Iceland)">Southern Peninsula</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Constituencies_of_Iceland" title="Constituencies of Iceland">Constituency</a></th>
+<td><a href="/wiki/Southwest_Constituency" title="Southwest Constituency">Southwest Constituency</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Mayor" title="Mayor">Mayor</a></th>
+<td>Róbert Ragnarsson</td>
+</tr>
+<tr>
+<th scope="row">Area</th>
+<td>425 km<sup>2</sup> (164 sq mi)</td>
+</tr>
+<tr>
+<th scope="row">Population</th>
+<td>3,023</td>
+</tr>
+<tr>
+<th scope="row">Density</th>
+<td>6.80/km<sup>2</sup> (17.6/sq mi)</td>
+</tr>
+<tr>
+<th scope="row">Municipal number</th>
+<td>2300</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Iceland" title="List of postal codes in Iceland">Postal code(s)</a></th>
+<td>240</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a class="external text" href="http://grindavik.is" rel="nofollow">grindavik<wbr></wbr>.is</a></span></td>
+</tr>
+</table>
+<p><b>Grindavík</b> is a fishing town at the <a href="/wiki/Southern_Peninsula_(Iceland)" title="Southern Peninsula (Iceland)">Southern Peninsula</a> at the southwest coast of <a href="/wiki/Iceland" title="Iceland">Iceland</a>.</p>
+<p>It is one of the few cities with a harbour at this coast. Most of the inhabitants work in the fishing industry. The <a href="/wiki/Blue_Lagoon_(geothermal_spa)" title="Blue Lagoon (geothermal spa)">Blue Lagoon</a>, Grindavík's premiere attraction, is located 3 miles (4.8 km) from the town centre.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Activities"><span class="tocnumber">2</span> <span class="toctext">Activities</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Notable_residents"><span class="tocnumber">3</span> <span class="toctext">Notable residents</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Naval_Communication_Facility"><span class="tocnumber">4</span> <span class="toctext">Naval Communication Facility</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Twin_towns_and_cities"><span class="tocnumber">5</span> <span class="toctext">Twin towns and cities</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grindav%C3%ADk&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:260px;"><a class="image" href="/wiki/File:Iceland_(1),_Grindav%C3%ADk.JPG"><img alt="" class="thumbimage" data-file-height="1140" data-file-width="1716" height="171" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Iceland_%281%29%2C_Grindav%C3%ADk.JPG/258px-Iceland_%281%29%2C_Grindav%C3%ADk.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Iceland_%281%29%2C_Grindav%C3%ADk.JPG/387px-Iceland_%281%29%2C_Grindav%C3%ADk.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Iceland_%281%29%2C_Grindav%C3%ADk.JPG/516px-Iceland_%281%29%2C_Grindav%C3%ADk.JPG 2x" width="258"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Iceland_(1),_Grindav%C3%ADk.JPG" title="Enlarge"></a></div>
+Grindavík from the air in May 2011.</div>
+</div>
+</div>
+<p><a class="mw-redirect" href="/wiki/Landn%C3%A1ma" title="Landnáma">Landnáma</a> or <i>The Book of Settlements</i> mentions that around 934 two Viking settlers, Molda-Gnúpur Hrólfsson and Þórir Haustmyrkur Vígbjóðsson, arrived in the <a href="/wiki/Reykjanes" title="Reykjanes">Reykjanes</a> area. Þórir settled in Selvogur, and Krísuvík and Molda-Gnúpur in Grindavík.<a class="external autonumber" href="http://www.grindavik.is" rel="nofollow">[1]</a></p>
+<p>The sons of Moldar-Gnúpur established three settlements; Þórkötlustaðahverfi, Járngerðarstaðarhverfi and Staðarhverfi. The modern version of Grindavik is situated mainly in what was Járngerðarstaðarhverfi.</p>
+<p>The origins of the municipality can be traced to Einar Einarsson's decision to move there to build and run a shop in 1897. During that time the population was only around 360. Fishing had for centuries been a crucial element in the survival of Grindavik's population, but fishing trips were often dangerous. Men were frequently lost at sea and the catch not always stable. However, when a safer access point to land was created at Hópið in 1939, fishing conditions changed dramatically. From 1950 serious development in the fishing industry had begun to take place. Grindavik was declared a municipality in 1974.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:260px;"><a class="image" href="/wiki/File:Grindavik_hit_iceland.jpg"><img alt="" class="thumbimage" data-file-height="800" data-file-width="1200" height="172" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6b/Grindavik_hit_iceland.jpg/258px-Grindavik_hit_iceland.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6b/Grindavik_hit_iceland.jpg/387px-Grindavik_hit_iceland.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6b/Grindavik_hit_iceland.jpg/516px-Grindavik_hit_iceland.jpg 2x" width="258"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Grindavik_hit_iceland.jpg" title="Enlarge"></a></div>
+Grindavík harbor</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Activities">Activities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grindav%C3%ADk&amp;action=edit&amp;section=2" title="Edit section: Activities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A short distance to the north, there is the <i><a href="/wiki/Blue_Lagoon_(geothermal_spa)" title="Blue Lagoon (geothermal spa)">Blue Lagoon</a></i> (<a href="/wiki/Icelandic_language" title="Icelandic language">Icelandic</a>: <span lang="is"><i>Bláa Lónið</i></span>), a geothermal spa using hot and mineralized waters from the nearby Svartsengi power station.</p>
+<p><a href="/wiki/Ungmennaf%C3%A9lag_Grindav%C3%ADkur" title="Ungmennafélag Grindavíkur">Ungmennafélag Grindavíkur</a> (Umfg) is the town's sport club, and the town contains the <a href="/wiki/Grindav%C3%ADkurv%C3%B6llur" title="Grindavíkurvöllur">Grindavíkurvöllur</a> stadium.</p>
+<p>The <a class="mw-redirect" href="/wiki/Leif_the_Lucky_Bridge" title="Leif the Lucky Bridge">Leif the Lucky Bridge</a> spans the <a class="new" href="/w/index.php?title=%C3%81lfagj%C3%A1_rift_valley&amp;action=edit&amp;redlink=1" title="Álfagjá rift valley (page does not exist)">Álfagjá rift valley</a> that marks the boundary of the Eurasian and North American continental tectonic plates. It was built in 2002 and named in honor of Icelandic explorer <a href="/wiki/Leif_Erikson" title="Leif Erikson">Leif Erikson</a>, who travelled from Europe to explore North America 500 years before Columbus.</p>
+<p>The Icelandic Saltfish Museum in Grindavík opened in September 2002. It displays the story of salt fish production and its importance for the Icelandic economy throughout the centuries in a specially designed building of 650 square metres (7,000 sq ft).</p>
+<h2><span class="mw-headline" id="Notable_residents">Notable residents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grindav%C3%ADk&amp;action=edit&amp;section=3" title="Edit section: Notable residents">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Icelandic writer <a href="/wiki/Gu%C3%B0bergur_Bergsson" title="Guðbergur Bergsson">Guðbergur Bergsson</a> was born here, and <a href="/wiki/Kalli_Bjarni" title="Kalli Bjarni">Kalli Bjarni</a>, the first winner of the Icelandic version of <a href="/wiki/Pop_Idol" title="Pop Idol">Pop Idol</a>, lives in the town. The Spanish publisher and writer <a class="new" href="/w/index.php?title=Jaime_Salinas_Bonmat%C3%AD&amp;action=edit&amp;redlink=1" title="Jaime Salinas Bonmatí (page does not exist)">Jaime Salinas Bonmatí</a>, engaged to Guðbergur Bergsson, lived, died and is buried here. Icelandic footballer <a href="/wiki/Alfre%C3%B0_Finnbogason" title="Alfreð Finnbogason">Alfreð Finnbogason</a> was also born in Grindavík.</p>
+<h2><span class="mw-headline" id="Naval_Communication_Facility">Naval Communication Facility</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grindav%C3%ADk&amp;action=edit&amp;section=4" title="Edit section: Naval Communication Facility">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Near Grindavík, the United States Navy operates <a href="/wiki/Naval_Radio_Transmitter_Facility_Grindavik" title="Naval Radio Transmitter Facility Grindavik">Naval Radio Transmitter Facility Grindavik</a>. It uses several antennas, including two guyed masts. The mast situated at 63°51′1″N 22°28′0″W was built in 1993 and is 304.8 meters tall. The other mast at 63°51′3″N 22°27′6″W was built in 1983 and is 182.9 meters tall. The taller mast replaced a 243.8 meter tall mast, and the second replaced a mast of same height.</p>
+<h2><span class="mw-headline" id="Twin_towns_and_cities">Twin towns and cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grindav%C3%ADk&amp;action=edit&amp;section=5" title="Edit section: Twin towns and cities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" class="thumbborder" data-file-height="1100" data-file-width="1800" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" width="23"/></a></span> <a href="/wiki/Rovaniemi" title="Rovaniemi">Rovaniemi</a>, Finland</li>
+<li><span class="flagicon"><a href="/wiki/Portugal" title="Portugal"><img alt="Portugal" class="thumbborder" data-file-height="400" data-file-width="600" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" width="23"/></a></span> <a href="/wiki/%C3%8Dlhavo" title="Ílhavo">Ílhavo</a>, Portugal</li>
+<li><span class="flagicon"><a href="/wiki/Denmark" title="Denmark"><img alt="Denmark" class="thumbborder" data-file-height="280" data-file-width="370" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" width="20"/></a></span> <a href="/wiki/Hirtshals" title="Hirtshals">Hirtshals</a>, Denmark</li>
+<li><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" class="thumbborder" data-file-height="1000" data-file-width="1600" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" width="23"/></a></span> <a href="/wiki/Pite%C3%A5_Municipality" title="Piteå Municipality">Piteå</a>, Sweden</li>
+<li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" class="thumbborder" data-file-height="600" data-file-width="1200" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" width="23"/></a></span> <a href="/wiki/Penistone" title="Penistone">Penistone</a>, United Kingdom</li>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" width="23"/></a></span> <a href="/wiki/Jonzac" title="Jonzac">Jonzac</a>, France</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grindav%C3%ADk&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_cities_and_towns_in_Iceland" title="List of cities and towns in Iceland">List of cities and towns in Iceland</a></li>
+<li><a href="/wiki/Reykjanes" title="Reykjanes">Reykjanes</a></li>
+<li><a href="/wiki/Geothermal_power_in_Iceland" title="Geothermal power in Iceland">Geothermal power in Iceland</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grindav%C3%ADk&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a class="image" href="/wiki/File:Commons-logo.svg"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Grindav%C3%ADk" title="commons:Category:Grindavík">Grindavík</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://grindavik.is/" rel="nofollow">Official website</a> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Icelandic)</span></li>
+<li><a class="external text" href="http://hiticeland.com/towns_and_villages_in_iceland/grindav%C3%ADk" rel="nofollow">More information and photos about Grindavík on Hit Iceland</a></li>
+</ul>
+<div aria-labelledby="Cities_and_towns_in_Iceland" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_and_towns_in_Iceland" title="Template:Cities and towns in Iceland"><abbr style=";;background:none transparent;border:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_and_towns_in_Iceland" title="Template talk:Cities and towns in Iceland"><abbr style=";;background:none transparent;border:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_and_towns_in_Iceland&amp;action=edit"><abbr style=";;background:none transparent;border:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cities_and_towns_in_Iceland" style="font-size:114%"><a href="/wiki/List_of_cities_and_towns_in_Iceland" title="List of cities and towns in Iceland">Cities and towns</a> in <a href="/wiki/Iceland" title="Iceland">Iceland</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%C3%81lftanes" title="Álftanes">Álftanes</a></li>
+<li><a href="/wiki/Akranes" title="Akranes">Akranes</a></li>
+<li><a href="/wiki/Akureyri" title="Akureyri">Akureyri</a></li>
+<li><a href="/wiki/Bl%C3%B6ndu%C3%B3s" title="Blönduós">Blönduós</a></li>
+<li><a href="/wiki/Bolungarv%C3%ADk" title="Bolungarvík">Bolungarvík</a></li>
+<li><a href="/wiki/Borgarnes" title="Borgarnes">Borgarnes</a></li>
+<li><a href="/wiki/Dalv%C3%ADk" title="Dalvík">Dalvík</a></li>
+<li><a href="/wiki/Egilssta%C3%B0ir" title="Egilsstaðir">Egilsstaðir</a></li>
+<li><a href="/wiki/Eskifj%C3%B6r%C3%B0ur" title="Eskifjörður">Eskifjörður</a></li>
+<li><a href="/wiki/Eyrarbakki" title="Eyrarbakki">Eyrarbakki</a></li>
+<li><a href="/wiki/F%C3%A1skr%C3%BA%C3%B0sfj%C3%B6r%C3%B0ur" title="Fáskrúðsfjörður">Fáskrúðsfjörður</a></li>
+<li><a href="/wiki/Gar%C3%B0ab%C3%A6r" title="Garðabær">Garðabær</a></li>
+<li><a href="/wiki/Gar%C3%B0ur" title="Garður">Garður</a></li>
+<li><strong class="selflink">Grindavík</strong></li>
+<li><a href="/wiki/Grundarfj%C3%B6r%C3%B0ur" title="Grundarfjörður">Grundarfjörður</a></li>
+<li><a href="/wiki/Hafnarfj%C3%B6r%C3%B0ur" title="Hafnarfjörður">Hafnarfjörður</a></li>
+<li><a href="/wiki/Hella,_Iceland" title="Hella, Iceland">Hella</a></li>
+<li><a href="/wiki/H%C3%B6fn" title="Höfn">Höfn</a></li>
+<li><a href="/wiki/H%C3%BAsav%C3%ADk" title="Húsavík">Húsavík</a></li>
+<li><a href="/wiki/Hvammstangi" title="Hvammstangi">Hvammstangi</a></li>
+<li><a href="/wiki/Hverager%C3%B0i" title="Hveragerði">Hveragerði</a></li>
+<li><a href="/wiki/Hvolsv%C3%B6llur" title="Hvolsvöllur">Hvolsvöllur</a></li>
+<li><a href="/wiki/%C3%8Dsafj%C3%B6r%C3%B0ur" title="Ísafjörður">Ísafjörður</a></li>
+<li><a href="/wiki/Keflav%C3%ADk" title="Keflavík">Keflavík</a></li>
+<li><a href="/wiki/K%C3%B3pavogur" title="Kópavogur">Kópavogur</a></li>
+<li><a href="/wiki/Mosfellsb%C3%A6r" title="Mosfellsbær">Mosfellsbær</a></li>
+<li><a href="/wiki/Neskaupsta%C3%B0ur" title="Neskaupstaður">Neskaupstaður</a></li>
+<li><a href="/wiki/Njar%C3%B0v%C3%ADk" title="Njarðvík">Njarðvík</a></li>
+<li><a href="/wiki/%C3%93lafsfj%C3%B6r%C3%B0ur" title="Ólafsfjörður">Ólafsfjörður</a></li>
+<li><a href="/wiki/%C3%93lafsv%C3%ADk" title="Ólafsvík">Ólafsvík</a></li>
+<li><a href="/wiki/Patreksfj%C3%B6r%C3%B0ur" title="Patreksfjörður">Patreksfjörður</a></li>
+<li><a href="/wiki/Rey%C3%B0arfj%C3%B6r%C3%B0ur" title="Reyðarfjörður">Reyðarfjörður</a></li>
+<li><a href="/wiki/Reykjav%C3%ADk" title="Reykjavík">Reykjavík</a></li>
+<li><a href="/wiki/Sandger%C3%B0i" title="Sandgerði">Sandgerði</a></li>
+<li><a href="/wiki/Sau%C3%B0%C3%A1rkr%C3%B3kur" title="Sauðárkrókur">Sauðárkrókur</a></li>
+<li><a href="/wiki/Selfoss_(town)" title="Selfoss (town)">Selfoss</a></li>
+<li><a href="/wiki/Seltjarnarnes" title="Seltjarnarnes">Seltjarnarnes</a></li>
+<li><a href="/wiki/Sey%C3%B0isfj%C3%B6r%C3%B0ur" title="Seyðisfjörður">Seyðisfjörður</a></li>
+<li><a href="/wiki/Siglufj%C3%B6r%C3%B0ur" title="Siglufjörður">Siglufjörður</a></li>
+<li><a href="/wiki/Skagastr%C3%B6nd" title="Skagaströnd">Skagaströnd</a></li>
+<li><a href="/wiki/Stokkseyri" title="Stokkseyri">Stokkseyri</a></li>
+<li><a href="/wiki/Stykkish%C3%B3lmur" title="Stykkishólmur">Stykkishólmur</a></li>
+<li><a href="/wiki/%C3%9Eorl%C3%A1ksh%C3%B6fn" title="Þorlákshöfn">Þorlákshöfn</a></li>
+<li><a href="/wiki/Vestmannaeyjar" title="Vestmannaeyjar">Vestmannaeyjar</a></li>
+<li><a href="/wiki/V%C3%ADk_%C3%AD_M%C3%BDrdal" title="Vík í Mýrdal">Vík í Mýrdal</a></li>
+<li><a href="/wiki/Vogar" title="Vogar">Vogar</a></li>
+<li><a href="/wiki/Vopnafj%C3%B6r%C3%B0ur" title="Vopnafjörður">Vopnafjörður</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:0%;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Coat_of_arms_of_Iceland.svg"><img alt="Coat of arms of Iceland.svg" data-file-height="1193" data-file-width="1128" height="53" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Coat_of_arms_of_Iceland.svg/50px-Coat_of_arms_of_Iceland.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Coat_of_arms_of_Iceland.svg/75px-Coat_of_arms_of_Iceland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Coat_of_arms_of_Iceland.svg/100px-Coat_of_arms_of_Iceland.svg.png 2x" width="50"/></a></div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Municipalities_of_Iceland" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Municipalities_of_Iceland" title="Template:Municipalities of Iceland"><abbr style=";;background:none transparent;border:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Municipalities_of_Iceland" title="Template talk:Municipalities of Iceland"><abbr style=";;background:none transparent;border:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Municipalities_of_Iceland&amp;action=edit"><abbr style=";;background:none transparent;border:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Municipalities_of_Iceland" style="font-size:114%"><a href="/wiki/Municipalities_of_Iceland" title="Municipalities of Iceland">Municipalities of Iceland</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Capital_Region_(Iceland)" title="Capital Region (Iceland)">Capital Region</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gar%C3%B0ab%C3%A6r" title="Garðabær">Garðabær</a></li>
+<li><a href="/wiki/Hafnarfj%C3%B6r%C3%B0ur" title="Hafnarfjörður">Hafnarfjarðarkaupstaður</a></li>
+<li><a href="/wiki/Kj%C3%B3sarhreppur" title="Kjósarhreppur">Kjósarhreppur</a></li>
+<li><a href="/wiki/K%C3%B3pavogur" title="Kópavogur">Kópavogsbær</a></li>
+<li><a href="/wiki/Mosfellsb%C3%A6r" title="Mosfellsbær">Mosfellsbær</a></li>
+<li><a href="/wiki/Reykjav%C3%ADk" title="Reykjavík">Reykjavíkurborg</a></li>
+<li><a href="/wiki/Seltjarnarnes" title="Seltjarnarnes">Seltjarnarneskaupstaður</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Southern_Peninsula_(Iceland)" title="Southern Peninsula (Iceland)">Southern Peninsula</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Grindavíkurbær</strong></li>
+<li><a href="/wiki/Reykjanesb%C3%A6r" title="Reykjanesbær">Reykjanesbær</a></li>
+<li><a href="/wiki/Sandger%C3%B0i" title="Sandgerði">Sandgerðisbær</a></li>
+<li><a href="/wiki/Gar%C3%B0ur" title="Garður">Sveitarfélagið Garður</a></li>
+<li><a href="/wiki/Vogar_(municipality)" title="Vogar (municipality)">Sveitarfélagið Vogar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Western_Region_(Iceland)" title="Western Region (Iceland)">Western Region</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Akranes" title="Akranes">Akraneskaupstaður</a></li>
+<li><a href="/wiki/Borgarbygg%C3%B0" title="Borgarbyggð">Borgarbyggð</a></li>
+<li><a href="/wiki/Dalabygg%C3%B0" title="Dalabyggð">Dalabyggð</a></li>
+<li><a href="/wiki/Eyja-_og_Miklaholtshreppur" title="Eyja- og Miklaholtshreppur">Eyja- og Miklaholtshreppur</a></li>
+<li><a href="/wiki/Grundarfj%C3%B6r%C3%B0ur" title="Grundarfjörður">Grundarfjarðarbær</a></li>
+<li><a href="/wiki/Helgafellssveit" title="Helgafellssveit">Helgafellssveit</a></li>
+<li><a href="/wiki/Hvalfjar%C3%B0arsveit" title="Hvalfjarðarsveit">Hvalfjarðarsveit</a></li>
+<li><a href="/wiki/Skorradalshreppur" title="Skorradalshreppur">Skorradalshreppur</a></li>
+<li><a href="/wiki/Sn%C3%A6fellsb%C3%A6r" title="Snæfellsbær">Snæfellsbær</a></li>
+<li><a href="/wiki/Stykkish%C3%B3lmur" title="Stykkishólmur">Stykkishólmsbær</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Westfjords" title="Westfjords">Westfjords</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%C3%81rneshreppur" title="Árneshreppur">Árneshreppur</a></li>
+<li><a href="/wiki/Bolungarv%C3%ADk" title="Bolungarvík">Bolungarvíkurkaupstaður</a></li>
+<li><a href="/wiki/%C3%8Dsafjar%C3%B0arb%C3%A6r" title="Ísafjarðarbær">Ísafjarðarbær</a></li>
+<li><a href="/wiki/Kaldrananeshreppur" title="Kaldrananeshreppur">Kaldrananeshreppur</a></li>
+<li><a href="/wiki/Reykh%C3%B3lahreppur" title="Reykhólahreppur">Reykhólahreppur</a></li>
+<li><a href="/wiki/Strandabygg%C3%B0" title="Strandabyggð">Strandabyggð</a></li>
+<li><a href="/wiki/S%C3%BA%C3%B0av%C3%ADk" title="Súðavík">Súðavíkurhreppur</a></li>
+<li><a href="/wiki/T%C3%A1lknafjar%C3%B0arhreppur" title="Tálknafjarðarhreppur">Tálknafjarðarhreppur</a></li>
+<li><a href="/wiki/Vesturbygg%C3%B0" title="Vesturbyggð">Vesturbyggð</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Northwestern_Region_(Iceland)" title="Northwestern Region (Iceland)">Northwestern Region</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Akrahreppur" title="Akrahreppur">Akrahreppur</a></li>
+<li><a href="/wiki/Bl%C3%B6ndu%C3%B3s" title="Blönduós">Blönduósbær</a></li>
+<li><a href="/wiki/H%C3%BAnavatnshreppur" title="Húnavatnshreppur">Húnavatnshreppur</a></li>
+<li><a href="/wiki/H%C3%BAna%C3%BEing_vestra" title="Húnaþing vestra">Húnaþing vestra</a></li>
+<li><a href="/wiki/Skagabygg%C3%B0" title="Skagabyggð">Skagabyggð</a></li>
+<li><a href="/wiki/Skagafj%C3%B6r%C3%B0ur_(municipality)" title="Skagafjörður (municipality)">Sveitarfélagið Skagafjörður</a></li>
+<li><a href="/wiki/Skagastr%C3%B6nd" title="Skagaströnd">Sveitarfélagið Skagaströnd</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Northeastern_Region_(Iceland)" title="Northeastern Region (Iceland)">Northeastern Region</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Akureyri" title="Akureyri">Akureyrarkaupstaður</a></li>
+<li><a href="/wiki/Dalv%C3%ADkurbygg%C3%B0" title="Dalvíkurbyggð">Dalvíkurbyggð</a></li>
+<li><a href="/wiki/Eyjafjar%C3%B0arsveit" title="Eyjafjarðarsveit">Eyjafjarðarsveit</a></li>
+<li><a href="/wiki/Fjallabygg%C3%B0" title="Fjallabyggð">Fjallabyggð</a></li>
+<li><a href="/wiki/Gr%C3%BDtubakkahreppur" title="Grýtubakkahreppur">Grýtubakkahreppur</a></li>
+<li><a href="/wiki/H%C3%B6rg%C3%A1rsveit" title="Hörgársveit">Hörgársveit</a></li>
+<li><a href="/wiki/Langanesbygg%C3%B0" title="Langanesbyggð">Langanesbyggð</a></li>
+<li><a href="/wiki/Nor%C3%B0ur%C3%BEing" title="Norðurþing">Norðurþing</a></li>
+<li><a href="/wiki/Sk%C3%BAtusta%C3%B0ahreppur" title="Skútustaðahreppur">Skútustaðahreppur</a></li>
+<li><a href="/wiki/Svalbar%C3%B0shreppur" title="Svalbarðshreppur">Svalbarðshreppur</a></li>
+<li><a href="/wiki/Svalbar%C3%B0sstrandarhreppur" title="Svalbarðsstrandarhreppur">Svalbarðsstrandarhreppur</a></li>
+<li><a href="/wiki/Tj%C3%B6rneshreppur" title="Tjörneshreppur">Tjörneshreppur</a></li>
+<li><a href="/wiki/%C3%9Eingeyjarsveit" title="Þingeyjarsveit">Þingeyjarsveit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Eastern_Region_(Iceland)" title="Eastern Region (Iceland)">Eastern Region</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Borgarfjar%C3%B0arhreppur" title="Borgarfjarðarhreppur">Borgarfjarðarhreppur</a></li>
+<li><a href="/wiki/Brei%C3%B0dalshreppur" title="Breiðdalshreppur">Breiðdalshreppur</a></li>
+<li><a href="/wiki/Dj%C3%BApivogur" title="Djúpivogur">Djúpavogshreppur</a></li>
+<li><a href="/wiki/Fjar%C3%B0abygg%C3%B0" title="Fjarðabyggð">Fjarðabyggð</a></li>
+<li><a href="/wiki/Flj%C3%B3tsdalsh%C3%A9ra%C3%B0" title="Fljótsdalshérað">Fljótsdalshérað</a></li>
+<li><a href="/wiki/Flj%C3%B3tsdalshreppur" title="Fljótsdalshreppur">Fljótsdalshreppur</a></li>
+<li><a href="/wiki/Sey%C3%B0isfj%C3%B6r%C3%B0ur" title="Seyðisfjörður">Seyðisfjarðarkaupstaður</a></li>
+<li><a href="/wiki/Vopnafj%C3%B6r%C3%B0ur" title="Vopnafjörður">Vopnafjarðarhreppur</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Southern_Region_(Iceland)" title="Southern Region (Iceland)">Southern Region</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%C3%81sahreppur" title="Ásahreppur">Ásahreppur</a></li>
+<li><a href="/wiki/Bl%C3%A1sk%C3%B3gabygg%C3%B0" title="Bláskógabyggð">Bláskógabyggð</a></li>
+<li><a href="/wiki/Fl%C3%B3ahreppur" title="Flóahreppur">Flóahreppur</a></li>
+<li><a href="/wiki/Gr%C3%ADmsnes-_og_Grafningshreppur" title="Grímsnes- og Grafningshreppur">Grímsnes- og Grafningshreppur</a></li>
+<li><a href="/wiki/Hrunamannahreppur" title="Hrunamannahreppur">Hrunamannahreppur</a></li>
+<li><a href="/wiki/Hverager%C3%B0i" title="Hveragerði">Hveragerðisbær</a></li>
+<li><a href="/wiki/M%C3%BDrdalshreppur" title="Mýrdalshreppur">Mýrdalshreppur</a></li>
+<li><a href="/wiki/Rang%C3%A1r%C3%BEing_eystra" title="Rangárþing eystra">Rangárþing eystra</a></li>
+<li><a href="/wiki/Rang%C3%A1r%C3%BEing_ytra" title="Rangárþing ytra">Rangárþing ytra</a></li>
+<li><a href="/wiki/Skaft%C3%A1rhreppur" title="Skaftárhreppur">Skaftárhreppur</a></li>
+<li><a href="/wiki/Skei%C3%B0a-_og_Gn%C3%BApverjahreppur" title="Skeiða- og Gnúpverjahreppur">Skeiða- og Gnúpverjahreppur</a></li>
+<li><a href="/wiki/%C3%81rborg" title="Árborg">Sveitarfélagið Árborg</a></li>
+<li><a href="/wiki/H%C3%B6fn" title="Höfn">Sveitarfélagið Hornafjörður</a></li>
+<li><a href="/wiki/%C3%96lfus" title="Ölfus">Sveitarfélagið Ölfus</a></li>
+<li><a href="/wiki/Vestmannaeyjar" title="Vestmannaeyjar">Vestmannaeyjabær</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a class="external text" href="//www.worldcat.org/identities/containsVIAFID/236583602" rel="nofollow">WorldCat Identities</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a class="external text" href="https://viaf.org/viaf/236583602" rel="nofollow">236583602</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="http://d-nb.info/gnd/4798218-4" rel="nofollow">4798218-4</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:694311-0!*!0!!en!4!* and timestamp 20161109122952 and revision id 746015723
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Grindavík&amp;oldid=746015723">https://en.wikipedia.org/w/index.php?title=Grindavík&amp;oldid=746015723</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Reykjanes" title="Category:Reykjanes">Reykjanes</a></li><li><a href="/wiki/Category:Municipalities_of_Iceland" title="Category:Municipalities of Iceland">Municipalities of Iceland</a></li><li><a href="/wiki/Category:Populated_places_in_Southern_Peninsula_(Iceland)" title="Category:Populated places in Southern Peninsula (Iceland)">Populated places in Southern Peninsula (Iceland)</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_December_2013" title="Category:Use dmy dates from December 2013">Use dmy dates from December 2013</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_Icelandic-language_text" title="Category:Articles containing Icelandic-language text">Articles containing Icelandic-language text</a></li><li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_Icelandic-language_external_links" title="Category:Articles with Icelandic-language external links">Articles with Icelandic-language external links</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

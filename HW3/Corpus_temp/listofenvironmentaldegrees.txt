@@ -1,0 +1,827 @@
+listofenvironmentaldegrees
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=List_of_environmental_degrees&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(March 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding:0.4em 0;border-spacing:0;"><a href="/wiki/The_Blue_Marble" title="The Blue Marble"><img alt="Earth seen from Apollo 17" data-file-height="3002" data-file-width="3000" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/220px-The_Earth_seen_from_Apollo_17.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/330px-The_Earth_seen_from_Apollo_17.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/440px-The_Earth_seen_from_Apollo_17.jpg 2x" width="220"/></a></td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Environment_(biophysical)" title="Environment (biophysical)">Environment</a></th>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top:1px solid #aaa;padding-top:0.15em;border-bottom:1px solid #aaa;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact</a></li>
+<li><a href="/wiki/List_of_environmental_issues" title="List of environmental issues">Issues</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Environmental_studies" title="Environmental studies">Environmental studies</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.4em;padding-bottom:0.6em;border-bottom:1px solid #aaa;">
+<div class="hlist">
+<dl>
+<dd><b>Environment in</b></dd>
+</dl>
+<ul>
+<li><a href="/wiki/Environmental_education" title="Environmental education">Education</a></li>
+<li><a href="/wiki/Ecological_humanities" title="Ecological humanities">Humanities</a></li>
+<li><a href="/wiki/Environmental_law" title="Environmental law">Law</a></li>
+<li><a href="/wiki/Environmental_policy" title="Environmental policy">Policy</a></li>
+<li><a href="/wiki/Environmental_science" title="Environmental science">Science</a></li>
+<li><a href="/wiki/Environmental_social_science" title="Environmental social science">Social science</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.3em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Index_of_environmental_articles" title="Index of environmental articles">Article index</a></li>
+<li><a href="/wiki/Lists_of_environmental_topics" title="Lists of environmental topics">Lists</a></li>
+<li><a href="/wiki/Portal:Environment" title="Portal:Environment">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="hlist" style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top:1px solid #aaa;padding-bottom:0.25em;border-bottom:1px solid #aaa;">
+<ul>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Natural_environment" title="Category:Natural environment">Category</a></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Environment" title="commons:Category:Environment">Commons</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Environment_sidebar" title="Template:Environment sidebar"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Environment_sidebar" title="Template talk:Environment sidebar"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Environment_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>This is a <b>list of environmental degrees</b>, including for such interdisciplinary fields as <a href="/wiki/Environmental_science" title="Environmental science">environmental science</a>, <a href="/wiki/Environmental_studies" title="Environmental studies">environmental studies</a>, <a href="/wiki/Environmental_engineering" title="Environmental engineering">environmental engineering</a>, <a href="/wiki/Environmental_planning" title="Environmental planning">environmental planning</a>, <a href="/wiki/Environmental_policy" title="Environmental policy">environmental policy</a>, <a href="/wiki/Sustainability_science" title="Sustainability science">sustainability science</a> and <a href="/wiki/Sustainability_studies" title="Sustainability studies">studies</a>, etc., at both undergraduate and graduate levels.</p>
+<div class="hatnote plainlinks" role="note">This list is <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">incomplete</a>; you can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=List_of_environmental_degrees&amp;action=edit">expanding it</a>.</div>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Bachelors"><span class="tocnumber">1</span> <span class="toctext">Bachelors</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Bachelor_of_Arts"><span class="tocnumber">1.1</span> <span class="toctext">Bachelor of Arts</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Bachelor_of_Science"><span class="tocnumber">1.2</span> <span class="toctext">Bachelor of Science</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Other"><span class="tocnumber">1.3</span> <span class="toctext">Other</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Masters"><span class="tocnumber">2</span> <span class="toctext">Masters</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Master_of_Arts"><span class="tocnumber">2.1</span> <span class="toctext">Master of Arts</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Master_of_Professional_Studies"><span class="tocnumber">2.2</span> <span class="toctext">Master of Professional Studies</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Master_of_Public_Administration"><span class="tocnumber">2.3</span> <span class="toctext">Master of Public Administration</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Master_of_Science"><span class="tocnumber">2.4</span> <span class="toctext">Master of Science</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Other_2"><span class="tocnumber">2.5</span> <span class="toctext">Other</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Doctoral"><span class="tocnumber">3</span> <span class="toctext">Doctoral</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Global_Fellow"><span class="tocnumber">3.1</span> <span class="toctext">Global Fellow</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Doctor_of_Philosophy"><span class="tocnumber">3.2</span> <span class="toctext">Doctor of Philosophy</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Other_3"><span class="tocnumber">3.3</span> <span class="toctext">Other</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Bachelors">Bachelors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_environmental_degrees&amp;action=edit&amp;section=1" title="Edit section: Bachelors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Bachelor_of_Arts"><a href="/wiki/Bachelor_of_Arts" title="Bachelor of Arts">Bachelor of Arts</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_environmental_degrees&amp;action=edit&amp;section=2" title="Edit section: Bachelor of Arts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Bachelor of Arts in <a class="mw-redirect" href="/wiki/Environmental_Studies" title="Environmental Studies">Environmental Studies</a></li>
+<li>Bachelor of Arts in <a class="mw-redirect" href="/wiki/Environmental_Science" title="Environmental Science">Environmental Science</a></li>
+</ul>
+<h3><span class="mw-headline" id="Bachelor_of_Science"><a href="/wiki/Bachelor_of_Science" title="Bachelor of Science">Bachelor of Science</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_environmental_degrees&amp;action=edit&amp;section=3" title="Edit section: Bachelor of Science">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Bachelor of Science in Environmental and <a class="mw-redirect" href="/wiki/Sustainability_Studies" title="Sustainability Studies">Sustainability Studies</a></li>
+<li>Bachelor of Science in <a class="mw-redirect" href="/wiki/Environmental_Engineering" title="Environmental Engineering">Environmental Engineering</a></li>
+<li>Bachelor of Science in <a class="mw-redirect" href="/wiki/Environmental_Science" title="Environmental Science">Environmental Science</a>(s)</li>
+<li>Bachelor of Science in Environmental Science and <a href="/wiki/Environmental_policy" title="Environmental policy">Policy</a></li>
+<li>Bachelor of Science in Environmental Studies</li>
+<li>Bachelor of Science in Sustainability</li>
+</ul>
+<h3><span class="mw-headline" id="Other">Other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_environmental_degrees&amp;action=edit&amp;section=4" title="Edit section: Other">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Bachelor_of_Environmental_Design" title="Bachelor of Environmental Design">Bachelor of Environmental Design</a> (BEnvD)</li>
+<li><a href="/wiki/Bachelor_of_Environmental_Science" title="Bachelor of Environmental Science">Bachelor of Environmental Science</a> (BEnvSc)</li>
+<li><a class="mw-redirect" href="/wiki/Bachelor_of_Environmental_Studies" title="Bachelor of Environmental Studies">Bachelor of Environmental Studies</a> (BES)</li>
+<li><a href="/wiki/Bachelor_of_Resource_and_Environmental_Planning" title="Bachelor of Resource and Environmental Planning">Bachelor of Resource and Environmental Planning</a> (BREP)</li>
+</ul>
+<h2><span class="mw-headline" id="Masters">Masters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_environmental_degrees&amp;action=edit&amp;section=5" title="Edit section: Masters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Master_of_Arts"><a href="/wiki/Master_of_Arts" title="Master of Arts">Master of Arts</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_environmental_degrees&amp;action=edit&amp;section=6" title="Edit section: Master of Arts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Master of Arts in <a class="mw-redirect" href="/wiki/Environmental_Policy" title="Environmental Policy">Environmental Policy</a></li>
+<li>Master of Arts in Environmental Studies</li>
+<li>Master of Arts in <a href="/wiki/Geography" title="Geography">Geography</a> and <a class="mw-redirect" href="/wiki/Environmental_Planning" title="Environmental Planning">Environmental Planning</a></li>
+<li>Master of Arts in International Environmental Policy</li>
+<li>Master of Arts in <a href="/wiki/Sustainability_studies" title="Sustainability studies">Sustainability Studies</a></li>
+<li>Master of Arts in Urban and Environmental Policy and <a href="/wiki/Urban_planning" title="Urban planning">Planning</a></li>
+</ul>
+<h3><span class="mw-headline" id="Master_of_Professional_Studies"><a href="/wiki/Master_of_Professional_Studies" title="Master of Professional Studies">Master of Professional Studies</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_environmental_degrees&amp;action=edit&amp;section=7" title="Edit section: Master of Professional Studies">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Master of Professional Studies in Environmental Science</li>
+<li>Master of Professional Studies in Environmental Studies</li>
+</ul>
+<h3><span class="mw-headline" id="Master_of_Public_Administration"><a href="/wiki/Master_of_Public_Administration" title="Master of Public Administration">Master of Public Administration</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_environmental_degrees&amp;action=edit&amp;section=8" title="Edit section: Master of Public Administration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Master of Public Administration in Environmental Policy</li>
+<li>Master of Public Administration in Environmental Science</li>
+<li>Master of Public Administration in Environmental Science &amp; Policy</li>
+</ul>
+<h3><span class="mw-headline" id="Master_of_Science"><a href="/wiki/Master_of_Science" title="Master of Science">Master of Science</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_environmental_degrees&amp;action=edit&amp;section=9" title="Edit section: Master of Science">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Master of Science in Economics and Policy of Energy and the Environment</li>
+<li>Master of Science in Environmental <a class="mw-redirect" href="/wiki/Applied_Science" title="Applied Science">Applied Science</a> and <a href="/wiki/Environmental_resource_management" title="Environmental resource management">Management</a></li>
+<li>Master of Science in Environmental Engineering</li>
+<li>Master of Science in Environmental Planning</li>
+<li>Master of Science in Environmental Planning and Management</li>
+<li>Master of Science in Environmental Policy</li>
+<li>Master of Science in Environmental Science(s)</li>
+<li>Master of Science in Environmental Sciences and Policy</li>
+<li>Master of Science in Environmental Sciences, Policy and Management<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></li>
+<li>Master of Science in Environmental Studies</li>
+<li>Master of Science in <a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li>
+<li>Master of Science in <a class="mw-redirect" href="/wiki/Sustainability_Science" title="Sustainability Science">Sustainability Science</a></li>
+<li>Master of Science in Sustainability Management</li>
+<li>Master of Science in <a href="/wiki/Systems_ecology" title="Systems ecology">Systems Ecology</a><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="Other_2">Other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_environmental_degrees&amp;action=edit&amp;section=10" title="Edit section: Other">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Master_of_Environmental_Management" title="Master of Environmental Management">Master of Environmental Management</a> (MEM)</li>
+<li>Master of Environmental Planning (MEP)</li>
+<li>Master of Environmental Planning and Design (MEPD)</li>
+<li>Master of Environmental Policy (MEP)</li>
+<li>Master of Environmental Policy and Management (MEPM)</li>
+<li>Master of Environmental Science (MEnvSc)</li>
+<li>Master of Environmental Science and Management (MESM)</li>
+<li><a href="/wiki/Master_of_Philosophy" title="Master of Philosophy">Master of Philosophy</a> in Human Ecology (M.Phil)<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></li>
+<li><a href="/wiki/Master_of_Resource_Management" title="Master of Resource Management">Master of Resource Management</a> (MRM)</li>
+<li>Master of Sustainability (MSus)</li>
+<li>Master of Sustainable Solutions (MSuS)</li>
+<li>Master of Urban and Environmental Planning (MUEP)</li>
+<li><a href="/wiki/Professional_Science_Master%27s_Degree" title="Professional Science Master's Degree">Professional Science Master</a> of Environmental Policy and Management (PSM)</li>
+<li><a href="/wiki/Sustainable_MBA" title="Sustainable MBA">Sustainable Masters in Business Administration</a> (MBA)</li>
+</ul>
+<h2><span class="mw-headline" id="Doctoral">Doctoral</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_environmental_degrees&amp;action=edit&amp;section=11" title="Edit section: Doctoral">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Global_Fellow"><a class="new" href="/w/index.php?title=Global_Fellow&amp;action=edit&amp;redlink=1" title="Global Fellow (page does not exist)">Global Fellow</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_environmental_degrees&amp;action=edit&amp;section=12" title="Edit section: Global Fellow">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Global Fellow in Finance and Sustainability</li>
+<li>Global Fellow in Supply Chain and Sustainability</li>
+<li>Global Fellow in Operations and Sustainability Management</li>
+<li>Global Fellow in HRM and Sustainability Management</li>
+<li>Global Fellow in Information Technology and Sustainability Management</li>
+<li>Global Fellow in Project Management and Sustainability Management</li>
+<li>Global Fellow in Smart City Management and Sustainability</li>
+<li>Global Fellow in Foundation Management and Sustainability<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></li>
+</ul>
+<p>These degrees are available in 58 countries (as of 2015) and have a dual specialization where any elective can be opted for and the dual specialization is in streams of sustainability. <a class="external free" href="http://casiglobal.us/" rel="nofollow">http://casiglobal.us/</a></p>
+<h3><span class="mw-headline" id="Doctor_of_Philosophy"><a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">Doctor of Philosophy</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_environmental_degrees&amp;action=edit&amp;section=13" title="Edit section: Doctor of Philosophy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Doctor of Philosophy in Environmental Applied Science and Management</li>
+<li>Doctor of Philosophy in Environmental Policy</li>
+<li>Doctor of Philosophy in Environmental Science</li>
+<li>Doctor of Philosophy in Environmental Science and Management</li>
+<li>Doctor of Philosophy in Environmental Studies</li>
+</ul>
+<h3><span class="mw-headline" id="Other_3">Other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_environmental_degrees&amp;action=edit&amp;section=14" title="Edit section: Other">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Doctor of Environmental Science and <a href="/wiki/Environmental_engineering" title="Environmental engineering">Engineering</a> (DESE, or D.Env.)</li>
+<li><a href="/wiki/Doctorate#Professional" title="Doctorate">Professional doctorate</a> in Environmental Science and Engineering (D.Env.)</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_environmental_degrees&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>General</dt>
+</dl>
+<ul>
+<li><a href="/wiki/List_of_environmental_studies_topics" title="List of environmental studies topics">List of environmental studies topics</a></li>
+<li><a href="/wiki/List_of_master%27s_degrees" title="List of master's degrees">List of master's degrees</a></li>
+</ul>
+<dl>
+<dt>Institutions</dt>
+</dl>
+<ul>
+<li><a href="/wiki/List_of_environmental_degree-granting_institutions" title="List of environmental degree-granting institutions">List of environmental degree-granting institutions</a></li>
+<li><a href="/wiki/List_of_environmental_degree-granting_institutions_in_the_United_States" title="List of environmental degree-granting institutions in the United States">List of environmental degree-granting institutions in the United States</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_environmental_design_degree%E2%80%93granting_institutions" title="List of environmental design degree–granting institutions">List of environmental design degree–granting institutions</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_institutions_awarding_Bachelor_of_Environmental_Studies_degrees" title="List of institutions awarding Bachelor of Environmental Studies degrees">List of institutions awarding Bachelor of Environmental Studies degrees</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_institutions_awarding_Bachelor_of_Environmental_Science_degrees" title="List of institutions awarding Bachelor of Environmental Science degrees">List of institutions awarding Bachelor of Environmental Science degrees</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_sustainability_programs_in_North_America" title="List of sustainability programs in North America">List of sustainability programs in North America</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_environmental_degrees&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://mespom.eu/node/1798" rel="nofollow">"MESPOM,"</a> University of Manchester. Accessed: March 10, 2015.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.cfc.umt.edu/grad/ms-systems-ecology.php" rel="nofollow">"M.S. Systems Ecology,"</a> University of Montana. Accessed: March 11, 2015.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.coa.edu/graduate-program.htm" rel="nofollow">"Graduate Program,"</a> College of the Atlantic. Accessed: March 11, 2015.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external free" href="http://casiglobal.us/" rel="nofollow">http://casiglobal.us/</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_environmental_degrees&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.ncseonline.org/programs/education-careers/cedd/projects/environmental-programs-curriculum-study" rel="nofollow">"Environmental Programs Curriculum Study,"</a> National Council on Science and the Environment (NCSE)</li>
+<li><a class="external text" href="http://nces.ed.gov/ipeds/cipcode/cipdetail.aspx?y=55&amp;cipid=87195" rel="nofollow">"Environmental Science"</a> (definition), United States Department of Education</li>
+<li><a class="external text" href="http://nces.ed.gov/ipeds/cipcode/cipdetail.aspx?y=55&amp;cip=03.0103" rel="nofollow">"Environmental Studies"</a> (definition), United States Department of Education</li>
+<li><a class="external text" href="http://www.aashe.org/resources/academic-programs/type/masters/" rel="nofollow">"Sustainability-focused masters degree programs,"</a> Association for the Advancement of Sustainability in Higher Education (AASHE)</li>
+<li><a class="external free" href="http://casiglobal.us/" rel="nofollow">http://casiglobal.us/</a></li>
+</ul>
+<p><br/></p>
+<div aria-labelledby="Environmental_science" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Environmental_science" title="Template:Environmental science"><abbr style=";;background:none transparent;border:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Environmental_science" title="Template talk:Environmental science"><abbr style=";;background:none transparent;border:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Environmental_science&amp;action=edit"><abbr style=";;background:none transparent;border:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Environmental_science" style="font-size:114%"><a href="/wiki/Environmental_science" title="Environmental science">Environmental science</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Main fields</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_sciences" title="Atmospheric sciences">Atmospheric sciences</a></li>
+<li><a href="/wiki/Biogeochemistry" title="Biogeochemistry">Biogeochemistry</a></li>
+<li><a href="/wiki/Ecology" title="Ecology">Ecology</a></li>
+<li><a href="/wiki/Environmental_chemistry" title="Environmental chemistry">Environmental chemistry</a></li>
+<li><a href="/wiki/Earth_science" title="Earth science">Geosciences</a></li>
+<li><a href="/wiki/Hydrology" title="Hydrology">Hydrology</a></li>
+<li><a href="/wiki/Limnology" title="Limnology">Limnology</a></li>
+<li><a href="/wiki/Oceanography" title="Oceanography">Oceanography</a></li>
+<li><a href="/wiki/Environmental_soil_science" title="Environmental soil science">Soil science</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="7" style="width:0%;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:The_Earth_seen_from_Apollo_17.jpg"><img alt="The Earth seen from Apollo 17.jpg" data-file-height="3002" data-file-width="3000" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/100px-The_Earth_seen_from_Apollo_17.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/150px-The_Earth_seen_from_Apollo_17.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/200px-The_Earth_seen_from_Apollo_17.jpg 2x" width="100"/></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Related fields</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biology" title="Biology">Biology</a></li>
+<li><a href="/wiki/Chemistry" title="Chemistry">Chemistry</a>
+<ul>
+<li><a href="/wiki/Green_chemistry" title="Green chemistry">green</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Environmental_design" title="Environmental design">Environmental design</a></li>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></li>
+<li><a href="/wiki/Environmental_engineering" title="Environmental engineering">Environmental engineering</a></li>
+<li><a href="/wiki/Environmental_health" title="Environmental health">Environmental health</a>
+<ul>
+<li><a href="/wiki/Environmental_epidemiology" title="Environmental epidemiology">epidemiology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Environmental_studies" title="Environmental studies">Environmental studies</a></li>
+<li><a href="/wiki/Environmental_toxicology" title="Environmental toxicology">Environmental toxicology</a></li>
+<li><a href="/wiki/Geodesy" title="Geodesy">Geodesy</a></li>
+<li><a href="/wiki/Physics" title="Physics">Physics</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Sustainability science</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Applications</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental technology</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource management</a></li>
+<li><a class="mw-redirect" href="/wiki/Pollution_control" title="Pollution control">Pollution control</a></li>
+<li><a href="/wiki/Recycling" title="Recycling">Recycling</a></li>
+<li><a href="/wiki/Environmental_remediation" title="Environmental remediation">Remediation</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+<li><a href="/wiki/Sewage_treatment" title="Sewage treatment">Sewage treatment</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">Urban metabolism</a></li>
+<li><a href="/wiki/Water_purification" title="Water purification">Water purification</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste management</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">See also</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Environmental_science" title="Category:Environmental science">Category</a>
+<ul>
+<li><a href="/wiki/Category:Environmental_scientists" title="Category:Environmental scientists">scientists</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Glossary_of_environmental_science" title="Glossary of environmental science">Glossary</a></li>
+<li><strong class="selflink">Degrees</strong></li>
+<li><a href="/wiki/List_of_environmental_degree-granting_institutions" title="List of environmental degree-granting institutions">Institutions</a></li>
+<li><a href="/wiki/List_of_environmental_journals#Environmental_sciences" title="List of environmental journals">Journals</a></li>
+<li><a href="/wiki/List_of_environmental_research_institutes" title="List of environmental research institutes">Research institutes</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Environmental_social_science" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Environmental_social_science" title="Template:Environmental social science"><abbr style=";;background:none transparent;border:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Environmental_social_science" title="Template talk:Environmental social science"><abbr style=";;background:none transparent;border:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Environmental_social_science&amp;action=edit"><abbr style=";;background:none transparent;border:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Environmental_social_science" style="font-size:114%"><a href="/wiki/Environmental_social_science" title="Environmental social science">Environmental social science</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Fields</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ecological_anthropology" title="Ecological anthropology">Ecological anthropology</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Environmental_anthropology" title="Environmental anthropology">Environmental anthropology</a></li>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></li>
+<li><a href="/wiki/Environmental_communication" title="Environmental communication">Environmental communication</a></li>
+<li><a href="/wiki/Environmental_history" title="Environmental history">Environmental history</a></li>
+<li><a href="/wiki/Environmental_politics" title="Environmental politics">Environmental politics</a></li>
+<li><a href="/wiki/Environmental_psychology" title="Environmental psychology">Environmental psychology</a></li>
+<li><a href="/wiki/Environmental_sociology" title="Environmental sociology">Environmental sociology</a></li>
+<li><a href="/wiki/Human_ecology" title="Human ecology">Human ecology</a></li>
+<li><a href="/wiki/Human_geography" title="Human geography">Human geography</a></li>
+<li><a href="/wiki/Political_ecology" title="Political ecology">Political ecology</a></li>
+<li><a href="/wiki/Regional_science" title="Regional science">Regional science</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="5" style="width:0%;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Sustainable_development.svg"><img alt="Sustainable development.svg" data-file-height="510" data-file-width="800" height="96" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/150px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/225px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/300px-Sustainable_development.svg.png 2x" width="150"/></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Related</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agroecology" title="Agroecology">Agroecology</a></li>
+<li><a href="/wiki/Anthrozoology" title="Anthrozoology">Anthrozoology</a></li>
+<li><a href="/wiki/Behavioral_geography" title="Behavioral geography">Behavioral geography</a></li>
+<li><a href="/wiki/Community_studies" title="Community studies">Community studies</a></li>
+<li><a href="/wiki/Demography" title="Demography">Demography</a></li>
+<li>Design
+<ul>
+<li><a href="/wiki/Ecological_design" title="Ecological design">ecological</a></li>
+<li><a href="/wiki/Environmental_design" title="Environmental design">environmental</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ecological_humanities" title="Ecological humanities">Ecological humanities</a></li>
+<li>Economics
+<ul>
+<li><a href="/wiki/Energy_economics" title="Energy economics">energy</a></li>
+<li><a href="/wiki/Thermoeconomics" title="Thermoeconomics">thermo</a></li>
+</ul>
+</li>
+<li>Environmental
+<ul>
+<li><a href="/wiki/Environmental_education" title="Environmental education">education</a></li>
+<li><a href="/wiki/Environmental_ethics" title="Environmental ethics">ethics</a></li>
+<li><a href="/wiki/Environmental_law" title="Environmental law">law</a></li>
+<li><a href="/wiki/Environmental_science" title="Environmental science">science</a></li>
+<li><a href="/wiki/Environmental_studies" title="Environmental studies">studies</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ethnobiology" title="Ethnobiology">Ethnobiology</a>
+<ul>
+<li><a href="/wiki/Ethnobotany" title="Ethnobotany">botany</a></li>
+<li><a href="/wiki/Ethnoecology" title="Ethnoecology">ecology</a></li>
+<li><a href="/wiki/Ethnozoology" title="Ethnozoology">zoology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Forestry" title="Forestry">Forestry</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Integrated_geography" title="Integrated geography">Integrated geography</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Rural_sociology" title="Rural sociology">Rural sociology</a></li>
+<li><a href="/wiki/Science,_technology_and_society" title="Science, technology and society">Science, technology and society</a>
+<ul>
+<li><a href="/wiki/Science_studies" title="Science studies">science studies</a></li>
+</ul>
+</li>
+<li>Sustainability
+<ul>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">studies</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li>Urban
+<ul>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">ecology</a></li>
+<li><a href="/wiki/Urban_geography" title="Urban geography">geography</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">metabolism</a></li>
+<li><a href="/wiki/Urban_studies" title="Urban studies">studies</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Applied</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Architecture
+<ul>
+<li><a href="/wiki/Landscape_architecture" title="Landscape architecture">landscape</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">sustainable</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ecopsychology" title="Ecopsychology">Ecopsychology</a></li>
+<li>Engineering
+<ul>
+<li><a href="/wiki/Ecological_engineering" title="Ecological engineering">ecological</a></li>
+<li><a href="/wiki/Environmental_engineering" title="Environmental engineering">environmental</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Green_criminology" title="Green criminology">Green criminology</a></li>
+<li>Health
+<ul>
+<li><a href="/wiki/Environmental_health" title="Environmental health">environmental</a></li>
+<li><a href="/wiki/Environmental_epidemiology" title="Environmental epidemiology">epidemiology</a></li>
+<li><a href="/wiki/Occupational_safety_and_health" title="Occupational safety and health">occupational</a></li>
+<li><a href="/wiki/Public_health" title="Public health">public</a></li>
+</ul>
+</li>
+<li>Management
+<ul>
+<li><a class="mw-redirect" href="/wiki/Environmental_resources_management" title="Environmental resources management">environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">forest</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">natural resource</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">waste</a></li>
+</ul>
+</li>
+<li>Planning
+<ul>
+<li><a href="/wiki/Environmental_planning" title="Environmental planning">environmental</a></li>
+<li><a href="/wiki/Land-use_planning" title="Land-use planning">land use</a></li>
+<li><a href="/wiki/Regional_planning" title="Regional planning">regional</a></li>
+<li><a href="/wiki/Spatial_planning" title="Spatial planning">spatial</a></li>
+<li><a href="/wiki/Urban_planning" title="Urban planning">urban</a></li>
+</ul>
+</li>
+<li>Policy
+<ul>
+<li><a href="/wiki/Energy_policy" title="Energy policy">energy</a></li>
+<li><a href="/wiki/Environmental_policy" title="Environmental policy">environmental</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Environmental_social_science" title="Category:Environmental social science">Category</a></li>
+<li><a href="/wiki/Category:Environmental_social_science_concepts" title="Category:Environmental social science concepts">Concepts</a></li>
+<li><strong class="selflink">Degrees</strong></li>
+<li><a href="/wiki/List_of_environmental_degree-granting_institutions" title="List of environmental degree-granting institutions">Institutions</a></li>
+<li><a href="/wiki/List_of_environmental_social_science_journals" title="List of environmental social science journals">Journals</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_environment_research_institutes" title="List of environment research institutes">Research institutes</a></li>
+<li><a href="/wiki/Category:Environmental_social_scientists" title="Category:Environmental social scientists">Scholars</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Environmental_humanities" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Environmental_humanities" title="Template:Environmental humanities"><abbr style=";;background:none transparent;border:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Environmental_humanities" title="Template talk:Environmental humanities"><abbr style=";;background:none transparent;border:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Environmental_humanities&amp;action=edit"><abbr style=";;background:none transparent;border:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Environmental_humanities" style="font-size:114%"><a href="/wiki/Ecological_humanities" title="Ecological humanities">Environmental humanities</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Environmental_art" title="Environmental art">Art</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Crop_art" title="Crop art">Crop art</a></li>
+<li><a href="/wiki/Environmental_art" title="Environmental art">Environmental art</a></li>
+<li><a href="/wiki/Environmental_sculpture" title="Environmental sculpture">Environmental sculpture</a></li>
+<li><a href="/wiki/Land_art" title="Land art">Land art</a></li>
+<li><a class="mw-redirect" href="/wiki/Landscape_art" title="Landscape art">Landscape painting</a></li>
+<li><a href="/wiki/Photography" title="Photography">Photography</a>
+<ul>
+<li><a href="/wiki/Conservation_photography" title="Conservation photography">conservation</a></li>
+<li><a href="/wiki/Landscape_photography" title="Landscape photography">landscape</a></li>
+<li><a href="/wiki/Nature_photography" title="Nature photography">nature</a></li>
+<li><a href="/wiki/Wildlife_photography" title="Wildlife photography">wildlife</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sculpture_trail" title="Sculpture trail">Sculpture trail</a></li>
+<li><a href="/wiki/Site-specific_art" title="Site-specific art">Site-specific art</a></li>
+<li><a href="/wiki/Sustainable_art" title="Sustainable art">Sustainable art</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="15" style="width:0%;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:CHINTREUIL_-_Le_Boulot_blanc.JPG"><img alt="CHINTREUIL - Le Boulot blanc.JPG" data-file-height="1754" data-file-width="1240" height="141" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/CHINTREUIL_-_Le_Boulot_blanc.JPG/100px-CHINTREUIL_-_Le_Boulot_blanc.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/CHINTREUIL_-_Le_Boulot_blanc.JPG/150px-CHINTREUIL_-_Le_Boulot_blanc.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/CHINTREUIL_-_Le_Boulot_blanc.JPG/200px-CHINTREUIL_-_Le_Boulot_blanc.JPG 2x" width="100"/></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Culture" title="Culture">Culture</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cultural_ecology" title="Cultural ecology">Cultural ecology</a></li>
+<li><a href="/wiki/Cultural_landscape" title="Cultural landscape">Cultural landscape</a></li>
+<li><a href="/wiki/Ecolinguistics" title="Ecolinguistics">Ecolinguistics</a></li>
+<li><a href="/wiki/Ecological_anthropology" title="Ecological anthropology">Ecological anthropology</a></li>
+<li><a href="/wiki/Ecosemiotics" title="Ecosemiotics">Ecosemiotics</a></li>
+<li><a href="/wiki/Environmental_anthropology" title="Environmental anthropology">Environmental anthropology</a></li>
+<li><a href="/wiki/Ethnoecology" title="Ethnoecology">Ethnoecology</a></li>
+<li><a href="/wiki/Traditional_ecological_knowledge" title="Traditional ecological knowledge">Traditional ecological knowledge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Literature" title="Literature">Literature</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ecocomposition" title="Ecocomposition">Ecocomposition</a></li>
+<li><a href="/wiki/Ecocriticism" title="Ecocriticism">Ecocriticism</a></li>
+<li><a href="/wiki/Ecopoetry" title="Ecopoetry">Ecopoetry</a></li>
+<li><a href="/wiki/Geocriticism" title="Geocriticism">Geocriticism</a></li>
+<li><a href="/wiki/Nature_writing" title="Nature writing">Nature writing</a></li>
+<li><a href="/wiki/Outdoor_literature" title="Outdoor literature">Outdoor literature</a></li>
+<li><a href="/wiki/Zoopoetics" title="Zoopoetics">Zoopoetics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Environmental_philosophy" title="Environmental philosophy">Philosophy</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Constructivist_epistemology" title="Constructivist epistemology">Constructivism</a></li>
+<li><a href="/wiki/Cosmology" title="Cosmology">Cosmology</a></li>
+<li><a href="/wiki/Critical_realism_(philosophy_of_the_social_sciences)" title="Critical realism (philosophy of the social sciences)">Critical realism</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Ecofeminism" title="Ecofeminism">Ecofeminism</a></li>
+<li><a href="/wiki/Maurice_Merleau-Ponty#Ecophenomenology" title="Maurice Merleau-Ponty">Ecophenomenology</a></li>
+<li><a href="/wiki/Ecosophy" title="Ecosophy">Ecosophy</a></li>
+<li><a href="/wiki/Environmental_ethics" title="Environmental ethics">Environmental ethics</a></li>
+<li><a href="/wiki/Environmental_justice" title="Environmental justice">Environmental justice</a></li>
+<li><a href="/wiki/Environmental_philosophy" title="Environmental philosophy">Environmental philosophy</a></li>
+<li><a href="/wiki/Materialism" title="Materialism">Materialism</a></li>
+<li><a href="/wiki/Natural_philosophy" title="Natural philosophy">Natural philosophy</a></li>
+<li><a href="/wiki/Philosophy_of_mind" title="Philosophy of mind">Philosophy of mind</a></li>
+<li><a href="/wiki/Philosophy_of_science" title="Philosophy of science">Philosophy of science</a></li>
+<li><a href="/wiki/Social_ecology" title="Social ecology">Social ecology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Religion_and_environmentalism" title="Religion and environmentalism">Religion</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ecotheology" title="Ecotheology">Ecotheology</a></li>
+<li><a href="/wiki/Environmental_theology" title="Environmental theology">Environmental theology</a></li>
+<li><a href="/wiki/Religion_and_environmentalism" title="Religion and environmentalism">Religion and environmentalism</a></li>
+<li><a href="/wiki/Spiritual_ecology" title="Spiritual ecology">Spiritual ecology</a></li>
+<li><a href="/wiki/Stewardship_(theology)" title="Stewardship (theology)">Stewardship</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anthrozoology" title="Anthrozoology">Anthrozoology</a></li>
+<li><a href="/wiki/Ecomusicology" title="Ecomusicology">Ecomusicology</a></li>
+<li><a href="/wiki/Environmental_communication" title="Environmental communication">Environmental communication</a></li>
+<li><a href="/wiki/Environmental_education" title="Environmental education">Environmental education</a>
+<ul>
+<li><a href="/wiki/Environmental_adult_education" title="Environmental adult education">adult</a></li>
+<li><a href="/wiki/Arts-based_environmental_education" title="Arts-based environmental education">arts-based</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Environmental_history" title="Environmental history">Environmental history</a></li>
+<li><a href="/wiki/Heritage_interpretation" title="Heritage interpretation">Environmental interpretation</a></li>
+<li><a href="/wiki/Environmental_journalism" title="Environmental journalism">Environmental journalism</a></li>
+<li><a href="/wiki/Environmental_law" title="Environmental law">Environmental law</a></li>
+<li><a href="/wiki/Outdoor_education" title="Outdoor education">Outdoor education</a></li>
+<li><a href="/wiki/Psychogeography" title="Psychogeography">Psychogeography</a></li>
+<li><a href="/wiki/Thematic_interpretation" title="Thematic interpretation">Thematic interpretation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Animal_studies" title="Animal studies">Animal studies</a></li>
+<li><a href="/wiki/Bioethics" title="Bioethics">Bioethics</a></li>
+<li><a href="/wiki/Biophilia_hypothesis" title="Biophilia hypothesis">Biophilia hypothesis</a></li>
+<li><a href="/wiki/Do_it_yourself" title="Do it yourself">Do it yourself</a> (<a href="/wiki/DIY_ethic" title="DIY ethic">ethic</a>)</li>
+<li><a href="/wiki/Natural_history" title="Natural history">Natural history</a> (<a href="/wiki/List_of_natural_history_museums" title="List of natural history museums">museums</a>)</li>
+<li><a href="/wiki/Popular_science" title="Popular science">Popular science</a></li>
+<li><a href="/wiki/Property" title="Property">Property theory</a> (<a href="/wiki/Common-pool_resource" title="Common-pool resource">common property</a>)</li>
+<li><a href="/wiki/Science,_technology_and_society" title="Science, technology and society">Science, technology and society</a>
+<ul>
+<li><a href="/wiki/Science_studies" title="Science studies">science studies</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Slow_Food" title="Slow Food">Slow food</a></li>
+<li><a href="/wiki/Spirit_of_place" title="Spirit of place">Spirit of place</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Sustainability studies</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Applied_arts" title="Applied arts">Applied</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arts_and_Crafts_movement" title="Arts and Crafts movement">Arts and Crafts movement</a></li>
+<li><a href="/wiki/Acoustic_ecology" title="Acoustic ecology">Acoustic ecology</a></li>
+<li><a class="mw-redirect" href="/wiki/Biomimicry" title="Biomimicry">Biomimicry</a></li>
+<li><a href="/wiki/Ecodesign" title="Ecodesign">Ecodesign</a></li>
+<li><a href="/wiki/Ecological_design" title="Ecological design">Ecological design</a></li>
+<li><a href="/wiki/Ecomuseum" title="Ecomuseum">Ecomuseum</a></li>
+<li><a href="/wiki/Educational_trail" title="Educational trail">Educational trail</a></li>
+<li><a href="/wiki/Environmental_design" title="Environmental design">Environmental design</a></li>
+<li><a href="/wiki/Landscape_architecture" title="Landscape architecture">Landscape architecture</a>
+<ul>
+<li><a href="/wiki/Landscape_assessment" title="Landscape assessment">assessment</a></li>
+<li><a href="/wiki/Landscape_planning" title="Landscape planning">planning</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Nature_center" title="Nature center">Nature center</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">New Urbanism</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Sustainable architecture</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable design</a></li>
+<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Sustainable fashion</a></li>
+<li><a href="/wiki/Themed_walk" title="Themed walk">Themed walk</a></li>
+<li><a href="/wiki/Transition_design" title="Transition design">Transition design</a></li>
+<li><a href="/wiki/Urban_acupuncture" title="Urban acupuncture">Urban acupuncture</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Environmental_humanities" title="Category:Environmental humanities">Category</a></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Environmental_humanities" title="commons:Category:Environmental humanities">Commons</a></li>
+<li><a href="/wiki/List_of_environmental_journals#Environmental_humanities" title="List of environmental journals">Journals</a></li>
+<li><strong class="selflink">Degrees</strong></li>
+<li><a href="/wiki/List_of_environmental_degree-granting_institutions" title="List of environmental degree-granting institutions">Institutions</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:45635853-0!*!0!!en!4!* and timestamp 20161031015344 and revision id 739222151
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_environmental_degrees&amp;oldid=739222151">https://en.wikipedia.org/w/index.php?title=List_of_environmental_degrees&amp;oldid=739222151</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Academic_degrees" title="Category:Academic degrees">Academic degrees</a></li><li><a href="/wiki/Category:Higher_education-related_lists" title="Category:Higher education-related lists">Higher education-related lists</a></li><li><a href="/wiki/Category:Lists_of_environmental_topics" title="Category:Lists of environmental topics">Lists of environmental topics</a></li><li><a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">Sustainability lists</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_March_2015" title="Category:Articles needing additional references from March 2015">Articles needing additional references from March 2015</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Incomplete_lists_from_March_2015" title="Category:Incomplete lists from March 2015">Incomplete lists from March 2015</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

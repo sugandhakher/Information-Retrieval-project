@@ -1,0 +1,154 @@
+energymodelingforum
+from wikipedia  the free encyclopedia
+jump to 					 
+this article needs additional citations for   please help
+by   unsourced material may be challenged and removed   april 2009    
+energy modeling forum
+abbreviation
+emf
+formation
+1976  40years ago  1976 
+founded at
+  california  usa
+purpose
+scientific cooperation
+official language
+english
+director
+website
+the energy modeling forum  emf  is a structured forum for discussing important issues in energy and the environment  the emf was established in 1976 at   the emf works through a series of ad hoc working groups  each focussing on a particular corporate or policy decision  the emf provides a non-partisan platform that ensures objective consideration of opposing views  participation is by invitation 
+since the late-1990s  the emf has made contributions to the economics of   as witnessed in the reports of the
+ ipcc  and on
+more generally 
+is the current director of the emf 
+contents
+ethos  
+the emf was convened in 1976 over concerns that the insights that large-scale
+could provide
+were being overshadowed by the  plethora of detailed quantitative results  being disseminated and discussed  449 as a result  the emf sought to bring energy modelers together to provide a proper context for their work  indeed  the emf was  formed to foster better communication between the builders and users of energy models in energy planning and policy analysis   449 the emf periodically establishes ad hoc working groups to conduct studies on selected energy topics  a working group then identifies relevant existing models and sets a series of tests to illuminate the basic structure and behavior of each model  results are compared and the strengths and weaknesses of each model is documented in a  as of 1982  freely available report 
+list of emf projects  
+reports for most of the completed projects are available from the emf website  reports since 2006 have sometimes been published exclusively in special editions of  paywalled  academic journals instead 
+emf projects
+project
+reported
+description
+completed projects
+emf01
+1977
+energy and the economy
+emf02
+1978
+coal in transition  19802000
+emf03
+1979
+electric load forecasting  probing the issue with models
+emf04
+1980
+aggregate elasticity of energy demand
+emf05
+1982
+us oil and gas supply
+emf06
+1981
+world oil
+emf07
+1986
+macroeconomic impacts of energy shocks
+emf08
+1987
+industrial energy demand  conservation  and interfuel substitution
+emf09
+1989
+north american natural gas markets
+emf10
+1991
+electricity markets and planning
+emf11
+1992
+international oil supplies and demands
+emf12
+1993
+controlling global carbon emissions  costs and policy options
+emf13
+1996
+markets for energy efficiency
+emf14
+
+integrated assessment of climate change
+emf15
+1998
+a competitive electricity industry
+emf16
+1999
+the costs of the kyoto protocol
+emf17
+
+prices and emissions in a restructured electricity market
+emf18
+
+international trade dimensions of climate policies
+emf19
+2002
+climate change  technology strategies and international trade
+emf20
+2003
+natural gas  fuel diversity  and north american energy markets
+emf21
+2008
+multi-gas mitigation and climate change
+emf22
+2010
+climate change control scenarios
+emf23
+2009
+world natural gas markets and trade
+emf24
+2014
+us technology and climate policy strategies
+emf25
+2011
+energy efficiency and climate change mitigation
+emf26
+2013
+emissions and market implications of new natural gas supplies
+emf27
+2014
+global technology and climate policy strategies
+emf28
+2013
+the effects of technology choices on eu climate policy
+emf29
+2012
+the role of border carbon adjustment in unilateral climate policy
+current projects  late-2016 
+emf30
+short-lived climate forcers and air quality
+emf31
+north american natural gas markets in transition
+emf32
+us ghg and revenue recycling scenarios
+emf33
+bio-energy and land use
+the reported year is that of the last revision
+a dash indicates that no report is available
+see also  
+ the process of building computer models of energy systems
+ an
+energy modeling initiative  centered on europe
+references  
+ 
+huntington  hillard g  weyant  john p  sweeney  james l  1 january 1982  
+ pdf   omega  the international journal of management science  10  5   449462       retrieved 2016-10-22 
+ 
+  energy modeling forum  emf   stanford  ca  usa  retrieved 2016-10-23 
+external links  
+models
+open data
+concepts
+applications
+people
+organizations
+energy modeling forum
+categories
+retrieved from   
+  hidden categories 

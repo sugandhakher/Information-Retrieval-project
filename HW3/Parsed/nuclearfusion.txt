@@ -1,0 +1,682 @@
+nuclearfusion
+from wikipedia  the free encyclopedia
+jump to 					 
+this article is about the science behind nuclear fusion  for its use in producing energy  see  
+the
+curve  the formation of nuclei with masses up to
+releases energy  while forming those that are heavier requires energy input  this is because the nuclei below iron-56 have high binding energies  while the heavier ones have lower binding energies  as illustrated above 
+     
+
+
+and stability
+      
+  classification
+ equal
+ equal
+ equal
+ equal
+ equal all the above
+ z  n
+  
+             
+  
+   
+capturing processes
+    
+proton   
+  
+topics
+nuclear fusion
+processes   
+nuclides   
+                             
+the
+is a   and thus generates its
+by nuclear fusion of
+nuclei into   in its core  the sun fuses 620 million
+of hydrogen each second 
+in   nuclear fusion is a
+in which two or more
+come close enough to form one or more different atomic nuclei and subatomic particles  neutrons and or protons   the difference in mass between the products and reactants is manifested as the release of large amounts of energy  this difference in mass arises due to the difference in atomic    between the atomic nuclei before and after the reaction  fusion is the process that powers active or      or other
+stars 
+the fusion process that produces a nucleus lighter than
+or
+will generally yield a net energy release  these elements have the smallest mass per nucleon and the largest
+per   respectively  fusion of light elements toward these releases energy  an
+process   while a fusion producing nuclei heavier than these elements  will result in energy retained by the resulting nucleons  and the resulting reaction is   the opposite is true for the reverse process    this means that the lighter elements  such as hydrogen and   are in general more fusable  while the heavier elements  such as
+and   are more fissionable  the extreme
+event of a
+can produce enough energy to fuse nuclei into elements heavier than iron 
+following the discovery of
+by physicist   in 1929
+and
+used the measured masses of light elements to predict that large amounts of energy could be released by fusing small nuclei  building upon the
+experiments by   carried out several years earlier  the laboratory fusion of
+was first accomplished by
+in 1932  during the remainder of that decade the steps of the main cycle of nuclear fusion in stars were worked out by   research into fusion for military purposes began in the early 1940s as part of the   fusion was accomplished in 1951 with the
+nuclear test  nuclear fusion on a large scale in an explosion was first carried out on november 1  1952  in the
+test 
+research into developing controlled
+for civil purposes also began in earnest in the 1950s  and it continues to this day 
+contents
+process  
+mc2   where m is the decrease in the total rest mass of particles 
+the origin of the energy released in fusion of light elements is due to interplay of two opposing forces  the
+which combines together protons and neutrons  and the   which causes protons to repel each other  the protons are positively charged and repel each other but they nonetheless stick together  demonstrating the existence of another force referred to as nuclear attraction  this force  called the strong nuclear force  overcomes electric repulsion at very close range  the effect of this force is not observed outside the nucleus  hence the force is called a short-range force  the same force also pulls the nucleons  neutrons and protons  together allowing ordinary matter to exist  light nuclei  or nuclei smaller than iron and nickel   are sufficiently small and proton-poor allowing the nuclear force to overcome the repulsive coulomb force  this is because the nucleus is sufficiently small that all nucleons feel the short-range attractive force at least as strongly as they feel the infinite-range coulomb repulsion  building up these nuclei from lighter nuclei by fusion thus releases the extra energy from the net attraction of these particles    however  no energy is released  since the nuclear force is short-range and cannot continue to act across still larger atomic nuclei  thus  energy is no longer released when such nuclei are made by fusion  instead  energy is required as input to such processes 
+fusion reactions create the light elements that power the
+and produce virtually all elements in a process called   the fusion of lighter elements in stars releases energy and the mass that always accompanies it  for example  in the fusion of two hydrogen nuclei to form helium  0.7  of the mass is carried away from the system in the form of kinetic energy of an
+or other forms of energy  such as electromagnetic radiation 
+research into controlled fusion  with the aim of producing fusion power for the production of electricity  has been conducted for over 60 years  it has been accompanied by extreme scientific and technological difficulties  but has resulted in progress  at present  controlled fusion reactions have been unable to produce break-even  self-sustaining  controlled fusion  workable designs for a reactor that theoretically will deliver ten times more fusion energy than the amount needed to heat plasma to the required temperatures are in development  see    the iter facility is expected to finish its construction phase in 2019  it will start commissioning the reactor that same year and initiate plasma experiments in 2020  but is not expected to begin full deuterium-tritium fusion until 2027 
+it takes considerable energy to force nuclei to fuse  even those of the lightest element    this is because all nuclei have a positive charge due to their protons  and as like charges repel  nuclei strongly resist being pushed close together  accelerated to high speeds  they can overcome this electrostatic repulsion and be forced close enough such that the attractive
+is stronger than the repulsive force  as the strong force grows very rapidly once beyond that critical distance  the fusing nucleons  fall  into one another and result is fusion and net energy produced  the fusion of lighter nuclei  which creates a heavier nucleus and often a
+or proton  generally releases more energy than it takes to force the nuclei together  this is an
+that can produce self-sustaining reactions  the us   which uses laser-driven   was designed with a goal of break-even fusion 
+the first large-scale laser target experiments were performed in june 2009 and ignition experiments began in early 2011 
+energy released in most
+are much larger than in   because the
+that holds a nucleus together is far greater than the energy that holds
+to a nucleus  for example  the
+gained by adding an electron to a hydrogen nucleus is 698221789600223200013.6less than one-millionth of the 698828198306171200017.6 released in the   dt  reaction shown in the diagram to the right  the complete conversion of one
+of matter would release 91013 joules of energy  fusion reactions have an
+many times greater than   the reactions produce far greater energy per unit of mass even though individual fission reactions are generally much more energetic than individual fusion ones  which are themselves millions of times more energetic than chemical reactions  only
+of   such as that caused by the
+collision of
+and   is more energetic per unit of mass than nuclear fusion 
+nuclear fusion in stars  
+the
+dominates in stars the size of the sun or smaller 
+the
+dominates in stars heavier than the sun 
+the most important fusion process in nature is the one that powers     in the 20th century  it was realized that the energy released from nuclear fusion reactions accounted for the longevity of the
+and other stars as a source of heat and light  the fusion of nuclei in a star  starting from its initial hydrogen and helium abundance  provides that energy and synthesizes new nuclei as a byproduct of the fusion process  the prime energy producer in the sun is the fusion of hydrogen to form helium  which occurs at a solar-core temperature of 14 million kelvin  the net result is the fusion of four
+into one   with the release of two   two
+ which changes two of the protons into neutrons   and energy  different reaction chains are involved  depending on the mass of the star  for stars the size of the sun or smaller  the
+dominates  in heavier stars  the
+is more important 
+as a star uses up a substantial fraction of its hydrogen  it begins to synthesize heavier elements  however the heaviest elements are synthesized by fusion that occurs as a more massive star undergoes a violent
+at the end of its life  a process known as  
+requirements  
+details and supporting references on the material in this section can be found in textbooks on nuclear physics or nuclear fusion 
+a substantial energy barrier of electrostatic forces must be overcome before fusion can occur  at large distances  two naked nuclei repel one another because of the repulsive
+between their
+protons  if two nuclei can be brought close enough together  however  the electrostatic repulsion can be overcome by the quantum effect in which nuclei can tunnel through  
+when a
+such as a
+or
+is added to a nucleus  the nuclear force attracts it to all the other nucleons of the nucleus  if the atom is small enough   but primarily to its immediate neighbours due to the short range of the force  the nucleons in the interior of a nucleus have more neighboring nucleons than those on the surface  since smaller nuclei have a larger surface area-to-volume ratio  the binding energy per nucleon due to the
+generally increases with the size of the nucleus but approaches a limiting value corresponding to that of a nucleus with a diameter of about four nucleons  it is important to keep in mind that nucleons are   so  for example  since two neutrons in a nucleus are identical to each other  the goal of distinguishing one from the other  such as which one is in the interior and which is on the surface  is in fact meaningless  and the inclusion of quantum mechanics is therefore necessary for proper calculations 
+the electrostatic force  on the other hand  is an   so a proton added to a nucleus will feel an electrostatic repulsion from all the other protons in the nucleus  the electrostatic energy per nucleon due to the electrostatic force thus increases without limit as nuclei atomic number grows 
+the
+between the positively charged nuclei is repulsive  but when the separation is small enough  the quantum effect will tunnel through the wall  therefore  the prerequisite for fusion is that the two nuclei be brought close enough together for a long enough time for quantum tunnelling to act 
+the net result of the opposing electrostatic and strong nuclear forces is that the binding energy per nucleon generally increases with increasing size  up to the elements
+and   and then decreases for heavier nuclei  eventually  the
+becomes negative and very heavy nuclei  all with more than 208 nucleons  corresponding to a diameter of about 6 nucleons  are not stable  the four most tightly bound nuclei  in decreasing order of
+per nucleon  are       and   even though the   62ni  is more stable  the
+56fe is an
+more common  this is due to the fact that there is no easy way for stars to create 62ni through the alpha process 
+an exception to this general trend is the
+nucleus  whose binding energy is higher than that of   the next heaviest element  this is because protons and neutrons are   which according to the
+cannot exist in the same nucleus in exactly the same state  each proton or neutron energy state in a nucleus can accommodate both a spin up particle and a spin down particle  helium-4 has an anomalously large binding energy because its nucleus consists of two protons and two neutrons  so all four of its nucleons can be in the ground state  any additional nucleons would have to go into higher energy states  indeed  the helium-4 nucleus is so tightly bound that it is commonly treated as a single particle in nuclear physics  namely  the  
+the situation is similar if two nuclei are brought together  as they approach each other  all the protons in one nucleus repel all the protons in the other  not until the two nuclei actually come close enough for long enough can the strong
+take over  by way of tunneling   consequently  even when the final energy state is lower  there is a large energy barrier that must first be overcome  it is called the  
+the coulomb barrier is smallest for isotopes of hydrogen  as their nuclei contain only a single positive charge  a
+is not stable  so neutrons must also be involved  ideally in such a way that a helium nucleus  with its extremely tight binding  is one of the products 
+using
+fuel  the resulting energy barrier is about 0.1mev  in comparison  the energy needed to remove an
+from
+is 13.6ev  about 7500 times less energy  the  intermediate  result of the fusion is an unstable 5he nucleus  which immediately ejects a neutron with 14.1mev  the recoil energy of the remaining 4he nucleus is 3.5mev  so the total energy liberated is 17.6mev  this is many times more than what was needed to overcome the energy barrier 
+the fusion reaction rate increases rapidly with temperature until it maximizes and then gradually drops off  the dt rate peaks at a lower temperature  about 70kev  or 800 million kelvin  and at a higher value than other reactions commonly considered for fusion energy 
+the reaction
+ is a measure of the probability of a fusion reaction as a function of the relative velocity of the two reactant nuclei  if the reactants have a distribution of velocities  e g  a thermal distribution  then it is useful to perform an average over the distributions of the product of cross section and velocity  this average is called the  reactivity   denoted  v   the reaction rate  fusions per volume per time  is  v  times the product of the reactant number densities 
+f
+ 
+n
+1
+n
+2
+
+
+v
+
+ 
+  displaystyle f n  1 n  2  langle  sigma v rangle   
+if a species of nuclei is reacting with itself  such as the dd reaction  then the product
+n
+1
+n
+2
+  displaystyle n  1 n  2  
+must be replaced by
+ 
+1
+ 
+2
+ 
+n
+2
+  displaystyle  1/2 n  2  
+ 
+
+
+v
+
+  displaystyle  langle  sigma v rangle  
+increases from virtually zero at room temperatures up to meaningful magnitudes at temperatures of kev  at these temperatures  well above typical
+energies  13.6ev in the hydrogen case   the fusion reactants exist in a
+state 
+the significance of
+
+
+v
+
+  displaystyle  langle  sigma v rangle  
+as a function of temperature in a device with a particular energy
+is found by considering the   this is an extremely challenging barrier to overcome on earth  which explains why fusion research has taken many years to reach the current high state of technical prowess 
+methods for achieving fusion  
+main article 
+thermonuclear fusion  
+main article 
+if the matter is sufficiently heated  hence being    the fusion reaction may occur due to collisions with extreme thermal kinetic energies of the particles  in the form of thermonuclear weapons  thermonuclear fusion is the only fusion technique so far to yield undeniably large amounts of useful   usable amounts of thermonuclear fusion energy released in a controlled manner have yet to be achieved  in nature  this is what produces energy in
+through  
+inertial confinement fusion  
+main article 
+ icf  is a type of
+research that attempts to initiate nuclear fusion reactions by heating and compressing a fuel target  typically in the form of a pellet that most often contains a mixture of
+and  
+inertial electrostatic confinement  
+main article 
+is a set of devices that use an electric field to heat ions to fusion conditions  the most well known is the   starting in 1999  a number of amateurs have been able to do amateur fusion using these homemade devices  other iec devices include  the   mix pops and marble concepts 
+beam-beam or beam-target fusion  
+if the energy to initiate the reaction comes from
+one of the nuclei  the process is called beam-target fusion  if both nuclei are accelerated  it is beam-beam fusion 
+accelerator-based light-ion fusion is a technique using particle accelerators to achieve particle kinetic energies sufficient to induce light-ion fusion reactions  accelerating light ions is relatively easy  and can be done in an efficient mannerrequiring only a vacuum tube  a pair of electrodes  and a high-voltage transformer  fusion can be observed with as little as 10 kv between the electrodes  the key problem with accelerator-based fusion  and with cold targets in general  is that fusion cross sections are many orders of magnitude lower than coulomb interaction cross sections  therefore  the vast majority of ions expend their energy emitting
+radiation and the ionization of atoms of the target  devices referred to as sealed-tube
+are particularly relevant to this discussion  these small devices are miniature particle accelerators filled with deuterium and tritium gas in an arrangement that allows ions of those nuclei to be accelerated against hydride targets  also containing deuterium and tritium  where fusion takes place  releasing a flux of neutrons  hundreds of neutron generators are produced annually for use in the petroleum industry where they are used in measurement equipment for locating and mapping oil reserves 
+muon-catalyzed fusion  
+is a well-established and reproducible fusion process that occurs at ordinary temperatures  it was studied in detail by
+in the early 1980s  net energy production from this reaction cannot occur because of the high energy required to create   their short 2.2s   and the high chance that a muon will bind to the new
+and thus stop catalyzing fusion 
+other principles  
+the   research fusion reactor  at the
+ switzerland  
+some other confinement principles have been investigated 
+uses small amounts of
+to trigger a tiny fusion explosion  this has been studied primarily in the context of making   and
+feasible  this is not near becoming a practical power source  due to the cost of manufacturing antimatter alone 
+was reported in april 2005 by a team at   the scientists used a
+crystal heated from 34 to 7c  29 to 45f   combined with a
+needle to produce an
+of about 25gigavolts per meter to ionize and accelerate
+nuclei into an
+deuteride target  at the estimated energy levels  the
+may occur  producing
+and a 2.45mev   although it makes a useful neutron generator  the apparatus is not intended for power generation since it requires far more energy than it produces 
+is a proposed means of generating
+by use of a combination of nuclear fusion and
+processes  the concept dates to the 1950s  and was briefly advocated by
+during the 1970s  but largely remained unexplored until a revival of interest in 2009  due to the delays in the realization of pure fusion    carried out at
+ lanl  in the mid-1970s  explored the possibility of a fusion power system that would involve exploding small
+ fusion bombs  inside an underground cavity  as an energy source  the system is the only fusion power system that could be demonstrated to work using existing technology  however it would also require a large  continuous supply of nuclear bombs  making the economics of such a system rather questionable 
+important reactions  
+astrophysical reaction chains  
+at the temperatures and densities in stellar cores the rates of fusion reactions are notoriously slow  for example  at solar core temperature  t  15mk  and density  160g cm3   the energy release rate is only 276w cm3about a quarter of the volumetric rate at which a resting human body generates heat  thus  reproduction of stellar core conditions in a lab for nuclear fusion power production is completely impractical  because nuclear reaction rates depend on density as well as temperature and most fusion scemes operate at relatively low densities  those methods are strongly dependent on higher temperatures  the fusion rate as a function of temperature  exp e kt    leads to the need to achieve temperatures in terrestrial reactors 10100 times higher temperatures and in stellar interiors  t  0.11.0109 k 
+criteria and candidates for terrestrial reactions  
+main article 
+in artificial fusion  the primary fuel is not constrained to be protons and higher temperatures can be used  so reactions with larger cross-sections are chosen  another concern is the production of neutrons  which activate the reactor structure radiologically  but also have the advantages of allowing volumetric extraction of the fusion energy and
+breeding  reactions that release no neutrons are referred to as  
+to be a useful energy source  a fusion reaction must satisfy several criteria  it must 
+be
+this limits the reactants to the low z  number of protons  side of the   it also makes helium
+the most common product because of its extraordinarily tight binding  although
+and
+also show up 
+involve low atomic number  z  nuclei
+this is because the electrostatic repulsion must be overcome before the nuclei are close enough to fuse   
+have two reactants
+at anything less than stellar densities  three body collisions are too improbable  in inertial confinement  both stellar densities and temperatures are exceeded to compensate for the shortcomings of the third parameter of the lawson criterion  icf s very short confinement time 
+have two or more products
+this allows simultaneous conservation of energy and momentum without relying on the electromagnetic force 
+conserve both protons and neutrons
+the cross sections for the weak interaction are too small 
+few reactions meet these criteria  the following are those with the largest cross sections 
+ 1 
+ 
+
+ 
+3.5
+ 
+ 
+ 
+14.1
+ 
+ 2i 
+ 
+
+ 
+1.01
+ 
+ 
+ 
+3.02
+ 
+50 
+ 2ii 
+
+ 
+0.82
+ 
+ 
+ 
+2.45
+ 
+50 
+ 3 
+ 
+
+ 
+3.6
+ 
+ 
+ 
+14.7
+ 
+ 4 
+ 
+
+ 
+2
+ 
+11.3
+ 5 
+ 
+
+ 
+2
+ 
+12.9
+ 6i 
+ 
+
+ 
+ 
+ 
+12.1
+57 
+ 6ii 
+
+ 
+4.8
+ 
+ 
+ 
+9.5
+ 
+43 
+ 7i 
+ 
+
+2
+ 
+22.4
+ 7ii 
+
+ 
+ 
+ 
+2.56
+ 7iii 
+
+ 
+ 
+5.0
+ 7iv 
+
+ 
+ 
+3.4
+ 8 
+ 
+
+ 
+1.7
+ 
+ 
+ 
+2.3
+ 
+ 9 
+ 
+
+2
+ 
+ 
+16.9
+ 10 
+ 
+
+3
+ 
+8.7
+related topics
+nuclear fusion
+for reactions with two products  the energy is divided between them in inverse proportion to their masses  as shown  in most reactions with three products  the distribution of energy varies  for reactions that can result in more than one set of products  the branching ratios are given 
+some reaction candidates can be eliminated at once  the d-6li reaction has no advantage compared to - because it is roughly as difficult to burn but produces substantially more neutrons through - side reactions  there is also a - reaction  but the cross section is far too low  except possibly when ti   1 mev  but at such high temperatures an endothermic  direct neutron-producing reaction also becomes very significant  finally there is also a - reaction  which is not only difficult to burn  but
+can be easily induced to split into two alpha particles and a neutron 
+in addition to the fusion reactions  the following reactions with neutrons are important in order to  breed  tritium in  dry  fusion bombs and some proposed fusion reactors 
+ 
+
+ 
+  4.784 mev
+ 
+
+ 
+ 
+ 2.467 mev
+the latter of the two equations was unknown when the u s  conducted the
+fusion bomb test in 1954  being just the second fusion bomb ever tested  and the first to use lithium   the designers of the castle bravo  shrimp  had understood the usefulness of lithium-6 in tritium production  but had failed to recognize that lithium-7 fission would greatly increase the yield of the bomb  while li-7 has a small neutron cross-section for low neutron energies  it has a higher cross section above 5 mev  li-7 also undergoes a chain reaction due to its release of a neutron after fissioning  the 15 mt yield was 150  greater than the predicted 6 mt and caused casualties from the fallout generated   
+to evaluate the usefulness of these reactions  in addition to the reactants  the products  and the energy released  one needs to know something about the cross section  any given fusion device has a maximum plasma pressure it can sustain  and an economical device would always operate near this maximum  given this pressure  the largest fusion output is obtained when the temperature is chosen so that  v  t2 is a maximum  this is also the temperature at which the value of the triple product nt required for
+is a minimum  since that required value is inversely proportional to  v  t2  see     a plasma is  ignited  if the fusion reactions produce enough power to maintain the temperature without external heating   this optimum temperature and the value of  v  t2 at that temperature is given for a few of these reactions in the following table 
+fuel
+t  kev 
+ v  t2  m3 s kev2 
+2
+1d-3
+1t
+13.6
+1.241024
+2
+1d-2
+1d
+15
+1.281026
+2
+1d-3
+2he
+58
+2.241026
+p -6
+3li
+66
+1.461027
+p -11
+5b
+123
+3.011027
+note that many of the reactions form chains  for instance  a reactor fueled with 3
+1t and 3
+2he creates some 2
+1d  which is then possible to use in the 2
+1d-3
+2he reaction if the energies are  right   an elegant idea is to combine the reactions  8  and  9   the 3
+2he from reaction  8  can react with 6
+3li in reaction  9  before completely thermalizing  this produces an energetic proton  which in turn undergoes reaction  8  before thermalizing  detailed analysis shows that this idea would not work well    but it is a good example of a case where the usual assumption of a
+plasma is not appropriate 
+neutronicity  confinement requirement  and power density  
+the only man-made fusion device to achieve
+to date is the     the detonation of the first device  codenamed   occurred in 1952 and is shown here 
+any of the reactions above can in principle be the basis of
+production  in addition to the temperature and cross section discussed above  we must consider the total energy of the fusion products efus  the energy of the charged fusion products ech  and the atomic number z of the non-hydrogenic reactant 
+specification of the 2
+1d-2
+1d reaction entails some difficulties  though  to begin with  one must average over the two branches  2i  and  2ii   more difficult is to decide how to treat the 3
+1t and 3
+2he products  3
+1t burns so well in a deuterium plasma that it is almost impossible to extract from the plasma  the 2
+1d-3
+2he reaction is optimized at a much higher temperature  so the burnup at the optimum 2
+1d-2
+1d temperature may be low  so it seems reasonable to assume the 3
+1t but not the 3
+2he gets burned up and adds its energy to the net reaction  thus the total reaction would be the sum of  2i    2ii   and  1  
+5
+
+  2
+ 
+    efus   4.03 17.6 3.27   24.9mev  ech   4.03 3.5 0.82   8.35mev 
+we count the 2
+1d-2
+1d fusion energy per d-d reaction  not per pair of deuterium atoms  as efus    4.03mev   17.6mev 50     3.27mev 50    12.5mev and the energy in charged particles as ech    4.03mev   3.5mev 50     0.82mev 50    4.2mev   note  if the tritium ion reacts with a deuteron while it still has a large kinetic energy  then the kinetic energy of the helium-4 produced may be quite different from 3.5 mev  so this calculation of energy in charged particles is only approximate  
+another unique aspect of the 2
+1d-2
+1d reaction is that there is only one reactant  which must be taken into account when calculating the reaction rate 
+with this choice  we tabulate parameters for four of the most important reactions
+fuel
+z
+efus  mev 
+ech  mev 
+neutronicity
+2
+1d-3
+1t
+1
+17.6
+3.5
+0.80
+2
+1d-2
+1d
+1
+12.5
+4.2
+0.66
+2
+1d-3
+2he
+2
+18.3
+18.3
+ 0.05
+p -11
+5b
+5
+8.7
+8.7
+ 0.001
+the last column is the
+of the reaction  the fraction of the fusion energy released as neutrons  this is an important indicator of the magnitude of the problems associated with neutrons like radiation damage  biological shielding  remote handling  and safety  for the first two reactions it is calculated as  efus-ech  efus  for the last two reactions  where this calculation would give zero  the values quoted are rough estimates based on side reactions that produce neutrons in a plasma in thermal equilibrium 
+of course  the reactants should also be mixed in the optimal proportions  this is the case when each reactant ion plus its associated electrons accounts for half the pressure  assuming that the total pressure is fixed  this means that density of the non-hydrogenic ion is smaller than that of the hydrogenic ion by a factor 2  z 1   therefore  the rate for these reactions is reduced by the same factor  on top of any differences in the values of  v  t2  on the other hand  because the 2
+1d-2
+1d reaction has only one reactant  its rate is twice as high as when the fuel is divided between two different hydrogenic species  thus creating a more efficient reaction 
+thus there is a  penalty  of  2  z 1   for non-hydrogenic fuels arising from the fact that they require more electrons  which take up pressure without participating in the fusion reaction   it is usually a good assumption that the electron temperature will be nearly equal to the ion temperature  some authors  however discuss the possibility that the electrons could be maintained substantially colder than the ions  in such a case  known as a  hot ion mode   the  penalty  would not apply   there is at the same time a  bonus  of a factor 2 for 2
+1d-2
+1d because each ion can react with any of the other ions  not just a fraction of them 
+we can now compare these reactions in the following table 
+fuel
+ v  t2
+penalty bonus
+reactivity
+lawson criterion
+power density  w m3 kpa2 
+relation of power density
+2
+1d-3
+1t
+1.241024
+1
+1
+1
+34
+1
+2
+1d-2
+1d
+1.281026
+2
+48
+30
+0.5
+68
+2
+1d-3
+2he
+2.241026
+2/3
+83
+16
+0.43
+80
+p -6
+3li
+1.461027
+1/2
+1700
+0.005
+6800
+p -11
+5b
+3.011027
+1/3
+1240
+500
+0.014
+2500
+the maximum value of  v  t2 is taken from a previous table  the  penalty bonus  factor is that related to a non-hydrogenic reactant or a single-species reaction  the values in the column  reactivity  are found by dividing 1.241024 by the product of the second and third columns  it indicates the factor by which the other reactions occur more slowly than the - reaction under comparable conditions  the column    weights these results with ech and gives an indication of how much more difficult it is to achieve ignition with these reactions  relative to the difficulty for the - reaction  the last column is labeled  power density  and weights the practical reactivity with efus  it indicates how much lower the fusion power density of the other reactions is compared to the - reaction and can be considered a measure of the economic potential 
+bremsstrahlung losses in quasineutral  isotropic plasmas  
+the ions undergoing fusion in many systems will essentially never occur alone but will be mixed with
+that in aggregate neutralize the ions  bulk
+and form a   the electrons will generally have a temperature comparable to or greater than that of the ions  so they will collide with the ions and emit
+radiation of 1030 kev energy  a process known as  
+the huge size of the sun and stars means that the x-rays produced in this process will not escape and will deposit their energy back into the plasma  they are said to be
+to x-rays  but any terrestrial fusion reactor will be
+for x-rays of this energy range  x-rays are difficult to reflect but they are effectively absorbed  and converted into heat  in less than mm thickness of stainless steel  which is part of a reactor s shield   this means the bremsstrahlung process is carrying energy out of the plasma  cooling it 
+the ratio of fusion power produced to x-ray radiation lost to walls is an important figure of merit  this ratio is generally maximized at a much higher temperature than that which maximizes the power density  see the previous subsection   the following table shows estimates of the optimum temperature and the power ratio at that temperature for several reactions 
+fuel
+ti  kev 
+pfusion pbremsstrahlung
+2
+1d-3
+1t
+50
+140
+2
+1d-2
+1d
+500
+2.9
+2
+1d-3
+2he
+100
+5.3
+3
+2he-3
+2he
+1000
+0.72
+p -6
+3li
+800
+0.21
+p -11
+5b
+300
+0.57
+the actual ratios of fusion to bremsstrahlung power will likely be significantly lower for several reasons  for one  the calculation assumes that the energy of the fusion products is transmitted completely to the fuel ions  which then lose energy to the electrons by collisions  which in turn lose energy by bremsstrahlung  however  because the fusion products move much faster than the fuel ions  they will give up a significant fraction of their energy directly to the electrons  secondly  the ions in the plasma are assumed to be purely fuel ions  in practice  there will be a significant proportion of impurity ions  which will then lower the ratio  in particular  the fusion products themselves must remain in the plasma until they have given up their energy  and will remain some time after that in any proposed confinement scheme  finally  all channels of energy loss other than bremsstrahlung have been neglected  the last two factors are related  on theoretical and experimental grounds  particle and energy confinement seem to be closely related  in a confinement scheme that does a good job of retaining energy  fusion products will build up  if the fusion products are efficiently ejected  then energy confinement will be poor  too 
+the temperatures maximizing the fusion power compared to the bremsstrahlung are in every case higher than the temperature that maximizes the power density and minimizes the required value of the   this will not change the optimum operating point for - very much because the bremsstrahlung fraction is low  but it will push the other fuels into regimes where the power density relative to - is even lower and the required confinement even more difficult to achieve  for - and -  bremsstrahlung losses will be a serious  possibly prohibitive problem  for -  - and - the bremsstrahlung losses appear to make a fusion reactor using these fuels with a quasineutral  isotropic plasma impossible  some ways out of this dilemma are consideredand rejectedin fundamental limitations on plasma fusion systems not in thermodynamic equilibrium  this limitation does not apply to   however  these have their own challenges to contend with 
+see also  
+references  
+shultis  j k    faw  r e   2002       p 151   
+  ck12 org  retrieved on 2012-12-19 
+bethe  hans a    bulletin of the atomic scientists  april 1950  p  99 
+    retrieved 2010-02-15 
+  iter  2014 
+moses  e  i   2009    the national ignition facility  ushering in a new age for high energy density science   phys  plasmas  16  041006    
+kramer  david  march 2011    doe looks again at inertial fusion as potential clean-energy source   physics today  64  3   26    
+atzeni  s  and meyer-ter-vehn  j   2004   chapter 1   nuclear fusion reactions  in the physics of inertial fusion  university of oxford press 
+  hyperphysics phy-astr gsu edu  retrieved on 2011-08-17 
+  fusor net  retrieved 2014-08-24 
+  clhsonline net  2012-03-23  retrieved 2014-08-24 
+  bbc news  retrieved 30 october 2014 
+schechner  sam  2008-08-18     online wsj com  retrieved 2014-08-24 
+  tidbit77 blogspot com  2010-02-09  retrieved 2014-08-24 
+park j  nebel ra  stange s  murali sk  2005    experimental observation of a periodically oscillating plasma sphere in a gridded inertial electrostatic confinement device   phys rev lett  95  1   015003         
+ the multiple ambipolar recirculating beam line experiment  poster presentation  2011 us-japan iec conference  dr  alex klein
+jones  s e   1986    muon-catalysed fusion revisited   nature  321  6066   127133       
+  main article naranjo  b   gimzewski  j k   putterman  s   2005    observation of nuclear fusion driven by a pyroelectric crystal   nature  434  7037   11151117         
+  rodan physics ucla edu  retrieved on 2011-08-17 
+8 june 2015 at the  
+schewe  phil   stein  ben  2005     physics news update  729  1   archived from
+on 12 november 2013 
+  christiansciencemonitor com  2005-06-06   retrieved on 2011-08-17 
+  msnbc  2005-04-27   retrieved on 2011-08-17 
+gerstner  e   2009    nuclear energy  the hybrid returns     460  7251   258      
+  fusedweb pppl gov  1998-11-09   retrieved on 2011-08-17 
+m  kikuchi  k  lackner   m  q  tran  2012       p 22   
+  kayelaby npl co uk  retrieved on 2012-12-19 
+rider  todd harrison  1995    fundamental limitations on plasma fusion systems not in thermodynamic equilibrium   dissertation abstracts international    phd thesis  56-07  3820    
+rostoker  norman  binderbauer  michl and qerushi  artan    fusion ps uci edu
+further reading  
+  nuclearfiles org 
+s  atzeni  j  meyer-ter-vehn  2004    nuclear fusion reactions  
+ pdf        
+g  brumfiel  22 may 2006    chaos could keep fusion under control       
+ 9 november 2006     google techtalks  archived from
+on 26 april 2007 
+a  wenisch  r  kromp  d  reinberger  november 2007  
+ pdf    
+w j  nuttall  september 2008  
+ pdf   institute of physics report   
+m  kikuchi  k  lackner   m  q  tran  2012       p 22   
+external links  
+wikimedia commons has media related to  
+a repository of documents related to nuclear power 
+-nrl fusion formulary
+organizations
+core topics
+nuclear fusion
+nuclear fusion processes and methods
+by
+spatial
+other forms
+by confinement method
+international
+americas
+asia and
+australia
+  
+    
+  
+europe
+americas
+asia and
+australia
+europe
+    
+    
+other
+laser
+americas
+asia
+europe
+non-laser
+science
+fusion
+therapy
+targeted alpha-particle
+topics
+lists
+products
+disposal
+debate
+by primary
+by
+water
+  
+none
+  
+others
+by
+other
+ physics and health 
+main articles
+nuclear fusion
+radiation and health
+related articles
+see also  the categories     and  
+fundamental concepts
+energy systems
+hydropower
+ 
+ 
+retrieved from   
+  hidden categories 

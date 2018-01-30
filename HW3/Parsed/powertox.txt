@@ -1,0 +1,71 @@
+powertox
+from wikipedia  the free encyclopedia
+jump to 					 
+power-to-x  also p2x and p2y  has two meanings  first  power-to-x refers to a number of
+    and reconversion pathways that utilize surplus   typically during periods where fluctuating
+generation exceeds load  second  power-to-x refers to conversion technologies that allow for the decoupling of power from the electricity sector for use in other sectors  such as transport or chemicals   possibly using power that has been provided by additional investments in generation  the term power-to-x is widely used in
+and may have originated there 
+the x in the terminology can refer to one of the following  power-to-  power-to-  power-to-    power-to-    power-to-    power-to-mobility  power-to-power  and power-to- 
+collectively power-to-x schemes which use surplus power fall under the heading of flexibility measures and are particularly useful in energy systems with high shares of renewable generation and or with strong
+targets  a large number of pathways and technologies are encompassed by the term  in 2016 the german government funded a 30million first-phase research project into power-to-x options 
+contents
+electricity storage concepts  
+surplus electric power can be converted to other forms of
+for storage and reconversion  direct current
+can be used to produce
+which can  in turn  be converted to
+ ch4  via   these fuels can be stored and used to produce electricity again  hours to months later  reconversion technologies include     and   power-to-power refers to the round-trip reconversion efficiency  electrolysis is expensive and power-to-gas processes need substantial full-load hours  say 30   to be economic  grid-dedicated
+is not normally considered a power-to-x concept 
+sector coupling concepts  
+hydrogen and methane can also be used as downstream   feed into the
+grid  or used to make or   alternatively they can be used as a chemical   as can
+   
+power-to-heat involves contributing to the heat sector  either by
+or via a   back-up immersion heating of both
+and
+offers a cheap way of using surplus renewable energy and will often displace carbon-intensive fossil fuels for the task 
+power-to-mobility refers to the charging of
+ ev   given the expected uptake of evs  dedicated dispatch will be required 
+see also  
+references  
+ 
+lund  peter d  lindgren  juuso  mikkola  jani  salpakari  jyri  2015    review of energy system flexibility measures to enable high levels of variable renewable electricity     45  785807    
+ 
+acatech  lepoldina  akademienunion  eds   2016  
+ pdf   berlin  germany 
+ national academy of science and engineering    retrieved 2016-06-10 
+  rwth aachen  aachen  germany  5 april 2016  retrieved 2016-06-09 
+ 
+sternberg  andr  bardow  andr  2015    power-to-what   environmental assessment of energy storage systems     8  2   389400    
+agora energiewende  2014  
+ pdf   berlin  germany  agora energiewende  retrieved 2016-04-29 
+sterner  michael  eckert  fabian  thema  martin  et al   2014     regensburg  germany  forschungsstelle fr energienetze und energiespeicher  fenes   oth regensburg  retrieved 2016-05-09 
+ausfelder  florian  beilmann  christian  bruninger  sigmar  elsen  reinhold  hauptmeier  erik  heinzel  angelika  hoer  renate  koch  wolfram  mahlendorf  falko  metzelthin  anja  reuter  martin  schiebahn  sebastian  schwab  ekkehard  schth  ferdi  stolten  detlef  temer  gisa  wagemann  kurt  ziegahn  karl-friedrich  may 2016  
+ pdf   germany  koordinierungskreis chemische energieforschung  joint working group on chemical energy research     retrieved 2016-06-09 
+knig  daniel helmut  baucks  nadine  kraaij  gerard  wrner  antje  1819 february 2014     jahrestreffen der processnet-fachgruppe energieverfahrenstechnik  karlsruhe  germany  retrieved 2016-05-09 
+foit  severin  eichel  rdiger-a  vinke  izaak c  de haart  lambertus gj  1 october 2016    power-to-syngas  an enabling technology for the transition of the energy system  production of tailored synfuels and chemicals using renewably generated electricity   angewandte chemie international edition      
+modernizing the
+proposals
+eu
+usa
+other technologies 
+concepts
+power-to-x
+policies
+related issues
+categories
+portals
+concepts
+sources
+and
+  
+ tso 
+protective
+devices
+ gfi 
+economics
+and policies
+categories
+portals
+retrieved from   
+  hidden categories 

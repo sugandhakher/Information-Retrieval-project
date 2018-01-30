@@ -1,0 +1,138 @@
+marinecurrentpower
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><p><b>Marine current power</b> is a form of <a href="/wiki/Marine_energy" title="Marine energy">marine energy</a> obtained from harnessing of the <a href="/wiki/Kinetic_energy" title="Kinetic energy">kinetic energy</a> of <a class="mw-redirect" href="/wiki/Marine_current" title="Marine current">marine currents</a>, such as the <a class="mw-redirect" href="/wiki/Gulf_stream" title="Gulf stream">Gulf stream</a>. Although not widely used at present, marine current power has an important potential for future <a href="/wiki/Electricity_generation" title="Electricity generation">electricity generation</a>. Marine currents are more predictable than <a href="/wiki/Wind_power" title="Wind power">wind</a> and <a href="/wiki/Solar_power" title="Solar power">solar power</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p>A 2006 report from <a href="/wiki/United_States" title="United States">United States</a> <a class="mw-redirect" href="/wiki/Department_of_the_Interior" title="Department of the Interior">Department of the Interior</a> estimates that capturing just <sup>1</sup>/<sub>1,000th</sub> of the available energy from the Gulf Stream would supply <a href="/wiki/Florida" title="Florida">Florida</a> with 35% of its electrical needs.<sup class="reference" id="cite_ref-doi_2-0"><a href="#cite_note-doi-2">[2]</a></sup></p>
+<p>Strong ocean currents are generated from a combination of temperature, wind, salinity, bathymetry, and the rotation of the earth. The sun acts as the primary driving force, causing winds and temperature differences. Because there are only small fluctuations in current speed and stream location with minimal changes in direction, ocean currents may be suitable locations for deploying energy extraction devices such as turbines.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Other effects such as regional differences in temperature and salinity and the <a class="mw-redirect" href="/wiki/Coriolis_effect" title="Coriolis effect">Coriolis effect</a> due to the rotation of the earth are also major inﬂuences. The <a href="/wiki/Kinetic_energy" title="Kinetic energy">kinetic energy</a> of marine currents can be converted in much the same way that a wind turbine extracts energy from the wind, using various types of open-ﬂow rotors.<sup class="reference" id="cite_ref-Marine_4-0"><a href="#cite_note-Marine-4">[4]</a></sup></p>
+<p>The potential of electric power generation from marine tidal currents is enormous. There are several factors that make electricity generation from marine currents very appealing when compared to other renewables:</p>
+<ul>
+<li>The high load factors resulting from the ﬂuid properties. The predictability of the resource, so that, unlike most of other renewables, the future availability of energy can be known and planned for.<sup class="reference" id="cite_ref-Marine_4-1"><a href="#cite_note-Marine-4">[4]</a></sup></li>
+<li>The potentially large resource that can be exploited with little environmental impact, thereby offering one of the least damaging methods for large-scale electricity generation.<sup class="reference" id="cite_ref-Fundamentals_5-0"><a href="#cite_note-Fundamentals-5">[5]</a></sup></li>
+<li>The feasibility of marine-current power installations to provide also base grid power, especially if two or more separate arrays with offset peak-ﬂow periods are interconnected.</li>
+</ul>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_experiences"><span class="tocnumber">1</span> <span class="toctext">Early experiences</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Alternative_technologies_in_marine-current-power_applications"><span class="tocnumber">2</span> <span class="toctext">Alternative technologies in marine-current-power applications</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Environmental_effects"><span class="tocnumber">3</span> <span class="toctext">Environmental effects</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Early_experiences">Early experiences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marine_current_power&amp;action=edit&amp;section=1" title="Edit section: Early experiences">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The possible use of marine currents as an energy resource began to draw attention in the mid-1970s after the ﬁrst <a href="/wiki/1973_oil_crisis" title="1973 oil crisis">oil crisis</a>. In 1974 several conceptual designs were presented at the MacArthur Workshop on Energy, and in 1976 the <a href="/wiki/General_Electric_Company_plc" title="General Electric Company plc">British General Electric Co.</a> undertook a partially government-funded study which concluded that marine current power deserved more detailed research. Soon after, the ITD-Group in UK implemented a research program involving a year performance testing of a 3-m hydroDarrieus rotor deployed at <a href="/wiki/Juba" title="Juba">Juba</a> on the <a href="/wiki/White_Nile" title="White Nile">White Nile</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2014)">citation needed</span></a></i>]</sup></p>
+<p>The 1980s saw a number of small research projects to evaluate marine current power systems. The main countries where studies were carried out were the UK, Canada, and Japan. In 1992–1993 the Tidal Stream Energy Review identiﬁed speciﬁc sites in UK waters with suitable current speed to generate up to 58 TWh/year. It conﬁrmed a total marine current power resource capable theoretically of meeting some 19% of the UK electricity demand.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2014)">citation needed</span></a></i>]</sup></p>
+<p>In 1994–1995 the EU-JOULE CENEX project identified over 100 European sites ranging from 2 to 200 km<sup>2</sup>of sea-bed area, many with power densities above 10 MW/km<sup>2</sup>. Both the UK Government and the EU have committed themselves to internationally negotiated agreements designed to combat global warming. In order to comply with such agreements, an increase in large-scale electricity generation from renewable resources will be required. Marine currents have the potential to supply a substantial share of future EU electricity needs.<sup class="reference" id="cite_ref-Marine_4-2"><a href="#cite_note-Marine-4">[4]</a></sup> The study of 106 possible sites for tidal turbines in the EU showed a total potential for power generation of about 50 TWh/year. If this resource is to be successfully utilized, the technology required could form the basis of a major new industry to produce clean power for the 21st century.<sup class="reference" id="cite_ref-Fundamentals_5-1"><a href="#cite_note-Fundamentals-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Alternative_technologies_in_marine-current-power_applications">Alternative technologies in marine-current-power applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marine_current_power&amp;action=edit&amp;section=2" title="Edit section: Alternative technologies in marine-current-power applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are several types of open-ﬂow devices that can be used in marine-current-power applications; many of them are modern descendants of the waterwheel or similar. However, the more technically sophisticated designs, derived from wind-power rotors, are the most likely to achieve enough cost-effectiveness and reliability to be practical in a massive marine-current-power future scenario. Even though there is no generally accepted term for these open-ﬂow hydro-turbines, some sources refer to them as water-current turbines. There are two main types of water current turbines that might be considered: axial-ﬂow horizontal-axis propellers (with both variable-pitch or ﬁxed-pitch), and cross-ﬂow vertical-axis Darrieus rotors. Both rotor types may be combined with any of the three main methods for supporting water-current turbines: ﬂoating moored systems, sea-bed mounted systems, and intermediate systems. Sea-bed-mounted monopile structures constitute the ﬁrst-generation marine current power systems. They have the advantage of using existing (and reliable) engineering know-how, but they are limited to relatively shallow waters (about 20 to 40 m depth).<sup class="reference" id="cite_ref-Marine_4-3"><a href="#cite_note-Marine-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="Environmental_effects">Environmental effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marine_current_power&amp;action=edit&amp;section=3" title="Edit section: Environmental effects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ocean currents are instrumental in determining the <a href="/wiki/Climate" title="Climate">climate</a> in many regions around the world. While little is known about the effects of removing ocean current <a href="/wiki/Energy" title="Energy">energy</a>, the impacts of removing current energy on the farfield environment may be a significant environmental concern. The typical <a href="/wiki/Turbine" title="Turbine">turbine</a> issues with blade strike, entanglement of marine organisms, and acoustic effects still exists; however, these may be magnified due to the presence of more diverse populations of marine organisms using ocean currents for <a href="/wiki/Animal_migration" title="Animal migration">migration</a> purposes. Locations can be further offshore and therefore require longer power cables that could affect the marine environment with electromagnetic output.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<p>The <a href="/wiki/Tethys_(database)" title="Tethys (database)">Tethys database</a> provides access to scientific literature and general information on the potential environmental effects of ocean current energy.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marine_current_power&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://science.howstuffworks.com/ocean-current4.htm" rel="nofollow">"Ocean currents"</a>. How Stuff Works. p. 4<span class="reference-accessdate">. Retrieved <span class="nowrap">2 November</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarine+current+power&amp;rft.btitle=Ocean+currents&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fscience.howstuffworks.com%2Focean-current4.htm&amp;rft.pages=4&amp;rft.pub=How+Stuff+Works&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-doi-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-doi_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web">US Department of the Interior (May 2006). <a class="external text" href="http://ocsenergy.anl.gov/documents/docs/OCS_EIS_WhitePaper_Current.pdf" rel="nofollow">"Ocean Current Energy Potential on the U.S. Outer Continental Shelf"</a> <span style="font-size:85%;">(pdf)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2 November</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarine+current+power&amp;rft.au=US+Department+of+the+Interior&amp;rft.btitle=Ocean+Current+Energy+Potential+on+the+U.S.+Outer+Continental+Shelf&amp;rft.date=2006-05&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Focsenergy.anl.gov%2Fdocuments%2Fdocs%2FOCS_EIS_WhitePaper_Current.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://tethys.pnnl.gov/" rel="nofollow">"Tethys"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarine+current+power&amp;rft.btitle=Tethys&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftethys.pnnl.gov%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Marine-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Marine_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Marine_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Marine_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Marine_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Ponta, F.L.; P.M. Jacovkis (April 2008). <a class="external text" href="http://www.sciencedirect.com/science/article/B6V4S-4P1275M-1/2/f0e0498b0df2fb4d9d08326a970d4fbe" rel="nofollow">"Marine-current power generation by diffuser-augmented floating hydro-turbines"</a>. <i>Renewable Energy</i>. <b>33</b> (4): 665–673. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1016%2Fj.renene.2007.04.008" rel="nofollow">10.1016/j.renene.2007.04.008</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-04-12</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarine+current+power&amp;rft.atitle=Marine-current+power+generation+by+diffuser-augmented+floating+hydro-turbines&amp;rft.aufirst=F.L.&amp;rft.aulast=Ponta&amp;rft.au=P.M.+Jacovkis&amp;rft.date=2008-04&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2FB6V4S-4P1275M-1%2F2%2Ff0e0498b0df2fb4d9d08326a970d4fbe&amp;rft_id=info%3Adoi%2F10.1016%2Fj.renene.2007.04.008&amp;rft.issue=4&amp;rft.jtitle=Renewable+Energy&amp;rft.pages=665-673&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=33"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Fundamentals-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fundamentals_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fundamentals_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Bahaj, A.S.; L.E. Myers (November 2003). <a class="external text" href="http://www.sciencedirect.com" rel="nofollow">"Fundamentals applicable to the utilisation of marine current turbines for energy production"</a> <span style="font-size:85%;">(Article)</span>. <i>Renewable Energy</i>. <b>28</b> (14): 2205–2211. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1016%2FS0960-1481%2803%2900103-4" rel="nofollow">10.1016/S0960-1481(03)00103-4</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-04-12</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarine+current+power&amp;rft.atitle=Fundamentals+applicable+to+the+utilisation+of+marine+current+turbines+for+energy+production&amp;rft.aufirst=A.S.&amp;rft.aulast=Bahaj&amp;rft.au=L.E.+Myers&amp;rft.date=2003-11&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com&amp;rft_id=info%3Adoi%2F10.1016%2FS0960-1481%2803%2900103-4&amp;rft.issue=14&amp;rft.jtitle=Renewable+Energy&amp;rft.pages=2205-2211&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=28"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://tethys.pnnl.gov/" rel="nofollow">"Tethys"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarine+current+power&amp;rft.btitle=Tethys&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftethys.pnnl.gov%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://tethys.pnnl.gov/wiki/index.php/Tethys_Home" rel="nofollow">"Tethys"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarine+current+power&amp;rft.btitle=Tethys&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftethys.pnnl.gov%2Fwiki%2Findex.php%2FTethys_Home&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<div aria-labelledby="Ocean_energy" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Ocean_energy" title="Template:Ocean energy"><abbr style=";;background:none transparent;border:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Ocean_energy" title="Template talk:Ocean energy"><abbr style=";;background:none transparent;border:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ocean_energy&amp;action=edit"><abbr style=";;background:none transparent;border:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Ocean_energy" style="font-size:114%"><a class="mw-redirect" href="/wiki/Ocean_energy" title="Ocean energy">Ocean energy</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Wave_power" title="Wave power">Wave power</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wave_power_in_Australia" title="Wave power in Australia">Australia</a></li>
+<li><a href="/wiki/Ocean_power_in_New_Zealand" title="Ocean power in New Zealand">New Zealand</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="5" style="width:0%;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Tidal_power_conceptual_barrage.jpg" title="Tidal power conceptual barrage"><img alt="Tidal power conceptual barrage" data-file-height="400" data-file-width="500" height="96" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidal_power_conceptual_barrage.jpg/120px-Tidal_power_conceptual_barrage.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidal_power_conceptual_barrage.jpg/180px-Tidal_power_conceptual_barrage.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidal_power_conceptual_barrage.jpg/240px-Tidal_power_conceptual_barrage.jpg 2x" width="120"/></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Tidal_power" title="Tidal power">Tidal power</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ocean_power_in_New_Zealand" title="Ocean power in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Annapolis_Royal_Generating_Station" title="Annapolis Royal Generating Station">Annapolis Royal Generating Station</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Marine current power</strong></li>
+<li><a href="/wiki/Offshore_construction" title="Offshore construction">Offshore construction</a></li>
+<li><a href="/wiki/Ocean_thermal_energy_conversion" title="Ocean thermal energy conversion">Ocean thermal energy conversion</a></li>
+<li><a href="/wiki/Osmotic_power" title="Osmotic power">Osmotic power</a></li>
+<li><a class="mw-redirect" href="/wiki/Pelamis_wave_energy_converter" title="Pelamis wave energy converter">Pelamis wave energy converter</a></li>
+<li><a href="/wiki/SDE_Sea_Waves_Power_Plant" title="SDE Sea Waves Power Plant">SDE Sea Waves Power Plant</a></li>
+<li><a href="/wiki/List_of_offshore_wind_farms" title="List of offshore wind farms">Wind power</a> (offshore)</li>
+<li><a href="/wiki/Wave_farm" title="Wave farm">Wave farm</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Ocean_energy" title="Category:Ocean energy">Ocean energy</a></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <b>Portals:</b> <a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></li>
+<li><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a></li>
+<li><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6988041-0!*!0!!en!4!* and timestamp 20161021232516 and revision id 693470208
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Marine_current_power&amp;oldid=693470208">https://en.wikipedia.org/w/index.php?title=Marine_current_power&amp;oldid=693470208</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Marine_energy" title="Category:Marine energy">Marine energy</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2014" title="Category:Articles with unsourced statements from July 2014">Articles with unsourced statements from July 2014</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

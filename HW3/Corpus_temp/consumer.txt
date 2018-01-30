@@ -1,0 +1,208 @@
+consumer
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="hatnote" role="note">This article is about consumers in social systems. For other uses, see <a class="mw-disambig" href="/wiki/Consumer_(disambiguation)" title="Consumer (disambiguation)">Consumer (disambiguation)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:People_are_buying_fruits.jpg"><img alt="" class="thumbimage" data-file-height="3116" data-file-width="4680" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/People_are_buying_fruits.jpg/220px-People_are_buying_fruits.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/People_are_buying_fruits.jpg/330px-People_are_buying_fruits.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/People_are_buying_fruits.jpg/440px-People_are_buying_fruits.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:People_are_buying_fruits.jpg" title="Enlarge"></a></div>
+Consumers buying fruit in <a href="/wiki/Nanjing" title="Nanjing">Nanjing</a>, China</div>
+</div>
+</div>
+<p>A <b>consumer</b> is a person or organization that uses <a href="/wiki/Service_(economics)" title="Service (economics)">economic services</a> or <a href="/wiki/Commodity" title="Commodity">commodities</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p>In <a href="/wiki/Economic_system" title="Economic system">economic systems</a> <i>consumers</i> are <a href="/wiki/Utility" title="Utility">utilities</a> expressed in the decision to <a href="/wiki/Trade" title="Trade">trade</a> or not.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Economics_and_marketing"><span class="tocnumber">1</span> <span class="toctext">Economics and marketing</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Law_and_politics"><span class="tocnumber">2</span> <span class="toctext">Law and politics</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Public_reaction"><span class="tocnumber">3</span> <span class="toctext">Public reaction</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Economics_and_marketing">Economics and marketing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Consumer&amp;action=edit&amp;section=1" title="Edit section: Economics and marketing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <i>consumer</i> is the one who pays to consume goods and services produced. As such, <i>consumers</i> play a vital role in the <a href="/wiki/Economic_system" title="Economic system">economic system</a> of a <a href="/wiki/Nation" title="Nation">nation</a>. Without consumer <a href="/wiki/Demand" title="Demand">demand</a>, <a href="/wiki/Production_(economics)" title="Production (economics)">producers</a> would lack one of the key motivations to produce: <a href="/wiki/Sales" title="Sales">to sell</a> to consumers. The <i>consumer</i> also forms part of the <a href="/wiki/Distribution_(economics)" title="Distribution (economics)">chain of distribution</a>.</p>
+<p>Recently in <a href="/wiki/Marketing" title="Marketing">marketing</a> instead of marketers generating broad <a href="/wiki/Demographic_profile" title="Demographic profile">demographic profiles</a> and Fisio-graphic profiles of <a href="/wiki/Market_segmentation" title="Market segmentation">market segments</a>, marketers have started to engage in <a href="/wiki/Personalized_marketing" title="Personalized marketing">personalized marketing</a>, <a href="/wiki/Permission_marketing" title="Permission marketing">permission marketing</a>, and <a href="/wiki/Mass_customization" title="Mass customization">mass customization</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Largely due the rise of the <a href="/wiki/Internet" title="Internet">Internet</a>, consumers are shifting more and more towards becoming "<a href="/wiki/Prosumer" title="Prosumer">prosumers</a>" – consumers that are also producers (often of information and media on the <a href="/wiki/Social_web" title="Social web">social web</a>) or influence the products created (e.g. by customization, <a href="/wiki/Crowdfunding" title="Crowdfunding">crowdfunding</a> or publishing their preferences) or actively participate in the production process or use interactive products.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Law_and_politics">Law and politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Consumer&amp;action=edit&amp;section=2" title="Edit section: Law and politics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The law primarily uses the notion of the consumer in relation to <a href="/wiki/Consumer_protection" title="Consumer protection">consumer protection</a> laws, and the definition of consumer is often restricted to living persons (i.e. not corporations or businesses) and excludes commercial users.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> A typical legal rationale for protecting the consumer is based on the notion of policing market failures and inefficiencies, such as inequalities of bargaining power between a consumer and a business.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> As of all potential voters are also consumers, consumer protection takes on a clear political significance.</p>
+<p>Concern over the interests of consumers has also spawned activism, as well as incorporation of consumer education into school curricula.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2010)">citation needed</span></a></i>]</sup> There are also various non-profit publications, such as <i><a href="/wiki/Which%3F" title="Which?">Which?</a></i>, <i><a href="/wiki/Consumer_Reports" title="Consumer Reports">Consumer Reports</a></i> and <i><a class="mw-redirect" href="/wiki/Choice_Magazine" title="Choice Magazine">Choice Magazine</a></i>, dedicated to assist in consumer education and decision making.</p>
+<p>In India, <a href="/wiki/Consumer_Protection_Act,_1986" title="Consumer Protection Act, 1986">the Consumer Protection Act 1986</a> differentiates the consummation of a commodity or service for personal use or to earn a livelihood. Only consumers are protected per this act and any person, entity or organization purchasing a commodity for commercial reasons are exempted from any benefits of this act.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></p>
+<h2><span class="mw-headline" id="Public_reaction">Public reaction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Consumer&amp;action=edit&amp;section=3" title="Edit section: Public reaction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>While use of the term <i>consumer</i> is widespread among governmental, business and media organisations, many individuals and groups find the label objectionable because it assigns a limited and passive role to their activities.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Consumer&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul>
+<li><a href="/wiki/Alpha_consumer" title="Alpha consumer">Alpha consumer</a></li>
+<li><a href="/wiki/Consumer_debt" title="Consumer debt">Consumer debt</a></li>
+<li><a href="/wiki/Consumer_leverage_ratio" title="Consumer leverage ratio">Consumer leverage ratio</a></li>
+<li><a class="mw-redirect" href="/wiki/Consumer_theory" title="Consumer theory">Consumer theory</a></li>
+<li><a href="/wiki/Consumerism" title="Consumerism">Consumerism</a></li>
+<li><a class="mw-redirect" href="/wiki/Consumers%27_cooperative" title="Consumers' cooperative">Consumers' cooperative</a></li>
+<li><a href="/wiki/Consumption_(economics)" title="Consumption (economics)">Consumption</a></li>
+<li><a href="/wiki/Coolhunting" title="Coolhunting">Coolhunting</a></li>
+<li><a href="/wiki/Mass_customization" title="Mass customization">Mass customization</a></li>
+<li><a href="/wiki/Media_consumption" title="Media consumption">Media consumption</a></li>
+<li><a href="/wiki/Mental_health_consumer" title="Mental health consumer">Mental health consumer</a></li>
+<li><a class="mw-redirect" href="/wiki/Consumer_reporting_agency" title="Consumer reporting agency">Consumer reporting agency</a></li>
+<li><a href="/wiki/Consumer_protection" title="Consumer protection">Consumer protection</a></li>
+<li><a href="/wiki/Consumer_organization" title="Consumer organization">Consumer organization</a></li>
+<li><a href="/wiki/Consumer_Direct" title="Consumer Direct">Consumer Direct</a></li>
+<li><a href="/wiki/National_Consumer_Agency" title="National Consumer Agency">National Consumer Agency</a> (NCA)</li>
+<li><a href="/wiki/Informed_consumer" title="Informed consumer">Informed consumer</a></li>
+<li><a class="mw-redirect" href="/wiki/Perplexity_consumer" title="Perplexity consumer">Perplexity consumer</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Consumer&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://dictionary.reference.com/browse/consumer" rel="nofollow">"Consumer - Define Consumer at Dictionary.com"</a>. <i>Dictionary.com</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumer&amp;rft.atitle=Consumer+-+Define+Consumer+at+Dictionary.com&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdictionary.reference.com%2Fbrowse%2Fconsumer&amp;rft.jtitle=Dictionary.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Cross, Robert G. (1997). <i>Revenue management: hard-core tactics for market domination</i>. Broadway Books. pp. 66–71. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-553-06734-7" title="Special:BookSources/978-0-553-06734-7">978-0-553-06734-7</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumer&amp;rft.aufirst=Robert+G.&amp;rft.aulast=Cross&amp;rft.btitle=Revenue+management%3A+hard-core+tactics+for+market+domination&amp;rft.date=1997&amp;rft.genre=book&amp;rft.isbn=978-0-553-06734-7&amp;rft.pages=66-71&amp;rft.pub=Broadway+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Gunelius, Susan (3 July 2010). <a class="external text" href="http://www.forbes.com/sites/work-in-progress/2010/07/03/the-shift-from-consumers-to-prosumers/" rel="nofollow">"The Shift from CONsumers to PROsumers"</a>. Forbes<span class="reference-accessdate">. Retrieved <span class="nowrap">2 July</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumer&amp;rft.aufirst=Susan&amp;rft.aulast=Gunelius&amp;rft.btitle=The+Shift+from+CONsumers+to+PROsumers&amp;rft.date=2010-07-03&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fwork-in-progress%2F2010%2F07%2F03%2Fthe-shift-from-consumers-to-prosumers%2F&amp;rft.pub=Forbes&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Scammell, Margaret. <a class="external text" href="https://depts.washington.edu/gcp/pdf/citizenconsumers.pdf" rel="nofollow">"Citizen Consumers: towards a new marketing of politics?"</a> <span style="font-size:85%;">(PDF)</span>. p. 6<span class="reference-accessdate">. Retrieved <span class="nowrap">2 July</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumer&amp;rft.aufirst=Margaret&amp;rft.aulast=Scammell&amp;rft.btitle=Citizen+Consumers%3A+towards+a+new+marketing+of+politics%3F&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fdepts.washington.edu%2Fgcp%2Fpdf%2Fcitizenconsumers.pdf&amp;rft.pages=6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book"><a class="external text" href="https://books.google.de/books?id=P5j_MTL7AZQC&amp;pg=PA73" rel="nofollow"><i>Prosumer Revisited</i></a><span class="reference-accessdate">. Retrieved <span class="nowrap">2 July</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumer&amp;rft.btitle=Prosumer+Revisited&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.de%2Fbooks%3Fid%3DP5j_MTL7AZQC%26pg%3DPA73&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Krohn, Lauren (1995). <i>Consumer protection and the law: a dictionary</i>. ABC-CLIO. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-87436-749-2" title="Special:BookSources/978-0-87436-749-2">978-0-87436-749-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumer&amp;rft.au=Krohn%2C+Lauren&amp;rft.btitle=Consumer+protection+and+the+law%3A+a+dictionary&amp;rft.date=1995&amp;rft.genre=book&amp;rft.isbn=978-0-87436-749-2&amp;rft.pub=ABC-CLIO&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20070302211417/http://law.vanderbilt.edu/journals/journal/35-01/overby.htm" rel="nofollow">"An Institutional Analysis of Consumer Law"</a>. Vanderbilt Journal of Transnational Law. Archived from <a class="external text" href="http://law.vanderbilt.edu/journals/journal/35-01/overby.htm" rel="nofollow">the original</a> on March 2, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-01-29</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumer&amp;rft.btitle=An+Institutional+Analysis+of+Consumer+Law&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Flaw.vanderbilt.edu%2Fjournals%2Fjournal%2F35-01%2Foverby.htm&amp;rft.pub=Vanderbilt+Journal+of+Transnational+Law&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.consumerdaddy.com/a-23-consumer-customer.htm" rel="nofollow">"Consumer vs Customer"</a>. Consumerdaddy.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-03-10</span></span>. <q>The consumer protection act 1986 of India, is a little more generous with the word 'Consumer'. According to this law, consumer is not only a person who uses the product for domestic personal use, but also one who uses the product to earn his daily livelyhood.</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumer&amp;rft.btitle=Consumer+vs+Customer&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.consumerdaddy.com%2Fa-23-consumer-customer.htm&amp;rft.pub=Consumerdaddy.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.gnu.org/philosophy/words-to-avoid.html#Consumer" rel="nofollow">"Words to Avoid (or Use with Care). Because They Are Loaded or Confusing"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-18</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumer&amp;rft.btitle=Words+to+Avoid+%28or+Use+with+Care%29.+Because+They+Are+Loaded+or+Confusing&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.gnu.org%2Fphilosophy%2Fwords-to-avoid.html%23Consumer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.mail-archive.com/www-archive@w3.org/msg04217.html" rel="nofollow">"Quotes on being a "Consumer<span style="padding-right:0.2em;">"</span>"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-18</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumer&amp;rft.btitle=Quotes+on+being+a+%22Consumer%22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.mail-archive.com%2Fwww-archive%40w3.org%2Fmsg04217.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://chrisstephenson.typepad.com/chrisstephenson/2009/07/consumer-i-hate-the-word-why-mediation-is-adding-its-voice-to-the-call-for-a-banning-of-the-word-con.html" rel="nofollow">"Consumer. I hate the word: why Mediation is adding it's voice to the call for a banning of the word Consumer"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-18</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumer&amp;rft.btitle=Consumer.+I+hate+the+word%3A+why+Mediation+is+adding+it%27s+voice+to+the+call+for+a+banning+of+the+word+Consumer&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fchrisstephenson.typepad.com%2Fchrisstephenson%2F2009%2F07%2Fconsumer-i-hate-the-word-why-mediation-is-adding-its-voice-to-the-call-for-a-banning-of-the-word-con.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Consumer&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a class="image" href="/wiki/File:Wikibooks-logo-en-noslogan.svg"><img alt="" class="noviewer" data-file-height="400" data-file-width="400" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/60px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/80px-Wikibooks-logo-en-noslogan.svg.png 2x" width="40"/></a></td>
+<td class="mbox-text plainlist">Wikibooks has a book on the topic of: <i><b><a class="extiw" href="//en.wikibooks.org/wiki/Category:Consumer" title="wikibooks:Category:Consumer">Category:Consumer</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.ncpw.gov" rel="nofollow">U.S. Government National Consumer Protection Week</a></li>
+</ul>
+<div aria-labelledby="Consumerism" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Consumerism" title="Template:Consumerism"><abbr style=";;background:none transparent;border:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Consumerism" title="Template talk:Consumerism"><abbr style=";;background:none transparent;border:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Consumerism&amp;action=edit"><abbr style=";;background:none transparent;border:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Consumerism" style="font-size:114%"><a href="/wiki/Consumerism" title="Consumerism">Consumerism</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>the philosophy of and activism for <a href="/wiki/Consumer_protection" title="Consumer protection">consumer protection</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Concepts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Consumerism" title="Consumerism">Consumerism</a></li>
+<li><a href="/wiki/Consumer_protection" title="Consumer protection">Consumer protection</a></li>
+<li><strong class="selflink">Consumer</strong></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Consumer_capitalism" title="Consumer capitalism">Consumer capitalism</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical consumerism</a></li>
+<li><a href="/wiki/Consumer_privacy" title="Consumer privacy">Consumer privacy</a></li>
+<li><a href="/wiki/Informed_consumer" title="Informed consumer">Informed consumer</a></li>
+<li><a href="/wiki/Consumer_revolution" title="Consumer revolution">Consumer revolution</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Activism</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Consumer_movement" title="Consumer movement">Consumer movement</a></li>
+<li><a href="/wiki/Consumer_activism" title="Consumer activism">Consumer activism</a></li>
+<li><a href="/wiki/Consumer_education" title="Consumer education">Consumer education</a></li>
+<li><a href="/wiki/United_Nations_Guidelines_for_Consumer_Protection" title="United Nations Guidelines for Consumer Protection">United Nations Guidelines for Consumer Protection</a></li>
+<li><a href="/wiki/Consumer_Bill_of_Rights" title="Consumer Bill of Rights">Consumer Bill of Rights</a></li>
+<li><a href="/wiki/Consumer_complaint" title="Consumer complaint">Consumer complaint</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Fields of study</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Euthenics" title="Euthenics">Euthenics</a></li>
+<li><a href="/wiki/Home_economics" title="Home economics">Home economics</a></li>
+<li><a href="/wiki/Consumer_math" title="Consumer math">Consumer math</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Key players</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_consumer_organizations" title="List of consumer organizations">List of consumer organizations</a></li>
+<li><a href="/wiki/Consumer_organization" title="Consumer organization">Consumer organization</a></li>
+<li><a class="mw-redirect mw-disambig" href="/wiki/Consumers%27_Association_(disambiguation)" title="Consumers' Association (disambiguation)">Consumers' Association</a></li>
+<li><a href="/wiki/Ellen_Swallow_Richards" title="Ellen Swallow Richards">Ellen Swallow Richards</a></li>
+<li><a href="/wiki/Ralph_Nader" title="Ralph Nader">Ralph Nader</a></li>
+<li><a href="/wiki/Esther_Peterson" title="Esther Peterson">Esther Peterson</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="http://d-nb.info/gnd/4062632-5" rel="nofollow">4062632-5</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="http://id.ndl.go.jp/auth/ndlna/00572062" rel="nofollow">00572062</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:7818-0!*!0!!en!4!* and timestamp 20161109002324 and revision id 748581112
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Consumer&amp;oldid=748581112">https://en.wikipedia.org/w/index.php?title=Consumer&amp;oldid=748581112</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Consumer" title="Category:Consumer">Consumer</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2010" title="Category:Articles with unsourced statements from March 2010">Articles with unsourced statements from March 2010</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

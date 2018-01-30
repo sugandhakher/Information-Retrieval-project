@@ -1,0 +1,47 @@
+marginalabatementcost
+from wikipedia  the free encyclopedia
+jump to 					 
+part of
+about
+concepts
+policies
+dynamics
+marginal abatement cost
+carbon related
+abatement cost is the cost of reducing environmental negatives such as pollution  marginal cost is an economic concept that measures the cost of an additional unit  the marginal abatement cost  mac   in general  measures the cost of reducing one more unit of pollution 
+although marginal abatement costs can be negative  such as when the low carbon option is cheaper than the business-as-usual option  macs often rise steeply as more pollution is reduced 
+marginal abatement costs are typically used on a marginal abatement cost curve or mac curve  which shows the marginal cost of additional reductions in pollution 
+contents
+usage  
+carbon traders use mac curves to derive the supply function for modelling carbon price fundamentals  power companies may employ mac curves to guide their decisions about long-term capital investment strategies to select among a variety of efficiency and generation options  economists have used mac curves to explain the economics of interregional carbon trading  policy-makers use mac curves as
+curves  to analyze how much abatement can be done in an economy at what cost  and where policy should be directed to achieve the emission reductions 
+however  mac curves should not be used as abatement supply curves  or
+curves  to decide which measures to implement in order to achieve a given emission-reduction target  indeed  the options they list would take decades to implement  and it may be optimal to implement expensive but high-potential measures before introducing cheaper measures 
+criticism  
+the way that mac curves are usually built has been criticized for lack of transparency and the poor treatment it makes of uncertainty  inter-temporal dynamics  interactions between sectors and ancillary benefits 
+examples of existing mac curves  
+various economists  research organizations  and consultancies have produced mac curves  bloomberg new energy finance and
+have produced economy wide analyses on greenhouse gas emissions reductions for the  
+produced a california specific curve following
+legislation as have sweeney and weyant 
+the
+produced several marginal abatement cost curves for germany  also called cost potential curves   depending on the perspective  end-user  utilities  society  
+the us
+has done work on a mac curve for non carbon dioxide emissions such as methane  n2o  and hfcs  enerdata and lepii-cnrs  france  produce mac curves with the
+model for the 6 kyoto protocol gases  these curves have been used for various public and private actors either to assess carbon policies
+or through the use of a carbon market analysis tool 
+the world bank 2013 low-carbon energy development plan for nigeria  prepared jointly with the   ulitizes mac curves created in  
+see also  
+references  
+ pdf   retrieved 2013-03-08 
+ vogt-schilb  a  and hallegatte  s   2014  marginal abatement cost curves and the optimal timing of mitigation measures    energy policy  66  645653    
+ marginal abatement cost curves  a call for caution   climate policy  12  219236    
+ pdf   retrieved 2013-03-08 
+  epa gov  2010-11-17  retrieved 2013-03-08 
+  enerdata net  retrieved 2013-03-08 
+impacts of multi-gas strategies for greenhouse gas emissions abatement  insights from a partial equilibirum model  criqui p   russ p   deybe d   in the energy journal  special issue  multi-greenhouse gas mitigation and climate policy  2007
+  enerdata net  retrieved 2013-03-08 
+low-carbon development  opportunities for nigeria  editors  raffaello cervigni  john allen rogers  and max henrion  no 15812 in world bank publications  january 2013  186p 
+  lumina decision systems  retrieved 2015-01-27 
+retrieved from   
+ 

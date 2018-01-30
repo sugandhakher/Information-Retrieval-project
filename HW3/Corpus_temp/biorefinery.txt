@@ -1,0 +1,245 @@
+biorefinery
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><p>A <b>biorefinery</b> is a facility that integrates biomass conversion processes and equipment to produce fuels, power, heat, and value-added chemicals from <a href="/wiki/Biomass" title="Biomass">biomass</a>. The biorefinery concept is analogous to today's <a class="mw-redirect" href="/wiki/Petroleum_refinery" title="Petroleum refinery">petroleum refinery</a>, which produce multiple fuels and products from <a href="/wiki/Petroleum" title="Petroleum">petroleum</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p>The <a href="/wiki/International_Energy_Agency" title="International Energy Agency">International Energy Agency</a> Bioenergy Task 42 on Biorefineries has defined biorefining as the sustainable processing of biomass into a spectrum of bio-based products (food, feed, chemicals, materials) and bioenergy (biofuels, power and/or heat).</p>
+<p>By producing multiple products, a biorefinery takes advantage of the various components in biomass and their intermediates therefore maximizing the value derived from the biomass feedstock. A biorefinery could, for example, produce one or several low-volume, but high-value, chemical or <a href="/wiki/Nutraceutical" title="Nutraceutical">nutraceutical</a> products and a low-value, but high-volume liquid transportation fuel such as <a href="/wiki/Biodiesel" title="Biodiesel">biodiesel</a> or <a class="mw-redirect" href="/wiki/Bioethanol" title="Bioethanol">bioethanol</a> (see also <a href="/wiki/Alcohol_fuel" title="Alcohol fuel">alcohol fuel</a>).<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> At the same time generating electricity and process heat, through <a class="mw-redirect" href="/wiki/Combined_heat_and_power" title="Combined heat and power">combined heat and power</a> (CHP) technology, for its own use and perhaps enough for sale of electricity to the local utility. The high-value products increase profitability, the high-volume fuel helps meet energy needs, and the power production helps to lower energy costs and reduce <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">greenhouse gas</a> emissions from traditional power plant facilities. Although some facilities exist that can be called bio-refineries, the bio-refinery has yet to be fully realized. Future biorefineries may play a major role in producing chemicals and materials that are traditionally produced from <a href="/wiki/Petroleum" title="Petroleum">petroleum</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Examples"><span class="tocnumber">1</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biorefinery&amp;action=edit&amp;section=1" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The fully operational <a href="/wiki/Blue_Marble_Energy" title="Blue Marble Energy">Blue Marble Energy</a> company has multiple biorefineries located in Odessa, WA and Missoula, MT.</p>
+<p>Canada's first Integrated Biorefinery, developed on anaerobic digestion technology by <a href="/wiki/Himark_BioGas" title="Himark BioGas">Himark BioGas</a> is located in <a class="mw-redirect" href="/wiki/Hairy_Hill,_Alberta" title="Hairy Hill, Alberta">Hairy Hill, Alberta</a>. The Biorefinery utilizes Source Separated Organics from the metro <a href="/wiki/Edmonton" title="Edmonton">Edmonton</a> region, Open Pen Feedlot Manure, and Food Processing Waste.</p>
+<p>Several potential biorefinery examples have been proposed, starting from feedstocks such as <a href="/wiki/Tobacco" title="Tobacco">tobacco</a>, <a href="/wiki/Flax" title="Flax">flax</a> <a href="/wiki/Straw" title="Straw">straw</a> and the residues from the production of <a class="mw-redirect" href="/wiki/Bioethanol" title="Bioethanol">bioethanol</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<p><a href="/wiki/Chemrec" title="Chemrec">Chemrec's</a> technology for <a href="/wiki/Black_liquor" title="Black liquor">black liquor</a> <a href="/wiki/Gasification" title="Gasification">gasification</a> and production of <a href="/wiki/Second-generation_biofuels" title="Second-generation biofuels">second-generation biofuels</a> such as <a class="mw-redirect" href="/wiki/Biomethanol" title="Biomethanol">biomethanol</a> or Bio<a href="/wiki/Dimethyl_ether" title="Dimethyl ether">DME</a> is integrated with a host <a href="/wiki/Pulp_mill" title="Pulp mill">pulp mill</a> and utilizes a major <a class="mw-redirect" href="/wiki/Sulfate_process" title="Sulfate process">sulfate</a> or <a href="/wiki/Sulfite_process" title="Sulfite process">sulfite process</a> waste product as feedstock.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biorefinery&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Wind-turbine-icon.svg"><img alt="icon" class="noviewer" data-file-height="128" data-file-width="128" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" width="28"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Crystal_energy.svg"><img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuels</a></li>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Bioplastic" title="Bioplastic">Bioplastic</a></li>
+<li><a href="/wiki/Carbon_neutrality" title="Carbon neutrality">Carbon neutrality</a></li>
+<li><a class="mw-redirect" href="/wiki/Combined_heat_and_power" title="Combined heat and power">Combined heat and power</a> (CHP)</li>
+<li><a href="/wiki/Gasification" title="Gasification">Gasification</a></li>
+<li><a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">Renewable energy commercialization</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biorefinery&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Dr W J Smith, Tamutech Consultancy. <a class="external text" href="http://www.nnfcc.co.uk/tools/mapping-the-development-of-uk-biorefinery-complexes-nnfcc-07-008" rel="nofollow">Mapping the Development of UK Biorefinery Complexes</a>, NNFCC, 2007-06-20. Retrieved on 2011-02-16.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="mw-redirect" href="/wiki/National_Non-Food_Crops_Centre" title="National Non-Food Crops Centre">National Non-Food Crops Centre</a>. <a class="external text" href="http://www.nnfcc.co.uk/tools/the-biorefinery-opportunity-a-north-east-england-view-nnfcc-08-001" rel="nofollow">The Biorefinery Opportunity - A North East England view, NNFCC 08-001</a>, NNFCC, 2008-06-28. Retrieved on 2011-02-16.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Cedric Briens, Jan Piskorz and Franco Berruti, "Biomass Valorization for Fuel and Chemicals Production -- A Review," 2008. International Journal of Chemical Reactor Engineering, 6, R2</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.forestencyclopedia.net/p/p1204" rel="nofollow">Forest Encyclopedia Network</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biorefinery&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://news.uns.purdue.edu/x/2007a/070201LadischBio.html" rel="nofollow">Tactical Biorefinery</a></li>
+<li><a class="external text" href="http://www.green-sugar.eu" rel="nofollow">Saccharification</a></li>
+<li><a class="external text" href="http://www.biosynergy.eu" rel="nofollow">Biosynergy</a></li>
+<li><a class="external text" href="http://www.algae.wur.nl/UK/technologies/biorefinery/" rel="nofollow">Biorefinery from biomass</a></li>
+<li><a class="external text" href="http://www.wisbiorefine.org/proc/apr.pdf" rel="nofollow">Aqueous-Phase Reforming</a>.</li>
+<li><a class="external text" href="http://www.wisbiorefine.org/" rel="nofollow">Wisconsin Biorefining Development Initiative</a>.</li>
+<li><a class="external text" href="http://www.youtube.com/watch?v=xL_fVnKYjrg&amp;feature=related" rel="nofollow">Biorefinery Film</a></li>
+<li><a class="external text" href="http://www.bluemarbleenergy.net" rel="nofollow">Active Biorefinery Facilities</a></li>
+</ul>
+<div aria-labelledby="Bioenergy" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Bioenergy" title="Template:Bioenergy"><abbr style=";;background:none transparent;border:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Bioenergy" title="Template talk:Bioenergy"><abbr style=";;background:none transparent;border:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Bioenergy&amp;action=edit"><abbr style=";;background:none transparent;border:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Bioenergy" style="font-size:114%"><a href="/wiki/Bioenergy" title="Bioenergy">Bioenergy</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Category:Biofuels" title="Category:Biofuels">Biofuels</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alcohol" title="Alcohol">Alcohol</a></li>
+<li><a href="/wiki/Algae_fuel" title="Algae fuel">Algae fuel</a></li>
+<li><a href="/wiki/Bagasse" title="Bagasse">Bagasse</a></li>
+<li><a href="/wiki/Babassu_oil" title="Babassu oil">Babassu oil</a></li>
+<li><a href="/wiki/Butanol_fuel" title="Butanol fuel">Biobutanol</a></li>
+<li><a href="/wiki/Biodiesel" title="Biodiesel">Biodiesel</a></li>
+<li><a href="/wiki/Biogas" title="Biogas">Biogas</a></li>
+<li><a href="/wiki/Biogasoline" title="Biogasoline">Biogasoline</a></li>
+<li><a href="/wiki/Corn_stover" title="Corn stover">Corn stover</a></li>
+<li><a href="/wiki/Ethanol_fuel" title="Ethanol fuel">Ethanol</a>
+<ul>
+<li><a href="/wiki/Cellulosic_ethanol" title="Cellulosic ethanol">cellulosic</a></li>
+<li><a href="/wiki/Common_ethanol_fuel_mixtures" title="Common ethanol fuel mixtures">mixtures</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Methanol_fuel" title="Methanol fuel">Methanol</a></li>
+<li><a href="/wiki/Stover" title="Stover">Stover</a>
+<ul>
+<li><a href="/wiki/Corn_stover" title="Corn stover">Corn stover</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Straw" title="Straw">Straw</a></li>
+<li><a href="/wiki/Cooking_oil" title="Cooking oil">Cooking oil</a>
+<ul>
+<li><a href="/wiki/Vegetable_oil_fuel" title="Vegetable oil fuel">Vegetable oil</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Eichhornia_crassipes#Bioenergy" title="Eichhornia crassipes">Water hyacinth</a></li>
+<li><a href="/wiki/Wood_gas" title="Wood gas">Wood gas</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Sugarcane_field.jpg"><img alt="Sugarcane field.jpg" data-file-height="2790" data-file-width="1848" height="181" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sugarcane_field.jpg/120px-Sugarcane_field.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sugarcane_field.jpg/180px-Sugarcane_field.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sugarcane_field.jpg/240px-Sugarcane_field.jpg 2x" width="120"/></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Category:Energy_crops" title="Category:Energy crops">Energy from<br/>
+foodstock</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barley" title="Barley">Barley</a></li>
+<li><a href="/wiki/Cassava" title="Cassava">Cassava</a></li>
+<li><a href="/wiki/Grape" title="Grape">Grape</a></li>
+<li><a href="/wiki/Hemp" title="Hemp">Hemp</a></li>
+<li><a href="/wiki/Maize" title="Maize">Maize</a></li>
+<li><a href="/wiki/Oat" title="Oat">Oat</a></li>
+<li><a href="/wiki/Palm_oil" title="Palm oil">Palm oil</a></li>
+<li><a href="/wiki/Potato" title="Potato">Potato</a></li>
+<li><a href="/wiki/Rapeseed" title="Rapeseed">Rapeseed</a></li>
+<li><a href="/wiki/Rice" title="Rice">Rice</a></li>
+<li><i><a href="/wiki/Sorghum_bicolor" title="Sorghum bicolor">Sorghum bicolor</a></i></li>
+<li><a href="/wiki/Soybean" title="Soybean">Soybean</a></li>
+<li><a href="/wiki/Sugarcane" title="Sugarcane">Sugarcane</a></li>
+<li><a href="/wiki/Sugar_beet" title="Sugar beet">Sugar beet</a></li>
+<li><a class="mw-redirect" href="/wiki/Sunflower" title="Sunflower">Sunflower</a></li>
+<li><a href="/wiki/Wheat" title="Wheat">Wheat</a></li>
+<li><a href="/wiki/Yam_(vegetable)" title="Yam (vegetable)">Yam</a></li>
+<li><i><a href="/wiki/Camelina_sativa#Biodiesel_and_jet_fuel" title="Camelina sativa">Camelina sativa</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Category:Non-food_crops" title="Category:Non-food crops">Non-food<br/>
+energy crops</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Arundo" title="Arundo">Arundo</a></i></li>
+<li><a href="/wiki/Andropogon_gerardi" title="Andropogon gerardi">Big bluestem</a></li>
+<li><i><a href="/wiki/Camelina" title="Camelina">Camelina</a></i></li>
+<li><a href="/wiki/Triadica_sebifera" title="Triadica sebifera">Chinese tallow</a></li>
+<li><a href="/wiki/Lemnoideae" title="Lemnoideae">Duckweed</a></li>
+<li><i><a href="/wiki/Jatropha_curcas" title="Jatropha curcas">Jatropha curcas</a></i></li>
+<li><i><a href="/wiki/Millettia_pinnata" title="Millettia pinnata">Millettia pinnata</a></i></li>
+<li><i><a href="/wiki/Miscanthus_giganteus" title="Miscanthus giganteus">Miscanthus giganteus</a></i></li>
+<li><a href="/wiki/Panicum_virgatum" title="Panicum virgatum">Switchgrass</a></li>
+<li><a href="/wiki/Wood_fuel" title="Wood fuel">Wood fuel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Technology</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bio-energy_with_carbon_capture_and_storage" title="Bio-energy with carbon capture and storage">BECCS</a></li>
+<li><a href="/wiki/Bioconversion_of_biomass_to_mixed_alcohol_fuels" title="Bioconversion of biomass to mixed alcohol fuels">Bioconversion</a></li>
+<li><a href="/wiki/Biomass_heating_system" title="Biomass heating system">Biomass heating systems</a></li>
+<li><strong class="selflink">Biorefinery</strong></li>
+<li><a href="/wiki/Fischer%E2%80%93Tropsch_process" title="Fischer–Tropsch process">Fischer–Tropsch process</a></li>
+<li><a class="mw-redirect" href="/wiki/Industrial_biotechnology" title="Industrial biotechnology">Industrial biotechnology</a></li>
+<li><a href="/wiki/Pellet_fuel" title="Pellet fuel">Pellets</a>
+<ul>
+<li><a href="/wiki/Pellet_mill" title="Pellet mill">mill</a></li>
+<li><a href="/wiki/Pellet_stove" title="Pellet stove">stove</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Thermal_depolymerization" title="Thermal depolymerization">Thermal depolymerization</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Concepts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cellulosic_ethanol_commercialization" title="Cellulosic ethanol commercialization">Cellulosic ethanol commercialization</a></li>
+<li><a href="/wiki/Energy_content_of_biofuel" title="Energy content of biofuel">Energy content of biofuel</a></li>
+<li><a href="/wiki/Energy_crop" title="Energy crop">Energy crop</a></li>
+<li><a href="/wiki/Energy_forestry" title="Energy forestry">Energy forestry</a></li>
+<li><a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">EROEI</a></li>
+<li><a href="/wiki/Food_vs._fuel" title="Food vs. fuel">Food vs. fuel</a></li>
+<li><a href="/wiki/Issues_relating_to_biofuels" title="Issues relating to biofuels">Issues</a></li>
+<li><a href="/wiki/Sustainable_biofuel" title="Sustainable biofuel">Sustainable biofuel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="http://d-nb.info/gnd/7742513-3" rel="nofollow">7742513-3</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1637397-0!*!0!!en!4!* and timestamp 20161026221427 and revision id 668377091
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Biorefinery&amp;oldid=668377091">https://en.wikipedia.org/w/index.php?title=Biorefinery&amp;oldid=668377091</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Biofuels_technology" title="Category:Biofuels technology">Biofuels technology</a></li><li><a href="/wiki/Category:Oil_refineries" title="Category:Oil refineries">Oil refineries</a></li><li><a href="/wiki/Category:Sustainable_technologies" title="Category:Sustainable technologies">Sustainable technologies</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

@@ -1,0 +1,255 @@
+alternativefuel
+from wikipedia  the free encyclopedia
+jump to 					 
+typical
+filling station with four alternative fuels for sale 
+ b3  
+ e25   neat
+    and
+ cng       brazil 
+alternative fuels  known as non-conventional or advanced   are any materials or
+that can be used as   other than conventional fuels like 
+   oil     and    as well as nuclear materials such as
+and   as well as artificial
+fuels that are made in nuclear reactors 
+some well-known alternative
+include  
+        chemically stored
+ batteries and      non-fossil   non-fossil    
+and other
+sources 
+contents
+background  
+the main purpose of fuel is to store energy  which should be in a stable form and can be easily transported to the place of use 
+almost all fuels are chemical fuels  the user employs this fuel to generate heat or perform mechanical work  such as powering an engine  it may also be used to generate electricity  which is then used for heating  lighting  or other purpose 
+biofuel  
+main article 
+alternative fuel dispensers at a regular gasoline station in  
+at the left and
+at the right 
+biofuels are also considered a renewable source  although renewable energy is used mostly to generate electricity  it is often assumed that some form of renewable energy or a percentage is used to create alternative fuels 
+biomass  
+main article 
+biomass in the energy production industry is living and recently dead
+which can be used as fuel or for industrial production 
+algae-based fuels  
+main article 
+algae-based biofuels have been promoted in the media as a potential panacea to crude oil-based transportation problems  algae could yield more than 2000 gallons of fuel per acre per year of production  algae based fuels are being successfully tested by the u s  navy algae-based plastics show potential to reduce waste and the cost per pound of algae plastic is expected to be cheaper than traditional plastic prices 
+biodiesel  
+is made from animal fats or vegetable oils  renewable resources that come from plants such as jatropha  soybean  sunflowers  corn  olive  peanut  palm  coconut  safflower  canola  sesame  cottonseed  etc  once these fats or oils are filtered from their hydrocarbons and then combined with alcohol like methanol  biodiesel is brought to life   from this chemical reaction  these raw materials can either be mixed with pure diesel to make various proportions  or used alone  despite ones mixture preference  biodiesel will release smaller number of pollutants  carbon monoxide particulates and hydrocarbons  than conventional diesel  because biodiesel burns both cleanly and more efficiently  even with regular diesels reduced quantity of sulfur from the ulsd  ultra-low sulfur diesel  invention  biodiesel exceeds those levels because it is sulfur-free 
+alcohol fuels  
+main articles        and
+methanol and ethanol fuel are primary sources of energy  they are convenient fuels for storing and transporting energy  these alcohols can be used in internal combustion engines as alternative fuels  butanol has another advantage  it is the only alcohol-based motor fuel that can be transported readily by existing petroleum-product pipeline networks  instead of only by tanker trucks and railroad cars   
+ammonia  
+ nh3  can be used as fuel  benefits of ammonia include no need for oil  zero emissions  low cost  and distributed production reducing transport and related pollution   
+carbon-neutral and negative fuels  
+is such as    
+or produced from
+or
+used to
+waste
+recycled from
+or derived from
+in   such fuels are potentially
+because they do not result in a net increase in atmospheric   to the extent that carbon neutral fuels displace   or if they are produced from waste carbon or seawater carbonic acid  and their combustion is subject to
+at the flue or exhaust pipe  they result in
+and net
+from the atmosphere  and thus constitute a form of   such carbon neutral and negative fuels can be produced by the
+to make
+used in the
+to produce methane which may then be
+to be burned later in
+as synthetic   transported by     or   or be used in
+processes such as the
+to make traditional transportation or heating  
+part of
+about
+concepts
+policies
+dynamics
+carbon related
+carbon-neutral fuels have been proposed for   minimizing problems of wind and solar   and enabling transmission of wind  water  and solar power through existing natural gas pipelines  such renewable fuels could alleviate the costs and dependency issues of imported fossil fuels without requiring either electrification of the
+or conversion to hydrogen or other fuels  enabling continued compatible and affordable vehicles  germany has built a 250-kilowatt synthetic methane plant which they are scaling up to 10 megawatts 
+has constructed a carbon neutral
+ lng  plant in   the plant is intended to produce transportation fuel to offset lng used in their
+automobiles  and can keep 2,800 metric tons of co2 out of the environment per year at its initial capacity  other commercial developments are taking place in     and  
+the least expensive source of carbon for recycling into fuel is   where it can be extracted for about us  7.50 per ton  automobile exhaust gas capture has also been proposed to be economical but would require extensive design changes or retrofitting  since carbonic acid in seawater is in
+with atmospheric carbon dioxide  extraction of carbon from seawater has been studied  researchers have estimated that carbon extraction from seawater would cost about  50 per ton 
+is more costly  at between  600 and  1000 per ton and is considered impractical for fuel synthesis or carbon sequestration 
+nighttime
+is considered   the most economical form of electrical power with which to synthesize fuel  because the
+for electricity peaks sharply during the warmest hours of the day  but wind tends to blow slightly more at night than during the day  therefore  the price of nighttime wind power is often much less expensive than any alternative  off-peak wind power prices in high wind penetration areas of the u s  averaged 1.64 cents per
+in 2009  but only 0.71 cents kwh during the least expensive six hours of the day  typically 
+electricity costs 2 to 5 cents kwh during the day  commercial fuel synthesis companies suggest they can produce fuel for less than
+fuels when oil costs more than  55 per barrel  the u s  navy estimates that shipboard production of jet fuel from nuclear power would cost about  6 per gallon  while that was about twice the petroleum fuel cost in 2010  it is expected to be much less than the market price in less than five years if recent trends continue  moreover  since the delivery of fuel to a
+costs about  8 per gallon  shipboard production is already much less expensive  however  u s  civilian nuclear power is considerably more expensive than wind power  the navy s estimate that 100 megawatts can produce 41,000 gallons of fuel per day indicates that terrestrial production from wind power would cost less than  1 per gallon 
+hydrogen   formic acid  
+main article 
+hydrogen is an emissionless fuel  the byproduct of hydrogen burning is water  although some mono-nitrogen oxides
+are produced when hydrogen is burned with air 
+main article 
+another fuel is formic acid  the fuel is used by converting it first to hydrogen  and using that in a   formic acid is much more easy to store than hydrogen 
+hydrogen compressed natural gas mixture  
+main article 
+ or h2cng  is a mixture of
+and 4-9 percent
+by energy 
+liquid nitrogen  
+is another type of emissionless and efficient fuel 
+compressed air  
+the
+is an emission-free piston engine using
+as fuel  unlike hydrogen  compressed air is about one-tenth as expensive as fossil fuel  making it an economically attractive alternative fuel 
+propane autogas  
+main article 
+is a cleaner burning  high performance fuel derived from multiple sources  it is known by many names including propane  lpg  liquified propane gas   lpa  liquid propane autogas   autogas and others  propane is a hydrocarbon fuel and is a member of the natural gas family 
+propane as an automotive fuel shares many of the physical attributes of gasoline while reducing tailpipe emissions and well to wheel emissions overall  propane is the number one alternative fuel in the world and offers an abundance of supply  liquid storage at low pressure  an excellent safety record and large cost savings when compared to traditional fuels 
+propane delivers an octane rating between 104 and 112 depending on the composition of the butane propane ratios of the mixture  propane autogas in a liquid injection format captures the phase change from liquid to gas state within the cylinder of the combustion engine producing an  intercooler  effect  reducing the cylinder temperature and increasing air density  the resultant effect allows more advance on the ignition cycle and a more efficient engine combustion 
+propane lacks additives  detergents or other chemical enhancements further reducing the exhaust output from the tailpipe  the cleaner combustion also has fewer particulate emissions  lower nox due to the complete combustion of the gas within the cylinder  higher exhaust temperatures increasing the efficiency of the catalyst and deposits less acid and carbon inside the engine which extends the useful life of the lubricating oil 
+propane autogas is generated at the well alongside other natural gas and oil products  it is also a by-product of the refining processes which further increase the supply of propane to the market 
+propane is stored and transported in a liquid state at roughly 5bar  73psi  of pressure  fueling vehicles is similar to gasoline in speed of delivery with modern fueling equipment  propane filling stations only require a pump to transfer vehicle fuel and does not require expensive and slow compression systems when compared to
+which is usually kept at over 3,000psi  210bar  
+in a vehicle format  propane autogas can be retrofitted to almost any engine and provide fuel cost savings and lowered emissions while being more efficient as an overall system due to the large  pre-existing propane fueling infrastructure that does not require compressors and the resultant waste of other alternative fuels in well to wheel lifecycles 
+natural gas vehicles  
+ cng  and
+ lng  are two cleaner combusting alternatives to conventional liquid
+fuels 
+compressed natural gas fuel types  
+compressed natural gas  cng  vehicles can use both renewable cng and non-renewable cng 
+conventional cng is produced from the many underground natural gas reserves are in widespread production worldwide today  new technologies such as horizontal drilling and hydraulic fracturing to economically access unconventional gas resources  appear to have increased the supply of natural gas in a fundamental way 
+renewable natural gas or biogas is a methanebased gas with similar properties to natural gas that can be used as transportation fuel  present sources of biogas are mainly landfills  sewage  and animal agriwaste  based on the process type  biogas can be divided into the following  biogas produced by anaerobic digestion  landfill gas collected from landfills  treated to remove trace contaminants  and synthetic natural gas  sng  
+practicality  
+around the world  this gas powers more than 5 million vehicles  and just over 150,000 of these are in the u s  american usage is growing at a dramatic rate 
+environmental analysis  
+because natural gas emits little pollutant when combusted  cleaner air quality has been measured in urban localities switching to natural gas vehicles tailpipe co2 can be reduced by 1525  compared to gasoline  diesel  the greatest reductions occur in medium and heavy duty  light duty and refuse truck segments 
+co2 reductions of up to 88  are possible by using biogas 
+similarities to hydrogen natural gas  like hydrogen  is another fuel that burns cleanly  cleaner than both gasoline and diesel engines  also  none of the smog-forming contaminates are emitted  hydrogen and natural gas are both lighter than air and can be mixed together 
+nuclear power and radiothermal generators  
+main articles 
+and
+nuclear reactors  
+nuclear power is any
+designed to extract usable energy from
+via controlled   the only controlled method now practical uses
+in a
+fuel  with a small fraction of the power coming from subsequent    use of the nuclear reaction
+for controlled power generation is not yet practical  but is an active area of research 
+nuclear power is usually used by using a
+to heat a working fluid such as water  which is then used to create steam pressure  which is converted into mechanical work for the purpose of generating electricity or propulsion in water  today  more than 15  of the world s electricity comes from nuclear power  and over 150 nuclear-powered naval vessels have been built 
+in theory  electricity from nuclear reactors could also be used for
+in space  but this has yet to be demonstrated in a space flight  some smaller reactors  such as the   are built to minimize moving parts  and use methods that convert nuclear energy to electricity more directly  making them useful for space missions  but this electricity has historically been used for other purposes  power from
+has been used in a number of spacecraft  all of them unmanned  the soviets up to 1988 orbited 33 nuclear reactors in
+military radar satellites  where electric power generated was used to power a radar unit that located ships on the earth s oceans  the u s  also orbited one experimental nuclear reactor in 1965  in the
+mission  no nuclear reactor has been sent into space since 1988 
+thorium fuelled nuclear reactors  
+reactors have also become an area of active research in recent years  it is being backed by many scientists and researchers  and professor james hansen  the former director at
+goddard institute for space studies has reportedly said  after studying
+for over four decades  its clear to me that the world is heading for a climate catastrophe unless we develop adequate energy sources to replace   safer  cleaner and cheaper nuclear power can replace coal and is desperately needed as an essential part of the solution 
+is 3-4 times more abundant within nature than   and its ore    is commonly found in sands along bodies of water  thorium has also gained interest because it could be easier to obtain than uranium  while
+are enclosed underground and thus very dangerous for the miners  thorium is taken from open pits  monazite is present in countries such as australia  the united states and india  in quantities large enough to power the earth for thousands of years  as an alternative to uranium fuelled nuclear reactors  thorium has been proven to add to proliferation  produces
+for
+like
+ half-life over 200,000 years   and has a longer fuel cycle 
+for a list of experimental and presently-operating thorium-fueled reactors  see  
+radiothermal generators  
+in addition 
+have been used as alternative fuels  on both land and in space  their use on land is declining due to the danger of theft of isotope and environmental damage if the unit is opened  the decay of radioisotopes generates both heat and electricity in many space probes  particularly probes to outer planets where sunlight is weak  and low temperatures is a problem 
+ rtgs  which use such radioisotopes as fuels do not sustain a nuclear chain reaction  but rather generate electricity from the decay of a radioisotope which has  in turn  been produced on earth as a concentrated power source  fuel  using energy from an earth-based  
+see also  
+- an alternative fuel festival in new york
+ a possible future alternative to
+for transporting
+ a potential lead-free alternative to
+aviation gasoline 
+references  
+  green world investor  2010-04-06 
+from the original on 17 june 2010  retrieved 2010-07-11 
+  marine log  2010-10-22  retrieved 2010-07-11 
+  smart planet  2009-10-07  retrieved 2010-04-05 
+wheeler  jill  2008   alternative cars  abdo  p 21   
+don hofstrand  may 2009     agmrc renewable energy newsletter 
+ 
+zeman  frank s   keith  david w   2008  
+ pdf     366  390118        retrieved september 7  2012   review  
+wang  wei  wang  shengping  ma  xinbin  gong  jinlong  2011  
+ pdf   chemical society reviews  40  7   370327     retrieved september 7  2012   review  
+ 
+macdowell  niall  et al   2010     energy and environmental science  3  11   164569     retrieved september 7  2012   review  
+ 
+eisaman  matthew d   et al   2012  
+ pdf   energy and environmental science  5  6   734652     retrieved september 7  2012 
+graves  christopher  ebbesen  sune d   mogensen  mogens  lackner  klaus s   2011     renewable and sustainable energy reviews  15  1   123     retrieved september 7  2012   review  
+ 
+socolow  robert  et al   june 1  2011  
+ pdf   peer reviewed literature review   american physical society  retrieved september 7  2012 
+ 
+goeppert  alain  czaun  miklos  prakash  g k  surya  olah  george a   2012     energy and environmental science  5  7   783353     retrieved september 7  2012   review  
+house  k z   baclig  a c   ranjan  m   van nierop  e a   wilcox  j   herzog  h j   2011  
+ pdf   proceedings of the national academy of sciences of the united states of america  108  51   2042833        retrieved september 7  2012   review  
+lackner  klaus s   et al   2012     proceedings of the national academy of sciences of the united states of america  109  33   1315662          retrieved september 7  2012 
+ 
+pearson  r j   eisaman  m d   et al   2012  
+ pdf   proceedings of the ieee  100  2   44060     retrieved september 7  2012   review  
+ 
+pennline  henry w   et al   2010     fuel  89  6   130714     retrieved september 7  2012 
+graves  christopher  ebbesen  sune d   mogensen  mogens  2011     solid state ionics  192  1   398403     retrieved september 7  2012 
+fraunhofer-gesellschaft  may 5  2010     fraunhofer de  retrieved september 9  2012 
+center for solar energy and hydrogen research baden-wrttemberg  2011  
+ in german   zsw-bw de  retrieved september 9  2012 
+center for solar energy and hydrogen research  july 24  2012  
+ in german   zsw-bw de  retrieved september 9  2012 
+okulski  travis  june 26  2012     jalopnik  gawker media   retrieved 29 july 2013 
+rousseau  steve  june 25  2013     popular mechanics  retrieved 29 july 2013 
+musadi  m r   martin  p   garforth  a   mann  r   2011  
+ pdf   chemical engineering transactions  24  152530     retrieved september 7  2012 
+dimascio  felice  willauer  heather d   hardy  dennis r   lewis  m  kathleen  williams  frederick w   july 23  2010  
+ pdf   memorandum report   washington  dc  chemistry division  navy technology center for safety and survivability  u s  naval research laboratory  retrieved september 7  2012 
+willauer  heather d   dimascio  felice  hardy  dennis r   lewis  m  kathleen  williams  frederick w   april 11  2011  
+ pdf   memorandum report   washington  dc  chemistry division  navy technology center for safety and survivability  u s  naval research laboratory  retrieved september 7  2012 
+bloomberg com  compare to   retrieved september 7  2012 
+holte  laura l   doty  glenn n   mccree  david l   doty  judy m   doty  f  david  2010  
+ pdf   4th international conference on energy sustainability  may 1722  2010  phoenix  arizona  american society of mechanical engineers  retrieved september 7  2012 
+willauer  heather d   hardy  dennis r   williams  frederick w   september 29  2010  
+ pdf   memorandum report   washington  dc  chemistry division  navy technology center for safety and survivability  u s  naval research laboratory  retrieved september 7  2012 
+sovacool  b k   2011     a critical global assessment of atomic energy    p  126 
+rath  b b   u s  naval research laboratory  2012  
+ pdf   materials challenges in alternative and renewable energy conference  february 27  2012  clearwater  florida  american ceramic society  p 28  retrieved september 7  2012 
+college of the desert  december 2001  
+ pdf   office of energy efficiency and renewable energy  eere   retrieved 2011-09-12 
+gable  christine  gable  scott    about com  retrieved 2011-09-12 
+  office of energy efficiency and renewable energy  eere   2009-10-07  retrieved 2010-07-11 
+ 
+frick  martin  axhausen  kay w   carle  gian  wokaun  alexander  2007     transportation research part d  transport and environment  12  1   1022    
+marbek  march 2010  
+ pdf   natural resources canada  retrieved 2013-02-19 
+wheeler  jill  2008   alternative cars  abdo  p 26   
+penderson  christian h   2012  
+ pdf   36  vermont law review  9951013  retrieved 2013-02-19 
+goyal  p  2003  
+ pdf   atmospheric environment  37  54235431       
+ 
+aslam  m u   masjuki  h h   kalam  m a   abdesselam  h   mahlia  t m i   amalina  m a   marchapril 2006     fuel  85  56   717724     retrieved 2013-02-19 
+nylund  nils-olof  lawson  alex  2000    exhaust emissions from natural gas vehicles   iangv emission report 
+mathai  reji  et al   2012     international journal of hydrogen energy  37  68936900    
+ 
+international atomic energy agency 
+ pdf   retrieved 27 october 2014 
+juhasz  albert j   rarick  richard a   rangarajan  rajmohan 
+ pdf   nasa  retrieved 27 october 2014 
+hagen  regina  1998-08-11     space4peace org  retrieved 2013-02-19 
+external links  
+ 
+air pollution  
+ 
+water  
+ 
+fuel  alternative fuel
+ 
+  
+ 
+ 
+conservation
+building  
+ 
+retrieved from   
+  hidden categories 

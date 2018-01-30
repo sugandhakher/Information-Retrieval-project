@@ -1,0 +1,464 @@
+integralfastreactor
+from wikipedia  the free encyclopedia
+ redirected from  
+jump to 					 
+  which served as the prototype for the integral fast reactor
+the integral fast reactor  ifr  originally advanced   is a design for a
+using
+and no
+ a    ifr is distinguished by a
+that uses
+via
+at the reactor site 
+ifr development began in 1984 and the
+built a prototype  the   on april 3  1986  two tests demonstrated the inherent safety of the ifr concept  these tests simulated accidents involving loss of coolant flow  even with its normal shutdown devices disabled  the reactor shut itself down safely without overheating anywhere in the system  the ifr project was canceled by the
+in 1994  three years before completion 
+the proposed
+is its closest surviving
+design  other countries have also designed and operated  
+ from superprism   also called prism  power reactor innovative small module   is the name of a nuclear power plant design by
+ geh  based on the integral fast reactor 
+contents
+overview  
+the ifr is cooled by liquid
+or      and fueled by an
+of
+and   the fuel is contained in steel cladding with
+filling in the space between the fuel and the cladding  a void above the fuel allows
+and radioactive
+to be collected safely without significantly increasing pressure inside the fuel element  and also allows the fuel to expand without breaching the cladding  making metal rather than oxide fuel practical 
+the advantage of lead as opposed to sodium is that it is not reactive chemically  especially with water or air  the disadvantages are that liquid lead is far more viscous than liquid sodium  increasing pumping costs   and there are numerous radioactive neutron activation products  while there are essentially none from sodium 
+basic design decisions  
+this section needs additional citations for   please help
+by   unsourced material may be challenged and removed   march 2014    
+this section may lend
+to certain ideas  incidents  or controversies  please help to create a more balanced presentation  discuss and
+this issue before removing this message   march 2014 
+metallic fuel  
+metal fuel with a sodium-filled void inside the cladding to allow fuel expansion has been demonstrated in ebr-ii  metallic fuel makes pyroprocessing the reprocessing technology of choice   
+fabrication of metallic fuel is easier and cheaper than ceramic  oxide  fuel  especially under remote handling conditions   
+metallic fuel has better heat conductivity and lower heat capacity than oxide  which has safety advantages   
+sodium coolant  
+use of liquid metal coolant removes the need for a pressure vessel around the reactor  sodium has excellent nuclear characteristics  a high heat capacity and heat transfer capacity  low viscosity  a reasonably low melting point and a high boiling point  and excellent compatibility with other materials including structural materials and fuel  the high heat capacity of the coolant and the elimination of water from the core increase the inherent safety of the core   
+pool design rather than loop  
+containing all of the primary coolant in a pool produces several safety and reliability advantages   
+onsite reprocessing using pyroprocessing  
+reprocessing is essential to achieve most of the benefits of a fast reactor  improving fuel usage and reducing radioactive waste each by several orders of magnitude   
+onsite processing is what makes the ifr integral  this and the use of pyroprocessing both reduce proliferation risk   
+ using an electrorefiner  has been demonstrated at ebr-ii as practical on the scale required  compared to the
+aqueous process  it is economical in capital cost  and is unsuitable for production of weapons material  again unlike purex which was developed for weapons programs   
+pyroprocessing makes metallic fuel the fuel of choice  the two decisions are complementary   
+summary  
+the four basic decisions of metallic fuel  sodium coolant  pool design  and onsite reprocessing by electrorefining  are complementary  and produce a fuel cycle that is proliferation resistant and efficient in fuel usage  and a reactor with a high level of inherent safety  while minimizing the production of high-level waste  the practicality of these decisions has been demonstrated over many years of operation of ebr-ii 
+advantages  
+ such as the ifr  could in principle extract almost all of the energy contained in
+or   decreasing fuel requirements by nearly two orders of magnitude compared to traditional once-through reactors  which extract less than 0.65  of the energy in mined uranium  and less than 5  of the enriched uranium with which they are fueled  this could greatly dampen concern about fuel supply or energy used in   in fact  seawater uranium extraction could provide enough fuel for breeder reactors to satisfy our energy needs indefinitely  thus making
+as sustainable as solar or wind  
+fast reactors can  burn  long lasting nuclear
+ tru  waste components   
+and    turning liabilities into assets  another major waste component 
+ fp   would stabilize at a lower level of radioactivity than the original natural uranium ore it was attained from in two to four centuries  rather than tens of thousands of years      the fact that
+are being designed to use the waste from
+could change the nuclear story fundamentallypotentially making the combination of 3rd and 4th generation plants a more attractive energy option than 3rd generation by itself would have been  both from the perspective of waste management and energy security 
+the use of a medium-scale
+facility onsite  and the use of
+rather than aqueous reprocessing  is claimed to considerably reduce the
+potential of possible diversion of fissile material as the processing facility is  integral 
+safety  
+in traditional
+ lwrs  the core must be maintained at a high pressure to keep the water liquid at high temperatures  in contrast  since the ifr is a   the core could operate at close to ambient pressure  dramatically reducing the danger of a   the entire reactor core 
+and primary cooling pumps are immersed in a pool of liquid sodium or lead  making a loss of primary coolant extremely unlikely  the coolant loops are designed to allow for cooling through natural   meaning that in the case of a power loss or unexpected reactor shutdown  the heat from the reactor core would be sufficient to keep the coolant circulating even if the primary cooling pumps were to fail 
+the ifr also has
+advantages as compared with conventional lwrs  the fuel and
+are designed such that when they expand due to increased temperatures  more neutrons would be able to escape the core  thus reducing the rate of the fission chain reaction  in other words  an increase in the core temperature will act as a feedback mechanism that decreases the core power  this attribute is known as a negative   most lwrs also have negative reactivity coefficients  however  in an ifr  this effect is strong enough to stop the reactor from reaching core damage without external action from operators or safety systems  this was demonstrated in a series of safety tests on the prototype  pete planchon  the engineer who conducted the tests for an international audience quipped  back in 1986  we actually gave a small  20 mwe  prototype advanced fast reactor a couple of chances to melt down  it politely refused both times  
+liquid sodium presents safety problems because it ignites spontaneously on contact with air and can cause explosions on contact with water  this was the case at the
+in a 1995 accident and fire  to reduce the risk of explosions following a leak of water from the steam turbines  the ifr design  as with other   includes an intermediate liquid-metal coolant loop between the reactor and the steam turbines  the purpose of this loop is to ensure that any explosion following accidental mixing of sodium and turbine water would be limited to the secondary heat exchanger and not pose a risk to the reactor itself  alternative designs use lead instead of sodium as the primary coolant  the disadvantages of lead are its higher density and viscosity  which increases pumping costs  and radioactive activation products resulting from neutron absorption  a lead-bismuth eutectate  as used in some russian submarine reactors  has lower viscosity and density  but the same activation product problems can occur 
+efficiency and fuel cycle  
+medium-lived
+prop 
+unit 
+  
+   
+ 
+  
+ 
+4.76
+0.0803
+252
+
+10.76
+0.2180
+687
+
+14.1
+0.0008
+316
+
+28.9
+4.505
+2826
+
+30.23
+6.337
+1176
+
+43.9
+0.00005
+390
+
+96.6
+0.5314
+77
+
+the goals of the ifr project were to increase the efficiency of uranium usage by
+plutonium and eliminating the need for
+isotopes ever to leave the site  the reactor was an unmoderated design running on   designed to allow any transuranic isotope to be consumed  and in some cases used as fuel  
+compared to current light-water reactors with a once-through fuel cycle that induces fission  and derives energy  from less than 1  of the uranium found in nature  a breeder reactor like the ifr has a very efficient  99.5  of uranium undergoes fission    fuel cycle  the basic scheme used pyroelectric separation  a common method in other metallurgical processes  to remove transuranics and actinides from the wastes and concentrate them  these concentrated fuels were then reformed  on site  into new fuel elements 
+the available fuel metals were never separated from the
+nor from all the fission products    and therefore relatively difficult to use in nuclear weapons  also  plutonium never had to leave the site  and thus was far less open to unauthorized diversion 
+another important benefit of removing the long
+transuranics from the waste cycle is that the remaining waste becomes a much shorter-term hazard  after the
+     and   are recycled  the remaining
+isotopes are   with
+of 90years    or less or 211,100 years    and more  plus any
+from the non-fuel reactor components 
+comparisons to light-water reactors  
+buildup of heavy actinides in current thermal-neutron fission reactors  which cannot fission actinide nuclides that have an even number of neutrons  and thus these build up and are generally treated as
+after conventional reprocessing  an argument for fast reactors is that they can fission all actinides 
+nuclear waste  
+ifr-style reactors produce much less waste than lwr-style reactors  and can even utilize other waste as fuel 
+the primary argument for pursuing ifr-style technology today is that it provides the best solution to the existing nuclear waste problem because fast reactors can be fueled from the waste products of existing reactors as well as from the plutonium used in weapons  as is the case in the operating  as of 2014   
+ du  waste can also be used as fuel in fast reactors 
+the waste products of ifr reactors either have a short half-life  which means that they decay quickly and become relatively safe  or a long halflife  which means that they are only slightly radioactive  due to pyroprocessing the total volume of true waste  is 1/20th the volume of spent fuel produced by a light water plant of the same power output  and is often all considered to be waste  70  of fission products are either stable or have half lives under one year  technetium-99 and iodine-129  which constitute 6  of fission products  have very long half lives but can be
+to isotopes with very short half lives  15.46 seconds and 12.36 hours  by neutron absorption within a reactor  effectively destroying them see more    zirconium-93  another 5  of fission products  could in principle be recycled into fuel-pin cladding  where it does not matter that it is radioactive  excluding the contribution from  tru  - which are isotopes produced when u-238 captures a slow
+in a lwr but does not fission  all the remaining  fission products  fp   left over from reprocessing out the tru fuel  is less radiotoxic in   than  in a gram to gram comparison  within 400 years  and it continues its decline following this     
+edwin sayre has estimated that a ton of fission products which also include the very weakly radioactive
+etc   reduced to metal  has a market value of  16 million 
+the two forms of ifr waste produced  contain no plutonium or other   the radioactivity of the waste decays to levels similar to the original ore in about 300400 years     
+the on-site reprocessing of fuel means that the volume of high level nuclear waste leaving the plant is tiny compared to lwr spent fuel    in fact  in the u s  most spent lwr fuel has remained in storage at the reactor site instead of being transported for reprocessing or placement in a   the smaller volumes of
+from reprocessing could stay at reactor sites for some time  but are intensely radioactive from  mlfps  and need to be stored securely  like in the present
+vessels  in its first few decades of use  before the mlfp s  
+capacity is constrained not by volume but by heat generation  and
+generation from
+is about the same per unit power from any kind of fission reactor  limiting early repository emplacement 
+the potential complete removal of plutonium from the waste stream of the reactor reduces the concern that presently exists with spent nuclear fuel from most other reactors that arises with burying or storing their spent fuel in a geological repository  as they could possibly be used as a
+at some future date   despite the million-fold reduction in radiotoxicity offered by this scheme  some believe that actinide removal would offer few if any significant advantages for disposal in a
+because some of the
+of greatest concern in scenarios such as
+actually have longer half-lives than the radioactive actinides  these concerns do not consider the plan to store such materials in insoluble   and do not measure hazards in proportion to those from natural sources such as medical x-rays  cosmic rays  or natural radioactive rocks  such as    these persons are concerned with radioactive fission products such as     and
+with half-lives between 213,000 and 15.7 million years  some of which are being targeted for transmutation to belay even these comparatively low concerns  for example the ifr s
+could be reduced to an acceptable level by adding technetium to the core  helping destroy the long-lived fission product
+by
+in the process   see more  
+efficiency  
+ifrs use virtually all of the energy content in the uranium fuel whereas a traditional light water reactor uses less than 0.65  of the energy in mined uranium  and less than 5  of the energy in enriched uranium 
+carbon dioxide  
+main article 
+both ifrs and lwrs do not emit co2 during operation  although construction and fuel processing result in co2 emissions  if energy sources which are not carbon neutral  such as fossil fuels   or co2 emitting cements are used during the construction process 
+a 2012
+review published in the journal of industrial ecology analyzing co2
+emissions from
+determined that 
+ the collective lca literature indicates that life cycle
+  greenhouse gas   emissions from nuclear power are only a fraction of traditional fossil sources and comparable to renewable technologies  
+although the paper primarily dealt with data from   and did not analyze the co2 emissions by 2050 of the presently under construction   it did summarize the life cycle assessment findings of in development reactor technologies 
+theoretical fbrs  
+  have been evaluated in the lca literature  the limited literature that evaluates this potential future technology reports
+life cycle ghg emissions    similar to or lower than lwrs 
+  and purports to consume little or no  
+actinides and fission products by half-life
+by
+range   
+of u by
+4.57 
+0.041.25 
+ 0.001 
+ra
+46
+
+eu
+cm
+pu
+cf
+ac
+1029
+sr
+kr
+cd
+u
+pu
+cm
+2997
+cs
+sm
+sn
+bk
+cf
+am
+141351
+no fission products
+have a half-life
+in the range of
+100210k years    
+am
+cf
+430900
+ra
+bk
+1.3k1.6k
+pu
+th
+cm
+am
+4.7k7.4k
+cm
+cm
+8.3k8.5k
+pu
+24.1k
+th
+pa
+32k76k
+np
+u
+u
+150k250k
+
+tc
+sn
+cm
+pu
+327k375k
+se
+1.53m
+zr
+np
+2.1m6.5m
+cs
+pd
+u
+cm
+15m24m
+i
+pu
+80m
+    nor beyond 15.7m years
+th
+u
+u
+0.7g14.1g
+legend for superscript symbols
+ has thermal
+cross section in the range of 850 barns
+
+m
+
+ norm 
+
+ thermal neutron capture cross section greater than 3k barns 
+ range 497y 
+ over 200,000y 
+fuel cycle  
+fuel must be at least 20  fissile  greater than the
+used in lwrs  the
+material could initially include
+or   from lwr   decommissioned   or other sources  during operation the reactor breeds more fissile material from   at most about 5  more from uranium  and 1  more from thorium 
+the fertile material in fast reactor fuel can be
+ mostly        or
+from
+from traditional light water reactors  and even include nonfissile
+and
+isotopes  assuming no leakage of actinides to the waste stream during reprocessing  a 1gwe ifr-style reactor would consume about 1 ton of fertile material per year and produce about 1 ton of  
+by
+ in this case    does not need to produce pure plutonium free of fission product radioactivity as the
+process is designed to do  the purpose of reprocessing in the ifr fuel cycle is simply to reduce the level of those fission products that are   even those need not be completely removed  the electrorefined spent fuel is highly radioactive  but because new fuel need not be precisely fabricated like lwr fuel pellets but can simply be cast  remote fabrication can be used  reducing exposure to workers 
+like any fast reactor  by changing the material used in the blankets  the ifr can be operated over a spectrum from breeder to self-sufficient to burner  in breeder mode  using
+blankets  it will produce more fissile material than it consumes  this is useful for providing fissile material for starting up other plants  using steel reflectors instead of u-238 blankets  the reactor operates in pure burner mode and is not a net creator of fissile material  on balance it will consume fissile and fertile material and  assuming loss-free reprocessing  output no
+but only
+and   amount of fissile material needed could be a limiting factor to very widespread deployment of fast reactors  if stocks of surplus weapons plutonium and lwr spent fuel plutonium are not sufficient  to maximize the rate at which fast reactors can be deployed  they can be operated in maximum breeding mode 
+because the
+of
+is low compared to the expected cost of large-scale pyroprocessing and electrorefining equipment and the cost of building a secondary coolant loop  the higher fuel costs of a
+over the expected operating lifetime of the plant are offset by increased    currently in the united states  utilities pay a flat rate of 1/10 of a cent per kilowatt hour to the government for disposal of high level radioactive waste by law under the   if this charge were based on the longevity of the waste  closed fuel cycles might become more financially competitive  as the planned geological repository in the form of
+is not going ahead  this fund has collected over the years and presently  25 billion has piled up on the government s doorstep for something they have not delivered  that is  reducing the hazard posed by the waste 
+reprocessing nuclear fuel using pyroprocessing and electrorefining has not yet been demonstrated on a commercial scale  so investing in a large ifr-style plant may be a higher
+than a conventional  
+ifr concept  color   an animation of the pyroprocessing cycle is also available 
+ifr concept  black and white with clearer text 
+passive safety  
+the ifr uses metal alloy fuel  uranium plutonium zirconium  which is a good conductor of heat  unlike the lwr s  and even some fast breeder reactors  
+which is a poor conductor of heat and reaches high temperatures at the center of fuel pellets  the ifr also has a smaller volume of fuel  since the fissile material is diluted with fertile material by a ratio of 5 or less  compared to about 30 for lwr fuel  the ifr core requires more heat removal per core volume during operation than the lwr core  but on the other hand  after a shutdown  there is far less trapped heat that is still diffusing out and needs to be removed  however 
+generation from short-lived fission products and actinides is comparable in both cases  starting at a high level and decreasing with time elapsed after shutdown  the high volume of liquid sodium primary coolant in the pool configuration is designed to absorb decay heat without reaching fuel melting temperature  the primary sodium pumps are designed with flywheels so they will coast down slowly  90 seconds  if power is removed  this coast-down further aids core cooling upon shutdown  if the primary cooling loop were to be somehow suddenly stopped  or if the control rods were suddenly removed  the metal fuel can melt as accidentally demonstrated in ebr-i  however the melting fuel is then extruded up the steel fuel cladding tubes and out of the active core region leading to permanent reactor shutdown and no further fission heat generation or fuel melting  with metal fuel  the cladding is not breached and no radioactivity is released even in extreme overpower transients 
+self-regulation of the ifr s power level depends mainly on thermal expansion of the fuel which allows more neutrons to escape  damping the   lwrs have less effect from thermal expansion of fuel  since much of the core is the   but have strong
+from
+ which acts on thermal and epithermal neutrons  not fast neutrons  and negative
+from boiling of the water moderator coolant  the less dense steam returns fewer and less-thermalized neutrons to the fuel  which are more likely to be captured by u-238 than induce fissions  however  the ifr s positive void coefficient could be reduced to an acceptable level by adding technetium to the core  helping destroy the
+by
+in the process 
+ifrs are able to withstand both a loss of flow without
+and loss of heat sink without scram  in addition to passive shutdown of the reactor  the convection current generated in the primary coolant system will prevent fuel damage  core meltdown   these capabilities were demonstrated in the   the ultimate goal is that no radioactivity will be released under any circumstance 
+the flammability of sodium is a risk to operators  sodium burns easily in air  and will ignite spontaneously on contact with water  the use of an intermediate coolant loop between the reactor and the turbines minimizes the risk of a sodium fire in the reactor core 
+under neutron bombardment  sodium-24 is produced  this is highly radioactive  emitting an energetic
+of 2.7
+followed by a beta decay to form magnesium-24  half-life is only 15 hours  so this isotope is not a long-term hazard  nevertheless  the presence of sodium-24 further necessitates the use of the intermediate coolant loop between the reactor and the turbines 
+proliferation  
+see also 
+ifrs and
+ lwrs  both produce   and even at high
+remains weapons usable    but the ifr fuel cycle has some design features that would make proliferation more difficult than the current
+recycling of spent lwr fuel  for one thing  it may operate at higher
+and therefore increase the relative abundance of the non-fissile  but fertile  isotopes  
+and  
+unlike purex reprocessing  the ifr s electrolytic reprocessing of
+did not separate out pure plutonium  and left it mixed with minor actinides and some rare earth fission products which make the theoretical ability to make a bomb directly out of it considerably dubious    rather than being transported from a large centralized reprocessing plant to reactors at other locations  as is common now in france  from
+to its dispersed nuclear fleet of   the ifr pyroprocessed fuel would be much more resistant to unauthorized diversion    the material with the mix of
+in an ifr would stay at the reactor site and then be burnt up practically in-situ    alternatively  if operated as a breeder reactor  some of the pyroprocessed fuel could be consumed by the same or other reactors located elsewhere  however  as is the case with conventional aqueous reprocessing  it would remain possible to chemically extract all the plutonium isotopes from the pyroprocessed recycled fuel and would be much easier to do so from the recycled product than from the original spent fuel  although compared to other conventional recycled nuclear fuel    it would be more difficult  as the ifr recycled fuel contains more fission products than mox and due to its higher   more proliferation resistant
+than mox 
+an advantage of the ifrs actinides removal and burn up  actinides include plutonium  from its spent fuel  is to eliminate concerns about leaving the ifrs spent fuel or indeed conventional  and therefore comparatively lower   spent fuel - which can contain weapons usable plutonium isotope concentrations in a  or the more common   which then might be mined sometime in the future for the purpose of making weapons  
+because
+contains
+with high
+rates  and the ratios of these troublesome isotopes-from a weapons manufacturing point of view  only increases as the fuel is
+for longer and longer  it is considerably more difficult to produce fission nuclear weapons which will achieve a substantial yield from higher- spent fuel than from conventional  moderately burnt up  lwr  
+therefore  proliferation risks are considerably reduced with the ifr system by many metrics  but not entirely eliminated  the plutonium from
+recycled fuel would have an isotopic composition similar to that obtained from other high burnt up
+sources  although this makes the material less attractive for weapons production  it could be used in weapons at varying degrees of sophistication with  
+the u s  government
+using then defined     although in more recent categorizations it would instead be considered as   typical of that produced by low burn up  
+plutonium produced in the fuel of a breeder reactor generally has a higher fraction of the isotope   than that produced in other reactors  making it less attractive for weapons use  particularly in first generation
+similar to   this offers an intrinsic degree of proliferation resistance  but the plutonium made in the blanket of uranium surrounding the core  if such a blanket is used  is usually of a high
+quality  containing very little pu-240  making it highly attractive for weapons use 
+ although some recent proposals for the future of the almr ifr concept have focused more on its ability to transform and irreversibly use up plutonium  such as the conceptual
+and the in operation 2014 
+in russia  the developers of the ifr acknowledge that it is  uncontested that the ifr can be configured as a net producer of plutonium   
+as mentioned above  if operated not as a burner  but as a breeder  the ifr has a clear proliferation potential  if instead of processing spent fuel  the almr system were used to reprocess irradiated
+ that is if a blanket of breeding u-238 was used   the resulting plutonium would be a superior material  with a nearly ideal isotope composition for nuclear weapons manufacture  
+reactor design and construction  
+a commercial version of the ifr    can be built in a factory and transported to the site  this
+design  311 mwe modules  reduces costs and allows nuclear plants of various sizes  311 mwe and any integer multiple  to be economically constructed 
+cost assessments taking account of the complete life cycle show that fast reactors could be no more expensive than the most widely used reactors in the world  water-moderated water-cooled reactors 
+liquid metal na coolant  
+see also 
+unlike reactors that use relatively slow low energy  thermal  neutrons 
+need
+that does not moderate or block neutrons  like water does in an lwr  so that they have sufficient energy to fission
+isotopes that are
+but not   the core must also be compact and contain as small amount of material that might act as neutron moderators as possible  metal sodium  na  coolant in many ways has the most attractive combination of properties for this purpose  in addition to not being a neutron moderator  desirable physical characteristics include 
+low melting temperature
+low vapor pressure
+high boiling temperature
+excellent thermal conductivity
+low viscosity
+light weight
+thermal and radiation stability
+other benefits 
+abundant and low cost material  cleaning with chlorine produces non-toxic table salt  compatible with other materials used in the core  does not react or dissolve stainless steel  so no special corrosion protection measures needed  low pumping power  from light weight and low viscosity   maintains an oxygen  and water  free environment by reacting with trace amounts to make sodium oxide or sodium hydroxide and hydrogen  thereby protecting other components from corrosion  light weight  low density  improves resistance to seismic inertia events  earthquakes  
+drawbacks 
+extreme fire hazard with any significant amounts of air  oxygen  and spontaneous combustion with water  rendering sodium leaks and flooding dangerous  this was the case at the
+in a 1995 accident and fire  reactions with water produce hydrogen which can be explosive  sodium activation product  isotope  24na releases dangerous energetic photons when it decays  however it has a very short half-life of 15 hours   reactor design keeps 24na in the reactor pool and carries away heat for power production using a secondary sodium loop  adding costs to construction and maintenance 
+study released by uchicago argonne
+history  
+research on the reactor began in 1984 at
+in argonne  illinois  argonne is a part of the  s national laboratory system  and is operated on a contract by the  
+argonne previously had a branch campus named  argonne west  in  
+that is now part of the   in the past  at the branch campus  physicists from argonne had built what was known as the
+ ebr ii   in the mean time  physicists at argonne had designed the ifr concept  and it was decided that the ebr ii would be converted to an ifr  charles till  a canadian physicist from argonne  was the head of the ifr project  and yoon chang was the deputy head  till was positioned in idaho  while chang was in illinois 
+with the election of president
+in 1992  and the appointment of
+as the   there was pressure from the top to cancel the ifr  sen 
+ d-ma  and o leary led the opposition to the reactor  arguing that it would be a threat to non-proliferation efforts  and that it was a continuation of the
+that had been canceled by congress 
+simultaneously  in 1994 energy secretary o leary awarded the lead ifr scientist with  10,000 and a gold medal  with the citation stating his work to develop ifr technology provided  improved safety  more efficient use of fuel and less radioactive waste  
+ifr opponents also presented a report by the doe s office of nuclear safety regarding a former argonne employee s allegations that argonne had retaliated against him for raising concerns about safety  as well as about the quality of research done on the ifr program  the report received international attention  with a notable difference in the coverage it received from major scientific publications  the british journal nature entitled its article  report backs whistleblower   and also noted conflicts of interest on the part of a doe panel that assessed ifr research  in contrast  the article that appeared in science was entitled  was argonne whistleblower really blowing smoke    remarkably  that article did not disclose that the director of argonne national laboratories  alan schriesheim  was a member of the board of directors of science s parent organization  the american association for the advancement of science 
+despite support for the reactor by then-rep 
+ d-il  and u s  senators
+ d-il  and
+ d-il   funding for the reactor was slashed  and it was ultimately canceled in 1994 by   at greater cost than finishing it  when this was brought to president clinton s attention  he said  i know  it s a symbol   by this time senator kerry and the majority of democrats had switched to supporting the continuation of the program  the final count was to 52 to 46 to terminate the program  with 36 republicans and 16 democrats voting for it s termination  while just 8 republicans and 38 democrats voted for it s continuation 
+in 2001  as part of the
+roadmap  the doe tasked a 242-person team of scientists from doe  uc berkeley  mit  stanford  anl  llnl  toshiba  westinghouse  duke  epri  and other institutions to evaluate 19 of the best reactor designs on 27 different criteria  the ifr ranked  1 in their study which was released april 9  2002 
+at present there are no integral fast reactors in commercial operation  however a very similar fast reactor  operated as a burner of plutonium stockpiles  the   became commercially operational in 2014 
+see also  
+references  
+ 
+at
+  genewscenter com  2009-06-18  retrieved 2014-01-24 
+ 
+ 
+plentiful energy  charles till and yoon il chang    p 114
+ 
+cite error  invalid  ref  tag  name  pg 15 see sv 2fg chart  defined multiple times with different content  see the   
+ 
+  web archive org  2007-10-09  archived from
+on september 15  2008  retrieved 2014-01-24 
+ 
+ 
+  ne anl gov  2013-12-13  retrieved 2014-01-24 
+ 
+ 
+sasahara  akihiro  matsumura  tetsuo  nicolaou  giorgos  papaioannou  dimitri  april 2004     journal of nuclear science and technology  41  4   448456      
+  
+estimates from argonne national laboratory place the output of waste of a 1000 plant operating at 70  capacity at 1700pounds year 
+ 
+  page 30
+radioactivity and its associated dangers are roughly divided by an isotope s half-life  for example  technetium-99 s 213,000 year half-life combines with the ifr s 1/20 volume reduction to produce about 1/4,000,000 of the radiotoxicity of light water reactor waste  the small size  about 1.5 tonnes per gigawatt-year  permits expensive disposal methods such as insoluble synthetic rock  the hazards are far less than those from fossil fuel wastes or dam failures 
+ 
+page 2
+warner  ethan s   heath  garvin a    journal of industrial ecology    published online april 17  2012  doi  10.1111 j 1530-9290.2012.00472 x 
+plus radium  element 88   while actually a sub-actinide  it immediately precedes actinium  89  and follows a three-element gap of instability after
+ 84  where no isotopes have half-lives of at least four years  the longest-lived isotope in the gap is
+with a half life of less than four days   radium s longest lived isotope  at 1,600 years  thus merits the element s inclusion here 
+specifically from
+fission of u-235  e g  in a typical  
+milsted  j   friedman  a  m   stevens  c  m   1965    the alpha half-life of berkelium-247  a new long-lived isomer of berkelium-248   nuclear physics  71  2   299    
+ the isotopic analyses disclosed a species of mass 248 in constant abundance in three samples analysed over a period of about 10 months  this was ascribed to an isomer of bk248 with a half-life greater than 9y  no growth of cf248 was detected  and a lower limit for the  half-life can be set at about 104y  no alpha activity attributable to the new isomer has been detected  the alpha half-life is probably greater than 300y  
+this is the heaviest isotope with a half-life of at least four years before the    
+excluding those    isotopes with half-lives significantly in excess of 232th  e g   while 113mcd has a half-life of only fourteen years  that of 113cd is nearly eight
+years 
+matthew l  wald    the new york times  november 20  2013  p  a20  retrieved april 2  2014 
+ 
+till and chang  charles e  and yoon il  2011     createspace  pp 157158   
+categorization of used nuclear fuel inventory in support of a comprehensive national nuclear fuel cycle strategy  page 35 figure 21  discharge isotopic composition of a
+fuel assembly with initial u-235 enrichment of 4.5 wt  that has accumulated 45 gwd mtu burnup  isotopic composition of used nuclear fuel as a function of burnup for a generic pwr fuel assembly 
+wna contributors  march 2009     world nuclear association  retrieved 2010-02-28 
+  page 34
+breeder reactors
+  page 32
+  page 36
+  springerlink com  2004-06-01  retrieved 2014-01-24 
+ pdf   ne doe gov  retrieved 2014-01-24 
+  pbs  2014-01-16  retrieved 2014-01-24 
+  103rd congressional record  library of congress  retrieved 16 december 2012 
+  chicago tribune  retrieved 18 march 2015 
+report of investigation into allegations of retaliation for raising safety and quality of work issues regarding argonne national laboratory s integral fast reactor project  report number doe ns-0005p  1991 dec 01 osti identifier osti id  6030509 
+report backs whistleblower  nature 356  469  9 april 1992 
+science  vol  256  no  5055  17 april 1992
+further reading  
+tom blees  2008   prescription for the planet  the painless remedy for our energy   environmental crises  booksurge publishing   
+u s  congress 
+ may 1994  
+ pdf   u s  government printing office   
+charles e  till  yoon il chang  2011   plentiful energy  the story of the integral fast reactor  the complex history of a simple reactor technology  with emphasis on its scientific bases for non-specialists  createspace   
+william e  hannum  gerald e  marsh  george s  stanford  december 2005     scientific american 
+the restoration of the earth  theodore b  taylor and charles c  humpstone  166 pages  harper   row  1973 
+sustainable energy - without the hot air  david j c  mackay  384 pages  uit cambridge  2009 
+2081  a hopeful vision of the human future  gerard k  o neill  284 pages  simon   schuster  1981 
+the second nuclear era  a new start for nuclear power  alvin m  weinberg et al   460 pages  praeger publishers  1985 
+the nuclear imperative  a critical look at the approaching energy crisis  more physics for presidents   jeff eerkens  212 pages  springer  2010 
+external links  
+at
+archived material from a site about the ifr formerly hosted by uc berkeley 
+by george s  stanford  ph d 
+ 
+interview with author
+about ifr 
+types of
+by primary
+by
+water
+  
+none
+  
+integral  ifr 
+others
+retrieved from   
+  hidden categories 

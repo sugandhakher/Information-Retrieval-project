@@ -1,0 +1,128 @@
+energypolicy(journal)
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="infobox hproduct" style="width:22em">
+<caption style="font-size:130%;"><i><span class="fn">Energy Policy</span></i> <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.jtitle=Energy+Policy&amp;rft.stitle=Energy+Pol.&amp;rft.issn=0301-4215&amp;rft_id=http%3A%2F%2Fwww.journals.elsevier.com%2Fenergy-policy%2F"> </span></caption>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Abbreviated title (<a href="/wiki/ISO_4" title="ISO 4">ISO 4</a>)</div>
+</th>
+<td class="identifier" style="text-align:left;"><i>Energy Pol.</i></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Outline_of_academic_disciplines" title="Outline of academic disciplines">Discipline</a></th>
+<td class="category" style="text-align:left;"><a href="/wiki/Energy_policy" title="Energy policy">Energy policy</a></td>
+</tr>
+<tr>
+<th scope="row">Language</th>
+<td style="text-align:left;">English</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#dfc;">Publication details</th>
+</tr>
+<tr>
+<th scope="row">Publisher</th>
+<td style="text-align:left;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Elsevier" title="Elsevier">Elsevier</a></div>
+</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Publication history</div>
+</th>
+<td style="text-align:left;">1973-present</td>
+</tr>
+<tr>
+<th scope="row">Frequency</th>
+<td style="text-align:left;">Monthly</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Impact_factor" title="Impact factor"><span class="wrap">Impact factor</span></a><br/>
+<span style="font-weight:normal">(2013)</span></div>
+</th>
+<td style="text-align:left;">2.696</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#dfc;">Indexing</th>
+</tr>
+<tr>
+<th scope="row"><span class="type"><a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a></span></th>
+<td style="text-align:left;"><span class="value"><a class="external text" href="//www.worldcat.org/issn/0301-4215" rel="nofollow">0301-4215</a></span> (print)<br/>
+<a class="external text" href="//www.worldcat.org/issn/1873-6777" rel="nofollow">1873-6777</a> (web)<br/></td>
+</tr>
+<tr>
+<th scope="row"><span class="type"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a></span></th>
+<td style="text-align:left;"><a class="external text" href="//lccn.loc.gov/74641641" rel="nofollow">74641641</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="type"><a href="/wiki/CODEN" title="CODEN">CODEN</a></span></th>
+<td style="text-align:left;">ENPYAC</td>
+</tr>
+<tr>
+<th scope="row"><span class="type"><a href="/wiki/OCLC" title="OCLC">OCLC</a> no.</span></th>
+<td style="text-align:left;"><a class="external text" href="//www.worldcat.org/oclc/645115783" rel="nofollow">645115783</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#dfc;">Links</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;text-align:left;">
+<ul>
+<li><a class="external text" href="http://www.journals.elsevier.com/energy-policy/" rel="nofollow">Journal homepage</a></li>
+<li><a class="external text" href="http://www.sciencedirect.com/science/journal/03014215" rel="nofollow">Online archive</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<p><i><b>Energy Policy</b></i> is a monthly <a class="mw-redirect" href="/wiki/Peer-reviewed" title="Peer-reviewed">peer-reviewed</a> <a href="/wiki/Academic_journal" title="Academic journal">academic journal</a> covering research on <a href="/wiki/Energy_policy" title="Energy policy">energy policy</a> and <a href="/wiki/Energy_supply" title="Energy supply">energy supply</a>. It is published by <a href="/wiki/Elsevier" title="Elsevier">Elsevier</a>. According to the <i><a href="/wiki/Journal_Citation_Reports" title="Journal Citation Reports">Journal Citation Reports</a></i>, the journal has a 2013 <a href="/wiki/Impact_factor" title="Impact factor">impact factor</a> of 2.696.<sup class="reference" id="cite_ref-WoS_1-0"><a href="#cite_note-WoS-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_Policy_(journal)&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-WoS-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-WoS_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">"Energy Policy". <i>2013 <a href="/wiki/Journal_Citation_Reports" title="Journal Citation Reports">Journal Citation Reports</a></i>. <a href="/wiki/Web_of_Science" title="Web of Science">Web of Science</a> (Science ed.). <a href="/wiki/Thomson_Reuters" title="Thomson Reuters">Thomson Reuters</a>. 2014.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+Policy+%28journal%29&amp;rft.atitle=Energy+Policy&amp;rft.btitle=2013+Journal+Citation+Reports&amp;rft.date=2014&amp;rft.edition=Science&amp;rft.genre=bookitem&amp;rft.pub=Thomson+Reuters&amp;rft.series=Web+of+Science&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_Policy_(journal)&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a class="external text" href="http://www.journals.elsevier.com/energy-policy/" rel="nofollow">Official website</a></span></span></li>
+</ul>
+<p><br/></p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a class="image" href="/wiki/File:Crystal_128_energy.png"><img alt="Stub icon" data-file-height="128" data-file-width="128" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Crystal_128_energy.png/30px-Crystal_128_energy.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Crystal_128_energy.png/45px-Crystal_128_energy.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Crystal_128_energy.png/60px-Crystal_128_energy.png 2x" width="30"/></a></td>
+<td><i>This article about energy, its collection, its distribution, or its uses is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Energy_Policy_(journal)&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Energy-stub" title="Template:Energy-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Energy-stub" title="Template talk:Energy-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Energy-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a class="image" href="/wiki/File:Nuvola_apps_kfig.svg"><img alt="Stub icon 1" data-file-height="110" data-file-width="109" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Nuvola_apps_kfig.svg/30px-Nuvola_apps_kfig.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Nuvola_apps_kfig.svg/45px-Nuvola_apps_kfig.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Nuvola_apps_kfig.svg/60px-Nuvola_apps_kfig.svg.png 2x" width="30"/></a> <a class="image" href="/wiki/File:Book_Hexagonal_Icon.svg"><img alt="Stub icon 2" data-file-height="31" data-file-width="36" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Book_Hexagonal_Icon.svg/30px-Book_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Book_Hexagonal_Icon.svg/45px-Book_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Book_Hexagonal_Icon.svg/60px-Book_Hexagonal_Icon.svg.png 2x" width="30"/></a></td>
+<td><i>This article about an <a href="/wiki/Engineering" title="Engineering">engineering</a> <a href="/wiki/Academic_journal" title="Academic journal">journal</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Energy_Policy_(journal)&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Engineering-journal-stub" title="Template:Engineering-journal-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Engineering-journal-stub" title="Template talk:Engineering-journal-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Engineering-journal-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<br/>
+<span style="font-style:normal;font-size:smaller"><a href="/wiki/Wikipedia:WikiProject_Academic_Journals/Writing_guide" title="Wikipedia:WikiProject Academic Journals/Writing guide">See tips for writing articles about academic journals</a>. Further suggestions might be found on the article's <a href="/wiki/Talk:Energy_Policy_(journal)" title="Talk:Energy Policy (journal)">talk page</a>.</span></td>
+</tr>
+</table>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:43424526-0!*!0!!*!4!* and timestamp 20161107114609 and revision id 662163942
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Energy_Policy_(journal)&amp;oldid=662163942">https://en.wikipedia.org/w/index.php?title=Energy_Policy_(journal)&amp;oldid=662163942</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Elsevier_academic_journals" title="Category:Elsevier academic journals">Elsevier academic journals</a></li><li><a href="/wiki/Category:Publications_established_in_1973" title="Category:Publications established in 1973">Publications established in 1973</a></li><li><a href="/wiki/Category:English-language_journals" title="Category:English-language journals">English-language journals</a></li><li><a href="/wiki/Category:Energy_and_fuel_journals" title="Category:Energy and fuel journals">Energy and fuel journals</a></li><li><a href="/wiki/Category:Monthly_journals" title="Category:Monthly journals">Monthly journals</a></li><li><a href="/wiki/Category:Energy_stubs" title="Category:Energy stubs">Energy stubs</a></li><li><a href="/wiki/Category:Engineering_journal_stubs" title="Category:Engineering journal stubs">Engineering journal stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_outdated_impact_factors_from_2013" title="Category:Articles with outdated impact factors from 2013">Articles with outdated impact factors from 2013</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

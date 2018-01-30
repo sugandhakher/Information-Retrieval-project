@@ -1,0 +1,79 @@
+energyconsumption
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Energy_consumption&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(February 2013)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p><b>Energy consumption</b> is the consumption of <a href="/wiki/Energy" title="Energy">energy</a> or <a href="/wiki/Power_(physics)" title="Power (physics)">power</a>.</p>
+<p>It is covered in the following articles:</p>
+<ul>
+<li><a href="/wiki/Worldwide_energy_supply" title="Worldwide energy supply">Worldwide energy supply</a></li>
+<li><a href="/wiki/World_energy_consumption" title="World energy consumption">World energy consumption</a></li>
+<li><a href="/wiki/Domestic_energy_consumption" title="Domestic energy consumption">Domestic energy consumption</a></li>
+<li><a href="/wiki/Electric_energy_consumption" title="Electric energy consumption">Electric energy consumption</a></li>
+</ul>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Effects_of_energy_consumption"><span class="tocnumber">1</span> <span class="toctext">Effects of energy consumption</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Reduction_of_energy_consumption"><span class="tocnumber">2</span> <span class="toctext">Reduction of energy consumption</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Effects_of_energy_consumption">Effects of energy consumption</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_consumption&amp;action=edit&amp;section=1" title="Edit section: Effects of energy consumption">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Environmental_impact_of_the_energy_industry" title="Environmental impact of the energy industry">Environmental impact of the energy industry</a>
+<ul>
+<li><a href="/wiki/Global_warming" title="Global warming">Global warming</a></li>
+</ul>
+</li>
+<li><a href="/wiki/White%27s_law" title="White's law">White's law</a></li>
+</ul>
+<h2><span class="mw-headline" id="Reduction_of_energy_consumption">Reduction of energy consumption</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_consumption&amp;action=edit&amp;section=2" title="Edit section: Reduction of energy consumption">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a>, the practice of decreasing the quantity of energy used</li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_consumption&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a class="image" href="/wiki/File:Wikibooks-logo-en-noslogan.svg"><img alt="" class="noviewer" data-file-height="400" data-file-width="400" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/60px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/80px-Wikibooks-logo-en-noslogan.svg.png 2x" width="40"/></a></td>
+<td class="mbox-text plainlist">Wikibooks has a book on the topic of: <i><b><a class="extiw" href="//en.wikibooks.org/wiki/How_to_reduce_energy_usage" title="wikibooks:How to reduce energy usage">How to reduce energy usage</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Energy efficiency</a>
+<ul>
+<li><a href="/wiki/Energy_efficiency_in_transportation" title="Energy efficiency in transportation">Energy efficiency in transportation</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Energy_consumption_measurement" title="Energy consumption measurement">Energy consumption measurement</a></li>
+<li><a href="/wiki/Electricity_generation" title="Electricity generation">Electricity generation</a></li>
+<li><a href="/wiki/Energy_mix" title="Energy mix">Energy mix</a></li>
+<li><a href="/wiki/Energy_transformation" title="Energy transformation">Energy transformation</a></li>
+<li><a href="/wiki/Energy_policy" title="Energy policy">Energy policy</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_consumption&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://trendeconomy.com/en/industries/Energy_Consumption" rel="nofollow">Energy consumption: statistics by country</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4809279-0!*!0!!en!4!* and timestamp 20161027101200 and revision id 746427852
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Energy_consumption&amp;oldid=746427852">https://en.wikipedia.org/w/index.php?title=Energy_consumption&amp;oldid=746427852</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Energy_consumption" title="Category:Energy consumption">Energy consumption</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_sources_from_February_2013" title="Category:Articles lacking sources from February 2013">Articles lacking sources from February 2013</a></li><li><a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">All articles lacking sources</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

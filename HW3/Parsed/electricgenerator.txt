@@ -1,0 +1,259 @@
+electricgenerator
+from wikipedia  the free encyclopedia
+jump to 					 
+this article is about electromagnetic power generation  for electrostatic generators like the van de graaff machine  see  
+u s 
+image of a modern steam turbine generator  stg  
+in   a generator is a device that converts
+to
+for use in an external   sources of mechanical energy include      
+and even hand   the first electromagnetic generator  the faraday disk  was built in 1831 by british scientist   generators provide nearly all of the power for  
+the reverse conversion of electrical energy into mechanical energy is done by an   and motors and generators have many similarities  many motors can be mechanically driven to generate electricity and frequently make acceptable manual generators 
+contents
+terminology  
+early
+generator in    
+electromagnetic generators fall into one of two broad categories  dynamos and alternators 
+generate   usually with voltage or current fluctuations  usually through the use of a
+generate   which may be rectified by another  external or directly incorporated  system 
+mechanically a generator consists of a rotating part and a stationary part
+  the rotating part of an
+  the stationary part of an electrical machine  which surrounds the rotor
+electrically  generators contain two sets of wire windings
+  the power-producing component of an electrical machine  in a generator  alternator  or dynamo the armature windings generate the electric current  the armature can be on either the rotor or the stator 
+  the magnetic field producing component of an electrical machine  the magnetic field of the dynamo or alternator can be provided by either wire windings called
+or permanent magnets  mounted on either the rotor or the stator 
+history  
+before the connection between
+and
+was discovered 
+were invented  they operated on
+principles  by using moving
+belts  plates  and disks that carried charge to a high potential electrode  the charge was generated using either of two mechanisms 
+or the   such generators generated very high
+and low   because of their inefficiency and the difficulty of
+machines that produced very high voltages  electrostatic generators had low power ratings  and were never used for generation of commercially significant quantities of electric power  their only practical applications were to power early   and later in some atomic  
+faraday disk generator  
+the
+was the first electric generator  the horseshoe-shaped magnet  a  created a magnetic field through the disk  d   when the disk was turned  this induced an electric current radially outward from the center toward the rim  the current flowed out through the sliding spring contact m  through the external circuit  and back into the center of the disk through the axle 
+main article 
+the operating principle of electromagnetic generators was discovered in the years of 18311832 by   the principle  later called   is that an
+is generated in an electrical conductor which encircles a varying  
+he also built the first electromagnetic generator  called the   a type of   using a
+disc rotating between the poles of a horseshoe   it produced a small  
+this design was inefficient  due to self-cancelling counterflows of
+in regions that were not under the influence of the magnetic field  while current was induced directly underneath the magnet  the current would circulate backwards in regions that were outside the influence of the magnetic field  this counterflow limited the power output to the pickup wires  and induced waste heating of the copper disc  later homopolar generators would solve this problem by using an array of magnets arranged around the disc perimeter to maintain a steady field effect in one current-flow direction 
+another disadvantage was that the output
+was very low  due to the single current path through the magnetic flux  experimenters found that using multiple turns of wire in a coil could produce higher  more useful voltages  since the output voltage is proportional to the number of turns  generators could be easily designed to produce any desired voltage by varying the number of turns  wire windings became a basic feature of all subsequent generator designs 
+independently of faraday  the hungarian
+started experimenting in 1827 with the electromagnetic rotating devices which he called   in the prototype of the single-pole electric starter  finished between 1852 and 1854  both the stationary and the revolving parts were electromagnetic  he also may have formulated the concept of the
+in 1861  before
+and   but didn t patent it as he thought he wasn t the first to realize this 
+direct current generators  
+main article 
+this large belt-driven high-current
+produced 310 amperes at 7 volts  dynamos are no longer used due to the size and complexity of the
+needed for high power applications 
+the
+was the first electrical generator capable of delivering power for industry  the dynamo uses
+to convert mechanical rotation into
+through the use of a   an early dynamo was built by
+in 1832 
+in
+the
+of 1844  now in   is the earliest electrical generator used in an industrial process  it was used by the firm of
+for commercial  
+the modern dynamo  fit for use in industrial applications  was invented independently by  
+and samuel alfred varley  varley took out a patent on 24 december 1866  while siemens and wheatstone both announced their discoveries on 17 january 1867  the latter delivering a paper on his discovery to the  
+the  dynamo-electric machine  employed self-powering electromagnetic field coils rather than permanent magnets to create the stator field  wheatstone s design was similar to siemens   with the difference that in the siemens design the stator electromagnets were in series with the rotor  but in wheatstone s design they were in parallel  the use of electromagnets rather than permanent magnets greatly increased the power output of a dynamo and enabled high power generation for the first time  this invention led directly to the first major industrial uses of electricity  for example  in the 1870s siemens used electromagnetic dynamos to power
+for the production of metals and other materials 
+the dynamo machine that was developed consisted of a stationary structure  which provides the magnetic field  and a set of rotating windings which turn within that field  on larger machines the constant magnetic field is provided by one or more electromagnets  which are usually called field coils 
+large power generation dynamos are now rarely seen due to the now nearly universal use of
+for power distribution  before the adoption of ac  very large direct-current dynamos were the only means of power generation and distribution  ac has come to dominate due to the ability of ac to be easily
+to and from very high voltages to permit low losses over large distances 
+alternating current generators  
+main article 
+  c  1900 
+through a series of discoveries  the dynamo was succeeded by many later inventions  especially the ac   which was capable of generating  
+alternating current generating systems were known in simple forms from  s original discovery of the   faraday himself built an early alternator  his machine was a  rotating rectangle   whose operation was heteropolar - each active conductor passed successively through regions where the magnetic field was in opposite directions 
+large two-phase alternating current generators were built by a british electrician    in 1882  the first public demonstration of an  alternator system  was given by   an employee of
+in 1886 
+established ferranti  thompson and ince in 1882  to market his ferranti-thompson alternator  invented with the help of renowned physicist   his early alternators produced frequencies between 100 and 300   ferranti went on to design the
+for the london electric supply corporation in 1887 using an alternating current system  on its completion in 1891  it was the first truly modern power station  supplying high-voltage ac power that was then  stepped down  for consumer use on each street  this basic system remains in use today around the world 
+a small early 1900s 75
+direct-driven power station ac alternator  with a separate belt-driven exciter generator 
+after 1891 
+alternators were introduced to supply currents of multiple differing phases  later alternators were designed for varying alternating-current frequencies between sixteen and about one hundred hertz  for use with arc lighting  incandescent lighting and electric motors 
+self-excitation  
+main article 
+as the requirements for larger scale power generation increased  a new limitation rose  the magnetic fields available from permanent magnets  diverting a small amount of the power generated by the generator to an electromagnetic
+allowed the generator to produce substantially more power  this concept was dubbed  
+the field coils are connected in series or parallel with the armature winding  when the generator first starts to turn  the small amount of
+present in the iron core provides a magnetic field to get it started  generating a small current in the armature  this flows through the field coils  creating a larger magnetic field which generates a larger armature current  this  bootstrap  process continues until the magnetic field in the core levels off due to
+and the generator reaches a steady state power output 
+very large power station generators often utilize a separate smaller generator to excite the field coils of the larger  in the event of a severe widespread
+where
+of power stations has occurred  the stations may need to perform a
+to excite the fields of their largest generators  in order to restore customer power service 
+specialized types of generator  
+direct current  
+homopolar generator  
+main article 
+a homopolar generator is a
+comprising an electrically conductive disc or cylinder rotating in a plane perpendicular to a uniform static magnetic field  a potential difference is created between the center of the disc and the rim  or ends of the cylinder   the
+depending on the direction of rotation and the orientation of the field 
+it is also known as a unipolar generator  acyclic generator  disk dynamo  or faraday disc  the voltage is typically low  on the order of a few volts in the case of small demonstration models  but large research generators can produce hundreds of volts  and some systems have multiple generators in series to produce an even larger voltage  they are unusual in that they can produce tremendous electric current  some more than a million   because the homopolar generator can be made to have very low internal resistance 
+mhd generator  
+main article 
+a magnetohydrodynamic generator directly extracts electric power from moving hot gases through a magnetic field  without the use of rotating electromagnetic machinery  mhd generators were originally developed because the output of a plasma mhd generator is a flame  well able to heat the boilers of a
+  the first practical design was the avco mk  25  developed in 1965  the u s  government funded substantial development  culminating in a 25 mw demonstration plant in 1987  in the
+from 1972 until the late 1980s  the mhd plant u 25 was in regular commercial operation on the moscow power system with a rating of 25 mw  the largest mhd plant rating in the world at that time  mhd generators operated as a
+are currently  2007  less efficient than
+ 
+alternating current  
+induction generator  
+main article 
+some
+may be used as generators  turning mechanical energy into electric current  induction generators operate by mechanically turning their rotor faster than the synchronous speed  giving negative slip  a regular ac asynchronous motor usually can be used as a generator  without any internal modifications  induction generators are useful in applications such as minihydro power plants  wind turbines  or in reducing high-pressure gas streams to lower pressure  because they can recover energy with relatively simple controls 
+to operate  an induction generator must be excited with a leading voltage  this is usually done by connection to an electrical grid  or sometimes they are self-excited by using phase correcting capacitors 
+linear electric generator  
+main article 
+in the simplest form of linear electric generator  a sliding
+moves back and forth through a
+- a spool of copper wire  an
+is induced in the loops of wire by
+each time the magnet slides through  this type of generator is used in the   larger linear electricity generators are used in
+schemes 
+variable speed constant frequency generators  
+many
+efforts attempt to harvest natural sources of mechanical energy  wind  tides  etc   to produce electricity  because these sources fluctuate in power applied  standard generators using permanent magnets and fixed windings would deliver unregulated voltage and frequency  the overhead of regulation  whether before the generator via gear reduction or after generation by electrical means  is high in proportion to the naturally-derived energy available 
+new generator designs such as the   the   or the
+are seeing success in variable speed constant frequency applications  such as
+or other   these systems thus offer cost  reliability and efficiency benefits in certain use cases 
+common use cases  
+vehicular generators  
+roadway vehicles  
+main article 
+motor vehicles require electrical energy to power their instrumentation  keep the engine itself operating  and recharge their batteries  until about the 1960s motor vehicles tended to use
+with electromechanical regulators  following the historical trend above and for many of the same reasons  these have now been replaced by
+with built-in
+circuits 
+bicycles  
+bicycles require energy to power running lights and other equipment  there are two common kinds of generator in use on bicycles 
+which engage the bicycle s tire on an as-needed basis  and
+which are directly attached to the bicycle s drive train  in reality  neither of these is a dynamo  properly speaking - they are small permanent-magnet alternators 
+sailboats  
+sailing boats may use a water- or wind-powered generator to trickle-charge the batteries  a small  
+or
+is connected to a low-power generator to supply currents at typical wind or cruising speeds 
+genset  
+main article 
+an engine-generator is the combination of an electrical generator and an
+   mounted together to form a single piece of self-contained equipment  the engines used are usually piston engines  but gas turbines can also be used  and there are even hybrid diesel-gas units  called dual-fuel units  many different versions of engine-generators are available - ranging from very small portable
+powered sets to large turbine installations  the primary advantage of engine-generators is the ability to independently supply electricity  allowing the units to serve as backup power solutions 
+human powered electrical generators  
+main article 
+a generator can also be driven by human muscle power  for instance  in field radio station equipment  
+protesters at
+using bicycles connected to a motor and one-way diode to charge batteries for their electronics
+human powered direct current generators are commercially available  and have been the project of some
+enthusiasts  typically operated by means of pedal power  a converted bicycle trainer  or a foot pump  such generators can be practically used to charge batteries  and in some cases are designed with an integral inverter  an average  healthy human  can produce a steady 75 watts  0.1 horsepower  for a full eight hour period  while a  first class athlete  can produce approximately 298 watts  0.4 horsepower  for a similar period  at the end of which an undetermined period of rest and recovery will be required  at 298 watts the average  healthy human  becomes exhausted within 10 minutes  it is important to note that the power figures referenced above are for direct human output and not the electrical power that can be generated from it  portable radio receivers with a crank are made to reduce battery purchase requirements  see   during the mid 20th century  pedal powered radios were used throughout the   to provide schooling     medical and other needs in remote stations and towns 
+mechanical measurement  
+designed to measure shaft speed  a tachogenerator is a device which produces an output voltage proportional to that speed  tachogenerators are frequently used to power
+to measure the speeds of electric motors  engines  and the equipment they power  speed  with precise construction and design  generators can be built to produce very precise voltages for certain ranges of shaft speeds   
+equivalent circuit  
+equivalent circuit of generator and load 
+g   generator
+vg generator open-circuit voltage
+rg generator internal resistance
+vl generator on-load voltage
+rl load resistance
+an
+of a generator and load is shown in the diagram to the right  the generator is represented by an
+consisting of an ideal
+and an internal resistance  the generator s
+v
+g
+  displaystyle v  g  
+and
+r
+g
+  displaystyle r  g  
+parameters can be determined by measuring the winding resistance  corrected to    and measuring the open-circuit and loaded voltage for a defined current load 
+this is the simplest model of a generator  further elements may need to be added for an accurate representation  in particular  inductance can be added to allow for the machine s windings and magnetic leakage flux  but a full representation can become much more complex than this 
+see also  
+references  
+augustus heller  2 april 1896     nature  norman lockyer  53  1379   516      
+birmingham museums trust catalogue  accession number  1889s00044
+thomas  john meurig  1991   michael faraday and the royal institution  the genius of man and place  bristol  hilger  p 51   
+beauchamp  k g  1997   exhibiting electricity  iet  p 90   
+hunt  l  b   march 1973    the early history of gold plating   gold bulletin  6  1   1627    
+berliner berichte  january 1867  missing or empty  title    
+  february 14  1867  missing or empty  title    
+thompson  sylvanus p   dynamo-electric machinery  pp  7
+blalock  thomas j       ieee history center  ieee milestone   ed  first practical demonstration of a dc generator - ac transformer system  
+
+ accessed 22-02-2012 
+thompson  sylvanus p   dynamo-electric machinery  pp  17
+thompson  sylvanus p   dynamo-electric machinery  pp  16
+losty  h h w   lewis  d l   1973  homopolar machines  philosophical transactions for the royal society of london  series a  mathematical and physical sciences  275  1248   69-75
+langdon crane  magnetohydrodynamic  mhd  power generator  more energy from less fuel  issue brief number ib74057  library of congress congressional research service  1981  retrieved from
+18 july 2008
+  wpowerproducts com  10 may 2011  retrieved 2012-08-24 
+  colin moynihan  new york times  30 october 2011  accessed 2 november 2011
+  ohio edu  retrieved 2012-08-24 
+geoff klempner  isidor kerszenbaum   1.7.4 equivalent circuit   handbook of large turbo-generator operation and maintenance  john wiley   sons  2011  kindle edition   
+yoshihide hase   10  theory of generators   handbook of power system engineering  john wiley   sons  2007  
+external links  
+wikimedia commons has media related to  
+ac -
+dc -
+pm -
+sc - self-
+fundamental types
+dc motors
+ac sc mechanical
+commutator
+ac sc electronic
+commutator
+ac
+ac
+special magnetic
+machines
+non-magnetic
+enclosure type
+components and
+accessories
+history  education 
+recreational use
+experimental  futuristic
+related topics
+people
+see also
+electric generator
+c -
+q -
+g  b  y -
+     -
+i -
+d -
+e -
+e -
+e -
+u  v    e -
+l  m -
+h -
+strength
+ -
+b -
+ -
+ -
+ -
+p -
+r  x  z -
+ -
+ 
+ 
+ 
+retrieved from   
+  hidden categories 

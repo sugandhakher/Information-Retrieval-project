@@ -1,0 +1,170 @@
+councilofaustraliangovernments
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="hatnote" role="note">"COAG" redirects here. For other uses, see <a class="mw-disambig" href="/wiki/COAG_(disambiguation)" title="COAG (disambiguation)">COAG (disambiguation)</a>.</div>
+<p>The <b>Council of Australian Governments</b> (<b>COAG</b>) is an organisation consisting of the <a href="/wiki/Government_of_Australia" title="Government of Australia">federal government</a>, the governments of the <a href="/wiki/States_and_territories_of_Australia" title="States and territories of Australia">six states and two mainland territories</a> and the <a href="/wiki/Australian_Local_Government_Association" title="Australian Local Government Association">Australian Local Government Association</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Current_membership"><span class="tocnumber">2</span> <span class="toctext">Current membership</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#COAG_and_state_finances"><span class="tocnumber">3</span> <span class="toctext">COAG and state finances</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#List_of_COAG_councils"><span class="tocnumber">3.1</span> <span class="toctext">List of COAG councils</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Reports"><span class="tocnumber">4</span> <span class="toctext">Reports</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Criticism"><span class="tocnumber">5</span> <span class="toctext">Criticism</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Council_of_Australian_Governments&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>COAG was established in May 1992 after agreement by the then <a href="/wiki/Prime_Minister_of_Australia" title="Prime Minister of Australia">Prime Minister</a> (<a href="/wiki/Paul_Keating" title="Paul Keating">Paul Keating</a>), premiers and chief ministers, and it first met in December 1992. It is chaired by the Prime Minister. It meets to debate and co-ordinate government activities between the federal and state or territorial governments and between the state and territorial governments themselves as well as issues affecting local government.</p>
+<p>COAG grew out of the Premiers' Conferences, which had been held for many decades. These were limited to the premiers of the six states and the Prime Minister.</p>
+<p>A related organisation is the <a href="/wiki/Loan_Council" title="Loan Council">Loan Council</a>, which coordinates borrowing by the federal and state and territorial governments of Australia.</p>
+<p>COAG differs from the <a href="/wiki/United_States" title="United States">U.S.</a>'s <a href="/wiki/National_Governors_Association" title="National Governors Association">National Governors Association</a> or <a href="/wiki/Canada" title="Canada">Canada</a>'s <a class="mw-redirect" href="/wiki/Council_of_the_Federation_(Canada)" title="Council of the Federation (Canada)">Council of the Federation</a>, because these bodies only include state/provincial representatives, whereas COAG also includes federal and local representatives.</p>
+<h2><span class="mw-headline" id="Current_membership">Current membership</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Council_of_Australian_Governments&amp;action=edit&amp;section=2" title="Edit section: Current membership">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="sortable wikitable">
+<tr>
+<th>Name</th>
+<th>Office held</th>
+<th>In office since</th>
+<th colspan="2">Party</th>
+</tr>
+<tr>
+<td><a href="/wiki/Malcolm_Turnbull" title="Malcolm Turnbull">Malcolm Turnbull</a> <a href="/wiki/Australian_House_of_Representatives" title="Australian House of Representatives">MP</a></td>
+<td><a href="/wiki/Prime_Minister_of_Australia" title="Prime Minister of Australia">Prime Minister</a> of <a href="/wiki/Australia" title="Australia">Australia</a></td>
+<td><span class="sortkey" style="display:none;speak:none">000000002015-09-15-0000</span><span style="white-space:nowrap">15 September 2015</span></td>
+<td bgcolor="#080CAB"> </td>
+<td><a href="/wiki/Liberal_Party_of_Australia" title="Liberal Party of Australia">Liberal</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Mike_Baird_(politician)" title="Mike Baird (politician)">Mike Baird</a> <a href="/wiki/New_South_Wales_Legislative_Assembly" title="New South Wales Legislative Assembly">MP</a></td>
+<td><a href="/wiki/Premier_of_New_South_Wales" title="Premier of New South Wales">Premier</a> of <a href="/wiki/New_South_Wales" title="New South Wales">New South Wales</a></td>
+<td><span class="sortkey" style="display:none;speak:none">000000002014-04-17-0000</span><span style="white-space:nowrap">17 April 2014</span></td>
+<td bgcolor="#080CAB"> </td>
+<td><a href="/wiki/Liberal_Party_of_Australia" title="Liberal Party of Australia">Liberal</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Daniel_Andrews" title="Daniel Andrews">Daniel Andrews</a> <a href="/wiki/Victorian_Legislative_Assembly" title="Victorian Legislative Assembly">MP</a></td>
+<td><a href="/wiki/Premier_of_Victoria" title="Premier of Victoria">Premier</a> of <a href="/wiki/Victoria_(Australia)" title="Victoria (Australia)">Victoria</a></td>
+<td><span class="sortkey" style="display:none;speak:none">000000002014-12-04-0000</span><span style="white-space:nowrap">4 December 2014</span></td>
+<td bgcolor="#F00011"> </td>
+<td><a href="/wiki/Australian_Labor_Party" title="Australian Labor Party">Labor</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Annastacia_Palaszczuk" title="Annastacia Palaszczuk">Annastacia Palaszczuk</a> <a href="/wiki/Legislative_Assembly_of_Queensland" title="Legislative Assembly of Queensland">MP</a></td>
+<td><a href="/wiki/Premier_of_Queensland" title="Premier of Queensland">Premier</a> of <a href="/wiki/Queensland" title="Queensland">Queensland</a></td>
+<td><span class="sortkey" style="display:none;speak:none">000000002015-02-14-0000</span><span style="white-space:nowrap">14 February 2015</span></td>
+<td bgcolor="#F00011"> </td>
+<td><a href="/wiki/Australian_Labor_Party" title="Australian Labor Party">Labor</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Colin_Barnett" title="Colin Barnett">Colin Barnett</a> <a href="/wiki/Western_Australian_Legislative_Assembly" title="Western Australian Legislative Assembly">MLA</a></td>
+<td><a href="/wiki/Premier_of_Western_Australia" title="Premier of Western Australia">Premier</a> of <a href="/wiki/Western_Australia" title="Western Australia">Western Australia</a></td>
+<td><span class="sortkey" style="display:none;speak:none">000000002008-09-23-0000</span><span style="white-space:nowrap">23 September 2008</span></td>
+<td bgcolor="#080CAB"> </td>
+<td><a href="/wiki/Liberal_Party_of_Australia" title="Liberal Party of Australia">Liberal</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Jay_Weatherill" title="Jay Weatherill">Jay Weatherill</a> <a href="/wiki/South_Australian_House_of_Assembly" title="South Australian House of Assembly">MHA</a></td>
+<td><a href="/wiki/Premier_of_South_Australia" title="Premier of South Australia">Premier</a> of <a href="/wiki/South_Australia" title="South Australia">South Australia</a></td>
+<td><span class="sortkey" style="display:none;speak:none">000000002011-10-21-0000</span><span style="white-space:nowrap">21 October 2011</span></td>
+<td bgcolor="#F00011"> </td>
+<td><a href="/wiki/Australian_Labor_Party" title="Australian Labor Party">Labor</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Will_Hodgman" title="Will Hodgman">Will Hodgman</a> <a href="/wiki/Tasmanian_House_of_Assembly" title="Tasmanian House of Assembly">MHA</a></td>
+<td><a href="/wiki/Premier_of_Tasmania" title="Premier of Tasmania">Premier</a> of <a href="/wiki/Tasmania" title="Tasmania">Tasmania</a></td>
+<td><span class="sortkey" style="display:none;speak:none">000000002014-03-31-0000</span><span style="white-space:nowrap">31 March 2014</span></td>
+<td bgcolor="#080CAB"> </td>
+<td><a href="/wiki/Liberal_Party_of_Australia" title="Liberal Party of Australia">Liberal</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Andrew_Barr" title="Andrew Barr">Andrew Barr</a> <a href="/wiki/Australian_Capital_Territory_Legislative_Assembly" title="Australian Capital Territory Legislative Assembly">MLA</a></td>
+<td><a href="/wiki/Chief_Minister_of_the_Australian_Capital_Territory" title="Chief Minister of the Australian Capital Territory">Chief Minister</a> of the <a href="/wiki/Australian_Capital_Territory" title="Australian Capital Territory">Australian Capital Territory</a></td>
+<td><span class="sortkey" style="display:none;speak:none">000000002014-12-11-0000</span><span style="white-space:nowrap">11 December 2014</span></td>
+<td bgcolor="#F00011"> </td>
+<td><a href="/wiki/Australian_Labor_Party" title="Australian Labor Party">Labor</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Michael_Gunner" title="Michael Gunner">Michael Gunner</a> <a href="/wiki/Northern_Territory_Legislative_Assembly" title="Northern Territory Legislative Assembly">MLA</a></td>
+<td><a href="/wiki/Chief_Minister_of_the_Northern_Territory" title="Chief Minister of the Northern Territory">Chief Minister</a> of the <a href="/wiki/Northern_Territory" title="Northern Territory">Northern Territory</a></td>
+<td><span class="sortkey" style="display:none;speak:none">000000002016-08-31-0000</span><span style="white-space:nowrap">31 August 2016</span></td>
+<td bgcolor="#F00011"> </td>
+<td><a class="mw-redirect mw-disambig" href="/wiki/Labor" title="Labor">Labor</a></td>
+</tr>
+<tr>
+<td>Cr Troy Pickard</td>
+<td>President of the <a href="/wiki/Australian_Local_Government_Association" title="Australian Local Government Association">Australian Local Government Association</a><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td>
+<td><span class="sortkey" style="display:none;speak:none">000000002014-09-01-0000</span><span style="white-space:nowrap">September 2014</span></td>
+<td bgcolor="#888888"> </td>
+<td>n/a</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="COAG_and_state_finances">COAG and state finances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Council_of_Australian_Governments&amp;action=edit&amp;section=3" title="Edit section: COAG and state finances">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote" role="note">Further information: <a href="/wiki/Commonwealth_Grants_Commission" title="Commonwealth Grants Commission">Commonwealth Grants Commission</a> and <a href="/wiki/Fiscal_imbalance_in_Australia" title="Fiscal imbalance in Australia">Fiscal imbalance in Australia</a></div>
+<p><a href="/wiki/Australia" title="Australia">Australia</a> is believed to be the first federation to have introduced a formal system of <a href="/wiki/Equalization_payments" title="Equalization payments">horizontal fiscal equalisation</a> (HFE) which was introduced in 1933 to compensate <a class="mw-redirect" href="/wiki/States_of_Australia" title="States of Australia">States</a> which have a lower capacity to raise revenue. Many federations use fiscal equalisation to reduce the inequalities in the fiscal capacities of sub-national governments arising from the differences in their geography, demography, natural endowments and economies. However the level of equalisation sought varies. In Australia, the objective is full equalisation.</p>
+<p>Full equalisation means that, after HFE, each of the six states, the Australian Capital Territory and the Northern Territory would have the capacity to provide services and the associated infrastructure at the same standard, if each state or territory made the same effort to raise revenue from its own sources and operated at the same level of efficiency.</p>
+<p>Currently the funds distributed to achieve HFE are the revenues raised from the <a class="mw-redirect" href="/wiki/Goods_and_Services_Tax_(Australia)" title="Goods and Services Tax (Australia)">Goods and Services Tax</a> (GST), currently about AUD50bn a year. The distribution of GST required to achieve HFE is decided by the Federal Treasurer each year, on the basis of advice provided by the <a href="/wiki/Commonwealth_Grants_Commission" title="Commonwealth Grants Commission">Commonwealth Grants Commission</a> (CGC).</p>
+<p>Achieving HFE does not mean that the states and territories are directed how to raise revenue or how to spend their funds. GST revenue grants from the Commonwealth are unencumbered and available for any purpose. Accordingly, HFE equalises fiscal capacity, not fiscal policies which remain for the states and territories to decide for themselves. It does not result in the same level of services or taxes in all states and territories, direct that the states and territories must achieve any specified level of service in any area, nor impose actual budget outcomes in accordance with the Commission's calculations.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p>At its meeting on 13 December 2013, COAG agreed to streamline the COAG council system and refocus on COAG's priorities over the next 12 to 18 months.</p>
+<h3><span class="mw-headline" id="List_of_COAG_councils">List of COAG councils</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Council_of_Australian_Governments&amp;action=edit&amp;section=4" title="Edit section: List of COAG councils">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There are now eight COAG councils:</p>
+<ul>
+<li>Federal Financial Relations Council;</li>
+<li>Disability Reform Council;</li>
+<li>Transport and Infrastructure Council;</li>
+<li>Energy Council;</li>
+<li>Industry and Skills Council;</li>
+<li>Law, Crime and Community Safety Council;</li>
+<li>Education Council; and</li>
+<li>Health Council</li>
+</ul>
+<p>There is no longer a distinction between standing and select councils, as all councils are time-limited.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<p>The Select Council on Disability Reform expired on 31 December 2012 due to the passage of <a href="/wiki/National_Disability_Insurance_Scheme" title="National Disability Insurance Scheme">National Disability Insurance Scheme</a> legislation.</p>
+<h2><span class="mw-headline" id="Reports">Reports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Council_of_Australian_Governments&amp;action=edit&amp;section=5" title="Edit section: Reports">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On 30 August 2012, COAG released its <a class="external text" href="http://www.coag.gov.au/node/451" rel="nofollow">Housing Supply and Affordability Reform</a> report, proposing reforms to increase housing affordability in Australia. The report omitted the fact that of the 20% of Australia (more than 1,500,000km2) owned by Aboriginals and Torres Strait Islanders, they are not allowed to own their own home.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="Criticism">Criticism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Council_of_Australian_Governments&amp;action=edit&amp;section=6" title="Edit section: Criticism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2012 a group of 20 environmental organisations release a joint communiqué denouncing the establishment of the COAG Business Advisory Forum and wanted wider representation on the Forum. The groups also opposed the weakening of environmental regulations.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Council_of_Australian_Governments&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Fiscal_imbalance_in_Australia" title="Fiscal imbalance in Australia">Fiscal imbalance in Australia</a></li>
+<li><a href="/wiki/Inter-State_Commission" title="Inter-State Commission">Inter-State Commission</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Council_of_Australian_Governments&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Australian Local Government Association (2010). <a class="external text" href="http://www.alga.asn.au/?ID=58&amp;Menu=41,305" rel="nofollow">"President: Australian Local Government Association"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-31</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACouncil+of+Australian+Governments&amp;rft.au=Australian+Local+Government+Association&amp;rft.btitle=President%3A+Australian+Local+Government+Association&amp;rft.date=2010&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.alga.asn.au%2F%3FID%3D58%26Menu%3D41%2C305&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.cgc.gov.au/" rel="nofollow">Commonwealth Grants Commission</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external free" href="https://www.coag.gov.au/coag_councils" rel="nofollow">https://www.coag.gov.au/coag_councils</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.cis.org.au/publications/policy-monographs/article/2257-private-housing-on-indigenous-lands" rel="nofollow">Centre for Independent Studies, 'Private Housing on Indigenous Lands'</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://www.ens-newswire.com/ens/jun2012/2012-06-05-01.html" rel="nofollow">"Australian Groups Protest Business 'Attack' on Environmental Laws"</a>. Canberra, Australia: Environment News Service. 5 June 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">11 June</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACouncil+of+Australian+Governments&amp;rft.atitle=Australian+Groups+Protest+Business+%27Attack%27+on+Environmental+Laws&amp;rft.date=2012-06-05&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ens-newswire.com%2Fens%2Fjun2012%2F2012-06-05-01.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Council_of_Australian_Governments&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a class="image" href="/wiki/File:Wikinews-logo.svg"><img alt="" class="noviewer" data-file-height="415" data-file-width="759" height="22" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/40px-Wikinews-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/60px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/80px-Wikinews-logo.svg.png 2x" width="40"/></a></td>
+<td class="mbox-text plainlist">Wikinews has related news: <i><b><a class="extiw" href="https://en.wikinews.org/wiki/Australian_governments_to_meet_for_first_COAG_meeting_of_2006_today" title="wikinews:Australian governments to meet for first COAG meeting of 2006 today">Australian governments to meet for first COAG meeting of 2006 today</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.coag.gov.au" rel="nofollow">Council of Australian Governments</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1650877-0!*!0!!en!4!* and timestamp 20161110041111 and revision id 740648046
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Council_of_Australian_Governments&amp;oldid=740648046">https://en.wikipedia.org/w/index.php?title=Council_of_Australian_Governments&amp;oldid=740648046</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Government_of_Australia" title="Category:Government of Australia">Government of Australia</a></li><li><a href="/wiki/Category:1992_establishments_in_Australia" title="Category:1992 establishments in Australia">1992 establishments in Australia</a></li><li><a href="/wiki/Category:Organizations_established_in_1992" title="Category:Organizations established in 1992">Organizations established in 1992</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

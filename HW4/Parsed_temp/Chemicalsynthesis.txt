@@ -1,0 +1,98 @@
+chemicalsynthesis
+from wikipedia  the free encyclopedia
+jump to 					navigation  					search
+this article has multiple issues  please help improve it or discuss these issues on the talk page   learn how and when to remove these template messages 
+this article needs attention from an expert in chemistry  the specific problem is  the article is essentially an unsourced essay of lowest standard that is in defiance of wp verify and so fails at being encyclopedic  see the talk page for details  wikiproject chemistry  or its portal  may be able to help recruit an expert   march 2016 
+this article is written like a personal reflection or opinion essay that states a wikipedia editor s personal feelings about a topic  please help improve it by rewriting it in an encyclopedic style   march 2016   learn how and when to remove this template message 
+this article s factual accuracy is disputed  please help to ensure that disputed statements are reliably sourced  see the relevant discussion on the talk page   march 2016   learn how and when to remove this template message 
+this article possibly contains original research  please improve it by verifying the claims made and adding inline citations  statements consisting only of original research should be removed   march 2016   learn how and when to remove this template message 
+this article needs additional citations for verification  please help improve this article by adding citations to reliable sources  unsourced material may be challenged and removed   march 2016   learn how and when to remove this template message 
+this article cites its sources but does not provide page references  you can help to improve it by introducing citations that are more precise   march 2016   learn how and when to remove this template message 
+ learn how and when to remove this template message 
+chemical synthesis is a purposeful execution of chemical reactions to obtain a product  or several products   1  this happens by physical and chemical manipulations usually involving one or more reactions  in modern laboratory usage  this tends to imply that the process is reproducible  reliable  and established to work in multiple laboratories 
+contents
+1 introduction
+2 strategies
+3 organic synthesis
+4 inorganic synthesis
+4.1 tradition inorganic preparations
+4.2 organometallic synthesis
+5 see also
+6 references
+7 external links
+introduction edit 
+this article has multiple issues  please help improve it or discuss these issues on the talk page   learn how and when to remove these template messages 
+this section s factual accuracy is disputed  please help to ensure that disputed statements are reliably sourced  see the relevant discussion on the talk page   march 2016   learn how and when to remove this template message 
+this section contains information of unclear or questionable importance or relevance to the article s subject matter  please help improve this section by clarifying or removing superfluous information  if importance cannot be established  the section is likely to be moved to another article  pseudo-redirected  or removed 
+find sources  chemical synthesis news newspapers books scholar jstor free images  march 2016   learn how and when to remove this template message 
+this section needs additional citations for verification  please help improve this article by adding citations to reliable sources  unsourced material may be challenged and removed   march 2016   learn how and when to remove this template message 
+ learn how and when to remove this template message 
+a chemical synthesissynthesis  in its present meaning originating with chemist hermann kolbe citation needed begins with the careful selection of the target  based on the relationship of possible targets of chemical  functional  or therapeutic interest to the broader aims of the research effort  whether industrial or academic  various further practical concerns come into play  including manpower available for the campaign  as well as availability of material resources  necessary equipment  starting materials and bulk chemicals  etc    and along with these  budget for these practical necessities  citation needed  for instance  a prior developed reaction methodology may highlight particular man-made or natural compounds that would serve the purposes of the effort  in highlighting the breadth of the new methodology  alternatively  grant or unit budgetary or timeline constraints may necessitate aiming for a simpler member of a family of complex natural products  citation needed  or practical constraints such as the lack of suitable starting materials may necessitate a semi-synthesis over a total synthesis  citation needed  etc  once the target or targets are established  the next critical phase begins  that of synthetic design  typically in modern efforts  in the area of organic synthesis  using retrosynthetic analysis  as championed by e j  corey and others  citation needed 
+an eventual step is selection of compounds that are known as reagents or reactants  clarification needed  various reaction types can be applied to these to synthesize the product  or an intermediate product  clarification needed  this requires mixing the compounds in a reaction vessel such as a chemical reactor or a simple round-bottom flask  clarification needed  many reactions require some form of work-up procedure before the final product is isolated  1  pageneeded  the isolation  purification  of the product then proceeds via a variety of methods  clarification needed 
+the amount of product in a chemical synthesis is the reaction yield  dubious  discuss  typically  chemical yields are expressed as a weight in grams  in a laboratory setting  dubious  discuss  or as a percentage of the total theoretical quantity of product that could be produced  a side reaction is an unwanted chemical reaction taking place that diminishes the yield of the desired product  citation needed 
+strategies edit 
+this section s factual accuracy is disputed  please help to ensure that disputed statements are reliably sourced  see the relevant discussion on the talk page   march 2016   learn how and when to remove this template message 
+this section is missing information about nearly all subjects remotely expected of a discussion of synthetic strategy in the 21st century  please expand the section to include this information  further details may exist on the talk page   march 2016 
+many strategies exist in chemical synthesis that go beyond converting reactant a to reaction product b in a single step  in multistep synthesis  a chemical compound is synthesised though a series of individual chemical reactions  each with their own work-up   2  full citation needed  for example  a laboratory synthesis of paracetamol can consist of three individual synthetic steps  in cascade reactions multiple chemical transformations take place within a single reactant  in multi-component reactions up to 11 different reactants form a single reaction product and in a telescopic synthesis one reactant goes through multiple transformations without isolation of intermediates 
+organic synthesis edit 
+this article has multiple issues  please help improve it or discuss these issues on the talk page   learn how and when to remove these template messages 
+main article  organic synthesis
+this section s factual accuracy is disputed  please help to ensure that disputed statements are reliably sourced  see the relevant discussion on the talk page   march 2016   learn how and when to remove this template message 
+this section is missing information about nearly all subjects remotely expected of a discussion of synthetic strategy in the 21st century  please expand the section to include this information  further details may exist on the talk page   march 2016 
+this section does not cite any sources  please help improve this section by adding citations to reliable sources  unsourced material may be challenged and removed   march 2016   learn how and when to remove this template message 
+ learn how and when to remove this template message 
+organic synthesis is a special branch of chemical synthesis dealing with the synthesis of organic compounds  in the total synthesis of a complex product it may take multiple steps to synthesize the product of interest  and inordinate amounts of time  skill in organic synthesis is prized among chemists and the synthesis of exceptionally valuable or difficult compounds has won chemists such as robert burns woodward the nobel prize for chemistry  if a chemical synthesis starts from basic laboratory compounds and yields something new  it is a purely synthetic process  if it starts from a product isolated from plants or animals and then proceeds to new compounds  the synthesis is described as a semisynthetic process 
+inorganic synthesis edit 
+this section needs expansion with  a two paragraph description  each  based on good secondary sources  not undergraduate texts  which  by wp verify  etc   are tertiary  of the scope  targets and other aims  and methods  of the two subsections appearing  you can help by adding to it   march 2016 
+tradition inorganic preparations edit 
+organometallic synthesis edit 
+see also edit 
+beilstein database
+chemical engineering
+electrosynthesis
+methods in organic synthesis
+organic synthesis
+peptide synthesis
+total synthesis
+references edit 
+  a b vogel  a i   tatchell  a r   furnis  b s   hannaford  a j  and p w g  smith  vogel s textbook of practical organic chemistry  5th edition  prentice hall  1996  isbn 0-582-46236-3  pageneeded 
+  advanced organic chemistry part b  reactions and synthesis francis a  carey richard j  sundberg springer 2013  full citation needed 
+external links edit 
+the organic synthesis archive
+natural product syntheses
+v
+t
+e
+chemical synthesis
+types
+artificial gene synthesis
+biomimetic synthesis
+bioretrosynthesis
+biosynthesis
+convergent synthesis
+custom peptide synthesis
+direct process
+divergent synthesis
+electrosynthesis
+enantioselective synthesis
+fully automated synthesis
+hydrothermal synthesis
+lasis
+mechanosynthesis
+one-pot synthesis
+organic synthesis
+peptide synthesis
+radiosynthesis
+semisynthesis
+solid-phase synthesis
+solvothermal synthesis
+total synthesis
+volume combustion synthesis
+see also
+chemical synthesis
+category chemical synthesis
+authority control
+gnd  4133806-6
+saved in parser cache with key enwiki pcache idhash 85029-0   0  en 4   and timestamp 20161029032413 and revision id 737286143
+retrieved from  https   en wikipedia org w index php title chemical synthesis oldid 737286143 
+categories  chemical synthesischemistryhidden categories  wikipedia articles needing page number citations from march 2016articles needing more detailed referencesarticles needing expert attention from march 2016all articles needing expert attentionchemistry articles needing expert attentionwikipedia articles needing style editing from march 2016all articles needing style editingaccuracy disputes from march 2016all accuracy disputesarticles that may contain original research from march 2016all articles that may contain original researcharticles needing additional references from march 2016all articles needing additional referencesarticles lacking page references from march 2016all articles with unsourced statementsarticles with unsourced statements from march 2016wikipedia articles needing clarification from march 2016articles with disputed statements from march 2016articles to be expanded from march 2016all articles to be expandedwikipedia articles with gnd identifiers

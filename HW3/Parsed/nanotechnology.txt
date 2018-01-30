@@ -1,0 +1,425 @@
+nanotechnology
+from wikipedia  the free encyclopedia
+jump to 					 
+for the materials science journal  see  
+part of
+of articles on
+nanotechnology
+and
+nanotechnology   nanotech   is manipulation of matter on an     and
+scale  the earliest  widespread description of nanotechnology referred to the particular technological goal of precisely manipulating atoms and molecules for fabrication of macroscale products  also now referred to as   a more generalized description of nanotechnology was subsequently established by the   which defines nanotechnology as the manipulation of matter with at least one dimension sized from 1 to 100   this definition reflects the fact that
+effects are important at this
+scale  and so the definition shifted from a particular technological goal to a research category inclusive of all types of research and technologies that deal with the special properties of matter which occur below the given size threshold  it is therefore common to see the plural form  nanotechnologies  as well as  nanoscale technologies  to refer to the broad range of research and applications whose common trait is size  because of the variety of potential applications  including industrial and military   governments have invested billions of dollars in nanotechnology research  until 2012  through its national nanotechnology initiative  the usa has invested 3.7 billion dollars  the european union has invested 1.2 billion and japan 750 million dollars 
+nanotechnology as defined by size is naturally very broad  including fields of science as diverse as             etc  the associated research and applications are equally diverse  ranging from extensions of conventional
+to completely new approaches based upon   from developing
+with dimensions on the nanoscale to  
+scientists currently debate the future   nanotechnology may be able to create many new materials and devices with a vast range of   such as in    
+energy production  and consumer products  on the other hand  nanotechnology raises many of the same issues as any new technology  including concerns about the
+and environmental impact of nanomaterials  and their potential effects on global economics  as well as speculation about various   these concerns have led to a debate among advocacy groups and governments on whether special
+is warranted 
+contents
+origins
+main article 
+the concepts that seeded nanotechnology were first discussed in 1959 by renowned physicist
+in his talk   in which he described the possibility of synthesis via direct manipulation of atoms  the term  nano-technology  was first used by
+in 1974  though it was not widely known 
+comparison of nanomaterials sizes
+inspired by feynman s concepts 
+used the term  nanotechnology  in his 1986 book   which proposed the idea of a nanoscale  assembler  which would be able to build a copy of itself and of other items of arbitrary complexity with atomic control  also in 1986  drexler co-founded
+ with which he is no longer affiliated  to help increase public awareness and understanding of nanotechnology concepts and implications 
+thus  emergence of nanotechnology as a field in the 1980s occurred through convergence of drexler s theoretical and public work  which developed and popularized a conceptual framework for nanotechnology  and high-visibility experimental advances that drew additional wide-scale attention to the prospects of atomic control of matter  in the 1980s  two major breakthroughs sparked the growth of nanotechnology in modern era 
+first  the invention of the
+in 1981 which provided unprecedented visualization of individual atoms and bonds  and was successfully used to manipulate individual atoms in 1989  the microscope s developers
+and
+at
+received a
+in 1986  binnig 
+and gerber also invented the analogous
+that year 
+buckminsterfullerene c60  also known as the   is a representative member of the
+known as   members of the fullerene family are a major subject of research falling under the nanotechnology umbrella 
+second 
+were discovered in 1985 by     and   who together won the 1996   c60 was not initially described as nanotechnology  the term was used regarding subsequent work with related
+tubes  called
+and sometimes called bucky tubes  which suggested potential applications for nanoscale electronics and devices 
+in the early 2000s  the field garnered increased scientific  political  and commercial attention that led to both controversy and progress  controversies emerged regarding the definitions and potential implications of nanotechnologies  exemplified by the  s report on nanotechnology  challenges were raised regarding the feasibility of applications envisioned by advocates of molecular nanotechnology  which culminated in a public debate between drexler and smalley in 2001 and 2003 
+meanwhile  commercialization of products based on advancements in nanoscale technologies began emerging  these products are limited to bulk applications of
+and do not involve atomic control of matter  some examples include the
+platform for using
+as an antibacterial agent  -based transparent sunscreens 
+strengthening using silica nanoparticles  and carbon nanotubes for stain-resistant textiles 
+governments moved to promote and
+into nanotechnology  such as in the u s  with the   which formalized a size-based definition of nanotechnology and established funding for research on the nanoscale  and in europe via the european  
+by the mid-2000s new and serious scientific attention began to flourish  projects emerged to produce nanotechnology roadmaps which center on atomically precise manipulation of matter and discuss existing and projected capabilities  goals  and applications 
+fundamental concepts
+nanotechnology is the engineering of functional systems at the molecular scale  this covers both current work and concepts that are more advanced  in its original sense  nanotechnology refers to the projected ability to construct items from the bottom up  using techniques and tools being developed today to make complete  high performance products 
+one
+ nm  is one billionth  or 109  of a meter  by comparison  typical carbon-carbon   or the spacing between these
+in a   are in the range 0.120.15 nm  and a
+double-helix has a diameter around 2nm  on the other hand  the smallest
+life-forms  the bacteria of the genus   are around 200nm in length  by convention  nanotechnology is taken as the scale range 1 to 100 nm following the definition used by the national nanotechnology initiative in the us  the lower limit is set by the size of atoms  hydrogen has the smallest atoms  which are approximately a quarter of a nm diameter  since nanotechnology must build its devices from atoms and molecules  the upper limit is more or less arbitrary but is around the size below which phenomena not observed in larger structures start to become apparent and can be made use of in the nano device  these new phenomena make nanotechnology distinct from devices which are merely miniaturised versions of an equivalent
+device  such devices are on a larger scale and come under the description of  
+to put that scale in another context  the comparative size of a nanometer to a meter is the same as that of a marble to the size of the earth  or another way of putting it  a nanometer is the amount an average man s beard grows in the time it takes him to raise the razor to his face 
+two main approaches are used in nanotechnology  in the  bottom-up  approach  materials and devices are built from molecular components which
+chemically by principles of   in the  top-down  approach  nano-objects are constructed from larger entities without atomic-level control 
+areas of physics such as    
+and
+have evolved during the last few decades to provide a basic scientific foundation of nanotechnology 
+larger to smaller  a materials perspective
+image of
+on a clean    surface  as visualized using   the positions of the individual atoms composing the surface are visible 
+main article 
+several phenomena become pronounced as the size of the system decreases  these include
+effects  as well as
+effects  for example the   size effect  where the electronic properties of solids are altered with great reductions in particle size  this effect does not come into play by going from macro to micro dimensions  however  quantum effects can become significant when the nanometer size range is reached  typically at distances of 100 nanometers or less  the so-called   additionally  a number of physical  mechanical  electrical  optical  etc   properties change when compared to macroscopic systems  one example is the increase in surface area to volume ratio altering mechanical  thermal and catalytic properties of materials  diffusion and reactions at nanoscale  nanostructures materials and nanodevices with fast ion transport are generally referred to nanoionics  mechanical properties of nanosystems are of interest in the nanomechanics research  the catalytic activity of nanomaterials also opens potential risks in their interaction with  
+materials reduced to the nanoscale can show different properties compared to what they exhibit on a macroscale  enabling unique applications  for instance  opaque substances can become transparent  copper   stable materials can turn combustible  aluminium   insoluble materials may become soluble  gold   a material such as gold  which is chemically inert at normal scales  can serve as a potent chemical
+at nanoscales  much of the fascination with nanotechnology stems from these quantum and surface phenomena that matter exhibits at the nanoscale 
+simple to complex  a molecular perspective
+main article 
+modern
+has reached the point where it is possible to prepare small molecules to almost any structure  these methods are used today to manufacture a wide variety of useful chemicals such as
+or commercial   this ability raises the question of extending this kind of control to the next-larger level  seeking methods to assemble these single molecules into
+consisting of many molecules arranged in a well defined manner 
+these approaches utilize the concepts of molecular self-assembly and or
+to automatically arrange themselves into some useful conformation through a
+approach  the concept of molecular recognition is especially important  molecules can be designed so that a specific configuration or arrangement is favored due to
+  the watsoncrick
+rules are a direct result of this  as is the specificity of an
+being targeted to a single   or the specific
+itself  thus  two or more components can be designed to be complementary and mutually attractive so that they make a more complex and useful whole 
+such bottom-up approaches should be capable of producing devices in parallel and be much cheaper than top-down methods  but could potentially be overwhelmed as the size and complexity of the desired assembly increases  most useful structures require complex and thermodynamically unlikely arrangements of atoms  nevertheless  there are many examples of self-assembly based on molecular recognition in   most notably watsoncrick basepairing and enzyme-substrate interactions  the challenge for nanotechnology is whether these principles can be used to engineer new constructs in addition to natural ones 
+molecular nanotechnology  a long-term view
+main article 
+molecular nanotechnology  sometimes called molecular manufacturing  describes engineered nanosystems  nanoscale machines  operating on the molecular scale  molecular nanotechnology is especially associated with the   a machine that can produce a desired structure or device atom-by-atom using the principles of   manufacturing in the context of
+is not related to  and should be clearly distinguished from  the conventional technologies used to manufacture nanomaterials such as carbon nanotubes and nanoparticles 
+when the term  nanotechnology  was independently coined and popularized by
+ who at the time was unaware of an
+by norio taniguchi  it referred to a future manufacturing technology based on
+systems  the premise was that molecular scale biological analogies of traditional machine components demonstrated molecular machines were possible  by the countless examples found in biology  it is known that sophisticated 
+optimised
+can be produced 
+it is hoped that developments in nanotechnology will make possible their construction by some other means  perhaps using
+principles  however  drexler and other researchers have proposed that advanced nanotechnology  although perhaps initially implemented by biomimetic means  ultimately could be based on mechanical engineering principles  namely  a manufacturing technology based on the mechanical functionality of these components  such as gears  bearings  motors  and structural members  that would enable programmable  positional assembly to atomic specification  the physics and engineering performance of exemplar designs were analyzed in drexler s book nanosystems 
+in general it is very difficult to assemble devices on the atomic scale  as one has to position atoms on other atoms of comparable size and stickiness  another view  put forth by carlo montemagno  is that future nanosystems will be hybrids of silicon technology and biological molecular machines  richard smalley argued that mechanosynthesis are impossible due to the difficulties in mechanically manipulating individual molecules 
+this led to an exchange of letters in the
+publication
+in 2003  though biology clearly demonstrates that molecular machine systems are possible  non-biological molecular machines are today only in their infancy  leaders in research on non-biological molecular machines are dr 
+and his colleagues at lawrence berkeley laboratories and uc berkeley  they have constructed at least three distinct molecular devices whose motion is controlled from the desktop with changing voltage  a nanotube   a molecular actuator  and a nanoelectromechanical relaxation oscillator  see
+for more examples 
+an experiment indicating that positional molecular assembly is possible was performed by ho and lee at
+in 1999  they used a scanning tunneling microscope to move an individual carbon monoxide molecule  co  to an individual iron atom  fe  sitting on a flat silver crystal  and chemically bound the co to the fe by applying a voltage 
+current research
+graphical representation of a   useful as a  
+this dna
+is an artificially
+nanostructure of the type made in the field of   each edge of the tetrahedron is a 20 base pair dna   and each vertex is a three-arm junction 
+rotating view of c60  one kind of fullerene 
+this device transfers energy from nano-thin layers of
+to
+above them  causing the nanocrystals to emit visible light 
+nanomaterials
+the nanomaterials field includes subfields which develop or study materials having unique properties arising from their nanoscale dimensions 
+has given rise to many materials which may be useful in nanotechnology  such as carbon nanotubes and other fullerenes  and various nanoparticles and   nanomaterials with fast ion transport are related also to nanoionics and nanoelectronics 
+nanoscale materials can also be used for bulk applications  most present commercial applications of nanotechnology are of this flavor 
+progress has been made in using these materials for medical applications  see  
+nanoscale materials such as
+are sometimes used in
+which combats the cost of traditional
+solar cells 
+development of applications incorporating semiconductor
+to be used in the next generation of products  such as display technology  lighting  solar cells and biological imaging  see  
+recent application of
+include a range of
+applications  such as     and  
+bottom-up approaches
+these seek to arrange smaller components into more complex assemblies 
+dna nanotechnology utilizes the specificity of watsoncrick basepairing to construct well-defined structures out of dna and other  
+approaches from the field of  classical  chemical synthesis  inorganic and   also aim at designing molecules with well-defined shape  e g    
+more generally  molecular self-assembly seeks to use concepts of supramolecular chemistry  and molecular recognition in particular  to cause single-molecule components to automatically arrange themselves into some useful conformation 
+tips can be used as a nanoscale  write head  to deposit a chemical upon a surface in a desired pattern in a process called   this technique fits into the larger subfield of  
+top-down approaches
+these seek to create smaller devices by using larger ones to direct their assembly 
+many technologies that descended from conventional
+for fabricating
+are now capable of creating features smaller than 100nm  falling under the definition of nanotechnology  -based hard drives already on the market fit this description  as do
+ ald  techniques 
+and
+received the nobel prize in physics in 2007 for their discovery of giant magnetoresistance and contributions to the field of spintronics 
+solid-state techniques can also be used to create devices known as
+or nems  which are related to
+or mems 
+can directly remove material  or even deposit material when suitable precursor gasses are applied at the same time  for example  this technique is used routinely to create sub-100nm sections of material for analysis in  
+atomic force microscope tips can be used as a nanoscale  write head  to deposit a resist  which is then followed by an etching process to remove material in a top-down method 
+functional approaches
+these seek to develop components of a desired functionality without regard to how they might be assembled 
+for the synthesis of anisotropic superparamagnetic materials such as recently presented  
+seeks to develop molecules with useful electronic properties  these could then be used as single-molecule components in a nanoelectronic device  for an example see rotaxane 
+synthetic chemical methods can also be used to create   such as in a so-called  
+biomimetic approaches
+or
+seeks to apply biological methods and systems found in nature  to the study and design of engineering systems and modern technology 
+is one example of the systems studied 
+is the use of
+for applications in nanotechnology  including use of viruses and lipid assemblies 
+is a potential bulk-scale application 
+speculative
+these subfields seek to
+what inventions nanotechnology might yield  or attempt to propose an agenda along which inquiry might progress  these often take a big-picture view of nanotechnology  with more emphasis on its societal implications than the details of how such inventions could actually be created 
+molecular nanotechnology is a proposed approach which involves manipulating single molecules in finely controlled  deterministic ways  this is more theoretical than the other subfields  and many of its proposed techniques are beyond current capabilities 
+centers on self-sufficient machines of some functionality operating at the nanoscale  there are hopes for applying nanorobots in medicine  but it may not be easy to do such a thing because of several drawbacks of such devices  nevertheless  progress on innovative materials and methodologies has been demonstrated with some patents granted about new nanomanufacturing devices for future commercial applications  which also progressively helps in the development towards nanorobots with the use of embedded nanobioelectronics concepts 
+productive nanosystems are  systems of nanosystems  which will be complex nanosystems that produce atomically precise parts for other nanosystems  not necessarily using novel nanoscale-emergent properties  but well-understood fundamentals of manufacturing  because of the discrete  i e  atomic  nature of matter and the possibility of exponential growth  this stage is seen as the basis of another industrial revolution    one of the architects of the usa s national nanotechnology initiative  has proposed four states of nanotechnology that seem to parallel the technical progress of the industrial revolution  progressing from passive nanostructures to active nanodevices to complex
+and ultimately to productive nanosystems 
+seeks to design materials whose properties can be easily  reversibly and externally controlled though a fusion of
+and  
+due to the popularity and media exposure of the term nanotechnology  the words
+and
+have been coined in analogy to it  although these are only used rarely and informally 
+dimensionality in nanomaterials
+nanomaterials can be classified in 0d  1d  2d and 3d   the dimensionality play a major role in determining the characteristic of nanomaterials including  
+and
+characteristics  with the decrease in dimensionality  an increase in surface-to-volume ratio is observed  this indicate that smaller dimensional
+have higher surface area compared to 3d nanomaterials  recently 
+are extensively investigated for    
+and
+applications 
+tools and techniques
+typical
+setup  a microfabricated
+with a sharp tip is deflected by features on a sample surface  much like in a
+but on a much smaller scale  a
+beam reflects off the backside of the cantilever into a set of   allowing the deflection to be measured and assembled into an image of the surface 
+there are several important modern developments  the
+ afm  and the
+ stm  are two early versions of scanning probes that launched nanotechnology  there are other types of   although conceptually similar to the scanning
+developed by
+in 1961 and the
+ sam  developed by
+and coworkers in the 1970s  newer scanning probe microscopes have much higher resolution  since they are not limited by the wavelength of sound or light 
+the tip of a scanning probe can also be used to manipulate nanostructures  a process called positional assembly  
+methodology may be a promising way to implement these nanomanipulations in automatic mode  however  this is still a slow process because of low scanning velocity of the microscope 
+various techniques of nanolithography such as  
+dip pen nanolithography 
+or
+were also developed  lithography is a top-down fabrication technique where a bulk material is reduced in size to nanoscale pattern 
+another group of nanotechnological techniques include those used for fabrication of
+and   those used in semiconductor fabrication such as deep ultraviolet lithography  electron beam lithography  focused ion beam machining  nanoimprint lithography  atomic layer deposition  and molecular vapor deposition  and further including molecular self-assembly techniques such as those employing di-block copolymers  the precursors of these techniques preceded the nanotech era  and are extensions in the development of scientific advancements rather than techniques which were devised with the sole purpose of creating nanotechnology and which were results of nanotechnology research 
+the top-down approach anticipates nanodevices that must be built piece by piece in stages  much as manufactured items are made  scanning probe microscopy is an important technique both for characterization and synthesis of nanomaterials  atomic force microscopes and scanning tunneling microscopes can be used to look at surfaces and to move atoms around  by designing different tips for these microscopes  they can be used for carving out structures on surfaces and to help guide self-assembling structures  by using  for example  feature-oriented scanning approach  atoms or molecules can be moved around on a surface with scanning probe microscopy techniques  at present  it is expensive and time-consuming for mass production but very suitable for laboratory experimentation 
+in contrast  bottom-up techniques build or grow larger structures atom by atom or molecule by molecule  these techniques include chemical synthesis 
+and positional assembly 
+is one tool suitable for characterisation of self assembled thin films  another variation of the bottom-up approach is
+or mbe  researchers at
+like john r  arthur  alfred y  cho  and art c  gossard developed and implemented mbe as a research tool in the late 1960s and 1970s  samples made by mbe were key to the discovery of the fractional quantum hall effect for which the 1998 nobel prize in physics was awarded  mbe allows scientists to lay down atomically precise layers of atoms and  in the process  build up complex structures  important for research on semiconductors  mbe is also widely used to make samples and devices for the newly emerging field of  
+however  new therapeutic products  based on responsive nanomaterials  such as the ultradeformable  stress-sensitive
+vesicles  are under development and already approved for human use in some countries 
+applications
+one of the major applications of nanotechnology is in the area of
+with  s being made of small
+ 10 nm in length  here is a simulation of such a nanowire 
+nanostructures provide this surface with   which lets
+roll down the  
+main article 
+as of august 21  2008  the
+estimates that over 800 manufacturer-identified nanotech products are publicly available  with new ones hitting the market at a pace of 34 per week  the project lists all of the products in a publicly accessible online database  most applications are limited to the use of  first generation  passive nanomaterials which includes titanium dioxide in sunscreen  cosmetics  surface coatings  and some food products  carbon allotropes used to produce   silver in food packaging  clothing  disinfectants and household appliances  zinc oxide in sunscreens and cosmetics  surface coatings  paints and outdoor furniture varnishes  and cerium oxide as a fuel catalyst 
+further applications allow
+to last longer 
+to fly straighter  and even
+to become more durable and have a harder surface 
+and
+have been infused with nanotechnology so that they will last longer and keep people cool in the summer 
+are being infused with silver nanoparticles to heal cuts faster 
+and
+may become cheaper  faster  and contain more memory thanks to nanotechnology  nanotechnology may have the ability to make existing medical applications cheaper and easier to use in places like the  s office and at home  cars are being manufactured with
+so they may need fewer
+and less
+to operate in the future 
+scientists are now turning to nanotechnology in an attempt to develop diesel engines with cleaner exhaust fumes  platinum is currently used as the diesel engine
+in these engines  the catalyst is what cleans the exhaust fume particles  first a reduction catalyst is employed to take nitrogen atoms from nox molecules in order to free oxygen  next the oxidation catalyst oxidizes the hydrocarbons and carbon monoxide to form carbon dioxide and water  platinum is used in both the reduction and the oxidation catalysts  using platinum though  is inefficient in that it is expensive and unsustainable  danish company innovationsfonden invested dkk 15 million in a search for new catalyst substitutes using nanotechnology  the goal of the project  launched in the autumn of 2014  is to maximize surface area and minimize the amount of material required  objects tend to minimize their surface energy  two drops of water  for example  will join to form one drop and decrease surface area  if the catalyst s surface area that is exposed to the exhaust fumes is maximized  efficiency of the catalyst is maximized  the team working on this project aims to create nanoparticles that will not merge  every time the surface is optimized  material is saved  thus  creating these nanoparticles will increase the effectiveness of the resulting diesel engine catalystin turn leading to cleaner exhaust fumesand will decrease cost  if successful  the team hopes to reduce platinum use by 25  
+nanotechnology also has a prominent role in the fast developing field of   when designing scaffolds  researchers attempt to the mimic the nanoscale features of a  s microenvironment to direct its differentiation down a suitable lineage  for example  when creating scaffolds to support the growth of bone  researchers may mimic
+ 
+researchers have successfully used -based nanobots capable of carrying out logic functions to achieve targeted drug delivery in cockroaches  it is said that the computational power of these nanobots can be scaled up to that of a  
+implications
+main article 
+an area of concern is the effect that industrial-scale manufacturing and use of nanomaterials would have on human health and the environment  as suggested by
+research  for these reasons  some groups advocate that nanotechnology be regulated by governments  others counter that overregulation would stifle scientific research and the development of beneficial innovations 
+research agencies  such as the
+are actively conducting research on potential health effects stemming from exposures to nanoparticles 
+some nanoparticle products may have   researchers have discovered that
+silver nanoparticles used in socks to reduce foot odor are being released in the wash  these particles are then flushed into the waste water stream and may destroy bacteria which are critical components of natural ecosystems  farms  and waste treatment processes 
+public deliberations on
+in the us and uk carried out by the center for nanotechnology in society found that participants were more positive about nanotechnologies for energy applications than for health applications  with health applications raising moral and ethical dilemmas such as cost and availability 
+experts  including director of the woodrow wilson center s project on emerging nanotechnologies david rejeski  have testified that successful commercialization depends on adequate oversight  risk research strategy  and public engagement 
+is currently the only city in the united states to regulate nanotechnology 
+in 2008 considered enacting a similar law  but ultimately rejected it  relevant for both research on and application of nanotechnologies  the
+of nanotechnology is contested  without state   the availability of private insurance for potential damages is seen as necessary to ensure that burdens are not socialised implicitly 
+health and environmental concerns
+a video on the health and safety implications of nanotechnology
+main articles 
+and
+nanofibers are used in several areas and in different products  in everything from aircraft wings to tennis rackets  inhaling airborne nanoparticles and nanofibers may lead to a number of   e g    researchers have found that when rats breathed in nanoparticles  the particles settled in the brain and lungs  which led to significant increases in biomarkers for inflammation and stress response and that nanoparticles induce skin aging through oxidative stress in hairless mice 
+a two-year study at ucla s school of public health found lab mice consuming nano-titanium dioxide showed dna and chromosome damage to a degree  linked to all the big killers of man  namely cancer  heart disease  neurological disease and aging  
+a major study published more recently in
+suggests some forms of carbon nanotubes  a poster child for the  nanotechnology revolution   could be as harmful as
+if inhaled in sufficient quantities 
+of the institute of occupational medicine in edinburgh  scotland  who contributed to the article on
+said  we know that some of them probably have the potential to cause mesothelioma  so those sorts of materials need to be handled very carefully   in the absence of specific regulation forthcoming from governments  paull and lyons  2008  have called for an exclusion of engineered nanoparticles in food  a newspaper article reports that workers in a paint factory developed serious lung disease and nanoparticles were found in their lungs 
+regulation
+main article 
+calls for tighter regulation of nanotechnology have occurred alongside a growing debate related to the human health and safety risks of nanotechnology  there is significant debate about who is responsible for the regulation of nanotechnology  some regulatory agencies currently cover some nanotechnology products and processes  to varying degrees   by  bolting on  nanotechnology to existing regulations  there are clear gaps in these regimes  davies  2008  has proposed a regulatory road map describing steps to deal with these shortcomings 
+stakeholders concerned by the lack of a regulatory framework to assess and control risks associated with the release of nanoparticles and nanotubes have drawn parallels with
+  mad cow  disease     genetically modified food  nuclear energy  reproductive technologies  biotechnology  and   dr  andrew maynard  chief science advisor to the woodrow wilson center s project on emerging nanotechnologies  concludes that there is insufficient funding for human health and safety research  and as a result there is currently limited understanding of the human health and safety risks associated with nanotechnology  as a result  some academics have called for stricter application of the   with delayed marketing approval  enhanced labelling and additional safety data development requirements in relation to certain forms of nanotechnology 
+the royal society report identified a risk of nanoparticles or nanotubes being released during disposal  destruction and recycling  and recommended that  manufacturers of products that fall under extended producer responsibility regimes such as end-of-life regulations publish procedures outlining how these materials will be managed to minimize possible human and environmental exposure   p  xiii  
+the center for nanotechnology in society has found that people respond to nanotechnologies differently  depending on application  with participants in
+more positive about nanotechnologies for energy than health applications  suggesting that any public calls for nano regulations may differ by technology sector 
+see also
+main article 
+references
+drexler  k  eric  1986   engines of creation  the coming era of nanotechnology  doubleday   
+drexler  k  eric  1992   nanosystems  molecular machinery  manufacturing  and computation  new york  john wiley   sons   
+    17 april 2012 
+saini  rajiv  saini  santosh  sharma  sugandha  2010     journal of cutaneous and aesthetic surgery  3  1   3233        
+buzea  c   pacheco  i  i   robbie  k   2007    nanomaterials and nanoparticles  sources and toxicity   biointerphases  2  4   mr17mr71      
+binnig  g   rohrer  h   1986    scanning tunneling microscopy   ibm journal of research and development  30  4   35569 
+  nobelprize org  15 october 1986  retrieved 12 may 2011 
+kroto  h  w   heath  j  r   o brien  s  c   curl  r  f   smalley  r  e   1985    c60  buckminsterfullerene   nature  318  6042   162163       
+adams  w  w   baughman  r  h   2005    retrospective  richard e  smalley  1943-2005    science  310  5756   1916      
+ 
+  royal society and royal academy of engineering  july 2004  retrieved 13 may 2011 
+  chemical   engineering news  american chemical society  81  48   3742  1 december 2003     retrieved 9 may 2010 
+ 
+    retrieved 13 may 2011 
+ 
+  the project on emerging nanotechnologies  2008  retrieved 13 may 2011 
+ pdf  
+ pdf  
+allhoff  fritz  lin  patrick  moore  daniel  2010   what is nanotechnology and why does it matter   from science to ethics  john wiley and sons  pp 35   
+prasad  s  k   2008   modern concepts in nanotechnology  discovery publishing house  pp 3132   
+ 
+kahn  jennifer  2006    nanotechnology   national geographic  2006  june   98119 
+ 
+kralj  slavko  makovec  darko  27 october 2015    magnetic assembly of superparamagnetic iron oxide nanoparticle clusters into nanochains and nanobundles   acs nano  9  10   97009707    
+rodgers  p   2006    nanoelectronics  single file   nature nanotechnology    
+lubick n  betts  kellyn  2008    silver socks have cloudy lining   environ sci technol  42  11   3910         
+phoenix  chris  march 2005    crnano org
+  imm org 
+california nanosystems institute
+  chemical and engineering news  81  48   3742  december 1  2003 
+regan  bc  aloni  s  jensen  k  ritchie  ro  zettl  a  2005  
+ pdf   nano letters  5  9   17303         
+regan  b  c   aloni  s   jensen  k   zettl  a   2005  
+ pdf   applied physics letters  86  12   123119       
+goodman  r p   schaap  i a t   tardin  c f   erben  c m   berry  r m   schmidt  c f   turberfield  a j   9 december 2005    rapid chiral assembly of rigid dna building blocks for molecular nanofabrication     310  5754   16611665           
+  retrieved 5 august 2015 
+narayan  r  j   kumta  p  n   sfeir  ch   lee  d-h  choi  d   olton  d   2004    nanostructured ceramics in medical devices  applications and prospects   jom  56  10   3843       
+cho  hongsik  pinkhassik  eugene  david  valentin  stuart  john  hasty  karen  31 may 2015     nanomedicine  nanotechnology  biology and medicine  elsevier  11  4   939946     retrieved 25 july 2015 
+kerativitayanan  punyavee  carrow  james k   gaharwar  akhilesh k   may 2015    nanomaterials for engineering stem cell responses   advanced healthcare materials  4  n an a      
+gaharwar  a k   et al   edited by   2013   nanomaterials in tissue engineering  fabrication and applications  oxford  woodhead publishing   
+gaharwar  ak  peppas  na  khademhosseini  a  march 2014     biotechnology and bioengineering  111  3   44153        
+levins  christopher g   schafmeister  christian e   2006    the synthesis of curved and linear structures from a minimal set of monomers   cheminform  37  5     
+  national nanotechnology initiative  archived from
+on 2010-11-20  retrieved 2007-10-19 
+  nobelprize org  retrieved 2007-10-19 
+das s  gates aj  abdu ha  rose gs  picconatto ca  ellenbogen jc  2007    designs for ultra-tiny  special-purpose nanoelectronic circuits   ieee transactions on circuits and systems i  54  11   25282540    
+mashaghi  s   jadidi  t   koenderink  g   mashaghi  a    int  j  mol  sci  2013  14   42424282 
+hogan  c  michael  2010 
+in encyclopedia of earth  national council for science and the environment  eds  s  draggan and c  cleveland
+ghalanbor z  marashi sa  ranjbar b  2005    nanotechnology helps medicine  nanoscale swimmers and their future applications   med hypotheses  65  1   198199      
+kubik t  bogunia-kubik k  sugisaka m  2005    nanotechnology on duty in medical applications   curr pharm biotechnol  6  1   1733   
+leary  sp  liu  cy  apuzzo  ml  2006    toward the emergence of nanoneurosurgery  part iii-nanomedicine  targeted nanotherapy  nanosurgery  and progress toward the realization of nanoneurosurgery   neurosurgery  58  6   10091026      
+shetty rc  2005    potential pitfalls of nanotechnology in its applications to medicine  immune incompatibility of nanodevices   med hypotheses  65  5   9989      
+cavalcanti  a   shirinzadeh  b   freitas  r   kretly  l   2007    medical nanorobot architecture based on nanobioelectronics   recent patents on nanotechnology  1  110      
+boukallel m  gauthier m  dauge m  piat e  abadie j  2007    smart microrobots for mechanical cell characterization and cell convoying   ieee trans  biomed  eng  54  8   153640      
+ pdf  
+ 
+lapshin  r  v   2004  
+ pdf   nanotechnology  uk  iop  15  9   11351151         
+ 
+lapshin  r  v   2011    feature-oriented scanning probe microscopy   in h  s  nalwa 
+ pdf   14  usa  american scientific publishers  pp 105115   
+kafshgari mh  voelcker nh  harding fj  2015 
+nanomedicine  lond  10  16  2553-71   
+rajan  reshmy  jose  shoma  mukund  v  p  biju  vasudevan  deepa t   2011-01-01     journal of advanced pharmaceutical technology   research  2  3   138143          
+kurtoglu m  e   longenbach t   reddington p   gogotsi y   2011    effect of calcination temperature and environment on photocatalytic and mechanical properties of ultrathin solgel titanium dioxide films   journal of the american ceramic society  94  4   11011108    
+  nnin org  2010  retrieved november 23  2011 
+at nanoandme org
+at nanoandme org
+at nanoandme org
+at wikipedia org
+at howstuffworks com
+  rdmag com  september 2014
+cassidy  2014    nanotechnology in the regeneration of complex tissues   bone and tissue regeneration insights  25    
+cassidy  j  w   roberts  j  n   smith  c  a   robertson  m   white  k   biggs  m  j   oreffo  r  o  c   dalby  m  j   2014    osteogenic lineage restriction by osteoprogenitors cultured on nanometric grooved surfaces  the role of focal adhesion maturation   acta biomaterialia  10  2   651660    
+amir  y   ben-ishay  e   levner  d   ittah  s   abu-horowitz  a   bachelet  i   2014    universal computing by dna origami robots in a living animal   nature nanotechnology  9  5   353357       
+  national institute for occupational safety and health  june 15  2012  retrieved 2012-08-24 
+  national institute for occupational safety and health  november 7  2012  retrieved 2012-11-08 
+lubick  n  betts  kellyn  2008    silver socks have cloudy lining   environmental science   technology  42  11   3910         
+murray r g e   1993  advances in bacterial paracrystalline surface layers  t  j  beveridge  s  f  koval  eds    plenum press    pp  39 
+ 
+harthorn  barbara herr  january 23  2009    nanotechnology today 
+project on emerging nanotechnologies  retrieved on 2008-3-7 
+delvecchio  rick  november 24  2006    sfgate com
+bray  hiawatha  january 26  2007    boston com
+  nanolawreport com  july 2008 
+encyclopedia of nanoscience and society  edited by david h  guston  sage publications  2010  see articles on insurance and reinsurance  by i  lippert  
+byrne  j  d   baugh  j  a   2008     mcgill journal of medicine  mjm  an international forum for the advancement of medical sciences by students  11  1   4350     
+elder  a   2006  
+urmc rochester edu
+september 21  2006  at the  
+wu  j  liu  w  xue  c  zhou  s  lan  f  bi  l  xu  h  yang  x  zeng  fd  2009    toxicity and penetration of tio2 nanoparticles in hairless mice and porcine skin after subchronic dermal exposure     191  1   18      
+jonaitis  ts  card  jw  magnuson  b  2010    concerns regarding nano-sized titanium dioxide dermal penetration and toxicity study   toxicology letters  192  2   2689      
+schneider  andrew  march 24  2010    aol news
+weiss  r   2008  
+paull  j    lyons  k   2008  
+ pdf   journal of organic systems  3  322 
+smith  rebecca  august 19  2009     london  telegraph  retrieved may 19  2010 
+  bbc  2012-08-24
+schinwald  a   murphy  f  a   prina-mello  a   poland  c  a   byrne  f   movia  d   glass  j  r   dickerson  j  c   schultz  d  a   jeffree  c  e   macnee  w   donaldson  k   2012    the threshold length for fiber-induced acute pleural inflammation  shedding light on the early events in asbestos-induced mesothelioma   toxicological sciences  128  2   461470    
+acientific american  2008-11-09
+kevin rollins  nems mems works  llc     volume 6  issue 2  retrieved 2 september 2010 
+bowman d  hodge g  2006    nanotechnology  mapping the wild regulatory frontier   futures  38  9   10601073    
+davies  j  c   2008    
+rowe  g   2005    difficulties in evaluating public engagement initiatives  reflections on an evaluation of the uk gm nation  public debate about transgenic crops   public understanding of science  14  4   331352    
+maynard  a    2008-4-16   retrieved on 2008-11-24 
+may 29  2008  at the  
+faunce  t   murray  k   nasu  h   bowman  d   2008    sunscreen safety  the precautionary principle  the australian therapeutic goods administration and nanoparticles in sunscreens   nanoethics  2  3   231240    
+thomas faunce  katherine murray  hitoshi nasu   diana bowman  24 july 2008  
+ pdf   springer science   business media b v  retrieved 18 june 2009 
+external links
+wikimedia commons has media related to  
+wikibooks has a book on the topic of 
+at   you can learn more and teach others about nanotechnology at the
+at
+ a vega bbc ou video discussion  
+nanotechnology
+and
+fields
+and
+others
+  
+components
+scales
+nanotechnology
+and
+concepts
+other
+fields
+displays
+other
+electronics
+energy
+production
+storage
+other
+memory
+manufacturing
+nanotechnology
+other
+other
+topics
+levels of technological manipulation of matter
+nanotechnology
+ 
+ 
+ 
+ 
+retrieved from   
+  hidden categories 

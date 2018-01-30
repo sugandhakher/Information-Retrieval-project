@@ -1,0 +1,83 @@
+energyrecovery
+from wikipedia  the free encyclopedia
+jump to 					 
+berner tricoil energy recovery system atop the center for sustainable landscapes in pittsburgh  pennsylvania
+this article needs additional citations for   please help
+by   unsourced material may be challenged and removed   may 2008    
+energy recovery includes any technique or method of minimizing the input of
+to an overall
+by the exchange of energy from one sub-system of the overall system with another  the energy can be in any form in either subsystem  but most energy recovery systems exchange
+in either
+or
+form 
+in some circumstances the use of an enabling technology  either diurnal
+or
+ stes  which allows heat or cold storage between opposing seasons   is necessary to make energy recovery practicable  one example is waste heat from air conditioning machinery stored in a buffer tank to aid in night time heating  another is an stes application at a foundry in sweden  waste heat is recovered and stored in a large mass of native bedrock which is penetrated by a cluster of 140 heat exchanger equipped boreholes  155mm diameter  that are 150m deep  this store is used for heating an adjacent factory as needed  even months later  an example of using stes to recover and utilize natural heat that otherwise would be wasted is the
+in   canada  the community uses a cluster of boreholes in bedrock for interseasonal heat storage  and this enables obtaining 97 percent of the year-round space heating from solar thermal collectors on the garage roofs  another stes application is recovering the cold of winter by circulating water through a dry cooling tower  and using that to chill a deep aquifer or borehole cluster  the chill is later recovered from the storage for summer air conditioning  with a coefficient of performance  cop  of 20 to 40  this method of cooling can be ten times more efficient than conventional air conditioning 
+contents
+principle  
+a common application of this principle is in systems which have an exhaust stream or waste stream which is transferred from the system to its surroundings  some of the energy in that flow of material  often
+or   may be transferred to the make-up or input material flow  this input
+flow often comes from the system s surroundings  which  being at ambient conditions  are at a lower temperature than the waste stream  this temperature differential allows
+and thus energy transfer  or in this case  recovery  thermal energy is often recovered from liquid or gaseous waste streams to fresh make-up
+and
+intakes in   such as for the
+systems  or process systems 
+system approach  
+energy consumption is a key part of most human activities  this consumption involves converting one energy system to another  for example  the conversion of mechanical energy to electrical energy  which can then power computers  light  motors etc  the input energy propels the work and is mostly converted to heat or follows the product in the process as output energy  energy recovery systems harvest the output power and providing this as input power to the same or another process 
+an energy recovery system will close this energy cycle to prevent the input power from being released back to nature and rather be used in other forms of desired work 
+examples  
+heat recovery is implemented in heat sources like e g  a steel mill  heated cooling water from the process is sold for heating of homes  shops and offices in the surrounding area 
+is used in electric cars  trains  heavy cranes etc  where the energy consumed when elevating the potential is returned to the electric supplier when released 
+active pressure reduction systems where the differential pressure in a pressurized fluid flow is recovered rather than converted to heat in a pressure reduction valve and released 
+environmental impact  
+there is a large potential for energy recovery in compact systems like large industries and utilities  together with   it should be possible to dramatically reduce world energy consumption  the effect of this will then be 
+reduced number of coal-fired power plants
+reduced airborne particles 
+and
+- improved air quality
+slowing or reducing
+lower fuel bills on transport
+longer availability of
+change of industries and economies not fully researched
+in 2008   chairman of   said that  we think we could make about 19 to 20 percent of u s  electricity with heat that is currently thrown away by industry  
+a 2007 department of energy study found the potential for 135,000 megawatts of
+ which uses energy recovery  in the u s   and a lawrence berkley national laboratory study identified about 64,000 megawatts that could be obtained from industrial waste energy  not counting chp  these studies suggest about 200,000 megawattsor 20  -- of total power capacity that could come from
+in the u s  widespread use of
+could therefore reduce global warming emissions by an estimated 20 percent  indeed  as of 2005  about 42 percent of u s  greenhouse gas pollution came from the production of electricity and 27 percent from the production of heat 
+it is  however  difficult to quantify the environmental impact of a global energy recovery implementation in some sectors  the main impediments are
+lack of efficient technologies for private homes  heat recovery systems in private homes can have an efficiency as low as 30  or less  it may be more realistic to use energy conservation like insulation or improved buildings  many areas are more dependent on forced cooling and a system for extracting heat from dwellings to be used for other uses are not widely available 
+ineffective infrastructure  heat recovery in particular need a short distance from producer to consumer to be viable  a solution may be to move a large consumer to the vicinity of the producer  this may have other complications 
+transport sector not ready  with the transport sector using about 20  of the energy supply  most of the energy is spent on overcoming gravity and friction  electric cars with regenerative braking seem to be the best candidate for energy recovery  wind systems on ships are under development  very little work on the airline industry is known in this field 
+see also  
+references  
+andersson  o   hgg  m   2008     igeia  integration of geothermal energy into industrial applications  pp  3856 and 7276  retrieved 21 april 2013
+wong  bill  june 28  2011     idea cdea district energy chp 2011 conference  toronto  pp  130  retrieved 21 april 2013
+wong b   thornton j   2013  
+renewable heat workshop 
+paksoy  h   stiles  l   2009     effstock 2009  11th international  - thermal energy storage for efficiency and sustainability  stockholm 
+willemsen  g  1998 
+the second stockton international geothermal conference  march 16 and 17  1998
+  by david schaper  may 22  2008     
+bruce hedman  energy and environmental analysis uschpa   combined heat and power and heat recovery as energy efficiency options   briefing to senate renewable energy caucus  september 10  2007  washington dc 
+ pdf  
+ 
+   
+    
+external links  
+wikimedia commons has media related to  
+air pollution  
+ 
+water  
+ 
+energy recovery
+fuel  
+ 
+  
+ 
+ 
+conservation
+building  
+ 
+retrieved from   
+  hidden categories 

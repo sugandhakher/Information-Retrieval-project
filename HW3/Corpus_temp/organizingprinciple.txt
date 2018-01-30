@@ -1,0 +1,74 @@
+organizingprinciple
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><p>An <b>organizing principle</b> is a core assumption from which everything else by proximity can derive a classification or a value. It is like a central reference point that allows all other objects to be located, often used in a <a href="/wiki/Conceptual_framework" title="Conceptual framework">conceptual framework</a>. Having an organizing principle might help one simplify and get a handle on a particularly complicated domain or phenomenon. On the other hand, it might create a deceptive prism that colors one's judgment.</p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Organizing_principle&amp;action=edit&amp;section=1" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>In a <a class="mw-redirect" href="/wiki/The_Brookings_Institution" title="The Brookings Institution">Brookings Institution</a> article, <a href="/wiki/James_Steinberg" title="James Steinberg">James Steinberg</a> describes how <a class="mw-redirect" href="/wiki/Counter_terrorism" title="Counter terrorism">Counter terrorism</a> has become the organizing principle of U.S. national security.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></li>
+<li>The idea of the <a class="mw-redirect" href="/wiki/Solar_system" title="Solar system">solar system</a> is based on the organizing principle that the sun is located at a central point, and all planets rotate around it.</li>
+<li>Most modern <a class="mw-redirect" href="/wiki/Cities" title="Cities">cities</a> are based on the organizing principle of the <a href="/wiki/Grid_plan" title="Grid plan">Grid plan</a> in order to better manage transportation and <a href="/wiki/Address_(geography)" title="Address (geography)">addressing</a>.</li>
+<li>Most religions (as opposed to <a href="/wiki/Cult" title="Cult">cults</a>) can be described by social scientists as built around an organizing principle (for example, the divinity of Christ) that allows for the sustainable or improvable <a href="/wiki/Recursion" title="Recursion">recursion</a> of a unique population.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></li>
+<li>Organizations can be constructed around a set of organizing principles, such as concepts, priorities, or goals. For example, an organization may intend to be innovative, international, quality and agile.</li>
+<li>The central organising principle of the <a href="/wiki/Welsh_Government" title="Welsh Government">Welsh Government</a> is <a href="/wiki/Sustainability" title="Sustainability">Sustainability</a>.</li>
+<li><a href="/wiki/Sociology_of_knowledge#Legitimation_Code_Theory" title="Sociology of knowledge">Legitimation Code Theory</a> is an explanatory framework in the <a href="/wiki/Sociology_of_knowledge" title="Sociology of knowledge">sociology of knowledge</a> and education that seeks to understand different social fields of practices in terms of their operating principles, which determines the basis of success and failure. <sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Organizing_principle&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Unit_of_analysis" title="Unit of analysis">Unit of analysis</a></li>
+<li><a class="mw-redirect" href="/wiki/Concept_Driven_Strategy" title="Concept Driven Strategy">Concept Driven Strategy</a></li>
+<li><a href="/wiki/Frame_analysis" title="Frame analysis">Frame analysis</a></li>
+<li><a class="mw-disambig" href="/wiki/Framing" title="Framing">Framing</a></li>
+<li><a href="/wiki/Concept" title="Concept">Concept</a></li>
+<li><a href="/wiki/Pragmatism" title="Pragmatism">Pragmatism</a></li>
+<li><a href="/wiki/Attractor" title="Attractor">Attractor</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Organizing_principle&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">James B. Steinberg (October 14, 2008). <a class="external text" href="http://www.brookings.edu/articles/2002/summer_terrorism_steinberg.aspx" rel="nofollow">"Counterterrorism: A New Organizing Principle for American National Security?"</a>. <a class="mw-redirect" href="/wiki/The_Brookings_Institution" title="The Brookings Institution">The Brookings Institution</a><span class="reference-accessdate">. Retrieved <span class="nowrap">October 14,</span> 2008</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrganizing+principle&amp;rft.au=James+B.+Steinberg&amp;rft.btitle=Counterterrorism%3A+A+New+Organizing+Principle+for+American+National+Security%3F&amp;rft.date=2008-10-14&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.brookings.edu%2Farticles%2F2002%2Fsummer_terrorism_steinberg.aspx&amp;rft.pub=The+Brookings+Institution&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Michael Corballis (June 10, 2011), "<a class="external text" href="http://www.scienceandreligiontoday.com/2011/06/10/what-is-recursion-and-how-did-it-affect-the-evolution-of-the-human-mind/" rel="nofollow">What Is Recursion and How Did It Affect the Evolution of the Human Mind?</a>" <i>Science &amp; Religion Today</i>. Retrieved July 20, 2013.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Maton, K. (2014), Knowledge and Knowers: Towards a Realist Sociology of Education, London: Routledge.</span></li>
+</ol>
+</div>
+<ul>
+<li>* *</li>
+</ul>
+<p><br/></p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a class="image" href="/wiki/File:Greek_letter_uppercase_Phi.svg"><img alt="Stub icon" data-file-height="100" data-file-width="100" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greek_letter_uppercase_Phi.svg/30px-Greek_letter_uppercase_Phi.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greek_letter_uppercase_Phi.svg/45px-Greek_letter_uppercase_Phi.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greek_letter_uppercase_Phi.svg/60px-Greek_letter_uppercase_Phi.svg.png 2x" width="30"/></a></td>
+<td><i>This <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Organizing_principle&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Philo-stub" title="Template:Philo-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Philo-stub" title="Template talk:Philo-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Philo-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a class="image" href="/wiki/File:Vista_Login_Manager_Cropped.svg"><img alt="Stub icon" data-file-height="76" data-file-width="100" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Vista_Login_Manager_Cropped.svg/40px-Vista_Login_Manager_Cropped.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Vista_Login_Manager_Cropped.svg/60px-Vista_Login_Manager_Cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Vista_Login_Manager_Cropped.svg/80px-Vista_Login_Manager_Cropped.svg.png 2x" width="40"/></a></td>
+<td><i>This <a href="/wiki/Sociology" title="Sociology">sociology</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Organizing_principle&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Socio-stub" title="Template:Socio-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Socio-stub" title="Template talk:Socio-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Socio-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:19777249-0!*!0!!*!4!* and timestamp 20161022223346 and revision id 728462638
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Organizing_principle&amp;oldid=728462638">https://en.wikipedia.org/w/index.php?title=Organizing_principle&amp;oldid=728462638</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Principles" title="Category:Principles">Principles</a></li><li><a href="/wiki/Category:Strategy" title="Category:Strategy">Strategy</a></li><li><a href="/wiki/Category:Concepts" title="Category:Concepts">Concepts</a></li><li><a href="/wiki/Category:Philosophy_stubs" title="Category:Philosophy stubs">Philosophy stubs</a></li><li><a href="/wiki/Category:Sociology_stubs" title="Category:Sociology stubs">Sociology stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

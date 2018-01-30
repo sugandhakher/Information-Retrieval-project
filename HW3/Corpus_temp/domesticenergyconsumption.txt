@@ -1,0 +1,99 @@
+domesticenergyconsumption
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Domestic_energy_consumption&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(October 2008)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p><b>Domestic <a href="/wiki/Energy_consumption" title="Energy consumption">energy consumption</a></b> or <b>domestic consumption of energy</b> is the total amount of energy used in a house for household work. The amount of energy used per household varies widely depending on the standard of living of the country, the climate, and the age and type of residence.</p>
+<p>In the United States as of 2008, in an average household in a temperate climate, the yearly use of household energy can be composed as follows:</p>
+<div class="barbox" style="border:1px solid silver; font-size:88%; padding:0.4em; width:470px; background: white;">
+<table style="border-collapse:collapse; width:100%;">
+<tr style="background:#DDD">
+<th colspan="5">Average domestic energy consumption per household in the United States</th>
+</tr>
+<tr style="font-size:88%; height:4px;">
+<td style="padding:0 4px;"></td>
+<td style="padding:0 4px; text-align:right;"></td>
+<td style="width:150px;"></td>
+<td style="padding:0 4px; width:1em; text-align:right;"></td>
+<td style="padding:0 4px; text-align:right;"></td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;"><a href="/wiki/HVAC#Heating" title="HVAC">Heating</a></td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+<div style="background:blue; width:60.0%; overflow: hidden;">  </div>
+</td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">12000 <a href="/wiki/Kilowatt_hour" title="Kilowatt hour">kWh</a>/<a href="/wiki/Year" title="Year">yr</a> (1400 <a href="/wiki/Watt" title="Watt">watts</a>)</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;"><a class="mw-redirect" href="/wiki/Hot_water" title="Hot water">Hot water</a></td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+<div style="background:blue; width:15.0%; overflow: hidden;">  </div>
+</td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">3000 kWh/yr (340 watts)</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Cooling and refrigeration</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+<div style="background:blue; width:6.0%; overflow: hidden;">  </div>
+</td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">1200 kWh/yr (140 watts)</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;"><a href="/wiki/Lighting" title="Lighting">Lighting</a></td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+<div style="background:blue; width:6.0%; overflow: hidden;">  </div>
+</td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">1200 kWh/yr (140 watts)</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Washing and drying</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+<div style="background:blue; width:5.0%; overflow: hidden;">  </div>
+</td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">1000 kWh/yr (110 watts)</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Cooking</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+<div style="background:blue; width:5.0%; overflow: hidden;">  </div>
+</td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">1000 kWh/yr (110 watts)</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;"><a href="/wiki/Miscellaneous_electric_load" title="Miscellaneous electric load">Miscellaneous electric load</a></td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+<div style="background:blue; width:3.0%; overflow: hidden;">  </div>
+</td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">600 kWh/yr (70 watts)</td>
+</tr>
+</table>
+</div>
+<p><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p>This equates to an average instantaneous power consumption of 2 kW at any given time.</p>
+<p>Households in different parts of the world will have differing levels of consumption, based on latitude and technology.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Domestic_energy_consumption&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/2000-watt_society" title="2000-watt society">2000-watt society</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Domestic_energy_consumption&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">DOE. Energy Website. DOE.GOV. <a class="external text" href="http://www.eia.doe.gov/energyexplained/index.cfm?page=electricity_use" rel="nofollow">Use of Electricity - Energy Explained, Your Guide To Understanding Energy - Energy Information Administration</a>. Accessed: 2016-10-08. (Archived by WebCite® at <a class="external free" href="http://www.webcitation.org/" rel="nofollow">http://www.webcitation.org/</a>)</span></li>
+</ol>
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:13679083-0!*!0!!*!4!* and timestamp 20161107220541 and revision id 743247863
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Domestic_energy_consumption&amp;oldid=743247863">https://en.wikipedia.org/w/index.php?title=Domestic_energy_consumption&amp;oldid=743247863</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Energy_consumption" title="Category:Energy consumption">Energy consumption</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_October_2008" title="Category:Articles needing additional references from October 2008">Articles needing additional references from October 2008</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

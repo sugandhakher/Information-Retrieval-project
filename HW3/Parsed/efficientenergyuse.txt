@@ -1,0 +1,411 @@
+efficientenergyuse
+from wikipedia  the free encyclopedia
+jump to 					 
+for other uses  see  
+a spiral-type integrated   which has been in popular use among north american consumers since its introduction in the mid-1990s 
+part of a series about
+efficient energy use
+efficient energy use  sometimes simply called energy efficiency  is the goal to reduce the amount of energy required to provide products and services  for example 
+allows a building to use less heating and cooling energy to achieve and maintain a comfortable temperature  installing  
+or natural
+reduces the amount of energy required to attain the same level of illumination compared with using traditional   improvements in energy efficiency are generally achieved by adopting a more efficient technology or production process or by application of commonly accepted methods to reduce energy losses 
+there are many motivations to improve energy efficiency  reducing energy use reduces energy costs and may result in a financial cost saving to consumers if the energy savings offset any additional costs of implementing an energy efficient technology  reducing energy use is also seen as a solution to the problem of reducing
+emissions  according to the   improved energy efficiency in   industrial processes and
+could reduce the world s energy needs in 2050 by one third  and help control global emissions of greenhouse gases 
+energy efficiency and
+are said to be the twin pillars of
+policy and are high priorities in the sustainable   in many countries energy efficiency is also seen to have a national security benefit because it can be used to reduce the level of energy imports from foreign countries and may slow down the rate at which domestic energy resources are depleted 
+contents
+overview  
+further information 
+energy efficiency has proved to be a cost-effective strategy for building economies without necessarily increasing   for example  the state of
+began implementing energy-efficiency measures in the mid-1970s  including building code and appliance standards with strict efficiency requirements  during the following years  california s energy consumption has remained approximately flat on a per capita basis while national us consumption doubled  as part of its strategy  california implemented a  loading order  for new energy resources that puts energy efficiency first  renewable electricity supplies second  and new fossil-fired power plants last  states such as connecticut and new york have created quasi-public
+to help residential and commercial building-owners finance energy efficiency upgrades that reduce emissions and cut consumers  energy costs 
+lovin s
+points out that in industrial settings   there are abundant opportunities to save 70  to 90  of the energy and cost for lighting  fan  and pump systems  50  for electric motors  and 60  in areas such as heating  cooling  office equipment  and appliances   in general  up to 75  of the electricity used in the us today could be saved with efficiency measures that cost less than the electricity itself  the same holds true for this is home and there is 78  of electricity uses d in your home-owners  leaky ducts have remained an invisible energy culprit for years  in fact  researchers at the
+and their consortium  residential energy efficient distribution systems  reeds  have found that duct efficiency may be as low as 5070   the us department of energy has stated that there is potential for energy saving in the magnitude of 90 billion kwh by increasing home energy efficiency 
+other studies have emphasized this  a report published in 2006 by the   asserted that  there are sufficient economically viable opportunities for energy-productivity improvements that could keep global energy-demand growth at less than 1 percent per annum less than half of the 2.2 percent average growth anticipated through 2020 in a business-as-usual scenario  energy productivity  which measures the output and quality of goods and services per unit of energy input  can come from either reducing the amount of energy required to produce something  or from increasing the quantity or quality of goods and services from the same amount of energy 
+the
+report  under the auspices of the
+ unfccc   clearly shows  that energy efficiency can achieve real emission reductions at low cost  
+appliances  
+see also        and
+modern appliances  such as          and clothes washers and dryers  use significantly less energy than older appliances  installing a clothesline will significantly reduce one s energy consumption as their dryer will be used less  current energy efficient refrigerators  for example  use 40 percent less energy than conventional models did in 2001  following this  if all households in europe changed their more than ten-year-old appliances into new ones  20 billion kwh of electricity would be saved annually  hence reducing co2 emissions by almost 18 billion kg  in the us  the corresponding figures would be 17 billion kwh of electricity and 27,000,000,000lb  1.21010kg  co2  according to a 2009 study from mckinsey   company the replacement of old appliances is one of the most efficient global measures to reduce emissions of greenhouse gases  modern power management systems also reduce energy usage by idle appliances by turning them off or putting them into a low-energy mode after a certain time  many countries identify energy-efficient appliances using  
+the impact of energy efficiency on peak demand depends on when the appliance is used  for example  an air conditioner uses more energy during the afternoon when it is hot  therefore  an energy efficient air conditioner will have a larger impact on peak demand than off-peak demand  an energy efficient dishwasher  on the other hand  uses more energy during the late evening when people do their dishes  this appliance may have little to no impact on peak demand 
+building design  
+see also        and
+receiving a gold rating for energy and environmental design in september 2011  the
+is the tallest and largest leed certified building in the united states and western hemisphere   though it will likely be overtaken by new york s own  
+buildings are an important field for energy efficiency improvements around the world because of their role as a major energy consumer  however  the question of energy use in buildings is not straightforward as the indoor conditions that can be achieved with energy use vary a lot  the measures that keep buildings comfortable  lighting  heating  cooling and ventilation  all consume energy  typically the level of energy efficiency in a building is measured by dividing energy consumed with the floor area of the building resulting in specific energy consumption  sec  
+e
+n
+e
+r
+g
+y
+c
+o
+n
+s
+u
+m
+e
+d
+b
+u
+i
+l
+t
+a
+r
+e
+a
+  displaystyle   frac  energy  consumed  built  area   
+however  the issue is more complex as building materials have
+in them  on the other hand  energy can be recovered from the materials when the building is dismantled by reusing materials or burning them for energy  moreover  the when the building is used  the indoor conditions can vary resulting in higher and lower quality indoor environments  finally  overall efficiency is affected by the use of the building  is the building occupied most of the time and are spaces efficiently used  or is the building largely empty  it has even been suggested that for a more complete accounting of energy efficiency  sec should be amended to include these factors 
+e
+m
+b
+o
+d
+i
+e
+d
+e
+n
+e
+r
+g
+y
+ 
+e
+n
+e
+r
+g
+y
+c
+o
+n
+s
+u
+m
+e
+d
+
+e
+n
+e
+r
+g
+y
+r
+e
+c
+o
+v
+e
+r
+e
+d
+b
+u
+i
+l
+t
+a
+r
+e
+a
+
+u
+t
+i
+l
+i
+z
+a
+t
+i
+o
+n
+r
+a
+t
+e
+
+q
+u
+a
+l
+i
+t
+y
+f
+a
+c
+t
+o
+r
+  displaystyle   frac  embodied  energy   energy  consumed  -energy  recovered  built  area   times utilization  rate   times quality  factor   
+thus a balanced approach to energy efficiency in buildings should be more comprehensive than simply trying to minimize energy consumed  issues such as quality of indoor environment and efficiency of space use should be factored in  thus the measures used to improve energy efficiency can take many different forms  often they include passive measures that inherently reduce the need to use energy  such as better insulation  many serve various functions improving the indoor conditions as well as reducing energy use  such as increased use of natural light 
+a buildings location and surroundings play a key role in regulating its temperature and illumination  for example  trees  landscaping  and hills can provide shade and block wind  in cooler climates  designing northern hemisphere buildings with south facing windows and southern hemisphere buildings with north facing windows increases the amount of sun  ultimately heat energy  entering the building  minimizing energy use  by maximizing   tight building design  including energy-efficient windows  well-sealed doors  and additional thermal insulation of walls  basement slabs  and foundations can reduce heat loss by 25 to 50 percent 
+dark roofs may become up to 39c  70f  hotter than the most reflective white surfaces  they transmit some of this additional heat inside the building  us studies have shown that lightly colored roofs use 40 percent less energy for cooling than buildings with darker roofs  white roof systems save more energy in sunnier climates  advanced electronic heating and cooling systems can moderate energy consumption and improve the comfort of people in the building 
+proper placement of windows and skylights as well as the use of architectural features that reflect light into a building can reduce the need for artificial lighting  increased use of natural and task lighting has been shown by one study to increase productivity in schools and offices 
+use two-thirds less energy and may last 6 to 10 times longer than   newer fluorescent lights produce a natural light  and in most applications they are cost effective  despite their higher initial cost  with payback periods as low as a few months 
+bms integration
+effective energy-efficient building design can include the use of low cost passive infra reds  pirs  to switch-off lighting when areas are unnoccupied such as toilets  corridors or even office areas out-of-hours  in addition  lux levels can be monitored using daylight sensors linked to the building s lighting scheme to switch on off or dim the lighting to pre-defined levels to take into account the natural light and thus reduce consumption  building management systems  bms  link all of this together in one centralised computer to control the whole building s lighting and power requirements 
+in an analysis that integrates a residential bottom-up simulation with an economic multi-sector model  it has been shown that variable heat gains caused by insulation and air-conditioning efficiency can have load-shifting effects that are not uniform on the electricity load  the study also highlighted the impact of higher household efficiency on the power generation capacity choices that are made by the power sector 
+the choice of which space heating or cooling technology to use in buildings can have a significant impact on energy use and efficiency  for example  replacing an older 50  efficient
+with a new 95  efficient one will dramatically reduce energy use  carbon emissions  and winter natural gas bills 
+can be even more energy efficient and cost effective  these systems use pumps and compressors to move refrigerant fluid around a thermodynamic cycle in order to  pump  heat against its natural flow from hot to cold  for the purpose of transferring heat into a building from the large thermal reservoir contained within the nearby ground  the end result is that heat pumps typically use four times less electrical energy to deliver an equivalent amount of heat than a direct electrical heater does  another advantage of a ground source heat pump is that it can be reversed in summertime and operate to cool the air by transferring heat from the building to the ground  the disadvantage of ground source heat pumps is their high initial capital cost  but this is typically recouped within five to ten years as a result of lower energy use 
+are slowly being adopted by the commercial sector to highlight to staff and for internal monitoring purposes the building s energy usage in a dynamic presentable format  the use of power quality analysers can be introduced into an existing building to assess usage  harmonic distortion  peaks  swells and interruptions amongst others to ultimately make the building more energy-efficient  often such meters communicate by using  
+ gbxml  is an emerging schema  a subset of the
+efforts  focused on green building design and operation  gbxml is used as input in several energy simulation engines  but with the development of modern computer technology  a large number of
+tools are available on the market  when choosing which simulation tool to use in a project  the user must consider the tool s accuracy and reliability  considering the building information they have at hand  which will serve as input for the tool  yezioro  dong and leite developed an artificial intelligence approach towards assessing building performance simulation results and found that more detailed simulation tools have the best simulation performance in terms of heating and cooling electricity consumption within 3  of mean absolute error 
+ leed  is a rating system organized by the
+ usgbc  to promote environmental responsibility in building design  they currently offer four levels of certification for existing buildings  leed-ebom  and new construction  leed-nc  based on a building s compliance with the following criteria  sustainable sites  water efficiency  energy and atmosphere  materials and resources  indoor environmental quality  and innovation in design  in 2013  usgbc developed the leed dynamic plaque  a tool to track building performance against leed metrics and a potential path to recertification  the following year  the council collaborated with
+to pull data on energy and water use  as well as indoor air quality from a bas to automatically update the plaque  providing a near-real-time view of performance  the usgbc office in
+is one of the first buildings to feature the live-updating leed dynamic plaque 
+a
+is a whole-building analysis and construction process that uses to achieve much larger energy savings than conventional   deep energy retrofits can be applied to both residential and non-residential  commercial  buildings  a deep energy retrofit typically results in energy savings of 30 percent or more  perhaps spread over several years  and may significantly improve the building value  the
+has undergone a deep energy retrofit process that was completed in 2013  the project team  consisting of representatives from       and
+will have achieved an annual energy use reduction of 38  and  4.4 million  for example  the 6,500 windows were remanufactured onsite into
+which block heat but pass light 
+operating costs on hot days were reduced and this saved  17 million of the project s capital cost immediately  partly funding other retrofitting  receiving a gold
+rating in september 2011  the empire state building is the tallest leed certified building in the united states  the
+recently underwent a deep energy retrofit process  which has achieved an annual energy reduction of 46  and  750,000 annual energy saving 
+energy retrofits  including deep  and other types undertaken in residential  commercial or industrial locations are generally supported through various forms of financing or incentives  incentives include pre-packaged rebates where the buyer user may not even be aware that the item being used has been rebated or  bought down    upstream  or  midstream  buy downs are common for efficient lighting products  other rebates are more explicit and transparent to the end user through the use of formal applications  in addition to rebates  which may be offered through government or utility programs  governments sometimes offer tax incentives for energy efficiency projects  some entities offer rebate and payment guidance and facilitation services that enable energy end use customers tap into rebate and incentive programs 
+to evaluate the economic soundness of energy efficiency investments in buildings 
+or cea can be used  a cea calculation will produce the value of energy saved  sometimes called   in   kwh  the energy in such a calculation is virtual in the sense that it was never consumed but rather saved due to some energy efficiency investment being made  thus cea allows comparing the price of negawatts with price of energy such as electricity from the grid or the cheapest renewable alternative  the benefit of the cea approach in energy systems is that it avoids the need to guess future energy prices for the purposes of the calculation  thus removing the major source of uncertainty in the appraisal of energy efficiency investments 
+energy efficiency by country  
+europe  
+see also 
+this section needs expansion with  proper text and additional citations  you can help by    june 2016 
+energy efficiency targets for 2020 and 2030 
+the eu has set itself a 20  energy savings target by 2020 when compared to the projected use of energy in 2020  roughly equivalent to turning off 400 power stations  at an eu summit in october 2014  eu countries agreed on a new energy efficiency target of 27  or greater by 2030  one mechanism used to achieve the target of 27  is the  suppliers obligations   white certificates  
+australia  
+it has been suggested that this section be
+out into another article titled       february 2016 
+the
+is actively leading the country in efforts to increase their energy efficiency  mainly through the governments   in july 2009  the   which represents the individual states and territories of australia  agreed to a national strategy on energy efficiency  nsee  
+this is a ten-year plan accelerate the implementation of a nationwide adoption of energy efficient practices and a preparation for the countrys transformation into a
+future  there are several different areas of energy use addressed within the nsee  but  the chapter devoted to the approach on energy efficiency that is to be adopted on a national level stresses four points in achieving stated levels of energy efficiency  they are 
+to help households and businesses transition to a low carbon future
+to streamline the adoption of efficient energy
+to make buildings more energy efficient
+for governments to work in partnership and lead the way to energy efficiency
+the overriding agreement that governs this strategy is the national partnership agreement on energy efficiency 
+this document also explains the role of both the
+and the individual states and territories in the nsee  as well provides for the creation of benchmarks and measurement devices which will transparently show the nations progress in relation to the stated goals  and addresses the need for funding of the strategy in order to enable it to move forward 
+germany  
+see also 
+energy efficiency is central to
+in   as of late 2015  national policy includes the following efficiency and consumption targets  with actual values for 2014   4
+efficiency and consumption target
+2014
+2020
+2050
+primary energy consumption  base year 2008 
+8.7 
+20 
+50 
+final energy productivity  20082050 
+1.6  year
+ 20082014 
+2.1  year
+ 20082050 
+gross electricity consumption  base year 2008 
+4.6 
+10 
+25 
+primary energy consumption in buildings  base year 2008 
+14.8 
+80 
+heat consumption in buildings  base year 2008 
+12.4 
+20 
+final energy consumption in transport  base year 2005 
+1.7 
+10 
+40 
+recent progress toward improved efficiency has been steady aside from the   some however believe energy efficiency is still under-recognised in terms of its contribution to germany s energy transformation  or   
+efforts to reduce final energy consumption in transport sector have not been successful  with a growth of 1.7  between 20052014  this growth is due to both road passenger and road freight transport  both sectors increased their overall distance travelled to record the highest figures ever for germany  rebound effects played a significant role  both between improved vehicle efficiency and the distance travelled  and between improved vehicle efficiency and an increase in vehicle weights and engine power  12
+on 3 december 2014  the german federal government released its
+ nape   the areas covered are the energy efficiency of buildings  energy conservation for companies  consumer energy efficiency  and transport energy efficiency  the policy contains both immediate and forward-looking measures  the central short-term measures of nape include the introduction of competitive tendering for energy efficiency  the raising of funding for building renovation  the introduction of tax incentives for efficiency measures in the building sector  and the setting up energy efficiency networks together with business and industry  german industry is expected to make a sizeable contribution 
+on 12 august 2016  the german government released a
+on energy efficiency for public consultation  in german   it outlines the potential challenges and actions needed to reduce energy consumption in germany over the coming decades  at the document s launch  economics and energy minister
+said  we do not need to produce  store  transmit and pay for the energy that we save   the green paper prioritizes the efficient use of energy as the  first  response and also outlines opportunities for   including using renewable power for heating and transport  other proposals include a flexible energy tax which rises as petrol prices fall  thereby incentivizing fuel conservation despite low oil prices 
+poland  
+in may 2016 poland adopted a new act on energy efficiency  to enter into force on 1october 2016 
+united states  
+main article 
+a 2011
+study covering the united states examines how energy efficiency opportunities will shape future fuel and electricity demand over the next several decades  the us economy is already set to lower its energy and carbon intensity  but explicit policies will be necessary to meet climate goals  these policies include  a carbon tax  mandated standards for more efficient appliances  buildings and vehicles  and subsidies or reductions in the upfront costs of new more energy efficient equipment 
+industry  
+industries use a large amount of energy to power a diverse range of manufacturing and resource extraction processes  many industrial processes require large amounts of heat and mechanical power  most of which is delivered as  
+and as   in addition some industries generate fuel from waste products that can be used to provide additional energy 
+because industrial processes are so diverse it is impossible to describe the multitude of possible opportunities for energy efficiency in industry  many depend on the specific technologies and processes in use at each industrial facility  there are  however  a number of processes and energy services that are widely used in many industries 
+various industries generate
+and electricity for subsequent use within their facilities  when electricity is generated  the heat that is produced as a by-product can be captured and used for process steam  heating or other industrial purposes  conventional electricity generation is about 30  efficient  whereas combined heat and power  also called   converts up to 90 percent of the fuel into usable energy 
+advanced boilers and furnaces can operate at higher temperatures while burning less fuel  these technologies are more efficient and produce fewer pollutants 
+over 45 percent of the fuel used by us manufacturers is burnt to make steam  the typical industrial facility can reduce this energy usage 20 percent  according to the   by insulating steam and condensate return lines  stopping steam leakage  and maintaining steam traps 
+usually run at a constant speed  but a
+allows the motors energy output to match the required load  this achieves energy savings ranging from 3 to 60 percent  depending on how the motor is used  motor coils made of
+materials can also reduce energy losses  motors may also benefit from    
+industry uses a large number of
+and
+of all shapes and sizes and in a wide variety of applications  the efficiency of pumps and compressors depends on many factors but often improvements can be made by implementing better
+and better maintenance practices  compressors are commonly used to provide
+which is used for sand blasting  painting  and other power tools  according to the us department of energy  optimizing compressed air systems by installing variable speed drives  along with preventive maintenance to detect and fix air leaks  can improve energy efficiency 20 to 50 percent 
+transportation  
+main article 
+automobiles  
+main article 
+used by
+the estimated energy efficiency for an automobile is 280 passenger-mile 106 btu  there are several ways to enhance a vehicle s energy efficiency  using improved
+to minimize drag can increase vehicle   reducing vehicle weight can also improve fuel economy  which is why
+are widely used in car bodies 
+more advanced tires  with decreased tire to road friction and rolling resistance  can save gasoline  fuel economy can be improved by up to 3.3  by keeping tires inflated to the correct pressure  replacing a clogged air filter can improve a cars fuel consumption by as much as 10 percent on older vehicles  on newer vehicles  1980s and up  with fuel-injected  computer-controlled engines  a clogged air filter has no effect on mpg but replacing it may improve acceleration by 6-11 percent 
+can increase fuel efficiency by allowing a smaller displacement engine  the  engine of the year 2011  is a fiat 500 engine equipped with an mhi turbocharger   compared with a 1.2-liter 8v engine  the new 85 hp turbo has 23  more power and a 30  better performance index  the performance of the two-cylinder is not only equivalent to a 1.4-liter 16v engine  but fuel consumption is 30  lower  
+energy-efficient vehicles may reach twice the fuel efficiency of the average automobile  cutting-edge designs  such as the diesel
+concept vehicle have achieved a fuel efficiency as high as 84 miles per us gallon  2.8l 100km  101mpg-imp   four times the current conventional automotive average 
+the mainstream trend in automotive efficiency is the rise of
+ all electric or hybrid electric   hybrids  like the   use
+to recapture energy that would dissipate in normal cars  the effect is especially pronounced in city driving 
+also have increased battery capacity  which makes it possible to drive for limited distances without burning any gasoline  in this case  energy efficiency is dictated by whatever process  such as coal-burning  hydroelectric  or renewable source  created the power  plug-ins can typically drive for around 40 miles  64km  purely on electricity without recharging  if the battery runs low  a gas engine kicks in allowing for extended range  finally  all-electric cars are also growing in popularity  the
+sedan is the only high-performance all-electric car currently on the market 
+street lighting  
+cities around the globe light up millions of streets with 300 million lights  some cities are seeking to reduce
+power consumption by dimming lights during off-peak hours or switching to led lamps  it is not clear whether the high luminous efficiency of leds will lead to real reductions in energy  as cities may end up installing extra lamps or lighting areas more brightly than in the past 
+aircraft  
+main articles 
+and
+air traffic management
+there are several ways to reduce energy usage in air transportation  from modifications to the planes themselves  to how air traffic is managed  as in cars  turbochargers are an effective way to reduce energy consumption  however  instead of allowing for the use of a smaller-displacement engine  turbochargers in jet turbines operate by compressing the thinner air at higher altitudes  this allows the engine to operate as if it were at sea-level pressures while taking advantage of the reduced drag on the aircraft at higher altitudes 
+air traffic management systems are another way to increase the efficiency of not just the aircraft but the airline industry as a whole  new technology allows for superior automation of takeoff  landing  and collision avoidance  as well as within airports  from simple things like hvac and lighting to more complex tasks such as security and scanning 
+alternative fuels  
+typical
+filling station with four
+for sale 
+ b3  
+ e25   neat
+    and
+ cng      
+main article 
+alternative fuels  known as non-conventional or advanced   are any materials or
+that can be used as   other than conventional fuels  some well known alternative
+include  
+        chemically stored
+ batteries and      non-fossil   non-fossil     and other
+sources 
+green diesel production
+green jet fuel production
+energy conservation  
+main article 
+elements of   shown in a direct gain application
+is broader than energy efficiency in including active efforts to decrease energy consumption  for example through   in addition to using energy more efficiently  examples of conservation without efficiency improvements are heating a room less in winter  using the car less  air-drying your clothes instead of using the dryer  or enabling energy saving modes on a computer  as with other definitions  the boundary between efficient energy use and energy conservation can be fuzzy  but both are important in environmental and economic terms  this is especially the case when actions are directed at the saving of   energy conservation is a challenge requiring policy programmes  technological development and behavior change to go hand in hand  many energy
+organisations  for example governmental or non-governmental organisations on local  regional  or national level  are working on often publicly funded programmes or projects to meet this challenge  psychologists have also engaged with the issue of energy conservation and have provided guidelines for realizing behavior change to reduce energy consumption while taking technological and policy considerations into account 
+the national renewable energy laboratory maintains a comprehensive list of apps useful for energy efficiency 
+commercial property managers that plan and manage energy efficiency projects generally use a software platform to perform energy audits and to collaborate with contractors to understand their full range of options  the
+describes energyactio software  a cloud based platform designed for this purpose 
+sustainable energy  
+main article 
+energy efficiency and
+are said to be the twin pillars of a sustainable   both strategies must be developed concurrently in order to stabilize and reduce   efficient energy use is essential to slowing the energy demand growth so that rising
+supplies can make deep cuts in fossil fuel use  if energy use grows too rapidly  renewable energy development will chase a receding target  likewise  unless clean energy supplies come online rapidly  slowing demand growth will only begin to reduce total carbon emissions  a reduction in the carbon content of energy sources is also needed  a sustainable energy economy thus requires major commitments to both efficiency and renewables 
+rebound effect  
+further information 
+and
+if the demand for energy services remains constant  improving energy efficiency will reduce energy consumption and carbon emissions  however  many efficiency improvements do not reduce energy consumption by the amount predicted by simple engineering models  this is because they make energy services cheaper  and so consumption of those services increases  for example  since fuel efficient vehicles make travel cheaper  consumers may choose to drive farther  thereby offsetting some of the potential energy savings  similarly  an extensive historical analysis of technological efficiency improvements has conclusively shown that energy efficiency improvements were almost always outpaced by economic growth  resulting in a net increase in resource use and associated pollution  these are examples of the direct  
+estimates of the size of the rebound effect range from roughly 5  to 40   the rebound effect is likely to be less than 30  at the household level and may be closer to 10  for transport  a rebound effect of 30  implies that improvements in energy efficiency should achieve 70  of the reduction in energy consumption projected using engineering models  the rebound effect may be particularly large for lighting  because in contrast to tasks like transport there is effectively no upper limit on how much light could be considered useful  in fact  it appears that lighting has accounted for about 0.7  of gdp across many societies and hundreds of years  implying a rebound effect of 100  
+organisations and programs  
+international
+ e g   
+china
+australia
+european union
+  the european engineering industries association
+iceland
+india
+japan
+lebanon
+united kingdom
+united states
+  from
+see also  
+us department of energy
+references  
+ 2007     unsw press  p  86 
+sophie hebden  2006-06-22     scidev net  retrieved 2010-07-16 
+prindle  bill  eldridge  maggie  eckhardt  mike  frederick  alyssa  may 2007     washington  dc  usa  american council for an energy-efficient economy  aceee   retrieved 2016-04-03 
+zehner  ozzie  2012     london  unp  pp 180181 
+ pdf   retrieved 2010-07-16 
+kennan  hallie   working paper  state green banks for clean energy 
+  green collar operations  retrieved 2010-07-16 
+steve lohr  november 29  2006     the new york times  retrieved november 29  2006 
+  electrolux com  retrieved 2010-07-16 
+  electrolux com  retrieved 2010-07-16 
+  mckinsey global institute  7  2009  retrieved february 16  2016 
+ 
+environmental and energy study institute    eesi org  retrieved 2010-07-16 
+ 
+  inhabitat com  retrieved october 12  2011 
+alison gregor      retrieved december 12  2015 
+juha forsstrm  pekka lahti  esa pursiheimo  miika rm  jari shemeikka  kari sipil  pekka tuominen   irmeli wahlgren  2011     vtt technical research centre of finland 
+most heat is lost through the walls of your building  in fact about a third of all heat losses occur in this area 
+creating energy efficient offices - electrical contractor fit-out article
+matar  w  2015    beyond the end-consumer  how would improvements in residential energy efficiency affect the power sector in saudi arabia    energy efficiency    
+yezioro  a  dong  b  leite  f  2008    an applied artificial intelligence approach towards assessing building performance simulation tools   energy and buildings  40  4   612    
+  usgbc  retrieved 29 april 2015 
+  environmental leader  retrieved 29 april 2015 
+  esbnyc com  2011-06-16  retrieved 2013-08-21 
+amory lovins  marchapril 2012     foreign affairs 
+pekka tuominen  francesco reda  waled dawoud  bahaa elboshy  ghada elshafei  abdelazim negm    procedia economics and finance  volume 21  2015  pages 422430 
+  europa eu  europa eu  retrieved 2016-07-07 
+  industry gov au  16 august 2015
+ pdf   fif gov au  16 august 2015
+federal ministry of economics and technology  bmwi   federal ministry for the environment  nature conservation and nuclear safety  bmu   28 september 2010  
+ pdf   berlin  germany  federal ministry of economics and technology  bmwi   retrieved 2016-05-01 
+ pdf   berlin  germany  federal ministry for economic affairs and energy  bmwi   november 2015  retrieved 2016-06-09 
+schlomann  barbara  eichhammer  wolfgang  2012  
+ pdf   karlsruhe  germany  fraunhofer institute for systems and innovation research isi  retrieved 2016-05-01 
+agora energiewende  2014  
+ pdf   berlin  germany  agora energiewende  retrieved 2016-04-29 
+lschel  andreas  erdmann  georg  stai  frithjof  ziesing  hans-joachim  november 2015  
+ pdf   germany  expert commission on the  energy of the future  monitoring process  retrieved 2016-06-09 
+  federal ministry for economic affairs and energy  bmwi   retrieved 2016-06-07 
+ pdf   berlin  germany  federal ministry for economic affairs and energy  bmwi   december 2014  retrieved 2016-06-07 
+ 
+ press release   berlin  germany  federal ministry for economic affairs and energy  bmwi   12 august 2016  retrieved 2016-09-06 
+ pdf   in german   berlin  germany  federal ministry for economic affairs and energy  bmwi   retrieved 2016-09-06 
+amelang  sren  15 august 2016     clean energy wire  clew   berlin  germany  retrieved 2016-09-06 
+sekua-baranska  sandra  24 may 2016     noerr  munich  germany  retrieved 2016-09-20 
+huntington  hillard  2011  
+ pdf   stanford  ca  usa    retrieved 2016-05-10 
+ 
+environmental and energy study institute 
+ pdf   retrieved 2015-01-11 
+richard c  dorf  the energy factbook  mcgraw-hill  1981
+  fueleconomy gov  retrieved 2010-07-16 
+  green car congress 
+nom    2013-06-28     lenergieenquestions fr  retrieved 2013-08-21 
+kyba  c  c  m   hnel  a   hlker  f   2014    redefining efficiency for outdoor lighting   energy   environmental science  7  6   1806    
+dietz  t  et al   2009    pnas  106 44  
+diesendorf  mark  2007   greenhouse solutions with sustainable energy  unsw press  p  87 
+breukers  heiskanen  et al   2009   interaction schemes for successful demand-side management  deliverable 5 of the
+project  funded by the ec   213217  
+kok  g   lo  s h   peters  g j    r a c  ruiter  2011   changing energy-related behavior  an intervention mapping approach  energy policy  39 9  5280-5286  doi 10.1016 j enpol 2011.05.036
+  en openei org  retrieved 2013-08-21 
+  
+huesemann  michael h   and joyce a  huesemann  2011     chapter 5   in search of solutions ii  efficiency improvements   new society publishers  gabriola island  canada 
+ 
+pp  v-vi 
+greening  lorna a   david l  greene  carmen difiglio  2000    energy efficiency and consumptionthe rebound effecta survey   energy policy  28  67   389401    
+kenneth a  small and kurt van dender  september 21  2005     university of california energy institute  policy   economics  retrieved 2007-11-23 
+ pdf   retrieved 2011-10-01 
+kyba  c  c  m   hnel  a   hlker  f   redefining efficiency for outdoor lighting   energy   environmental science    
+tsao  j y  saunders  h d  creighton  j r  coltrin  m e  simmons  j a  8 september 2010    solid-state lighting  an energy-economics perspective   journal of physics d  applied physics  43  35   354001    
+ 
+retrieved from   
+  hidden categories 

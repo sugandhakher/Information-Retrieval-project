@@ -1,0 +1,403 @@
+energymodelingforum
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Energy_Modeling_Forum&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(April 2009)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org">Energy Modeling Forum</caption>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Abbreviation</th>
+<td class="nickname">EMF</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Formation</th>
+<td class="note">1976 <span class="noprint">(40 years ago)</span><span style="display:none"> (<span class="bday dtstart published updated">1976</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Founded at</th>
+<td><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>, California, USA</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Purpose</th>
+<td>Scientific cooperation</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Official language</div>
+</th>
+<td>English</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Director</div>
+</th>
+<td><a href="/wiki/John_Weyant" title="John Weyant">John Weyant</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Website</th>
+<td><span class="url"><a class="external text" href="https://emf.stanford.edu" rel="nofollow">emf<wbr></wbr>.stanford<wbr></wbr>.edu</a></span></td>
+</tr>
+</table>
+<p>The <b>Energy Modeling Forum</b> (<b>EMF</b>) is a structured forum for discussing important issues in energy and the environment. The EMF was established in 1976 at <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>. The EMF works through a series of ad hoc working groups, each focussing on a particular corporate or policy decision. The EMF provides a non-partisan platform that ensures objective consideration of opposing views. Participation is by invitation.</p>
+<p>Since the late-1990s, the EMF has made contributions to the economics of <a href="/wiki/Climate_change" title="Climate change">climate change</a>, as witnessed in the reports of the <a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">Intergovernmental Panel on Climate Change</a> (IPCC) and on <a href="/wiki/Integrated_assessment_modelling" title="Integrated assessment modelling">integrated assessment modeling</a> more generally.</p>
+<p><a href="/wiki/John_Weyant" title="John Weyant">John Weyant</a> is the current director of the EMF.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Ethos"><span class="tocnumber">1</span> <span class="toctext">Ethos</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#List_of_EMF_projects"><span class="tocnumber">2</span> <span class="toctext">List of EMF projects</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Ethos">Ethos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_Modeling_Forum&amp;action=edit&amp;section=1" title="Edit section: Ethos">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The EMF was convened in 1976 over concerns that the insights that large-scale <a href="/wiki/Energy_modeling" title="Energy modeling">energy models</a> could provide <a class="mw-redirect" href="/wiki/Policymaker" title="Policymaker">policymakers</a> were being overshadowed by the "plethora of detailed quantitative results" being disseminated and discussed.<sup class="reference" id="cite_ref-huntington-etal-1982_1-0"><a href="#cite_note-huntington-etal-1982-1">[1]</a></sup><sup class="reference" style="white-space:nowrap;">:449</sup> As a result, the EMF sought to bring energy modelers together to provide a proper context for their work. Indeed, the EMF was "formed to foster better communication between the builders and users of energy models in energy planning and policy analysis".<sup class="reference" id="cite_ref-huntington-etal-1982_1-1"><a href="#cite_note-huntington-etal-1982-1">[1]</a></sup><sup class="reference" style="white-space:nowrap;">:449</sup> The EMF periodically establishes <span class="nowrap">ad hoc</span> working groups to conduct studies on selected energy topics. A working group then identifies relevant existing models and sets a series of tests to illuminate the basic structure and behavior of each model. Results are compared and the strengths and weaknesses of each model is documented in a (as of 1982) freely available report.<sup class="reference" id="cite_ref-huntington-etal-1982_1-2"><a href="#cite_note-huntington-etal-1982-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="List_of_EMF_projects">List of EMF projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_Modeling_Forum&amp;action=edit&amp;section=2" title="Edit section: List of EMF projects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Reports for most of the completed projects are available from the EMF website.<sup class="reference" id="cite_ref-emf-projects_2-0"><a href="#cite_note-emf-projects-2">[2]</a></sup> Reports since 2006 have sometimes been published exclusively in special editions of (paywalled) academic journals instead.</p>
+<table class="wikitable">
+<caption>EMF projects <sup class="reference" id="cite_ref-emf-projects_2-1"><a href="#cite_note-emf-projects-2">[2]</a></sup></caption>
+<tr>
+<th>Project</th>
+<th>Reported</th>
+<th>Description</th>
+</tr>
+<tr>
+<th colspan="3" style="text-align: left">Completed projects</th>
+</tr>
+<tr>
+<td>EMF 01</td>
+<td>1977</td>
+<td>Energy and the economy</td>
+</tr>
+<tr>
+<td>EMF 02</td>
+<td>1978</td>
+<td>Coal in transition: 1980–2000</td>
+</tr>
+<tr>
+<td>EMF 03</td>
+<td>1979</td>
+<td>Electric load forecasting: probing the issue with models</td>
+</tr>
+<tr>
+<td>EMF 04</td>
+<td>1980</td>
+<td>Aggregate elasticity of energy demand</td>
+</tr>
+<tr>
+<td>EMF 05</td>
+<td>1982</td>
+<td>US oil and gas supply</td>
+</tr>
+<tr>
+<td>EMF 06</td>
+<td>1981</td>
+<td>World oil</td>
+</tr>
+<tr>
+<td>EMF 07</td>
+<td>1986</td>
+<td>Macroeconomic impacts of energy shocks</td>
+</tr>
+<tr>
+<td>EMF 08</td>
+<td>1987</td>
+<td>Industrial energy demand, conservation, and interfuel substitution</td>
+</tr>
+<tr>
+<td>EMF 09</td>
+<td>1989</td>
+<td>North American natural gas markets</td>
+</tr>
+<tr>
+<td>EMF 10</td>
+<td>1991</td>
+<td>Electricity markets and planning</td>
+</tr>
+<tr>
+<td>EMF 11</td>
+<td>1992</td>
+<td>International oil supplies and demands</td>
+</tr>
+<tr>
+<td>EMF 12</td>
+<td>1993</td>
+<td>Controlling global carbon emissions: costs and policy options</td>
+</tr>
+<tr>
+<td>EMF 13</td>
+<td>1996</td>
+<td>Markets for energy efficiency</td>
+</tr>
+<tr>
+<td>EMF 14</td>
+<td>—</td>
+<td>Integrated assessment of climate change</td>
+</tr>
+<tr>
+<td>EMF 15</td>
+<td>1998</td>
+<td>A competitive electricity industry</td>
+</tr>
+<tr>
+<td>EMF 16</td>
+<td>1999</td>
+<td>The costs of the Kyoto Protocol</td>
+</tr>
+<tr>
+<td>EMF 17</td>
+<td>—</td>
+<td>Prices and emissions in a restructured electricity market</td>
+</tr>
+<tr>
+<td>EMF 18</td>
+<td>—</td>
+<td>International trade dimensions of climate policies</td>
+</tr>
+<tr>
+<td>EMF 19</td>
+<td>2002</td>
+<td>Climate change: technology strategies and international trade</td>
+</tr>
+<tr>
+<td>EMF 20</td>
+<td>2003</td>
+<td>Natural gas, fuel diversity, and North American energy markets</td>
+</tr>
+<tr>
+<td>EMF 21</td>
+<td>2008</td>
+<td>Multi-gas mitigation and climate change</td>
+</tr>
+<tr>
+<td>EMF 22</td>
+<td>2010</td>
+<td>Climate change control scenarios</td>
+</tr>
+<tr>
+<td>EMF 23</td>
+<td>2009</td>
+<td>World natural gas markets and trade</td>
+</tr>
+<tr>
+<td>EMF 24</td>
+<td>2014</td>
+<td>US technology and climate policy strategies</td>
+</tr>
+<tr>
+<td>EMF 25</td>
+<td>2011</td>
+<td>Energy efficiency and climate change mitigation</td>
+</tr>
+<tr>
+<td>EMF 26</td>
+<td>2013</td>
+<td>Emissions and market implications of new natural gas supplies</td>
+</tr>
+<tr>
+<td>EMF 27</td>
+<td>2014</td>
+<td>Global technology and climate policy strategies</td>
+</tr>
+<tr>
+<td>EMF 28</td>
+<td>2013</td>
+<td>The effects of technology choices on EU climate policy</td>
+</tr>
+<tr>
+<td>EMF 29</td>
+<td>2012</td>
+<td>The role of border carbon adjustment in unilateral climate policy</td>
+</tr>
+<tr>
+<th colspan="3" style="text-align: left">Current projects <span style="font-weight: normal">(late-2016)</span></th>
+</tr>
+<tr>
+<td>EMF 30</td>
+<td></td>
+<td>Short-lived climate forcers and air quality</td>
+</tr>
+<tr>
+<td>EMF 31</td>
+<td></td>
+<td>North American natural gas markets in transition</td>
+</tr>
+<tr>
+<td>EMF 32</td>
+<td></td>
+<td>US GHG and revenue recycling scenarios</td>
+</tr>
+<tr>
+<td>EMF 33</td>
+<td></td>
+<td>Bio-energy and land use</td>
+</tr>
+<tr>
+<td colspan="3"><small>The reported year is that of the last revision<br/>
+A dash indicates that no report is available</small></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_Modeling_Forum&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Energy_modeling" title="Energy modeling">Energy modeling</a> – the process of building computer models of energy systems</li>
+<li><a href="/wiki/Open_Energy_Modelling_Initiative" title="Open Energy Modelling Initiative">Open Energy Modelling Initiative</a> – an <a href="/wiki/Open_source" title="Open source">open source</a> energy modeling initiative, centered on Europe</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_Modeling_Forum&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-huntington-etal-1982-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-huntington-etal-1982_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-huntington-etal-1982_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-huntington-etal-1982_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Huntington, Hillard G; Weyant, John P; Sweeney, James L (1 January 1982). <a class="external text" href="https://web.stanford.edu/group/emf-research/docs/planning_papers/PP6.5.pdf" rel="nofollow">"Modeling for insights, not numbers: the experiences of the Energy Modeling Forum"</a> <span style="font-size:85%;">(PDF)</span>. <i>Omega: The International Journal of Management Science</i>. <b>10</b> (5): 449–462. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1016%2F0305-0483%2882%2990002-0" rel="nofollow">10.1016/0305-0483(82)90002-0</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0305-0483" rel="nofollow">0305-0483</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-10-22</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+Modeling+Forum&amp;rft.atitle=Modeling+for+insights%2C+not+numbers%3A+the+experiences+of+the+Energy+Modeling+Forum&amp;rft.aufirst=Hillard+G&amp;rft.aulast=Huntington&amp;rft.au=Sweeney%2C+James+L&amp;rft.au=Weyant%2C+John+P&amp;rft.date=1982-01-01&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fweb.stanford.edu%2Fgroup%2Femf-research%2Fdocs%2Fplanning_papers%2FPP6.5.pdf&amp;rft_id=info%3Adoi%2F10.1016%2F0305-0483%2882%2990002-0&amp;rft.issn=0305-0483&amp;rft.issue=5&amp;rft.jtitle=Omega%3A+The+International+Journal+of+Management+Science&amp;rft.pages=449-462&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-emf-projects-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-emf-projects_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-emf-projects_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://emf.stanford.edu/projects" rel="nofollow">"Projects — Energy Modeling Forum"</a>. <i>Energy Modeling Forum (EMF)</i>. Stanford, CA, USA<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-10-23</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+Modeling+Forum&amp;rft.atitle=Projects+%94+Energy+Modeling+Forum&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Femf.stanford.edu%2Fprojects&amp;rft.jtitle=Energy+Modeling+Forum+%28EMF%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_Modeling_Forum&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="https://emf.stanford.edu/" rel="nofollow">EMF home page</a></li>
+</ul>
+<div aria-labelledby="Energy_modeling" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Energy_modeling" title="Template:Energy modeling"><abbr style=";;background:none transparent;border:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Energy_modeling" title="Template talk:Energy modeling"><abbr style=";;background:none transparent;border:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Energy_modeling&amp;action=edit"><abbr style=";;background:none transparent;border:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Energy_modeling" style="font-size:114%"><a href="/wiki/Energy_modeling" title="Energy modeling">Energy modeling</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Models</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ACEGES" title="ACEGES">ACEGES</a></li>
+<li><a href="/wiki/INEMS" title="INEMS">iNEMS</a></li>
+<li><a href="/wiki/MARKAL" title="MARKAL">MARKAL</a></li>
+<li><a href="/wiki/National_Energy_Modeling_System" title="National Energy Modeling System">NEMS</a></li>
+<li><a href="/wiki/Prospective_Outlook_on_Long-term_Energy_Systems" title="Prospective Outlook on Long-term Energy Systems">POLES</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Open data</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/OpenEI" title="OpenEI">OpenEI</a></li>
+<li><a href="/wiki/Reegle" title="Reegle">Reegle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Concepts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Climate_change_mitigation_scenarios" title="Climate change mitigation scenarios">Climate change mitigation scenarios</a></li>
+<li><a href="/wiki/Computer_simulation" title="Computer simulation">Computer simulation</a></li>
+<li><a href="/wiki/Energy_modeling" title="Energy modeling">Energy modeling</a></li>
+<li><a href="/wiki/Mathematical_optimization" title="Mathematical optimization">Mathematical optimization</a></li>
+<li><a href="/wiki/Scenario_analysis" title="Scenario analysis">Scenario analysis</a></li>
+<li><a href="/wiki/System_dynamics" title="System dynamics">System dynamics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Applications</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electricity_market" title="Electricity market">Electricity market</a></li>
+<li><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Electric power transmission</a></li>
+<li><a href="/wiki/Energy_market" title="Energy market">Energy market</a></li>
+<li><a href="/wiki/Energy_planning" title="Energy planning">Energy planning</a></li>
+<li><a href="/wiki/Energy_policy" title="Energy policy">Energy policy</a></li>
+<li><a href="/wiki/Integrated_assessment_modelling" title="Integrated assessment modelling">Integrated assessment modelling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">People</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hartmut_Bossel" title="Hartmut Bossel">Hartmut Bossel</a></li>
+<li><a href="/wiki/Mark_Z._Jacobson" title="Mark Z. Jacobson">Mark Jacobson</a></li>
+<li><a href="/wiki/John_A._Laitner" title="John A. Laitner">John Laitner</a></li>
+<li><a href="/wiki/John_Weyant" title="John Weyant">John Weyant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Organizations</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Energy Modeling Forum</strong></li>
+<li><a href="/wiki/Open_Energy_Modelling_Initiative" title="Open Energy Modelling Initiative">Openmod Initiative</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> Categories</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Category:Economics_models" title="Category:Economics models">Economics models</a></li>
+<li><a href="/wiki/Category:Energy_models" title="Category:Energy models">Energy models</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15160793-0!*!0!!en!4!* and timestamp 20161109164311 and revision id 747254901
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Energy_Modeling_Forum&amp;oldid=747254901">https://en.wikipedia.org/w/index.php?title=Energy_Modeling_Forum&amp;oldid=747254901</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Economics_organizations" title="Category:Economics organizations">Economics organizations</a></li><li><a href="/wiki/Category:Energy_models" title="Category:Energy models">Energy models</a></li><li><a href="/wiki/Category:Energy_organizations" title="Category:Energy organizations">Energy organizations</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2009" title="Category:Articles needing additional references from April 2009">Articles needing additional references from April 2009</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

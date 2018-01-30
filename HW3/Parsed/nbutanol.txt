@@ -1,0 +1,353 @@
+nbutanol
+from wikipedia  the free encyclopedia
+jump to 					 
+n-butanol
+names
+butan-1-ol
+other names
+butalcohol
+butanol
+1-butanol
+butyl alcohol
+butyl hydrate
+butylic alcohol
+butyralcohol
+butyric alcohol
+butyryl alcohol
+n-butyl alcohol
+1-hydroxybutane
+n-propylcarbinol
+identifiers
+y
+3dmet
+969148
+n
+y
+y
+n
+infocard
+200-751-6
+25753
+3d model
+y
+eo1400000
+y
+1120
+inchi 1s c4h10o c1-2-3-4-5 h5h 2-4h2,1h3y
+key lrhpldygymqrhn-uhfffaoysa-ny
+inchi 1 c4h10o c1-2-3-4-5 h5h 2-4h2,1h3
+cccco
+properties
+c4h10o
+74.12gmol1
+appearance
+colourless  refractive liquid
+-like  harsh  alcoholic and sweet
+0.81 g cm3
+89.8c  129.6f  183.3k 
+117.7c  243.9f  390.8k 
+73 g l1 at 25c
+very soluble in
+miscible with  
+0.839
+6 mmhg  20c 
+ pka 
+16.10
+ nd 
+1.3993  20c 
+2.573 mpas  at 25c 
+1.66 d
+thermochemistry
+ so298 
+225.7 jk1mol1
+ fho298 
+328 4  kj mol1
+ cho298 
+2670 20  kj mol1
+hazards
+ dsd 
+xn
+       
+         
+35c  95f  308k 
+343c  649f  616k 
+1.4511.25 
+lethal dose or concentration  ld  lc  
+ld50   
+790 mg kg  rat  oral 
+ldlo   
+3484 mg kg  rabbit  oral 
+790 mg kg  rat  oral 
+1700 mg kg  dog  oral 
+lc50   
+9221 ppm  mammal 
+8000 ppm  rat  4 hr 
+us health exposure limits    
+ permissible 
+twa 100 ppm  300 mg m3 
+ recommended 
+c 50 ppm  150 mg m3   skin 
+ immediate danger 
+1400 ppm
+related compounds
+related compounds
+except where otherwise noted  data are given for materials in their
+ at 25c  77f   100kpa  
+n yn  
+n-butanol or n-butyl alcohol or normal butanol is a primary
+with a 4- structure and the
+c4h9oh  its
+include     and   butanol is one of the group of     from the german for  bad liquor    which have more than two carbon atoms and have significant solubility in water 
+n-butanol occurs naturally as a minor product of the
+of
+and other   and is present in many foods and beverages  it is also a permitted artificial flavorant in the united states  used in butter  cream  fruit  rum  whiskey  ice cream and ices  candy  baked goods and cordials  it is also used in a wide range of consumer products 
+the largest use of n-butanol is as an industrial intermediate  particularly for the manufacture of
+ itself an artificial flavorant and industrial solvent   it is a   manufactured from
+and usually used close to the point of manufacture  estimated production figures for 1997 are  united states 784,000tonnes  western europe 575,000tonnes  japan 225,000tonnes 
+contents
+production  
+n-butanol is produced industrially from the petrochemical feedstock   propylene is
+to
+   in the presence of a -based
+similar to   the butyraldehyde is then
+to produce n-butanol 
+industrial use  
+n-butanol is an intermediate in the production of         and other butyl esters  butyl ethers such as  
+and   and the corresponding butyl ether acetates  other industrial uses include the manufacture of pharmaceuticals  polymers 
+plastics  herbicide esters  printing  e g       and   it is also used as a diluent reactant in the manufacture of  and formaldehyde resins 
+other uses  
+n-butanol is used as an ingredient in perfumes and as a solvent for the extraction of   n-butanol is also used as an extractant in the manufacture of     and   a solvent for paints  coatings  natural resins  gums  synthetic resins  dyes    and   other miscellaneous applications of n-butanol are as a swelling agent in textiles  as a component of hydraulic   cleaning formulations    and repellents  and as a component of ore floation agents  and of wood-treating systems 
+n-butanol has been proposed
+for
+and   it is produced in small quantities in nearly all
+ see    but species of
+produce much higher yields of butanol  and research is currently underway to increase the ultimate yield of
+from  
+the production or  in some cases  use of the following substances may result in exposure to n-butanol        dyes  fruit essences  lacquers  motion picture  and photographic films  raincoats  perfumes 
+plastics    safety glass 
+varnish  and waterproofed cloth 
+occurrence in nature  
+use n-butanol as an  
+occurrence in food  
+n-butanol occurs naturally as a result of carbohydrate fermentation in a number of alcoholic beverages  including beer  grape brandies  wine  and whisky  it has been detected in the volatiles of hops  jack fruit  heat-treated milks  musk melon  cheese  southern pea seed  and cooked rice  n-butanol is also formed during deep frying of corn oil  cottonseed oil  trilinolein  and triolein 
+n-butanol is used as an ingredient in processed and artificial flavourings  and for the extraction of lipid-free protein from egg yolk  natural flavouring materials and vegetable oils  the manufacture of hop extract for beermaking  and as a solvent in removing pigments from moist curd  
+metabolism and toxicity  
+n-butanol is readily absorbed through the intestinal tract and lungs  and also to some extent through the skin  it is metabolized completely in vertebrates in a manner similar to  
+converts n-butanol to   this is then converted to
+by   butyric acid can be fully metabolized to
+and
+by the
+pathway  in the rat  only 0.03  of an oral dose of 2000mg kg was excreted in the urine 
+the acute toxicity of n-butanol is relatively low  with oral
+values of 7904360mg kg  rat  comparable values for ethanol are 700015000mg kg   no deaths were reported at an inhaled concentration of 8000ppm  4-hour exposure  rats   at sub-lethal doses  n-butanol acts as a
+of the   similar to ethanol  one study in rats indicated that the intoxicating potency of n-butanol is some six times higher than that of ethanol  possibly because of its slower transformation by alcohol dehydrogenase 
+n-butanol is a natural component of many alcoholic beverages  albeit in low  but variable  concentrations  it  along with similar   is reputed to be responsible for severe     although experiments in animal models show no evidence for this  an unknown dose n-butanol was consumed by a 47-year-old male with no previous medical history  leading to a range of adverse health effects 
+other hazards  
+liquid n-butanol  as is common with most organic solvents  is extremely irritating to the eyes  repeated contact with the skin can also cause irritation  this is believed to be a generic effect of  defatting   no skin sensitization has been observed  irritation of the respiratory pathways occurs only at very high concentrations   2400ppm  
+with a
+of 35c  n-butanol presents a moderate fire hazard  it is slightly more flammable than
+or
+but less flammable than many other common organic solvents  the depressant effect on the central nervous system  similar to ethanol intoxication  is a potential hazard when working with n-butanol in enclosed spaces  although the odour threshold  0.230ppm  is far below the concentration which would have any neurological effect 
+n-butanol is of low toxicity to aquatic vertebrates and invertebrates  it is rapidly biodegraded in water  although an estimated 83  partitions to air where it is degraded by
+with a half-life of 1.22.3days  it has low potential to   a potential hazard of significant discharges to watercourses is the rise in
+ c o d   associated with its biodegradation 
+see also  
+external links  
+ 
+ niosh  
+from the
+ oecd 
+references  
+  the pubchem project  usa  national center of biotechnology information 
+ n-butanol product information  the dow chemical company  form no  327-00014-1001  page 1 
+ 
+ 
+ niosh  
+dubey  gyan  2008    study of densities  viscosities  and speeds of sound of binary liquid mixtures of butan-1-ol with n-alkanes  c6  c8  and c10  at t    298.15  303.15  and 308.15  k   the journal of chemical thermodynamics  40  2   309320    
+ 
+  immediately dangerous to life and health 
+ niosh  
+hazelwood  lucie a   daran  jean-marc  van maris  antonius j  a   pronk  jack t   dickinson  j  richard  2008     appl  environ  microbiol   74  8   225966        
+ 
+  environmental health criteria monograph no 65  geneva  world health organization  1987   
+ 
+ pdf   sids initial assessment report  geneva  united nations environment programme  april 2005 
+21 c f r   172.515  42 fr 14491  mar  15  1977  as amended 
+hall  r  l   oser  b  l   1965    recent progress in the consideration of flavouring ingredients under the food additives amendement  iii  gras substances   food technol   151  cited in   environmental health criteria monograph no 65  geneva  world health organization  1987   
+ 
+mellan  i   1950   industrial solvents  new york  van nostrand reinhold  pp 48288  cited in   environmental health criteria monograph no 65  geneva  world health organization  1987   
+ 
+doolittle  a  k   1954   the technology of solvents and plasticizers  new york  wiley  pp 64445  cited in   environmental health criteria monograph no 65  geneva  world health organization  1987   
+ 
+monich  j  a   1968   alcohols  their chemistry  properties  and manufacture  new york  chapman and reinhold  cited in   environmental health criteria monograph no 65  geneva  world health organization  1987   
+  amundsen  j   r  j  goodwin   w  h  wetzel   water-soluble pentachlorophenol and tetrachlorophenol wood-treating systems   published 28 feb  1979 
+bonte  w   1979    congener substances in german and foreign beers   blutalkohol  16  10824  cited in   environmental health criteria monograph no 65  geneva  world health organization  1987   
+schreier  peter  drawert  friedrich  winkler  friedrich  1979    composition of neutral volatile constituents in grape brandies   j  agric  food chem   27  2   36572    
+bonte  w   1978    congener content of wine and similar beverages   blutalkohol  15  392404  cited in   environmental health criteria monograph no 65  geneva  world health organization  1987   
+postel  w   adam  l   1978    gas chromatographic characterization of whiskey  iii  irish whiskey   branntweinwirtschaft  118  4047  cited in   environmental health criteria monograph no 65  geneva  world health organization  1987   
+tressl  roland  friese  lothar  fendesack  friedrich  koeppler  hans  1978    studies of the volatile composition of hops during storage   j  agric  food chem   26  6   142630    
+swords  g   bobbio  p  a   hunter  g  l  k   1978    volatile constituents of jack fruit  arthocarpus heterophyllus    j  food sci   43  2   63940    
+jaddou  haytham a   pavey  john a   manning  donald j   1978    chemical analysis of flavor volatiles in heat-treated milks   j  dairy res   45  3   391403    
+yabumoto  k   yamaguchi  m   jennings  w  g   1978    production of volatile compounds by muskmelon  cucumis melo   food chem   3  1   716    
+dumont  jean pierre  adda  jacques  1978    occurrence of sesquiterpones in mountain cheese volatiles   j  agric  food chem   26  2   36467    
+fisher  gordon s   legendre  michael g   lovgren  norman v   schuller  walter h   wells  john a   1979    volatile constituents of southernpea seed  vigna unguiculata  l   walp     j  agric  food chem   27  1   711    
+yajima  izumi  yanai  tetsuya  nakamura  mikio  sakakibara  hidemasa  habu  tsutomu  1978     agric  biol  chem   42  6   122933    
+chang  s  s   peterson  k  j   ho  c   1978    chemical reactions involved in the deep-fat frying of foods   j  am  oil chem  soc   71827  cited in   environmental health criteria monograph no 65  geneva  world health organization  1987   
+meslar  harry w   white  harold b   iii  1978    preparation of lipid-free protein extracts of egg yolk   anal  biochem   91  1   7581      
+bray  walter j   humphries  catherine  1978    solvent fractionation of leaf juice to prepare green and white protein products   j  sci  food agric   29  10   83946    
+theorell  hugo  bonnichsen  roger  holtermann  hugo  srensen  jrgine stene  srensen  nils andreas  1951  
+ pdf   acta chem  scand   5  110526     winer  alfred d   nurmikko  v   hartiala  k   hartiala  k   veige  s   diczfalusy  e   1958  
+ pdf   acta chem  scand   12  169596     merritt  a  donald  tomkins  gordon m   1959     j  biol  chem   234  10   277882  von wartburg  jean-pierre  bethane  j  l   vallee  b  l   1964    human liver alcohol dehydrogenase  kinetic and physiochemical properties   biochemistry  3  11   177582    
+gaillard  d   derache  r   1965    mtabilisation de diffrents alcools prsents dans les biossons alcooliques chez le rat   trav  soc  pharmacol  montpellier  25  54162  cited in   environmental health criteria monograph no 65  geneva  world health organization  1987   
+ pdf   sids initial assessment report  geneva  united nations environment programme  august 2005 
+mccreery  n  j   hunt  w  a   1978    physico-chemical correlates of alcohol intoxication   neuropharmacology  17  7   45161      
+woo  kang-lyung  2005    determination of low molecular weight alcohols including fusel oil in various samples by diethyl ether extraction and capillary gas chromatography   j  aoac int   88  5   141927      
+lachenmeier  dirk w   haupt  simone  schulz  katja  2008    defining maximum levels of higher alcohols in alcoholic beverages and surrogate alcohol products     50  3   31321      
+hori  hisako  fujii  wataru  hatanaka  yutaka  suwa  yoshihide  2003    effects of fusel oil on animal hangover models   alcohol  clin  exp  res   27  8 suppl   37s41s      
+bunc  m   pezdir  t   moina  h   moina  m   brvar  m   2006    butanol ingestion in an airport hangar   hum  exp  toxicol   25  4   19597      
+ 
+wysocki  c  j   dalton  p   1996   odor and irritation thresholds for 1-butanol in humans  philadelphia  monell chemical senses center  cited in
+ pdf   sids initial assessment report  geneva  united nations environment programme  april 2005 
+cometto-muiz  j  enrique  cain  william s   1998    trigeminal and olfactory sensitivity  comparison of modalities and methods of measurement   int  arch  occup  environ  health  71  2   10510      
+straight-chain
+ 1 
+ c
+1 
+ c
+2 
+ c
+3 
+n-butanol  c
+4 
+ c
+5 
+ c
+6 
+ c
+7 
+ c
+8 
+ c
+9 
+ c
+10 
+ c
+11 
+ c
+12 
+ c
+13 
+ c
+14 
+ c
+15 
+ c
+16 
+ c
+17 
+ c
+18 
+ c
+19 
+ c
+20 
+ c
+21 
+ c
+22 
+ c
+23 
+ c
+24 
+ c
+25 
+ c
+26 
+ c
+27 
+ c
+28 
+ c
+29 
+ c
+30 
+other primary
+alcohols
+ c
+4 
+ c
+5 
+ c
+5 
+ c
+8 
+ c
+10 
+secondary
+alcohols  2 
+ c
+3 
+ c
+4 
+ c
+5 
+ c
+6 
+ c
+7 
+ c
+6 
+tertiary
+alcohols  3 
+ c
+4 
+ c
+5 
+ c
+6 
+ c
+7 
+ c
+8 
+ c
+6 
+ c
+9 
+    
+others
+compounds
+  
+  etc 
+  etc 
+  etc 
+  etc 
+  etc 
+  etc 
+  etc 
+  etc 
+others
+others
+-related
+  
+constituents  e g    
+constituents
+ 
+   
+   
+   
+  others 
+ 
+others unsorted
+ e g    
+compounds  e g        
+ e g          
+ e g          
+ e g          
+ e g        
+ e g    
+constituents  e g          
+unsorted benzodiazepine site pams 
+see also 
+ 
+retrieved from   
+  hidden categories 

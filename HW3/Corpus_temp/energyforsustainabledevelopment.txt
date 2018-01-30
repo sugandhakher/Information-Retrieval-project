@@ -1,0 +1,24 @@
+energyforsustainabledevelopment
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><p><i><b>Energy for Sustainable Development</b></i> is a <a class="mw-redirect" href="/wiki/Peer-reviewed" title="Peer-reviewed">peer-reviewed</a> <a href="/wiki/Academic_journal" title="Academic journal">academic journal</a> covering research on <a href="/wiki/Energy" title="Energy">energy</a>-related aspects of <a href="/wiki/Sustainable_development" title="Sustainable development">sustainable development</a>. It is published by <a href="/wiki/Elsevier" title="Elsevier">Elsevier</a> and the <a href="/wiki/Editor-in-chief" title="Editor-in-chief">editor-in-chief</a> is Daniel B. Jones. According to the <i><a href="/wiki/Journal_Citation_Reports" title="Journal Citation Reports">Journal Citation Reports</a></i>, the journal has a 2013 <a href="/wiki/Impact_factor" title="Impact factor">impact factor</a> of 2.360, ranking it 37th out of 83 journals in the category "Energy &amp; Fuels".<sup class="reference" id="cite_ref-WoS_1-0"><a href="#cite_note-WoS-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_for_Sustainable_Development&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-WoS-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-WoS_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">"Energy for Sustainable Development". <i>2013 <a href="/wiki/Journal_Citation_Reports" title="Journal Citation Reports">Journal Citation Reports</a></i>. <a href="/wiki/Web_of_Science" title="Web of Science">Web of Science</a> (Science ed.). <a href="/wiki/Thomson_Reuters" title="Thomson Reuters">Thomson Reuters</a>. 2014.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+for+Sustainable+Development&amp;rft.atitle=Energy+for+Sustainable+Development&amp;rft.btitle=2013+Journal+Citation+Reports&amp;rft.date=2014&amp;rft.edition=Science&amp;rft.genre=bookitem&amp;rft.pub=Thomson+Reuters&amp;rft.series=Web+of+Science&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_for_Sustainable_Development&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a class="external text" href="http://www.journals.elsevier.com/energy-for-sustainable-development/" rel="nofollow">Official website</a></span></span></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:46237919-0!*!0!!*!*!* and timestamp 20161107123602 and revision id 653680086
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Energy_for_Sustainable_Development&amp;oldid=653680086">https://en.wikipedia.org/w/index.php?title=Energy_for_Sustainable_Development&amp;oldid=653680086</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Elsevier_academic_journals" title="Category:Elsevier academic journals">Elsevier academic journals</a></li><li><a href="/wiki/Category:Publications_established_in_1993" title="Category:Publications established in 1993">Publications established in 1993</a></li><li><a href="/wiki/Category:English-language_journals" title="Category:English-language journals">English-language journals</a></li><li><a href="/wiki/Category:Energy_and_fuel_journals" title="Category:Energy and fuel journals">Energy and fuel journals</a></li><li><a href="/wiki/Category:Sustainable_development" title="Category:Sustainable development">Sustainable development</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

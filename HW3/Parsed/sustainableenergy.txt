@@ -1,0 +1,679 @@
+sustainableenergy
+from wikipedia  the free encyclopedia
+jump to 					 
+ green power  redirects here  for the engineering-related charity and its racing activities  see  
+sustainable energy is energy that is consumed at insignificant rates compared to its supply and with manageable collateral effects  especially environmental effects  another common definition of sustainable energy is an energy system that serves the needs of the present without compromising the ability of future generations to meet their needs the
+for sustainability is   which includes the four interconnected domains  ecology  economics  politics and culture 
+is the study of sustainable development and environmental science 
+technologies that promote
+energy include
+sources  such as            
+and also technologies designed to improve   costs have fallen dramatically in recent years  and continue to fall  most of these technologies are either economically competitive or close to being so  increasingly  effective government policies support investor confidence and these markets are expanding  considerable progress is being made in the
+from fossil fuels to ecologically sustainable systems  to the point where many studies support  
+contents
+definitions  
+energy efficiency and renewable energy are said to be the twin pillars of sustainable energy  some ways in which sustainable energy has been defined are 
+ effectively  the provision of energy such that it meets the needs of the present without compromising the ability of future generations to meet their own needs     sustainable energy has two key components  renewable energy and energy efficiency   renewable energy and efficiency partnership  british 
+ dynamic harmony between equitable availability of energy-intensive goods and services to all people and the preservation of the earth for future generations   and   the solution will lie in finding sustainable energy sources and more efficient means of converting and utilizing energy   sustainable energy by j  w  tester  et al   from mit press 
+ any energy generation  efficiency and conservation source where  resources are available to enable massive scaling to become a significant portion of energy generation  long term  preferably 100 years    invest  a green technology non-profit organization 
+ energy which is replenishable within a human lifetime and causes no long-term damage to the environment   jamaica sustainable development network
+this sets sustainable energy apart from other
+terminology such as
+by focusing on the ability of an energy source to continue providing energy  sustainable energy can produce some pollution of the environment  as long as it is not sufficient to prohibit heavy use of the source for an indefinite amount of time  sustainable energy is also distinct from   which is sustainable only in the sense that it does not add to the co2 in the atmosphere 
+green energy is energy that can be extracted  generated  and or consumed without any significant negative impact to the environment  the planet has a natural capability to recover which means pollution that does not go beyond that capability can still be termed green 
+green power is a subset of renewable energy and represents those renewable energy resources and technologies that provide the highest environmental benefit  the
+defines green power as electricity produced from solar  wind  geothermal  biogas  biomass and low-impact small hydroelectric sources  customers often buy green power for avoided environmental impacts and its
+reduction benefits 
+renewable energy technologies  
+main articles 
+and
+renewable energy technologies are essential contributors to sustainable energy as they generally contribute to world   reducing dependence on
+resources  and providing opportunities for mitigating greenhouse gases  the
+states that 
+conceptually  one can define three generations of renewables technologies  reaching back more than 100 years  
+first-generation technologies emerged from the
+at the end of the 19th century and include  
+combustion and
+and heat  some of these technologies are still in widespread use 
+second-generation technologies include
+and cooling    modern forms of
+and   these are now entering markets as a result of research  development and demonstration  rd d  investments since the 1980s  the initial investment was prompted by
+concerns linked to the oil crises   and   of the 1970s but the continuing appeal of these renewables is due  at least in part  to environmental benefits  many of the technologies reflect significant advancements in materials 
+third-generation technologies are still under development and include advanced  
+technologies  concentrating
+power 
+and   advances in
+may also play a major role 
+international energy agency  renewables in global energy supply  an iea fact sheet
+first- and second-generation technologies have entered the markets  and third-generation technologies heavily depend on long term research and development commitments  where the public sector has a role to play 
+regarding energy used by vehicles  a comprehensive 2008
+review was conducted of sustainable energy sources and usage combinations in the context of global warming and other dominating issues  it ranked
+generation combined with
+ bev  and
+ hfcvs  as the most efficient  wind was followed by
+ csp          
+ ccs  
+and
+energy sources  it states   in sum  use of wind  csp  geothermal  tidal  pv  wave  and hydro to provide electricity for bevs and hfcvs and  by extension  electricity for the residential  industrial  and commercial sectors  will result in the most benefit among the options considered  the combination of these technologies should be advanced as a solution to global warming  air pollution  and energy security  coal-ccs and nuclear offer less benefit thus represent an opportunity cost loss  and the biofuel options provide no certain benefit and the greatest negative impacts  
+first-generation technologies  
+one of many power plants at   a geothermal power field in northern california  with a total output of over 750 mw 
+first-generation technologies are most competitive in locations with abundant resources  their future use depends on the exploration of the available resource potential  particularly in developing countries  and on overcoming challenges related to the environment and social acceptance 
+international energy agency  renewables in global energy supply  an iea fact sheet
+among sources of renewable energy  hydroelectric plants have the advantages of being long-livedmany existing plants have operated for more than 100 years  also  hydroelectric plants are clean and have few emissions  criticisms directed at large-scale hydroelectric plants include  dislocation of people living where the reservoirs are planned  and release of significant amounts of carbon dioxide during construction and flooding of the reservoir 
+are one of the most widely deployed sources of sustainable energy 
+however  it has been found that high emissions are associated only with shallow reservoirs in warm  tropical  locales  and recent innovations in hydropower turbine technology are enabling efficient development of low-impact
+projects  generally speaking  hydroelectric plants produce much lower life-cycle emissions than other types of generation  hydroelectric power  which underwent extensive development during growth of electrification in the 19th and 20th centuries  is experiencing resurgence of development in the 21st century  the areas of greatest hydroelectric growth are the booming economies of asia  china is the development leader  however  other asian nations are installing hydropower at a rapid pace  this growth is driven by much increased energy costsespecially for imported energyand widespread desires for more domestically produced  clean  renewable  and economical generation 
+hydroelectric dam in cross section
+plants can operate 24 hours per day  providing base-load capacity  and the world potential capacity for geothermal power generation is estimated at 85 gw over the next 30 years  however  geothermal power is accessible only in limited areas of the world  including the   central america  east africa      and the   the costs of geothermal energy have dropped substantially from the systems built in the 1970s 
+generation can be competitive in many countries producing geothermal power  or in other regions where the resource is of a lower temperature 
+ egs  technology does not require natural convective hydrothermal resources  so it can be used in areas that were previously unsuitable for geothermal power  if the resource is very large  egs is currently under research at the u s  department of energy 
+are increasingly being used in the developing world as an alternative to charcoal  the technique involves the conversion of almost any plant matter into compressed briquettes that typically have about 70  the calorific value of charcoal  there are relatively few examples of large-scale briquette production  one exception is in   in eastern   where forest clearance for charcoal production is considered to be the biggest threat to mountain gorilla habitat  the staff of
+have successfully trained and equipped over 3500 people to produce biomass briquettes  thereby replacing charcoal produced illegally inside the national park  and creating significant employment for people living in extreme poverty in conflict-affected areas 
+second-generation technologies  
+wind power  worldwide installed capacity
+markets for second-generation technologies are strong and growing  but only in a few countries  the challenge is to broaden the market base for continued growth worldwide  strategic deployment in one country not only reduces technology costs for users there  but also for those in other countries  contributing to overall cost reductions and performance improvement 
+  renewables in global energy supply  an iea fact sheet
+systems are a well known second-generation technology and generally consist of solar thermal collectors  a fluid system to move the heat from the collector to its point of usage  and a reservoir or tank for heat storage and subsequent use  the systems may be used to heat domestic hot water  swimming pool water  or for space heating  the heat can also be used for industrial applications or as an energy input for other uses such as cooling equipment  in many climates  a solar heating system can provide a very high percentage  50 to 75   of domestic hot water energy  energy received from the sun by the earth is that of electromagnetic radiation  light ranges of visible  infrared  ultraviolet  x-rays  and radio waves received by the earth through solar energy  the highest power of radiation comes from visible light  solar power is complicated due to changes in seasons and from day to night  cloud cover can also add to complications of solar energy  and not all radiation from the sun reaches earth because it is absorbed and dispersed due to clouds and gases within the earth s atmospheres 
+11 mw solar power plant near serpa  portugal
+in the 1980s and early 1990s  most photovoltaic modules provided   but from around 1995  industry efforts have focused increasingly on developing
+and power plants for grid connected applications  see
+article for details   currently the largest photovoltaic power plant in north america is the
+ 15 mw   there is a proposal to build a   australia  which would be the world s largest pv power station  at 154 mw  other large photovoltaic power stations include the
+ 62 mw   and the
+ 40 mw  
+sketch of a parabolic trough collector
+some of the second-generation renewables  such as wind power  have high potential and have already realised relatively low production costs  at the end of 2008  worldwide
+capacity was 120,791
+ mw   representing an increase of 28.8 percent during the year  and
+produced some 1.3  of global electricity consumption  wind power accounts for approximately 20  of electricity use in   9  in   and 7  in   however  it may be difficult to site wind turbines in some areas for aesthetic or environmental reasons  and it may be difficult to integrate wind power into electricity grids in some cases 
+solar thermal power stations have been successfully operating in
+commercially since the late 1980s  including the largest solar power plant of any kind  the 350 mw  
+is another 64mw plant which has recently opened  other parabolic trough power plants being proposed are two 50mw plants in   and a 100mw plant in  
+information on pump  california
+has one of the largest renewable energy programs in the world  involving production of
+from   and
+now provides 18 percent of the country s automotive fuel  as a result of this  together with the exploitation of domestic deep water oil sources  brazil  which years ago had to import a large share of the petroleum needed for domestic consumption  recently reached complete self-sufficiency in oil 
+most cars on the road today in the u s  can run on blends of up to 10  ethanol  and motor vehicle manufacturers already produce vehicles designed to run on much higher ethanol blends      and
+are among the automobile companies that sell  flexible-fuel  cars  trucks  and minivans that can use gasoline and ethanol blends ranging from pure gasoline up to 85  ethanol  e85   by mid-2006  there were approximately six million e85-compatible vehicles on u s  roads 
+third-generation technologies  
+mit s solar house 1 built in 1939 used
+ stes  for year-round heating 
+third-generation technologies are not yet widely demonstrated or commercialised  they are on the horizon and may have potential comparable to other renewable energy technologies  but still depend on attracting sufficient attention and rd d funding  these newest technologies include advanced  
+technologies 
+power stations 
+and  
+international energy agency  renewables in global energy supply  an iea fact sheet
+bio-fuels may be defined as  renewable   yet may not be  sustainable   due to soil degradation  as of 2012  40  of american corn production goes toward ethanol  ethanol takes up a large percentage of  clean energy use  when in fact  it is still debatable whether ethanol should be considered as a  clean energy  
+according to the international energy agency  new bioenergy  biofuel  technologies being developed today  notably cellulosic ethanol biorefineries  could allow biofuels to play a much bigger role in the future than previously thought  cellulosic ethanol can be made from plant matter composed primarily of inedible cellulose fibers that form the stems and branches of most plants  crop residues  such as corn stalks  wheat straw and rice straw   wood waste and
+are potential sources of cellulosic biomass  dedicated   such as switchgrass  are also promising cellulose sources that can be
+in many regions of the united states 
+the world s first commercial
+
+ in   the strong
+shows the power in the tidal current 
+in terms of   another third-generation technology 
+has the world s first commercial   the   under construction in 2007  the farm will initially use three
+machines generating 2.25 mw  and costs are put at 8.5 million   subject to successful operation  a further 70 million euro is likely to be invested before 2009 on a further 28 machines to generate 525 mw  funding for a wave farm in
+was announced in february  2007 by the   at a cost of over 4 million   as part of a 13 million funding packages for   the farm will be the world s largest with a capacity of 3 mw generated by four pelamis machines   see also   
+in 2007  the world s first turbine to create commercial amounts of energy using
+was installed in the narrows of
+in ireland  the 1.2 mw underwater tidal electricity generator takes advantage of the fast tidal flow in the lough which can be up to 4  although the generator is powerful enough to power up to a thousand homes  the
+has a minimal   as it is almost entirely submerged  and the rotors turn slowly enough that they pose no danger to  
+solar power panels that use   which can create circuits out of individual silicon molecules  may cost half as much as traditional photovoltaic cells  according to executives and investors involved in developing the products 
+has secured more than  100 million from investors to build a factory for nanotechnology thin-film solar panels  the company s plant has a planned production capacity of 430 megawatts peak power of solar cells per year  commercial production started and first panels have been shipped to customers in late 2007 
+large national and regional research projects on
+are designing -based systems that use solar energy to split water into hydrogen fuel  and a proposal has been made for a global artificial photosynthesis project in 2011  researchers at the
+ mit  developed what they are calling an  artificial leaf   which is capable of splitting water into
+and
+directly from solar power when dropped into a glass of water  one side of the  artificial leaf  produces bubbles of hydrogen  while the other side produces bubbles of oxygen 
+most current solar power plants are made from an array of similar units where each unit is continuously adjusted  e g   with some step motors  so that the light converter stays in focus of the sun light  the cost of focusing light on converters such as high-power solar panels    etc  can be dramatically decreased with a simple and efficient rope mechanics  in this technique many units are connected with a network of ropes so that pulling two or three ropes is sufficient to keep all light converters simultaneously in focus as the direction of the sun changes 
+and
+have national programs aimed at commercial scale   the china academy of space technology  cast  won the 2015 international
+with this
+of their   proponents of sbsp
+that space-based solar power would be   and could scale to meet all planetary energy demand  a recent multi-agency industry
+ echoing the 2008 pentagon recommendation  won the secdef secstate usaid director d3  diplomacy  development  defense  innovation challenge 
+enabling technologies for renewable energy  
+and
+are classes of technologies that can enable the utilization of renewable energy sources that would otherwise be inaccessible due to a temperature that is too low for utilization or a time lag between when the energy is available and when it is needed  while enhancing the temperature of available renewable thermal energy  heat pumps have the additional property of leveraging electrical power  or in some cases mechanical or thermal power  by using it to extract additional energy from a low quality source  such as seawater  lake water  the ground  the air  or waste heat from a process  
+thermal storage technologies allow heat or cold to be stored for periods of time ranging from hours or overnight to   and can involve storage of
+ i e  by changing the temperature of a medium  or
+ i e  through phase changes of a medium  such between water and slush or ice   short-term thermal storages can be used for peak-shaving in district heating or electrical distribution systems  kinds of renewable or alternative energy sources that can be enabled include natural energy  e g  collected via solar-thermal collectors  or dry cooling towers used to collect winter s cold   waste energy  e g  from hvac equipment  industrial processes or power plants   or surplus energy  e g  as seasonally from hydropower projects or intermittently from wind farms   the
+ alberta  canada  is illustrative 
+allows the community to get 97  of its year-round heat from solar collectors on the garage roofs  which most of the heat collected in summer  types of storages for sensible energy include insulated tanks  borehole clusters in substrates ranging from gravel to bedrock  deep aquifers  or shallow lined pits that are insulated on top  some types of storage are capable of storing heat or cold between opposing seasons  particularly if very large   and some storage applications require inclusion of a   latent heat is typically stored in ice tanks or what are called
+ pcms  
+energy efficiency  
+moving towards energy sustainability will require changes not only in the way energy is supplied  but in the way it is used  and reducing the amount of energy required to deliver various goods or services is essential  opportunities for improvement on the demand side of the energy equation are as rich and diverse as those on the supply side  and often offer significant economic benefits 
+renewable energy and
+are sometimes said to be the  twin pillars  of sustainable energy policy  both resources must be developed in order to stabilize and reduce carbon dioxide emissions  efficiency slows down energy demand growth so that rising clean energy supplies can make deep cuts in fossil fuel use  if energy use grows too fast  renewable energy development will chase a receding target  a recent historical analysis has demonstrated that the rate of
+improvements has generally been outpaced by the rate of growth in energy demand  which is due to continuing economic and   as a result  despite energy efficiency gains  total energy use and related carbon emissions have continued to increase  thus  given the thermodynamic and practical limits of energy efficiency improvements  slowing the growth in energy demand is essential  however  unless clean energy supplies come online rapidly  slowing demand growth will only begin to reduce total emissions  reducing the carbon content of energy sources is also needed  any serious vision of a sustainable energy economy thus requires commitments to both renewables and efficiency 
+renewable energy  and energy efficiency  are no longer niche sectors that are promoted only by governments and environmentalists  the increased levels of investment and the fact that much of the capital is coming from more conventional financial actors suggest that sustainable energy options are now becoming mainstream  an example of this would be the  s project with stahl consolidated manufacturing   huntsville  alabama  usa   stahlcon 7   a patented generator shaft designed to reduce emissions within existing power generating systems  granted publishing rights to the alliance in 2007 
+concerns coupled with
+and increasing government support are driving increasing rates of investment in the sustainable energy industries  according to a trend analysis from the   according to   global investment in sustainable energy in 2007 was higher than previous levels  with  148 billion of new money raised in 2007  an increase of 60  over 2006  total financial transactions in sustainable energy  including acquisition activity  was  204 billion 
+investment flows in 2007 broadened and diversified  making the overall picture one of greater breadth and depth of sustainable energy use  the mainstream capital markets are  now fully receptive to sustainable energy companies  supported by a surge in funds destined for clean energy investment  
+smart-grid technology  
+main article 
+smart grid refers to a class of technology people are using to bring utility electricity delivery systems into the 21st century  using computer-based remote control and automation  these systems are made possible by two-way communication technology and computer processing that has been used for decades in other industries  they are beginning to be used on electricity networks  from the power plants and wind farms all the way to the consumers of electricity in homes and businesses  they offer many benefits to utilities and consumersmostly seen in big improvements in energy efficiency on the electricity grid and in the energy users homes and offices 
+green energy and green power  
+a
+array is an example of green energy
+public seat with integrated solar panel in   anyone can sit and plug in their mobile phone for free charging
+green energy includes natural energetic processes that can be harnessed with little pollution  green power is electricity generated from
+sources 
+      small-scale           and some forms of
+ ones which are able to  burn  nuclear waste through a process known as   such as an   and therefore belong in the  green energy  category   some definitions may also include power derived from the
+of waste 
+some people  including
+founder and first member    
+and
+have specifically classified
+as green energy  others  including  s
+disagree  claiming that the problems associated with
+and the risk of nuclear accidents  such as the   pose an unacceptable risk to the environment and to humanity  however  newer nuclear reactor designs are capable of utilizing what is now deemed  nuclear waste  until it is no longer  or dramatically less  dangerous  and have design features that greatly minimize the possibility of a nuclear accident  these designs have yet to be proven   see   
+some have argued that although green energy is a commendable effort in solving the world s increasing energy consumption  it must be accompanied by a cultural change that encourages the decrease of the world s appetite for energy 
+in several
+with
+arrangements 
+arrangements make it possible for consumers to purchase green electricity    from either their utility or a green power provider 
+when energy is purchased from the electricity network  the power reaching the consumer will not necessarily be generated from green energy sources  the local     or state power pool buys their electricity from
+who may be generating from  
+or renewable energy sources  in many countries green energy currently provides a very small amount of electricity  generally contributing less than 2 to 5  to the overall pool  in some u s  states  local governments have formed regional power purchasing pools using
+and
+to achieve a 51  renewable mix or higher  such as in the city of san francisco 
+by participating in a green energy program a consumer may be having an effect on the energy sources used and ultimately might be helping to promote and expand the use of green energy  they are also making a statement to policy makers that they are willing to pay a price premium to support renewable energy  green energy consumers either obligate the utility companies to increase the amount of green energy that they purchase from the pool  so decreasing the amount of non-green energy they purchase   or directly fund the green energy through a green power provider  if insufficient green energy sources are available  the utility must develop new ones or
+with a third party energy supplier to provide green energy  causing more to be built  however  there is no way the consumer can check whether or not the electricity bought is  green  or otherwise 
+in some countries such as the netherlands  electricity companies guarantee to buy an equal amount of  green power  as is being used by their green power customers  the
+government exempts green power from pollution taxes  which means green power is hardly any more expensive than other power 
+in the united states  one of the main problems with purchasing green energy through the electrical grid is the current centralized infrastructure that supplies the consumers electricity  this infrastructure has led to increasingly frequent brown outs and black outs  high co2 emissions  higher energy costs  and power quality issues  an additional  450 billion will be invested to expand this fledgling system over the next 20 years to meet increasing demand  in addition  this centralized system is now being further overtaxed with the incorporation of renewable energies such as wind  solar  and geothermal energies  renewable resources  due to the amount of space they require  are often located in remote areas where there is a lower energy demand  the current infrastructure would make transporting this energy to high demand areas  such as urban centers  highly inefficient and in some cases impossible  in addition  despite the amount of renewable energy produced or the economic viability of such technologies only about 20 percent will be able to be incorporated into the grid  to have a more sustainable energy profile  the united states must move towards implementing changes to the electrical grid that will accommodate a mixed-fuel economy 
+however  several initiatives are being proposed to mitigate these distribution problems  first and foremost  the most effective way to reduce usas co2 emissions and slow global warming is through conservation efforts  opponents of the current us electrical grid have also advocated for decentralizing the grid  this system would increase efficiency by reducing the amount of energy lost in transmission  it would also be economically viable as it would reduce the amount of power lines that will need to be constructed in the future to keep up with demand  merging heat and power in this system would create added benefits and help to increase its efficiency by up to 80-90   this is a significant increase from the current fossil fuel plants which only have an efficiency of 34  
+a more recent concept for improving our electrical grid is to beam microwaves from earth-orbiting satellites or the moon to directly when and where there is demand  the power would be generated from solar energy captured on the lunar surface in this system  the receivers would be  broad  translucent tent-like structures that would receive microwaves and convert them to electricity   nasa said in 2000 that the technology was worth pursuing but it is still too soon to say if the technology will be cost-effective 
+the
+and several green electricity labelling organizations created the  now defunct 
+under which the national green electricity certification schemes could be accredited to ensure that the purchase of green energy leads to the provision of additional new green energy resources 
+local green energy systems  
+a small
+vertical axis wind turbine in bristol  england  measuring 3m in diameter and 5m high  it has a nameplate rating of 6.5 kw to the grid 
+main article 
+those not satisfied with the third-party grid approach to green energy via the power grid can install their own locally based renewable energy system  renewable energy electrical systems from solar to wind to even local hydro-power in some cases  are some of the many types of renewable energy systems available locally  additionally  for those interested in heating and cooling their dwelling via renewable energy 
+systems that tap the constant
+of the earth  which is around 7 to 15 degrees
+a few feet underground and increases dramatically at greater depths  are an option over conventional
+and -fueled heat approaches  also  in geographic locations where the
+is especially thin  or near
+ as is the case in   there exists the potential to generate even more electricity than would be possible at other sites  thanks to a more significant
+at these locales 
+the advantage of this approach in the united states is that many states offer incentives to offset the cost of installation of a renewable energy system  in california  massachusetts and several other u s  states  a new approach to community energy supply called
+has provided communities with the means to solicit a competitive electricity supplier and use municipal revenue bonds to finance development of local green energy resources  individuals are usually assured that the electricity they are using is actually produced from a green energy source that they control  once the system is paid for  the owner of a renewable energy system will be producing their own renewable electricity for essentially no cost and can sell the excess to the local utility at a profit 
+using green energy  
+main articles      and
+a 01 kilowatt micro windmill for domestic usage
+renewable energy  after its generation  needs to be stored in a medium for use with autonomous devices as well as vehicles  also  to provide household electricity in remote areas  that is areas which are not connected to the    energy storage is required for use with renewable energy  energy generation and consumption systems used in the latter case are usually  
+some examples are 
+energy carriers as           to power vehicles 
+ 
+is more usable in stationary applications  e g  to power homes and offices   in household power systems  conversion of energy can also be done to reduce smell  for example  organic matter such as cow dung and spoilable organic matter can be converted to   to eliminate emissions 
+is then used 
+usually however  renewable energy is derived from the mains electricity grid  this means that energy storage is mostly not used  as the mains electricity grid is organised to produce the exact amount of energy being consumed at that particular moment  energy production on the mains electricity grid is always set up as a combination of  large-scale  renewable energy plants  as well as other power plants as
+and   this combination however  which is essential for this type of energy supply  as e g  wind turbines  solar power plants etc   can only produce when the wind blows and the sun shines  this is also one of the main drawbacks of the system as fossil fuel powerplants are polluting and are a main cause of
+ nuclear power being an exception   although fossil fuel power plants too can be made emissionless  through carbon capture and storage   as well as renewable  if the plants are converted to e g  biomass  the best solution is still to phase out the latter power plants over time  nuclear power plants too can be more or less eliminated from their problem of nuclear waste through the use of
+and newer plants as
+and
+plants 
+renewable energy power plants do provide a steady flow of energy  for example  hydropower plants  ocean thermal plants  osmotic power plants all provide power at a regulated pace  and are thus available power sources at any given moment  even at night  windstill moments etc    at present however  the number of steady-flow renewable energy plants alone is still too small to meet energy demands at the times of the day when the irregular producing renewable energy plants cannot produce power 
+besides the greening of fossil fuel and nuclear power plants  another option is the distribution and immediate use of power from solely renewable sources  in this set-up energy storage is again not necessary  for example 
+has proposed to distribute solar power from the sahara to europe  europe can distribute wind and ocean power to the sahara and other countries  in this way  power is produced at any given time as at any point of the planet as the sun or the wind is up or ocean waves and currents are stirring  this option however is probably not possible in the short-term  as fossil fuel and nuclear power are still the main sources of energy on the mains electricity net and replacing them will not be possible overnight 
+several
+have been done  worldwide there is over 100gw of   this improves efficiency and decreases energy losses but a conversion to an energy storing mains electricity grid is a very costly solution  some costs could potentially be reduced by making use of energy storage equipment the consumer buys and not the state  an example is
+in electric cars that would double as an energy buffer for the electricity grid  however besides the cost  setting-up such a system would still be a very complicated and difficult procedure  also  energy storage apparatus  as car batteries are also built with materials that pose a threat to the environment  e g  lithium   the combined production of batteries for such a large part of the population would still have environmental concerns  besides car batteries however  other
+projects make use of less polluting energy carriers  e g  compressed air tanks and flywheel energy storage  
+carbon-neutral and negative fuels  
+main article 
+a carbon-neutral fuel is a
+ such as    
+or
+ produced from renewable or
+used to
+waste
+recycled from   recovered from automotive   or derived from
+in   such fuels are carbon-neutral because they do not result in a net increase in atmospheric   to the extent that carbon-neutral fuels displace   or if they are produced from waste carbon or seawater carbonic acid  and their combustion is subject to
+at the flue or exhaust pipe  they result in
+and net
+from the atmosphere  and thus constitute a form of   such fuels are produced by the
+to make
+used in turn in the
+to produce methane which may then be stored to be burned later in
+as synthetic   transported by     or   or be used in
+processes such as the
+to make traditional transportation or heating  
+green energy and labeling by region  
+european union  
+see also 
+directive 2004/8 ec of the european parliament and of the council of 11 february 2004 on the promotion of
+based on a useful heat demand in the
+includes the article 5  guarantee of origin of electricity from high-efficiency cogeneration  
+european environmental ngos have launched an ecolabel for green power  the ecolabel is called   it sets criteria for sustainability  additionality  consumer information and tracking  only part of electricity produced by renewables fulfills the ekoenergy criteria 
+a
+was launched in the united kingdom in february 2010  this implements guidelines from the energy regulator    and sets requirements on transparency  the matching of sales by renewable energy supplies  and additionality 
+united states  
+the
+ doe   the
+ epa   and the center for resource solutions  crs  recognizes the voluntary purchase of electricity from renewable energy sources  also called renewable electricity or green electricity  as green power 
+the most popular way to purchase renewable energy as revealed by
+data is through purchasing
+ recs   according to a
+ nmi  survey 55 percent of american consumers want companies to increase their use of renewable energy 
+doe selected six companies for its 2007 green power supplier awards  including        
+and   and   the combined green power provided by those six winners equals more than 5 billion
+per year  which is enough to power nearly 465,000 average u s  households  in 2014  arcadia power made recs available to homes and businesses in all 50 states  allowing consumers to use  100  green power  as defined by the epa s green power partnership 
+the
+ usepa  green power partnership is a voluntary program that supports the organizational procurement of
+by offering expert advice  technical support  tools and resources  this can help organizations lower the transaction costs of buying renewable power  reduce   and communicate its leadership to key stakeholders 
+throughout the country  more than half of all u s  electricity customers now have an option to purchase some type of green power product from a retail   roughly one-quarter of the nation s utilities offer green power programs to customers  and voluntary retail sales of renewable energy in the united states totaled more than 12 billion kilowatt-hours in 2006  a 40  increase over the previous year 
+sustainable energy research  
+there are numerous organizations within the academic  federal  and commercial sectors conducting large scale advanced research in the field of sustainable energy  this research spans several areas of focus across the sustainable energy spectrum  most of the research is targeted at improving efficiency and increasing overall energy yields  multiple federally supported research organizations have focused on sustainable energy in recent years  two of the most prominent of these labs are
+and the
+ nrel   both of which are funded by the
+and supported by various corporate partners  sandia has a total budget of  2.4 billion
+while nrel has a budget of  375 million 
+scientific production towards sustainable energy systems is rising exponentially  growing from about 500 english journal papers only about renewable energy in 1992 to almost 9,000 papers in 2011 
+solar  
+main articles 
+and
+the primary obstacle that is preventing the large scale implementation of solar powered energy generation is the inefficiency of current solar technology  currently  photovoltaic  pv  panels only have the ability to convert around 16  of the sunlight that hits them into electricity  at this rate  many experts believe that solar energy is not efficient enough to be economically sustainable given the cost to produce the panels themselves  both
+and the
+ nrel   have heavily funded solar research programs  the nrel solar program has a budget of around  75 million
+and develops research projects in the areas of
+ pv  technology  solar thermal energy  and solar radiation  the budget for sandias solar division is unknown  however it accounts for a significant percentage of the laboratorys  2.4 billion budget  several academic programs have focused on solar research in recent years  the solar energy research center  serc  at
+ unc  has the sole purpose of developing cost effective solar technology  in 2008  researchers at
+ mit  developed a method to store solar energy by using it to produce hydrogen fuel from water  such research is targeted at addressing the obstacle that solar development faces of storing energy for use during nighttime hours when the sun is not shining  in february 2012  north carolina-based semprius inc   a solar development company backed by german corporation   announced that they had developed the worlds most efficient solar panel  the company claims that the prototype converts 33.9  of the sunlight that hits it to electricity  more than double the previous high-end conversion rate  major projects on
+or solar fuels are also under way in many developed nations 
+space-based solar power  
+satellites seek to overcome the problems of storage and provide civilization-scale power that is clean  constant  and global 
+and
+have active national programs aimed at commercial scale   and both nation s hope to orbit demonstrations in the 2030s  the china academy of space technology  cast  won the 2015 international
+with this
+of their   proponents of sbsp
+that space-based solar power would be   and could scale to meet all planetary energy demand  a recent multi-agency industry
+ echoing the 2008 pentagon recommendation  won the secdef secstate usaid director d3  diplomacy  development  defense  innovation challenge
+with the following
+and   northrop grumman is funding caltech with  17.5 million for an ultra lightweight design  keith henson recently posted a
+approach 
+wind  
+main articles 
+and
+the
+projects that the levelized cost of wind power in the u s  will decline about 25  from 2012 to 2030 
+in the  
+wind energy research dates back several decades to the 1970s when
+developed an analytical model to predict wind turbine power generation during high winds  today  both
+and
+have programs dedicated to wind research  sandias laboratory focuses on the advancement of materials  aerodynamics  and sensors  the nrel wind projects are centered on improving wind plant power production  reducing their capital costs  and making wind energy more cost effective overall  the field laboratory for optimized wind energy  flowe  at
+was established to research renewable approaches to wind energy farming technology practices that have the potential to reduce the cost  size  and environmental impact of wind energy production  the president of sky windpower corporation thinks that wind turbines will be able to produce electricity at a cent kwh at an average which in comparison to coal-generated electricity is a fractional of the cost 
+a wind farm is a group of
+in the same location used to produce electric power  a large wind farm may consist of several hundred individual wind turbines  and cover an extended area of hundreds of square miles  but the land between the turbines may be used for agricultural or other purposes  a wind farm may also be located offshore 
+many of the largest operational onshore wind farms are located in the usa and china  the
+in china has over 5,000 mw installed with a goal of 20,000 mw by 2020  china has several other  wind power bases  of similar size  the
+in california is the largest onshore wind farm outside of china  with a capacity of 1020
+of power  europe leads in the use of wind power with almost 66 gw  about 66 percent of the total globally  with denmark in the lead according to the countries installed per-capita capacity  as of february 2012  the
+in united kingdom is the largest offshore wind farm in the world at 367 mw  followed by
+ 300 mw   also in the uk 
+there are many large wind farms under construction and these include
+ 400 mw  
+ 350 mw  
+ 500 mw  
+ 270 mw  
+ 1000 mw  
+ 343 mw  
+ 420 mw  
+ 845 mw   and
+ 317 mw  
+wind power has expanded quickly  its share of worldwide electricity usage at the end of 2014 was 3.1  
+carbon-neutral and negative fuels  
+main articles 
+and
+carbon-neutral fuels are
+ including      
+or   produced by
+waste
+recycled from   recovered from automotive   or derived from
+in   commercial fuel synthesis companies suggest they can produce synthetic fuels for less than
+fuels when oil costs more than  55 per barrel  renewable methanol  rm  is a fuel produced from
+and carbon dioxide by catalytic
+where the hydrogen has been obtained from   it can be blended into transportation fuel or processed as a chemical feedstock 
+the
+plant operated by
+in  
+has been producing 2 million liters of
+transportation fuel per year from flue exhaust of the
+since 2011  it has the capacity to produce 5 million liters per year  a 250 kilowatt methane synthesis plant was constructed by the center for solar energy and hydrogen research  zsw  at
+and the
+in germany and began operating in 2010  it is being upgraded to 10 megawatts  scheduled for completion in autumn  2012 
+has constructed a carbon-neutral
+ lng  plant in   germany  the plant is intended to produce transportation fuel to offset lng used in their
+automobiles  and can keep 2,800 metric tons of co2 out of the environment per year at its initial capacity  other commercial developments are taking place in     and   england 
+part of
+about
+concepts
+policies
+dynamics
+carbon related
+such fuels are considered
+because they do not result in a net increase in atmospheric   to the extent that synthetic fuels displace   or if they are produced from waste carbon or seawater carbonic acid  and their combustion is subject to
+at the flue or exhaust pipe  they result in
+and net
+from the atmosphere  and thus constitute a form of  
+such renewable fuels alleviate the costs and dependency issues of imported fossil fuels without requiring either electrification of the
+or conversion to hydrogen or other fuels  enabling continued compatible and affordable vehicles  carbon-neutral fuels offer relatively low cost energy   alleviating the problems of wind and solar   and they enable distribution of wind  water  and solar power through existing natural gas pipelines 
+nighttime
+is considered the most economical form of electrical power with which to synthesize fuel  because the
+for electricity peaks sharply during the warmest hours of the day  but wind tends to blow slightly more at night than during the day  so  the price of nighttime wind power is often much less expensive than any alternative  germany has built a 250 kilowatt synthetic methane plant which they are scaling up to 10 megawatts 
+biomass  
+main articles 
+and
+to produce
+in brazil
+a
+using wood to provide electricity to over 30.000 households in france
+biomass is
+derived from living  or recently living organisms  it most often refers to plants or plant-derived materials which are specifically called   as an energy source  biomass can either be used directly via combustion to produce heat  or indirectly after converting it to various forms of   conversion of biomass to biofuel can be achieved by different methods which are broadly classified into  thermal  chemical  and biochemical methods  wood remains the largest biomass energy source today  examples include forest residues  such as dead trees  branches and
+  yard clippings  wood chips and even   in the second sense  biomass includes plant or animal matter that can be converted into fibers or other industrial   including   industrial biomass can be grown from numerous types of plants  including                   and a variety of tree species  ranging from
+to
+   
+biomass  biogas and biofuels are burned to produce heat power and in doing so harm the environment  pollutants such as sulphurous oxides  sox   nitrous oxides  nox   and particulate matter  pm  are produced from this combustion  the world health organisation estimates that 7 million premature deaths are caused each year by air pollution  biomass combustion is a major contributor 
+ethanol biofuels  
+main article 
+as the primary source of biofuel in north america  many organizations are conducting research in the area of
+production  on the federal level  the
+conducts a large amount of research regarding ethanol production in the united states  much of this research is targeted towards the effect of ethanol production on domestic food markets  the
+has conducted various ethanol research projects  mainly in the area of  
+has many benefits over traditional corn based-ethanol  it does not take away or directly conflict with the food supply because it is produced from wood  grasses  or non-edible parts of plants  moreover  some studies have shown cellulosic ethanol to be more cost effective and economically sustainable than corn-based ethanol  even if we used all the corn crop that we have in the united states and converted it into ethanol it would only produce enough fuel to serve 13 percent of the united states total gasoline consumption  conducts in-house cellulosic ethanol research and is also a member of the
+ jbei   a research institute founded by the
+with the goal of developing cellulosic biofuels 
+other biofuels  
+main article 
+from 1978 to 1996  the
+experimented with producing
+in the     a self-published article by michael briggs  at the
+biofuels group  offers estimates for the realistic replacement of all motor vehicle fuel with biofuels by utilizing algae that have a natural oil content greater than 50   which briggs suggests can be grown on algae ponds at wastewater treatment plants  this oil-rich algae can then be extracted from the system and processed into biofuels  with the dried remainder further reprocessed to create ethanol  the production of algae to harvest oil for biofuels has not yet been undertaken on a commercial scale  but feasibility studies have been conducted to arrive at the above yield estimate  during the biofuel production process algae actually consumes the carbon dioxide in the air and turns it into oxygen through photosynthesis  in addition to its projected high yield  algaculture unlike food crop-based biofuels  does not entail a decrease in food production  since it requires neither farmland nor fresh water  many companies are pursuing algae bio-reactors for various purposes  including scaling up biofuels production to commercial levels 
+several groups in various sectors are conducting research on   a poisonous shrub-like tree that produces seeds considered by many to be a viable source of biofuels feedstock oil  much of this research focuses on improving the overall per acre oil yield of jatropha through advancements in genetics  soil science  and horticultural practices    a san diego-based jatropha developer  has used molecular breeding and biotechnology to produce elite hybrid seeds of jatropha that show significant yield improvements over first generation varieties  the
+ cfsef  is a los angeles-based non-profit research organization dedicated to jatropha research in the areas of plant science  agronomy  and horticulture  successful exploration of these disciplines is projected to increase jatropha farm production yields by 200-300  in the next ten years 
+geothermal  
+main article 
+is produced by tapping into the thermal energy created and stored within the earth  it arises from the radioactive decay of an isotope of potassium and other elements found in the earth s crust  geothermal energy can be obtained by drilling into the ground  very similar to oil exploration  and then it is carried by a heat-transfer fluid  e g  water  brine or steam   geothermal systems that are mainly dominated by water have the potential to provide greater benefits to the system and will generate more power  within these liquid-dominated systems  there are possible concerns of subsidence and contamination of ground-water resources  therefore  protection of ground-water resources is necessary in these systems  this means that careful reservoir production and engineering is necessary in liquid-dominated geothermal reservoir systems  geothermal energy is considered sustainable because that thermal energy is constantly replenished  however  the science of geothermal energy generation is still young and developing economic viability  several entities  such as the
+and
+are conducting research toward the goal of establishing a proven science around geothermal energy  the international centre for geothermal research  igc   a german geosciences research organization  is largely focused on geothermal energy development research 
+hydrogen  
+main article 
+over  1 billion of federal money has been spent on the research and development of hydrogen and a medium for energy storage in the united states  both the
+and
+have departments dedicated to hydrogen research  hydrogen is useful for energy storage and for use in airplanes  but is not practical for automobile use  as it is not very efficient  compared to using a battery  for the same cost a person can travel three times as far using a battery 
+thorium  
+main article 
+there are potentially two sources of nuclear power 
+is used in all current nuclear power plants 
+is the reaction that exists in stars  including the sun  and remains impractical for use on earth  as fusion reactors are not yet available  however nuclear power is controversial politically and scientifically due to concerns about   safety  the risks of a severe accident  and technical and economical problems in dismantling of old power plants 
+is a fissionable material used in   the thorium fuel cycle claims several potential advantages over a   including   superior physical and nuclear properties  better resistance to
+and reduced
+and
+production  therefore  it is sometimes referred as sustainable 
+clean energy investments  
+2010 was a record year for green energy investments  according to a report from   nearly us  243 billion was invested in wind farms  solar power  electric cars  and other alternative technologies worldwide  representing a 30 percent increase from 2009 and nearly five times the money invested in 2004  china had  51.1 billion investment in clean energy projects in 2010  by far the largest figure for any country 
+within emerging economies  brazil comes second to china in terms of clean energy investments  supported by strong energy policies  brazil has one of the worlds highest biomass and small-hydro power capacities and is poised for significant growth in wind energy investment  the cumulative investment potential in brazil from 2010 to 2020 is projected as  67 billion 
+india is another rising clean energy leader  while india ranked the 10th in private clean energy investments among g-20 members in 2009  over the next 10 years it is expected to rise to the third position  with annual clean energy investment under current policies forecast to grow by 369 percent between 2010 and 2020 
+it is clear that the center of growth has started to shift to the developing economies and they may lead the world in the new wave of clean energy investments 
+around the world many sub-national governments - regions  states and provinces - have aggressively pursued sustainable energy investments  in the united states  california s leadership in renewable energy was recognised by the climate group when it awarded former governor arnold schwarzenegger its inaugural award for international climate leadership in copenhagen in 2009  in australia  the state of south australia - under the leadership of former premier mike rann - has led the way with wind power comprising 26  of its electricity generation by the end of 2011  edging out coal fired generation for the first time  south australia also has had the highest take-up per capita of household solar panels in australia following the rann government s introduction of solar feed-in laws and educative campaign involving the installation of solar photovoltaic installations on the roofs of prominent public buildings  including the parliament  museum  airport and adelaide showgrounds pavilion and schools  rann  australia s first climate change minister  passed legislation in 2006 setting targets for renewable energy and emissions cuts  the first legislation in australia to do so 
+also  in the european union there is a clear trend of promoting policies encouraging investments and financing for sustainable energy in terms of energy efficiency  innovation in energy exploitation and development of renewable resources  with increased consideration of environmental aspects and sustainability 
+related journals  
+among scientific journals related to the interdisciplinary study of sustainable energy are 
+see also  
+for sustainable energy
+- inforse
+ leed 
+- reeep
+u s  department of energy
+initiative
+ga mansoori  n enayati  lb agyarko  2016     world sci  pub  co  
+references  
+ 
+renewable energy   efficiency partnership  august 2004  
+ pdf   retrieved 2008-12-19 
+  magee  liam  scerri  andy  steger  manfred b   2015     london  routledge   liam magee  andy scerri  paul james  jaes a  thom  lin padgham  sarah hickmott  hepu deng  felicity cahill  2013     environment  development and sustainability  springer 
+lynn r  kahle  eda gurel-atay  eds  2014   communicating sustainability for the green economy  new york  m e  sharpe    cs1 maint  multiple names  authors list   
+obrecht  matevz  denac  matjaz  2013     journal of renewable and sustainable energy  5  7     
+ pdf   aceee org  retrieved 17 december 2014 
+  invvest  retrieved 2010-07-08 
+jamaica sustainable development network    archived from
+on 2007-11-30  retrieved 2008-04-19 
+  epa gov  2006-06-28  retrieved 2010-07-08 
+ 
+international energy agency  2007     oecd  34 pages 
+12 october 2009 at the  
+jacobson  mark z   2009         2  2   148173     retrieved 2008-12-21 
+new scientist  24 february 2005 
+ferris  david  3 november 2011     retrieved 4 january 2012 
+  27 august 2009  retrieved 19 february 2009 
+  gwec net  retrieved 2013-08-21 
+energy gov
+at the
+ archived 5 november 2012 
+energy and the environment  jack j kraushaar and robert a ristinen  section 4.2 energy from the sun pg 92
+  prnewswire com  2007-04-23  retrieved 2010-07-08 
+airman 1st class ryan whitney    nellis af mil  retrieved 2010-07-08 
+the times  26 october 2006 
+at the
+ archived 18 february 2011 
+renewable energy access  18 november 2005 
+  google com  2009-02-02  retrieved 2010-07-08 
+world wind energy association  2008  
+  retrieved 2015-01-30 
+at the
+ archived 14 may 2009 
+  isracast com  2005-03-13  retrieved 2010-07-08 
+renewable energy access  15 may 2006 
+  cesp stanford edu  2007-09-01  retrieved 2010-07-08 
+washington post  21 april 2006 
+worldwatch institute and center for american progress  2006  
+  national review online  2011-06-25  retrieved 2013-08-21 
+international energy agency  2006  
+p  37 
+biotechnology industry organization  2007  
+pp  3-4 
+douglas  c  a   harrison  g  p   chick  j  p   2008    life cycle assessment of the seagen marine current turbine     222  1   112    
+bbc news  15 march 2006 
+bbc news  19 may 2005 
+ricardo david lopes  2010-07-01     jn sapo pt  retrieved 2010-07-08 
+bbc news  20 february 2007 
+  renewableenergyworld com  retrieved 2010-07-08 
+7 march 2008 at the  
+ 
+collings af and critchley c  artificial photosynthesis- from basic biology to industrial application  wwiley-vch  weinheim  2005  p xi 
+faunce ta  lubitz w  rutherford aw  macfarlane d  moore gf  yang p  nocera dg  moore ta  gregory dh  fukuzumi s  yoon kb  armstrong fa  wasielewski mr styring s  energy and environment  policy case for a global project on artificial photosynthesis   energy and environmental science 2013  6  3   695 - 698  
+  geek com  30 september 2011 
+  pitb de  retrieved 2013-08-21 
+ 
+garretson  peter  spring 2012  
+ pdf   strategic studies quarterly  retrieved may 21  2015 
+wong  bill  28 june 2011     idea cdea district energy chp 2011 conference  toronto  pp  130  retrieved 21 april 2013
+wong b   thornton j   2013  
+renewable heat workshop 
+interacademy council  2007  
+huesemann  michael h   and joyce a  huesemann  2011     chapter 5   in search of solutions  efficiency improvements   new society publishers   
+american council for an energy-efficient economy  2007  
+report e074 
+united nations environment programme and new energy finance ltd   2007   p  17 
+ 
+p  8 
+ 
+  energy gov  retrieved 2013-08-21 
+  fueleconomy gov
+moore  patrick  16 april 2006     the washington post  retrieved 2013-01-08 
+  web archive org  archived from
+on 2007-02-03  retrieved 2013-08-21 
+  wired news  retrieved 2013-01-08 
+monbiot  george  2009-02-20     london  theguardian com  retrieved 2013-08-21 
+  the independent  retrieved 2013-01-09 
+lovelock  james  2006   the revenge of gaia  reprinted penguin  2007 
+  greenpeace org  retrieved 2010-07-08 
+ pdf   sciencedirect  2010  retrieved 2013-08-28 
+san francisco community choice program design  draft implementation plan and h bond action plan  ordinance 447-07  2007 
+u s  department of energy office of electricity delivery and energy reliability 
+ energy distribution  u s  department of energy office of electricity delivery and energy reliability 
+ whittington  h w   electricity generation  options for reduction in carbon emissions   philosophical transactions in mathematics  physical  and engineering sciences  vol  360  no  1797   15 august 2002  published by  the royal society 
+  levine  mark  brown  marilyn  peterson  eric   a road map for u s  carbon reductions   science  vol  279  no  5351   30 jan  1998   washington
+ britt  robert roy   could space-based power plants prevent blackouts    science   15 august 2003  
+  eugene network  retrieved 2007-06-07 
+zeman  frank s   keith  david w   2008  
+ pdf     366  1882   390118     retrieved 7 september 2012   review  
+wang  wei  wang  shengping  ma  xinbin  gong  jinlong  2011  
+ pdf   chemical society reviews  40  7   370327     retrieved 7 september 2012   review  
+macdowell  niall  et al   2010     energy and environmental science  3  11   164569     retrieved 7 september 2012   review  
+musadi  m r   martin  p   garforth  a   mann  r   2011  
+ pdf   chemical engineering transactions  24  152530     retrieved 7 september 2012 
+ 
+eisaman  matthew d   et al   2012  
+ pdf   energy and environmental science  5  6   734652     retrieved 7 september 2012  cite error  invalid  ref  tag  name  eisaman2012  defined multiple times with different content  see the   
+ 
+graves  christopher  ebbesen  sune d   mogensen  mogens  lackner  klaus s   2011     renewable and sustainable energy reviews  15  1   123     retrieved 7 september 2012   review  
+socolow  robert  et al   1 june 2011  
+ pdf   peer reviewed literature review   american physical society  retrieved 7 september 2012 
+ 
+goeppert  alain  czaun  miklos  prakash  g k  surya  olah  george a   2012     energy and environmental science  5  7   783353     retrieved 7 september 2012   review  
+house  k z   baclig  a c   ranjan  m   van nierop  e a   wilcox  j   herzog  h j   2011  
+ pdf   proceedings of the national academy of sciences  108  51   2042833     retrieved 7 september 2012   review  
+ 
+lackner  klaus s   et al   2012     proceedings of the national academy of sciences of the united states of america  109  33   1315662       retrieved 7 september 2012  cite error  invalid  ref  tag  name  lackner2012  defined multiple times with different content  see the   
+ 
+pearson  r j   eisaman  m d   et al   2012  
+ pdf   proceedings of the ieee  100  2   44060     archived from
+ pdf  on 12 may 2013  retrieved 7 september 2012   review  
+pennline  henry w   et al   2010     fuel  89  6   130714     retrieved 7 september 2012 
+graves  christopher  ebbesen  sune d   mogensen  mogens  2011     solid state ionics  192  1   398403     retrieved 7 september 2012 
+  ekoenergy  retrieved 2013-08-21 
+  accessed 16 december 2010
+ 
+  renewable energy world  retrieved 2010-07-08 
+  nmisolutions com  retrieved 2010-07-08 
+  epa gov 
+  arcadiapower com 
+  epa gov  2006-06-28  retrieved 2010-07-08 
+s c e  jupe  a  michiorri  p c  taylor  2007    increasing the energy yield of generation from new and sustainable energy sources   sustainable energy  14  2   3762 
+    retrieved 2012-04-16 
+ pdf     retrieved 2012-04-16 
+ chakrabarty  gargi  16 april 2009   stimulus leaves nrel in cold  denver post
+rizzi  et al   2014    the production of scientific knowledge on renewable energies  worldwide trends  dynamics and challenges and implications for management  in     62  657671    
+ pdf   brac university  retrieved 2012-04-16 
+chakrabarty  gargi  16 april 2009     denver post  retrieved 2012-04-16 
+  nrel  retrieved 2012-04-16 
+  sandia  retrieved 2012-04-16 
+  mit news  retrieved 2012-04-17 
+  smartplanet  retrieved 2012-04-17 
+artificial photosynthesis as a frontier technology for energy sustainability  thomas faunce  stenbjorn styring  michael r  wasielewski  gary w  brudvig  a  william rutherford  johannes messinger  adam f  lee  craig l  hill  huub degroot  marc fontecave  doug r  macfarlane  ben hankamer  daniel g  nocera  david m  tiede  holger dau  warwick hillier  lianzhou wang and rose amal  energy environ  sci   2013  advance article  
+  www nss org  retrieved 2016-05-22 
+  investor northropgrumman com  retrieved 2016-05-22 
+e  lantz  m  hand  and r  wiser  may 1317  2012 
+national renewable energy laboratory conference paper no  6a20-54526  page 4
+  nasa  retrieved 2012-04-17 
+  sandia  retrieved 2012-04-17 
+  nrel  retrieved 2012-04-17 
+ pdf   caltech  retrieved 2012-04-17 
+smil  vaclav   electricity from wind   energy myths and realities  bringing science to the energy policy debate  washington  d c   aei  2010  120-21  print 
+smil  vaclav   electricity from wind   energy myths and realities  bringing science to the energy policy debate  washington  d c   aei  2010  115-30  print 
+pg31
+leighty and holbrook  2012 
+proceedings of the asme 2012 international mechanical engineering congress   exposition november 915  2012  houston  texas
+holte  laura l   doty  glenn n   mccree  david l   doty  judy m   doty  f  david  2010  
+ pdf   4th international conference on energy sustainability  1722 may 2010  phoenix  arizona  american society of mechanical engineers  retrieved 7 september 2012  cite uses deprecated parameter  coauthors    
+  carbon recycling international  retrieved 11 july 2012 
+ chemicals-technology com 
+ carbon recycling international 
+ 
+center for solar energy   hydrogen research baden-wrttemberg  2011  
+ in german   zsw-bw de  retrieved 9 september 2012 
+ 
+center for solar energy   hydrogen research  24 july 2012  
+ in german   zsw-bw de  retrieved 9 september 2012 
+okulski  travis  26 june 2012     jalopnik  gawker media   retrieved 29 july 2013 
+rousseau  steve  25 june 2013     popular mechanics  retrieved 29 july 2013 
+  windfuels com  retrieved 2012-11-01 
+  coolplanetbiofuels com  2012-10-24  retrieved 2012-11-01 
+  airfuelsynthesis com  retrieved 2012-11-01 
+fraunhofer-gesellschaft  5 may 2010     fraunhofer de  retrieved 9 september 2012 
+  biomassenergycentre org uk  retrieved on 28 february 2012 
+retrieved on 12 april 2012 
+t a  volk  l p  abrahamson  january 2000     north east regional biomass program  retrieved 4 june 2015  cs1 maint  uses authors parameter   
+ 
+american coalition for ethanol  2008-06-02  
+ pdf   american coalition for ethanol  retrieved 2012-04-02 
+national renewable energy laboratory  2007-03-02  
+ pdf   national renewable energy laboratory  retrieved 2012-04-02 
+m r  schmer  k p  vogel  r b  mitchell  r k  perrin  vogel  mitchell  perrin  2008    net energy of cellulosic ethanol from switchgrass   proceedings of the national academy of sciences of the united states of america  105  2   464469       cs1 maint  multiple names  authors list   
+charles e  wyman  2007    what is  and is not  vital to advancing cellulosic ethanol   trends in biotechnology  25  4   153157      
+smil  vaclav   electricity from wind   energy myths and realities  bringing science to the energy policy debate  washington  d c   aei  2010  101  print 
+sandia national laboratories    sandia national laboratories  retrieved 2012-04-17 
+joint bioenergy initiative    sandia national laboratories  retrieved 2015-02-01 
+sheehan  john  et al   july 1998  
+ pdf   national renewable energy laboratory  retrieved 16 june 2012 
+briggs  michael  august 2004     unh biodiesel group  university of new hampshire   archived from
+on 24 march 2006  retrieved 2007-01-02 
+  retrieved 2008-07-09 
+    archived from
+on 21 august 2007  retrieved 2008-07-09 
+b n  divakara  h d  upadhyaya  s p  wani  c l  laxmipathi gowda  upadhyaya  wani  gowda  2010    biology and genetic improvement of jatropha curcas l   a review     87  3   732742     cs1 maint  multiple names  authors list   
+biofuels digest  2011-05-16     biofuels digest  retrieved 2012-03-08 
+biofuels magazine  2011-04-11     biofuels magazine  retrieved 2012-03-08 
+ 
+lszl  erika  1981    geothermal energy  an old ally   ambio  10  5   248249   
+ 
+dorfman  myron h   july 1976    water required to develop geothermal energy   journal  american water works association   68  7   370375   
+l  ryback  2007    geothermal sustainability   ghc bulletin  26 
+nrel    nrel  retrieved 2012-04-17 
+sandia    sandia  retrieved 2012-04-17 
+deutsches geoforschungszentrum  gfz  helmholtz center potsdam    gfz helmholtz center potsdam  retrieved 2012-04-17 
+jeff wise    popular mechanics  retrieved 2012-04-17 
+nrel    nrel  retrieved 2012-04-17 
+sandia    sandia  retrieved 2012-04-17 
+puma  steve  2010-02-08     triplepundit com  retrieved 2013-08-21 
+ 
+ 2011    towards an electricity-powered world  in     4  31933222    
+kang  j   von hippel  f  n   2001    u232 and the proliferationresistance of u233 in spent fuel   science   global security  9  1    
+faq
+ 
+robert hargraves  ralph moir  january 2011    
+forum on physics   society  retrieved 31 may 2012 
+  lanl gov  2015  retrieved 1 march 2015 
+ 
+roland w  chalons-browne  30 march 2011     environmental leader 
+ 
+centre for national policy  washington dc  2 april 2012
+conservation council of sa  2 march 2006   rann s climate laws a first for australia 
+farah  paolo davide  2015     journal of world energy law and business  8  6   retrieved 26 november 2015 
+                              
+north america
+oceania
+south america
+portals 
+air pollution  
+ 
+water  
+ 
+fuel  
+ 
+  
+sustainable energy
+ 
+ 
+conservation
+building  
+ 
+technology
+energy
+food
+water
+accountability
+applications
+management
+agreements
+ rio 10  johannesburg 
+ rio 20  2012 
+retrieved from   
+  hidden categories 

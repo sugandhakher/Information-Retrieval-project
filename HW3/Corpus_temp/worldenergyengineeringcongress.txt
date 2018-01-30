@@ -1,0 +1,41 @@
+worldenergyengineeringcongress
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><p>The <b>World Energy Engineering Congress</b> (WEEC) is an international energy industry conference and exposition hosted annually by the <a href="/wiki/Association_of_Energy_Engineers" title="Association of Energy Engineers">Association of Energy Engineers</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p>Professionals in the field of <a href="/wiki/Energy_engineering" title="Energy engineering">energy engineering</a> from around the world convene annually at the WEEC to discuss energy-related issues and technology such as:</p>
+<ul>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Energy efficiency</a> and <a href="/wiki/Energy_management" title="Energy management">energy management</a></li>
+<li>Renewable, green, and alternative energy</li>
+<li><a class="mw-redirect" href="/wiki/Combined_heat_and_power" title="Combined heat and power">Combined heat and power</a>, <a href="/wiki/Cogeneration" title="Cogeneration">cogeneration</a>, and <a href="/wiki/Distributed_generation" title="Distributed generation">distributed generation</a></li>
+<li>Integrated <a href="/wiki/Building_automation" title="Building automation">building automation</a> and energy management</li>
+<li><a class="mw-redirect" href="/wiki/Lighting_efficiency" title="Lighting efficiency">Lighting efficiency</a></li>
+<li><a href="/wiki/HVAC" title="HVAC">HVAC</a> systems and controls</li>
+<li><a class="mw-redirect" href="/wiki/Thermal_storage" title="Thermal storage">Thermal storage</a> and <a href="/wiki/Load_management" title="Load management">load management</a></li>
+<li><a class="mw-redirect" href="/wiki/Boilers" title="Boilers">Boilers</a> and combustion controls</li>
+<li>Geoexchange technologies</li>
+<li><a href="/wiki/Solar_energy" title="Solar energy">Solar</a> and <a href="/wiki/Fuel_cell" title="Fuel cell">fuel cell</a> technologies</li>
+<li>Applications specific to federal emergency management programs</li>
+<li><a class="mw-redirect" href="/wiki/Energy_services" title="Energy services">Energy services</a> and <a class="mw-redirect" href="/wiki/Project_financing" title="Project financing">project financing</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Energy_Engineering_Congress&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20100112082819/http://www.aeecenter.org/" rel="nofollow">"Association of Energy Engineers"</a>. Archived from <a class="external text" href="http://www.aeecenter.org" rel="nofollow">the original</a> on January 12, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-10-21</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Energy+Engineering+Congress&amp;rft.btitle=Association+of+Energy+Engineers&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.aeecenter.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Energy_Engineering_Congress&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a class="external text" href="http://www.energycongress.com" rel="nofollow">Official website</a></span></span></li>
+<li><a class="external text" href="http://www.energy.gov" rel="nofollow">energy.gov</a></li>
+<li><a class="external text" href="http://www.aeecenter.org/certification/CRU" rel="nofollow">aeecenter.org</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:29294040-0!*!0!!*!*!* and timestamp 20161105042445 and revision id 739231230
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=World_Energy_Engineering_Congress&amp;oldid=739231230">https://en.wikipedia.org/w/index.php?title=World_Energy_Engineering_Congress&amp;oldid=739231230</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Engineering_organizations" title="Category:Engineering organizations">Engineering organizations</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

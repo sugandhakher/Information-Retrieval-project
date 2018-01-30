@@ -1,0 +1,681 @@
+concentratedsolarpower
+from wikipedia  the free encyclopedia
+jump to 					 
+not to be confused with  
+the three towers of the  
+part of the 354mw
+solar complex in northern  
+concentrated solar power  also called concentrating solar power  concentrated solar thermal  and csp  systems generate
+by using mirrors or lenses to concentrate a large area of sunlight  or   onto a small area 
+is generated when the concentrated light is converted to heat  which drives a
+ usually a   connected to an electrical
+or powers a
+reaction  experimental as of 2013  
+csp is being widely commercialized and the csp market saw about 740
+ mw  of generating capacity added between 2007 and the end of 2010  more than half of this  about 478mw  was installed during 2010  bringing the global total to 1095mw  spain added 400mw in 2010  taking the global lead with a total of 632mw  while the us ended the year with 509mw after adding 78mw  including two fossilcsp hybrid plants  the middle east is also ramping up their plans to install csp based projects and as a part of that plan 
+which was the largest csp project in the world has been installed in abu dhabi  by   the largest csp project in the world until january 2016 is
+in morocco and global operational power stands at 4,705mw 
+there is considerable academic and commercial interest internationally in a new form of csp  called stem  for off-grid applications to produce 24-hour industrial scale power for mining sites and remote communities in   other parts of europe  australia  asia 
+and latin america  stem uses fluidized
+as a thermal storage and
+medium for csp systems  it has been developed by salerno-based magaldi industries  the first commercial application of stem was scheduled to take place in sicily from 2015 
+csp growth is expected to continue at a fast pace  as of january 2014  spain had a total capacity of 2,300mw making this country the world leader in csp  united states follows with 1,740mw  interest is also notable in north africa and the middle east  as well as india and china  in italy  a handful of companies are trying to get authorization for 14 plants  totalling 392mw  despite a strong local and political opposition  the global market has been dominated by parabolic-trough plants  which account for 90  of csp plants 
+csp is not to be confused with
+ cpv   in cpv  the concentrated sunlight is converted directly to electricity via the  
+in california is running 69 percent below advertised power output  and one spanish company    that commercialized csp both in the us and abroad  is teetering on the brink of bankruptcy  csp technologies currently cannot compete on price with photovoltaics  solar panels   which have experienced huge growth in recent years due to falling prices of the panels  another drawback of ivanpah is that it lacks thermal energy storage  one of the big advantages that csp has over pv and most other renewables  which require either large scale energy storage systems like pumped hydro or fast acting natural gas power plants to be there as backup for those times when they are not producing much energy 
+contents
+history  
+a legend has it that
+used a  burning glass  to concentrate sunlight on the invading roman fleet and repel them from   in 1973 a greek scientist  dr  ioannis sakkas  curious about whether archimedes could really have destroyed the roman fleet in 212 bc  lined up nearly 60 greek sailors  each holding an oblong mirror tipped to catch the sun s rays and direct them at a tar-covered plywood silhouette 160 feet away  the ship caught fire after a few minutes  however  historians continue to doubt the archimedes story 
+in 1866 
+used a parabolic trough to produc steam for the first solar steam engine  the first patent for a solar collector was obtained by the italian alessandro battaglia in genoa  italy  in 1886  over the following years  invntors such as
+and
+developed concentrating solar-powered dvices for irrigation  refrigration  and locomtion  in 1913 shuman finished a 55hp parabolic
+station in maadi  egypt for irrigation  the first solar-power system using a mirror dish was built by   who was already well known for his research on liquid-fueled rockets and wrote an article in 1929 in which he asserted that all the previous obstacles had been addressed 
+professor giovanni francia  19111980  designed and built the first concentrated-solar plant  which entered into operation in sant ilario  near genoa  italy in 1968  this plant had the architecture of today s concentrated-solar plants with a solar receiver in the center of a field of solar collectors  the plant was able to produce 1mw with superheated steam at 100 bar and 500c  the 10mw
+power tower was developed in southern california in 1981  but the parabolic-trough technology of the nearby
+ segs   begun in 1984  was more workable  the 354mw segs is still the largest solar power plant in the world  and will remain so until the 390mw ivanpah power tower project reaches full power 
+current technology  
+csp is used to produce electricity  sometimes called solar thermoelectricity  usually generated through    concentrated-solar technology systems use
+or
+with
+systems to focus a large area of sunlight onto a small area  the concentrated light is then used as heat or as a heat source for a conventional
+ solar thermoelectricity   the solar concentrators used in csp systems can often also be used to provide industrial process heating or cooling  such as in solar air-conditioning 
+concentrating technologies exist in five common forms  namely   enclosed trough      and   although simple  these solar concentrators are quite far from the theoretical maximum concentration  for example  the parabolic-trough concentration gives about  of the theoretical maximum for the design   that is  for the same overall tolerances for the system  approaching the theoretical maximum may be achieved by using more elaborate concentrators based on  
+different types of concentrators produce different peak temperatures and correspondingly varying thermodynamic efficiencies  due to differences in the way that they track the sun and focus light  new innovations in csp technology are leading systems to become more and more cost-effective 
+parabolic trough  
+parabolic trough at a plant near harper lake  california
+main article 
+a parabolic trough consists of a linear parabolic reflector that concentrates light onto a receiver positioned along the reflector s focal line  the receiver is a tube positioned directly above the middle of the parabolic mirror and filled with a working fluid  the reflector follows the sun during the daylight hours by tracking along a single axis  a
+ e g    is heated to 150350c  300660f  as it flows through the receiver and is then used as a heat source for a power generation system  trough systems are the most developed csp technology  the
+ segs  plants in california  the world s first commercial parabolic trough plants  acciona s
+near   and   europe s first commercial parabolic trough plant are representative  along with  s ssps-dcs test facilities in  
+enclosed trough  
+the design encapsulates the solar thermal system within a greenhouse-like glasshouse  the glasshouse creates a protected environment to withstand the elements that can negatively impact reliability and efficiency of the solar thermal system  lightweight curved solar-reflecting mirrors are suspended from the ceiling of the glasshouse by wires  a
+positions the mirrors to retrieve the optimal amount of sunlight  the mirrors concentrate the sunlight and focus it on a network of stationary steel pipes  also suspended from the glasshouse structure  water is carried throughout the length of the pipe  which is boiled to generate steam when intense solar radiation is applied  sheltering the mirrors from the wind allows them to achieve higher temperature rates and prevents dust from building up on the mirrors 
+inside an enclosed trough system
+  the company that created the enclosed trough design  states its technology can produce heat for
+ eor  for about  5 per million british thermal units in sunny regions  compared to between  10 and  12 for other conventional solar thermal technologies 
+solar power tower  
+main article 
+the
+in andaluca  spain  concentrates sunlight from a field of
+onto a central  
+a solar power tower consists of an array of dual-axis tracking reflectors    that concentrate sunlight on a central receiver atop a tower  the receiver contains a fluid deposit  which can consist of   the working fluid in the receiver is heated to 5001000c  7731,273k  9321,832f   and then used as a heat source for a power generation or energy storage system  an advantage of the solar tower is the reflectors can be adjusted instead of the whole tower  power-tower development is less advanced than trough systems  but they offer higher efficiency and better energy storage capability  the
+in   california and the cesa-1 in
+almeria  spain  are the most representative demonstration plants  the
+ ps10  in   spain  is the first commercial utility-scale solar power tower in the world  the 377mw   located in the   is the largest csp facility in the world  and uses three power towers  the
+located in   is an experimental solar thermal test facility with a heliostat field capable of producing 6mw 
+fresnel reflectors  
+main article 
+fresnel reflectors are made of many thin  flat mirror strips to concentrate sunlight onto tubes through which working fluid is pumped  flat mirrors allow more reflective surface in the same amount of space as a parabolic reflector  thus capturing more of the available sunlight  and they are much cheaper than parabolic reflectors  fresnel reflectors can be used in various size csps 
+dish stirling  
+main article 
+a dish stirling or dish engine system consists of a stand-alone
+that concentrates light onto a receiver positioned at the reflector s focal point  the reflector tracks the sun along two axes  the working fluid in the receiver is heated to 250700c  4801,300f  and then used by a
+to generate power  parabolic-dish systems provide high solar-to-electric efficiency  between 31  and 32    and their modular nature provides scalability  the
+ ses  
+ uss  and
+dishes at   and  s
+in   australia are representative of this technology  a world record for solar to electric efficiency was set at 31.25  by ses dishes at the
+ nsttf  in new mexico on january 31  2008  a cold  bright day  according to its developer    a swedish firm  in 2015 its dish sterling system being tested in the
+in south africa showed 34  efficiency  the ses installation in maricopa  phoenix was the largest stirling dish power installation in the world until it was sold to   subsequently  larger parts of the installation have been moved to china as part of the huge energy demand 
+solar thermal enhanced oil recovery  
+main article 
+heat from the sun can be used to provide steam used to make heavy oil less viscous and easier to pump  solar power tower and parabolic troughs can be used to provide the steam which is used directly so no generators are required and no electricity is produced  solar thermal enhanced oil recovery can extend the life of oilfields with very thick oil which would not otherwise be economical to pump 
+deployment around the world  
+main articles 
+and
+1,000
+2,000
+3,000
+4,000
+5,000
+1984
+1990
+1995
+2000
+2005
+2010
+worldwide csp capacity since 1984 in mwp
+national csp capacities in 2014  mwp 
+country
+total
+added
+2,300
+0
+1,634
+ 752
+225
+ 175
+100
+0
+25
+0
+20
+0
+20
+0
+12
+0
+10
+0
+5
+0
+source 
+global status report  september 2015 133
+the commercial deployment of csp plants started by 1984 in the us with the
+plants  the last segs plant was completed in 1990  from 1991 to 2005 no csp plants were built anywhere in the world  global installed csp-capacity has increased nearly tenfold since 2004 and grew at an average of 50 percent per year during the last five years  51 in 2013  worldwide installed capacity increased by 36 percent or nearly 0.9
+ gw  to more than 3.4gw 
+and the
+remained the global leaders  while the number of countries with installed csp were growing  there is a notable trend towards developing countries and regions with high solar radiation 
+csp is also increasingly competing with the cheaper
+solar power and with
+ cpv   a fast-growing technology that just like csp is suited best for regions of high solar insolation  in addition  a novel solar cpv csp hybrid system has been proposed recently 
+worldwide concentrated solar power  mwp 
+year
+1984
+1985
+1989
+1990
+   
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+installed
+14
+60
+200
+80
+0
+1
+74
+55
+179
+307
+629
+803
+872
+925
+cumulative
+14
+74
+274
+354
+354
+355
+429
+484
+663
+969
+1,598
+2,553
+3,425
+4,400
+sources   51  133 csp-world com
+efficiency  
+the conversion efficiency
+
+  displaystyle  eta  
+of the incident solar radiation into mechanical work  without considering the ultimate conversion step into electricity by a power generator  depends on the
+properties of the solar receiver and on the heat engine  e g  steam turbine   solar irradiation is first converted into heat by the solar receiver with the efficiency
+
+r
+e
+c
+e
+i
+v
+e
+r
+  displaystyle  eta   receiver  
+and subsequently the heat is converted into work by the heat engine with the efficiency
+
+c
+a
+r
+n
+o
+t
+  displaystyle  eta   carnot  
+  using   for a solar receiver providing a heat source at temperature th and a heat sink at room temperature t  the overall conversion efficiency can be calculated as follows 
+
+ 
+
+r
+e
+c
+e
+i
+v
+e
+r
+
+
+c
+a
+r
+n
+o
+t
+  displaystyle  eta   eta    mathrm  receiver    cdot  eta    mathrm  carnot    
+with
+
+c
+a
+r
+n
+o
+t
+ 
+1
+
+t
+0
+t
+h
+  displaystyle  eta    mathrm  carnot    1-  frac  t  0   t  h    
+and
+
+r
+e
+c
+e
+i
+v
+e
+r
+ 
+q
+a
+b
+s
+o
+r
+b
+e
+d
+
+q
+l
+o
+s
+t
+q
+s
+o
+l
+a
+r
+  displaystyle  eta    mathrm  receiver      frac  q   mathrm  absorbed   -q   mathrm  lost     q   mathrm  solar      
+where
+q
+s
+o
+l
+a
+r
+  displaystyle q   mathrm  solar    
+ 
+q
+a
+b
+s
+o
+r
+b
+e
+d
+  displaystyle q   mathrm  absorbed    
+ 
+q
+l
+o
+s
+t
+  displaystyle q   mathrm  lost    
+are respectively the incoming
+and the fluxes absorbed and lost by the system solar receiver 
+for a solar flux i  e g  i   1000 w m2  concentrated c times with an efficiency
+
+o
+p
+t
+i
+c
+s
+  displaystyle  eta   optics  
+on the system solar receiver with a collecting area a and an
+
+  displaystyle  alpha  
+ 
+q
+s
+o
+l
+a
+r
+ 
+
+o
+p
+t
+i
+c
+s
+i
+c
+a
+  displaystyle q   mathrm  solar     eta    mathrm  optics   ica 
+ 
+q
+a
+b
+s
+o
+r
+b
+e
+d
+ 
+
+q
+s
+o
+l
+a
+r
+  displaystyle q   mathrm  absorbed     alpha q   mathrm  solar    
+ 
+for simplicity s sake  one can assume that the losses are only radiative ones  a fair assumption for high temperatures   thus for a reradiating area a and an
+
+  displaystyle  epsilon  
+applying the
+yields 
+q
+l
+o
+s
+t
+ 
+a
+
+
+t
+h
+4
+  displaystyle q   mathrm  lost    a epsilon  sigma t  h   4  
+simplifying these equations by considering perfect optics  
+
+o
+p
+t
+i
+c
+s
+  displaystyle  eta    mathrm  optics    
+  1   collecting and reradiating areas equal and maximum absorptivity and emissivity  
+
+  displaystyle  alpha  
+  1 
+
+  displaystyle  epsilon  
+  1  then substituting in the first equation gives
+
+ 
+ 
+1
+
+
+t
+h
+4
+i
+c
+ 
+
+ 
+1
+
+t
+0
+t
+h
+ 
+  displaystyle  eta   left 1-  frac   sigma t  h   4   ic   right  cdot  left 1-  frac  t  0   t  h    right  
+the graph shows that the overall efficiency does not increase steadily with the receiver s temperature  although the heat engine s efficiency  carnot  increases with higher temperature  the receiver s efficiency does not  on the contrary  the receiver s efficiency is decreasing  as the amount of energy it cannot absorb  qlost  grows by the fourth power as a function of temperature  hence  there is a maximum reachable temperature  when the receiver efficiency is null  blue curve on the figure below   tmax is 
+t
+m
+a
+x
+ 
+ 
+i
+c
+
+ 
+0.25
+  displaystyle t   mathrm  max     left   frac  ic   sigma    right   0.25  
+there is a temperature topt for which the efficiency is maximum  i e  when the efficiency derivative relative to the receiver temperature is null 
+d
+
+d
+t
+h
+ 
+t
+o
+p
+t
+ 
+ 
+0
+  displaystyle   frac  d eta   dt  h    t   mathrm  opt     0 
+consequently  this leads us to the following equation 
+t
+o
+p
+t
+5
+
+ 
+0.75
+t
+0
+ 
+t
+o
+p
+t
+4
+
+t
+0
+i
+c
+4
+
+ 
+0
+  displaystyle t  opt   5 - 0.75t  0  t   mathrm  opt     4 -  frac  t  0 ic  4 sigma    0 
+solving this equation numerically allows us to obtain the optimum process temperature according to the solar concentration ratio c  red curve on the figure below 
+c
+500
+1000
+5000
+10000
+45000  max  for earth 
+tmax
+1720
+2050
+3060
+3640
+5300
+topt
+970
+1100
+1500
+1720
+2310
+theoretical efficiencies aside  real-world experience of csp reveals a 25-60 percent shortfall in projected production  a pilot 5 megawatt csp power tower    was converted to a 10 megawatt csp power tower    decommissioned in 1999  due to the success of solar two  a commercial power plant  called   was built in spain  renamed gemasolar thermosolar plant  gemasolar brilliant results have paved the way for the   ivanpah difficulties arise also from not having considered the lessons about the benefits of thermal storage 
+in arizona is 25 percent below projected numbers  ivanpah in california  is 40 percent below projected numbers  a slightly bigger   like the 290mw
+peaked at most to 741gwh in 2014  comparing with the 280mw solana growing 719gwh  lower insolation related to a solar minimum is part of the problem  but there is clearly a technical issue with rating these systems or simply a commercial overstatement  indeed  an other operator  that of the 280mw   projected only 580gwh production and instead made 621gwh in 2015  csp once thought to be economically superior to photovoltaics  in 2015 it has proven not to be the case  recent pv commercial power is selling for  recent csp contracts 
+costs  
+as of 9 september 2009  the cost of building a csp station was typically about us 2.50 to  4 per watt  while the fuel  the sun s radiation  is free  thus a 250mw csp station would have cost  6001000 million to build  that works out to  0.12 to 0.18 usd kwh  new csp stations may be economically competitive with fossil fuels  nathaniel bullard  a solar analyst at bloomberg new energy finance  has calculated that the cost of electricity at the   a project under construction in southern california  will be lower than that from photovoltaic power and about the same as that from natural gas  however  in november 2011  google announced that they would not invest further in csp projects due to the rapid price decline of   google invested us 168 million on brightsource 
+has published on june 2012 a series of studies titled   renewable energy cost analysis   the csp study shows the cost of both building and operation of csp plants  costs are expected to decrease  but there are insufficient installations to clearly establish the learning curve  as of march 2012  there were 1.9gw of csp installed  with 1.8gw of that being parabolic trough 
+incentives  
+spain  
+solar-thermal electricity generation is eligible for feed-in tariff payments  art  2 rd 661/2007   if the system capacity does not exceed the following limits  systems registered in the register of systems prior to 29 september 2008  500mw for solar-thermal systems  systems registered after 29 september 2008  pv only   the capacity limits for the different system types are re-defined during the review of the application conditions every quarter  art  5 rd 1578/2008  annex iii rd 1578/2008   prior to the end of an application period  the market caps specified for each system type are published on the website of the ministry of industry  tourism and trade  art  5 rd 1578/2008  
+since 27 january 2012  spain has halted acceptance of new projects for the feed-in-tariff  projects currently accepted are not affected  except that a 6  tax on feed-in-tariffs has been adopted  effectively reducing the feed-in-tariff 
+australia  
+see also 
+at the federal level  under the large-scale renewable energy target  lret   in operation under the renewable energy electricity act 2000  large scale solar thermal electricity generation from accredited ret power stations may be entitled to create large-scale generation certificates  lgcs   these certificates can then be sold and transferred to liable entities  usually electricity retailers  to meet their obligations under this tradeable certificates scheme  however  as this legislation is technology neutral in its operation  it tends to favour more established re technologies with a lower levelised cost of generation  such as large scale onshore wind  rather than solar thermal and csp  at state level  renewable energy feed-in laws typically are capped by maximum generation capacity in kwp  and are open only to micro or medium scale generation and in a number of instances are only open to solar pv  photovoltaic  generation  this means that larger scale csp projects would not be eligible for payment for feed-in incentives in many of the state and territory jurisdictions 
+future  
+a study done by   the european solar thermal electricity association  and the  s
+group investigated the potential and future of concentrated solar power  the study found that concentrated solar power could account for up to 25  of the world s energy needs by 2050  the increase in investment would be from 2 billion euros worldwide to 92.5 billion euros in that time period  spain is the leader in concentrated solar power technology  with more than 50 government-approved projects in the works  also  it exports its technology  further increasing the technology s stake in energy worldwide  because the technology works best with areas of high
+ solar radiation   experts predict the biggest growth in places like africa  mexico  and the southwest united states  it indicates that the thermal storage systems based in
+           will make the csp plants more and more profitable  the study examined three different outcomes for this technology  no increases in csp technology  investment continuing as it has been in spain and the us  and finally the true potential of csp without any barriers on its growth  the findings of the third part are shown in the table below 
+year
+annual
+investment
+cumulative
+capacity
+2015
+21 billion euros
+420 megawatts
+2050
+174 billion euros
+1,500,000 megawatts
+finally  the study acknowledged how technology for csp was improving and how this would result in a drastic price decrease by 2050  it predicted a drop from the current range of 0.230.15 kwh to 0.140.10 kwh  recently the eu has begun to look into developing a 400 billion   774 billion  network of solar power plants based in the sahara region using csp technology known as   to create  a new carbon-free network linking europe  the middle east and north africa   the plan is backed mainly by german industrialists and predicts production of 15  of europe s power by 2050 
+is a major partner in desertec and as it has barely 1  of the electricity consumption of the eu  it will produce more than enough energy for the entire country with a large energy surplus to deliver to europe 
+has the biggest area of desert  and private algerian firm
+has signed up for   with its wide desert  the highest csp potential in the mediterranean and middle east regions   about 170 twh year  and its strategic geographical location near europe
+is one of the key countries to ensure the success of desertec project  moreover  with the abundant natural-gas reserve in the algerian desert  this will strengthen the technical potential of algeria in acquiring
+for 24-hour electricity generation 
+other organizations expect csp to cost  0.06 us  kwh by 2015 due to efficiency improvements and mass production of equipment  that would make csp as cheap as conventional power  investors such as
+expect csp to continuously reduce costs and actually be cheaper than coal power after 2015 
+on 9september 2009  7 years ago 2009-09-09   bill weihl   s green-energy spokesperson said that the firm was conducting research on the heliostat mirrors and gas turbine technology  which he expects will drop the cost of solar thermal electric power to less than  0.05 kwh in 2 or 3 years 
+in 2009  scientists at the
+ nrel  and
+teamed to develop large curved sheets of metal that have the potential to be 30  less expensive than today s best collectors of concentrated solar power by replacing glass-based models with a
+polymer sheet that has the same performance as the heavy glass mirrors  but at much lower cost and weight  it also is much easier to deploy and install  the glossy film uses several layers of polymers  with an inner layer of pure silver 
+telescope designer
+   has turned his attention to   and is a partner in a company called rehnu  angel utilizes a spherical concentrating lens with large-telescope technologies  but much cheaper materials and mechanisms  to create efficient systems 
+recent experience with csp technology in 2014 - 2015 at solana in arizona  and ivanpah in nevada indicate large production shortfalls in electricity generation between 25 and 40 percent  producers blame clouds and stormy weather  but critics seem to think there are technological issues  these problems are causing utilities to pay inflated prices for wholesale electricity  and threaten the long-term viability of the technology  as photovoltaic costs continue to plummet  many think csp has a limited future in utility-scale electricity production  on the other side  part of photovoltaic costs drop is the result of the fossil fuel cost reductions  which still powers most of pv production  instead csp would be unaffected when fossil prices return to higher quotes 
+very large scale solar power plants  
+there are several proposals for gigawatt size  very large scale solar power plants  they include the euro-mediterranean
+proposal  project helios in greece  10 gigawatt   and ordos  2 gigawatt  in china  a 2003 study concluded that the world could generate 2,357,840 twh each year from very large scale solar power plants using 1  of each of the world s deserts  total consumption worldwide was 15,223 twh year  in 2003   the gigawatt size projects are arrays of single plants  the largest single plant in operation is the 370mw   in 2012  the
+made available 97,921,069 acres  39,627,251 hectares  of land in the
+for solar projects  enough for between 10,000 and 20,000 gigawatts  gw  
+effect on wildlife  
+dead warbler burned in mid-air by solar thermal power plant
+it has been noted that insects can be attracted to the bright light caused by concentrated solar technology  and as a result birds that hunt them can be killed  burned  if the birds fly near the point where light is being focused onto  this can also affect raptors who hunt the birds  federal wildlife officials have begun calling these power towers  mega traps  for wildlife 
+however  the story about the
+was exaggerated  numbering the deaths in many tens of thousands  spreading alarm about concentrated solar power  csp  plants  which was not grounded in facts  but on one opponent s speculation  according to rigorous reporting  in over six months  actually only 133 singed birds were counted  by focusing no more than 4 mirrors on any one place in the air during standby  at   in 3 months  the death rate dropped to zero fatalities 
+see also  
+ cpv 
+ cpvt 
+references  
+boerema  nicholas  morrison  graham  taylor  robert  rosengarten  gary  2013-11-01     solar energy  97  356368    
+law  edward w   prasad  abhnil a   kay  merlinde  taylor  robert a   2014-10-01     solar energy  108  287307    
+law  edward w   kay  merlinde  taylor  robert a   2016-02-01     solar energy  125  267281    
+ pdf   sandia national laboratories  retrieved 11 april 2013 
+  u s  department of energy  retrieved 11 april 2013 
+matthew l  wald  10 april 2013     the new york times  retrieved 11 april 2013 
+ 
+janet l  sawin   eric martinot  29 september 2011     renewable energy world  archived from
+on 2 november 2011 
+  renewindians com  18 march 2013   retrieved on 22 april 2013 
+  climateinvestmentfunds org  retrieved 2016-01-12 
+csp today  april 11  2014  italian project shows strong potential for sand based csp 
+ pdf   associazione nazionale energia solare termodinamica  in italian   retrieved 2016-02-07 
+chris clarke    kcet 
+thomas w  africa  1975    archimedes through the looking glass   the classical world  68  5   305308      
+ken butti  john perlin  1980  a golden thread  2500 years of solar architecture and technology  cheshire books  pp  66100   
+cm meyer    eepublishers co za  retrieved on 22 april 2013 
+cutler j  cleveland  23 august 2008     encyclopedia of earth 
+paul collins  spring 2002    cabinet magazine  issue 6 
+popular science  november 1929
+ken butti  john perlin  1980  a golden thread  2500 years of solar architecture and technology  cheshire books  p  68   
+  tomkonrad wordpress com  retrieved on 22 april 2013 
+ 
+chaves  julio  2015        
+ 
+roland winston  juan c  miano  pablo g  benitez  2004  nonimaging optics  academic press   
+norton  brian  2013   harnessing solar heat  springer   
+  popularmechanics com  1 november 2008   retrieved on 22 april 2013 
+   pdf    retrieved on 22 april 2013 
+ 
+christopher l  martin  d  yogi goswami  2005     earthscan  p 45   
+  plataforma solar de almera  archived from
+on 28 september 2007  retrieved 29 september 2007 
+ 
+deloitte touche tohmatsu ltd    2 november 2011
+helman  christopher     forbes   25 april 2011
+goossens  ehren     bloomberg   october 3  2011
+  physics usyd edu au  12 june 2002   retrieved on 22 april 2013 
+  ese iitb ac in
+share sandia gov  12 february 2008   retrieved on 22 april 2013 
+jeffrey barbee  may 13  2015     the guardian  retrieved may 13  2015  34  of the suns energy hitting the mirrors is converted directly to grid-available electric power
+ 
+ren21  2015  
+ pdf    
+ 
+ren21  2014  
+ pdf    
+from the original on 4 september 2014 
+pv-insider com   14 february 2012
+margaret schleifer   
+phys org   11 february 2015
+  csp-world com  june 2012  retrieved 22 april 2013 
+ pdf   international renewable energy agency  june 2012  p 11 
+e  a  fletcher  2001    solar thermal processing  a review   journal of solar energy engineering  123  2   63    
+aldo steinfeld   robert palumbo  2001  
+ pdf   encyclopedia of physical science   technology  r a  meyers ed  academic press  15  237256 
+  kqed news 
+ 
+ 
+poornima gupta   laura isensee  11 september 2009   carol bishopric  ed    global climate and alternative energy summit    reuters    
+robert glennon   andrew m  reeves  2010  
+ pdf   arizona journal of environmental law   policy  91  106  archived from
+ pdf  on 11 august 2011 
+  reve  24 november 2011 
+  google org  retrieved on 22 april 2013 
+  irena org
+  res-legal de  12 december 2011  
+  solarserver com  30 january 2012   retrieved on 22 april 2013 
+  instituteforenergyresearch org  9 april 2012   retrieved on 22 april 2013 
+  evwind es  14 september 2012   retrieved on 22 april 2013 
+prest  j   2009  in climate change law  comparative  contractual and regulatory considerations  w  gumley   t  daya-winterbottom  eds   lawbook company 
+ 
+guardian
+ 
+tom pfeiffer  23 august 2009 
+reuters
+  reuters  23 august 2009  
+ video  concentrating photovoltaics inspired by telescope design   spie newsroom  2011    
+cassandra sweet  13 june 2015     wsj 
+  geni org 
+  solareis anl gov  retrieved on 22 april 2013     
+john roach    nbc news 
+michael howard  20 august 2014     esquire 
+  fox news 
+  nature world news 
+ 
+  renewableenergyworld com  retrieved 4 may 2015 
+  cleantechnica com  retrieved 4 may 2015 
+external links  
+ technical paper by george m  kaplan
+ technical article on mirrors and optics for concentrating solar by drs  robert molenaar in solar novus today 
+concepts
+and
+ 
+ solar panel 
+ and systems 
+concentrated
+experimental
+  proposed
+and
+distribution
+  uses
+storage
+adoption
+applications
+other applications
+and
+building
+lighting
+process heat
+cooking
+disinfection
+desalination
+water heating
+see also
+fields
+displays
+other
+electronics
+energy
+production
+concentrated solar power
+storage
+other
+memory
+manufacturing
+other
+other
+topics
+                              
+north america
+oceania
+south america
+portals 
+ 
+retrieved from   
+  hidden categories 

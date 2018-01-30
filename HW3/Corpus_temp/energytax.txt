@@ -1,0 +1,79 @@
+energytax
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><p>An <b>energy tax</b> is a <a href="/wiki/Tax" title="Tax">tax</a> that increases the price of <a href="/wiki/Energy" title="Energy">energy</a> (Fisher <i>et al</i>., 1996, p. 416).<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> Arguments in favour of energy taxes have included the pursuit of <a class="mw-redirect" href="/wiki/Macroeconomic" title="Macroeconomic">macroeconomic</a> objectives, e.g., <a class="mw-redirect" href="/wiki/Fiscal_deficit" title="Fiscal deficit">fiscal deficit</a> reduction in the 1990s, as well as environmental benefits, i.e., reduced pollution (Nellor, 1994, p. 1).<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> A weakness of energy taxes is that they impose a burden (or cost) in the form of reduced economic output and employment (p. 19).</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#United_States"><span class="tocnumber">1</span> <span class="toctext">United States</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Colorado"><span class="tocnumber">1.1</span> <span class="toctext">Colorado</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">2</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_tax&amp;action=edit&amp;section=1" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1993, then President <a href="/wiki/Bill_Clinton" title="Bill Clinton">Bill Clinton</a> proposed a BTU tax. A BTU tax is a type of energy tax (Baron, 1997, p. 14).<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> The tax would have taxed all fuel sources based on their heat content except for wind, solar, and geothermal. It was never adopted. The BTU tax passed the House, but was rejected by the Senate in light of the lobbying effort mobilized against its adoption. The rejected proposal was watered down, as the Clinton administration tried to salvage their efforts by offering to exempt manufacturers and base the tax on the cost rather than the heat content of energy.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> Many of the House Democrats who voted for the tax and who lost their seats in the 1994 midterm election, blamed their loss on their vote for the BTU tax. Getting "BTU'd" became Beltway slang at the time for those who lost reelection by voting for the controversial proposal.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<h3><span class="mw-headline" id="Colorado">Colorado</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_tax&amp;action=edit&amp;section=2" title="Edit section: Colorado">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On 7 November 2006, citizens of <a href="/wiki/Boulder,_Colorado" title="Boulder, Colorado">Boulder, Colorado</a> (a cit with roughly 100,000 residents situated in the foothills of the Rocky Mtns) voted in favor of initiative 202, the <a href="/wiki/Boulder_Climate_Action_Plan" title="Boulder Climate Action Plan">Boulder Climate Action Plan</a> Tax. That marks the first time in the nation that a municipal government has imposed an energy tax directly upon its residents to combat global warming. It applies to energy consumption with deductions for carbon-neutral and renewable energy sources (such as <a href="/wiki/Xcel_Energy" title="Xcel Energy">Xcel Energy</a>’s WindSource).</p>
+<p>The tax appears on consumer's energy bills and is used to fund the city’s Office of Environmental Affairs that is in charge of programs designed to reduce Boulder's <a href="/wiki/Carbon_footprint" title="Carbon footprint">carbon footprint</a>.</p>
+<p>The CAP tax is to generate roughly $1 million annually. The City Council has the authority to increase the rates as needed. As of October 2009, the rate is assigned as follows:<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<table class="wikitable">
+<tr>
+<th>Electricity User Type</th>
+<th>Tax Rate</th>
+<th>Average Annual Tax</th>
+</tr>
+<tr>
+<td>Residential</td>
+<td>$0.0049/kWh</td>
+<td>$21</td>
+</tr>
+<tr>
+<td>Commercial</td>
+<td>$0.0009/kWh</td>
+<td>$94</td>
+</tr>
+<tr>
+<td>Industrial</td>
+<td>$0.0003/kWh</td>
+<td>$9,600</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_tax&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Fisher, B.S.; et al. (1996). <i>An Economic Assessment of Policy Instruments for Combating Climate Change. In: Climate Change 1995: Economic and Social Dimensions of Climate Change. Contribution of Working Group III to the Second Assessment Report of the Intergovernmental Panel on Climate Change (J.P. Bruce</i> et al<i>. Eds.)</i>. Cambridge University Press, Cambridge, U.K., and New York, N.Y., U.S.A. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.2277%2F0521568544" rel="nofollow">10.2277/0521568544</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-521-56854-8" title="Special:BookSources/978-0-521-56854-8">978-0-521-56854-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+tax&amp;rft.au=Fisher%2C+B.S.&amp;rft.btitle=An+Economic+Assessment+of+Policy+Instruments+for+Combating+Climate+Change.+In%3A+Climate+Change+1995%3A+Economic+and+Social+Dimensions+of+Climate+Change.+Contribution+of+Working+Group+III+to+the+Second+Assessment+Report+of+the+Intergovernmental+Panel+on+Climate+Change+%28J.P.+Bruce+et+al.+Eds.%29&amp;rft.date=1996&amp;rft.genre=book&amp;rft_id=info%3Adoi%2F10.2277%2F0521568544&amp;rft.isbn=978-0-521-56854-8&amp;rft.pub=Cambridge+University+Press%2C+Cambridge%2C+U.K.%2C+and+New+York%2C+N.Y.%2C+U.S.A.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Nellor, D.C.L. (16 May 1994). <a class="external text" href="http://www.imf.org/external/pubs/cat/longres.cfm?sk=1508.0" rel="nofollow">"Energy Taxes and Macroeconomic Policy Objectives. Series: Papers on Policy Analysis and Assessment No. 94/9. Stock No: PPIEA0091994"</a>. International Monetary Fund, Fiscal Affairs Department<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-23</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+tax&amp;rft.au=Nellor%2C+D.C.L.&amp;rft.btitle=Energy+Taxes+and+Macroeconomic+Policy+Objectives.+Series%3A+Papers+on+Policy+Analysis+and+Assessment+No.+94%2F9.+Stock+No%3A+PPIEA0091994&amp;rft.date=1994-05-16&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fcat%2Flongres.cfm%3Fsk%3D1508.0&amp;rft.pub=International+Monetary+Fund%2C+Fiscal+Affairs+Department&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Baron, R. (1997). <a class="external text" href="http://www.oecd.org/dataoecd/36/50/2392474.pdf" rel="nofollow">"Economic/Fiscal Instruments: Taxation (i.e., Carbon/Energy). Annex I Expert Group on the United Nations Framework Convention on Climate Change, Working Paper No. 4, Organisation for Economic Co-operation and Development"</a> <span style="font-size:85%;">(PDF)</span>. OECD website<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-22</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+tax&amp;rft.au=Baron%2C+R.&amp;rft.btitle=Economic%2FFiscal+Instruments%3A+Taxation+%28i.e.%2C+Carbon%2FEnergy%29.+Annex+I+Expert+Group+on+the+United+Nations+Framework+Convention+on+Climate+Change%2C+Working+Paper+No.+4%2C+Organisation+for+Economic+Co-operation+and+Development&amp;rft.date=1997&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.oecd.org%2Fdataoecd%2F36%2F50%2F2392474.pdf&amp;rft.pub=OECD+website&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Hilzenrath, David S. "Miscalculations, Lobby Effort Doomed Btu Tax Plan." <i>The Washington Post</i> (June 11, 1993).</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Nordhaus, Ted. "Getting Real on Climate Change," T<i>he American Prospect</i> (December 1, 2008).</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.bouldercolorado.gov/index.php?option=com_content&amp;view=article&amp;id=7698&amp;Itemid=2844" rel="nofollow">"Climate Action Plan Tax"</a>. City of Boulder, Colorado (www.bouldercolorado.gov). 2009-10-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-01-28</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+tax&amp;rft.btitle=Climate+Action+Plan+Tax&amp;rft.date=2009-10-15&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bouldercolorado.gov%2Findex.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D7698%26Itemid%3D2844&amp;rft.pub=City+of+Boulder%2C+Colorado+%28www.bouldercolorado.gov%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_tax&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Carbon_tax" title="Carbon tax">Carbon tax</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Energy_Tax_Act" title="Energy Tax Act">Energy Tax Act</a> of 1978</li>
+<li><a href="/wiki/Energy_Policy_Act_of_2005" title="Energy Policy Act of 2005">Energy Policy Act of 2005</a></li>
+<li><a href="/wiki/Fee_and_dividend" title="Fee and dividend">Fee and dividend</a></li>
+<li><a href="/wiki/Fuel_economy_in_automobiles" title="Fuel economy in automobiles">Fuel economy in automobiles</a></li>
+<li><a class="mw-redirect" href="/wiki/H.R._1424" title="H.R. 1424">H.R. 1424</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:8314359-0!*!0!!en!*!* and timestamp 20161023001100 and revision id 731051081
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Energy_tax&amp;oldid=731051081">https://en.wikipedia.org/w/index.php?title=Energy_tax&amp;oldid=731051081</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Energy_policy" title="Category:Energy policy">Energy policy</a></li><li><a href="/wiki/Category:Taxation" title="Category:Taxation">Taxation</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

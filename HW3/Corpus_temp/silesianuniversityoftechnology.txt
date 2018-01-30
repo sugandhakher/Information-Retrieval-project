@@ -1,0 +1,97 @@
+silesianuniversityoftechnology
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="infobox vcard" style="width:22em">
+<caption class="fn org">Silesian University of Technology</caption>
+<tr>
+<td colspan="2" style="text-align:center"><span class="nickname">Politechnika Śląska</span></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Politechnika_%C5%9Al%C4%85ska_-_Wydzia%C5%82_Chemiczny2.jpg"><img alt="Politechnika Śląska - Wydział Chemiczny2.jpg" data-file-height="1720" data-file-width="2580" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Politechnika_%C5%9Al%C4%85ska_-_Wydzia%C5%82_Chemiczny2.jpg/220px-Politechnika_%C5%9Al%C4%85ska_-_Wydzia%C5%82_Chemiczny2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Politechnika_%C5%9Al%C4%85ska_-_Wydzia%C5%82_Chemiczny2.jpg/330px-Politechnika_%C5%9Al%C4%85ska_-_Wydzia%C5%82_Chemiczny2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Politechnika_%C5%9Al%C4%85ska_-_Wydzia%C5%82_Chemiczny2.jpg/440px-Politechnika_%C5%9Al%C4%85ska_-_Wydzia%C5%82_Chemiczny2.jpg 2x" width="220"/></a>
+<div>Building of the Department of Chemistry, Gliwice</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Established</th>
+<td>24 May 1945</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;"><a href="/wiki/Rector_(academia)" title="Rector (academia)">Rector</a></th>
+<td>Professor Andrzej Karbownik</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Students</th>
+<td>28,658 (2011)</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Address</th>
+<td class="adr"><span class="street-address">Akademicka 2A, 44-100 Gliwice</span>, <span class="locality"><a href="/wiki/Gliwice" title="Gliwice">Gliwice</a></span>, <span class="state"><a href="/wiki/Silesia" title="Silesia">Silesia</a></span>, <span class="country-name"><a href="/wiki/Poland" title="Poland">Poland</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Affiliations</th>
+<td><a href="/wiki/European_University_Association" title="European University Association">EUA</a>, <a href="/wiki/European_Society_for_Engineering_Education" title="European Society for Engineering Education">SEFI</a>, ICEE, Alliance of Universities for Democracy (AUDEM), <a href="/wiki/TEMPUS" title="TEMPUS">TEMPUS</a>, <a href="/wiki/Erasmus_Programme" title="Erasmus Programme">Socrates-Erasmus</a>, <a href="/wiki/Leonardo_da_Vinci_programme" title="Leonardo da Vinci programme">LEONARDO DA VINCI</a>, <a class="mw-redirect" href="/wiki/CEEPUS" title="CEEPUS">CEEPUS</a>, <a href="/wiki/Index_Copernicus" title="Index Copernicus">COPERNICUS</a>, <a href="/wiki/European_Cooperation_in_Science_and_Technology" title="European Cooperation in Science and Technology">COST</a>, <a class="mw-redirect" href="/wiki/EUREKA" title="EUREKA">EUREKA</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Website</th>
+<td><a class="external free" href="https://www.polsl.pl/en" rel="nofollow">https://www.polsl.pl/en</a></td>
+</tr>
+</table>
+<p><b>Silesian University of Technology</b> (<a href="/wiki/Polish_language" title="Polish language">Polish</a> name: <b>Politechnika Śląska</b> IPA: [pɔliˈtɛxɲika ˈɕlɔ̃ska]) is a <a href="/wiki/University" title="University">university</a> located in <a href="/wiki/Gliwice" title="Gliwice">Gliwice</a>, <a href="/wiki/Silesia" title="Silesia">Silesia</a>, <a href="/wiki/Poland" title="Poland">Poland</a>. It was founded in 1945 by Polish professors of the <a class="mw-redirect" href="/wiki/Lviv_University_of_Technology" title="Lviv University of Technology">Lwow Polytechnic</a>, who were forced to leave their native city and move to the <a href="/wiki/Recovered_Territories" title="Recovered Territories">Recovered Territories</a> (see also <a href="/wiki/Kresy" title="Kresy">Kresy</a>). The University consistently ranks among the top most prestigious technical universities in Poland.</p>
+<p>Silesian University of Technology is divided into 13 faculties, 2 colleges, 1 Institute and 2 Science and Education Centres:<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<ul>
+<li>Faculty of <a href="/wiki/Architecture" title="Architecture">Architecture</a>,</li>
+<li>Faculty of <a href="/wiki/Automatic_control" title="Automatic control">Automatic control</a>, <a href="/wiki/Electronics" title="Electronics">Electronics</a> and <a class="mw-redirect" href="/wiki/Computer_Science" title="Computer Science">Computer Science</a>,</li>
+<li>Faculty of <a class="mw-redirect" href="/wiki/Civil_Engineering" title="Civil Engineering">Civil Engineering</a>,</li>
+<li>Faculty of <a href="/wiki/Chemistry" title="Chemistry">Chemistry</a>,</li>
+<li>Faculty of <a class="mw-redirect" href="/wiki/Electrical_Engineering" title="Electrical Engineering">Electrical Engineering</a>,</li>
+<li>Faculty of <a href="/wiki/Mining" title="Mining">Mining</a> and <a href="/wiki/Geology" title="Geology">Geology</a>,</li>
+<li>Faculty of <a class="mw-redirect" href="/wiki/Biomedical_Engineering" title="Biomedical Engineering">Biomedical Engineering</a></li>
+<li>Faculty of <a href="/wiki/Materials_science" title="Materials science">Materials Engineering</a> and <a href="/wiki/Metallurgy" title="Metallurgy">Metallurgy</a>,</li>
+<li>Faculty of <a href="/wiki/Energy" title="Energy">Energy</a> and <a class="mw-redirect" href="/wiki/Environmental_Engineering" title="Environmental Engineering">Environmental Engineering</a>,</li>
+<li>Faculty of <a class="mw-redirect" href="/wiki/Applied_Mathematics" title="Applied Mathematics">Applied Mathematics</a>,</li>
+<li>Faculty of <a class="mw-redirect" href="/wiki/Mechanical_Engineering" title="Mechanical Engineering">Mechanical Engineering</a>,</li>
+<li>Faculty of <a href="/wiki/Organizing_(management)" title="Organizing (management)">Organization</a> and <a href="/wiki/Management" title="Management">Management</a>,</li>
+<li>Faculty of <a href="/wiki/Transport" title="Transport">Transport</a>,</li>
+<li>College of <a href="/wiki/Philology" title="Philology">Foreign Languages</a>,</li>
+<li>College of <a href="/wiki/Pedagogy" title="Pedagogy">Education</a>,</li>
+<li>Institute of <a href="/wiki/Physics" title="Physics">Physics</a> - Centre for Science and Education,</li>
+<li>Centre of Science and Education - <a href="/wiki/Engineering" title="Engineering">Engineering</a> Education Centre,</li>
+<li>Centre of Science and Education for <a href="/wiki/Rail_transport" title="Rail transport">Railway Transportation</a>.</li>
+</ul>
+<p>Twelve units (faculties, colleges and institute) are situated in <a href="/wiki/Gliwice" title="Gliwice">Gliwice</a>, two in <a href="/wiki/Katowice" title="Katowice">Katowice</a> and two in <a href="/wiki/Zabrze" title="Zabrze">Zabrze</a>. Centres of science and education are located in <a href="/wiki/Rybnik" title="Rybnik">Rybnik</a> and <a href="/wiki/Sosnowiec" title="Sosnowiec">Sosnowiec</a>.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Silesian_University_of_Technology&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="https://www.polsl.pl/en/Pages/Structure.aspx" rel="nofollow">Structure of SUT</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Silesian_University_of_Technology&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="https://www.polsl.pl/en/" rel="nofollow">Silesian University of Technology homepage</a></li>
+</ul>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Silesian_University_of_Technology&amp;params=50_17_27_N_18_40_30_E_source:kolossus-plwiki"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°17′27″N</span> <span class="longitude">18°40′30″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.29083°N 18.67500°E</span><span style="display:none">﻿ / <span class="geo">50.29083; 18.67500</span></span></span></a></span></span></span></p>
+<p><br/></p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a class="image" href="/wiki/File:Graduation_hat.svg"><img alt="Stub icon" data-file-height="278" data-file-width="661" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Graduation_hat.svg/30px-Graduation_hat.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Graduation_hat.svg/45px-Graduation_hat.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Graduation_hat.svg/60px-Graduation_hat.svg.png 2x" width="30"/></a></td>
+<td><i>This Polish university, college or other education institution article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Silesian_University_of_Technology&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Poland-university-stub" title="Template:Poland-university-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Poland-university-stub" title="Template talk:Poland-university-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Poland-university-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3130888-0!*!0!!*!4!* and timestamp 20161026173847 and revision id 738437044
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Silesian_University_of_Technology&amp;oldid=738437044">https://en.wikipedia.org/w/index.php?title=Silesian_University_of_Technology&amp;oldid=738437044</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Gliwice" title="Category:Gliwice">Gliwice</a></li><li><a href="/wiki/Category:Universities_and_colleges_in_Poland" title="Category:Universities and colleges in Poland">Universities and colleges in Poland</a></li><li><a href="/wiki/Category:Universities_and_colleges_in_Katowice" title="Category:Universities and colleges in Katowice">Universities and colleges in Katowice</a></li><li><a href="/wiki/Category:Educational_institutions_established_in_1945" title="Category:Educational institutions established in 1945">Educational institutions established in 1945</a></li><li><a href="/wiki/Category:1945_establishments_in_Poland" title="Category:1945 establishments in Poland">1945 establishments in Poland</a></li><li><a href="/wiki/Category:Polish_school_stubs" title="Category:Polish school stubs">Polish school stubs</a></li><li><a href="/wiki/Category:Europe_university_stubs" title="Category:Europe university stubs">Europe university stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

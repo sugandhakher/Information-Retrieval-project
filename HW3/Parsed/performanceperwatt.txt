@@ -1,0 +1,147 @@
+performanceperwatt
+from wikipedia  the free encyclopedia
+jump to 					 
+in   performance per watt is a measure of the
+of a particular
+or   literally  it measures the
+that can be delivered by a computer for every
+of power consumed  performance  unlike watt  isn t an objective thing  it depends on what the computer is working on  but the
+list ranks the most efficient computers  according to one  possible   
+system designers building   such as   pick cpus based on their  other than green500  performance per watt of power  because the cost of powering the cpu outweighs the cost of the cpu itself 
+contents
+definition  
+the performance and power consumption metrics used depend on the definition  reasonable measures of performance are     or the score for any   several measures of power usage may be employed  depending on the purposes of the metric  for example  a metric might only consider the electrical power delivered to a machine directly  while another might include all power necessary to run a computer  such as cooling and monitoring systems  the power measurement is often the average power used while running the benchmark  but other measures of power usage may be employed  e g  peak power  idle power  
+for example  the early
+computer performed approximately 0.015 operations per watt-second  performing 1,905 operations per second  ops   while consuming 125kw   the
+ 
+in the 4 fr550 core variant released 2005 performs 51 giga-ops with 3 watts of power consumption resulting in 17 billion operations per watt-second  this is an improvement by over a trillion times in 54 years 
+most of the power a computer uses is converted into heat  so a system that takes fewer watts to do a job will require less cooling to maintain a given   reduced cooling demands makes it easier to   lower energy consumption can also make it less costly to run  and reduce the environmental impact of powering the computer  see    if installed where there is limited   a lower power computer will operate at a lower temperature  which may make it more reliable  in a climate controlled environment  reductions in direct power use may also create savings in climate control energy 
+computing energy consumption is sometimes also measured by reporting the energy required to run a particular benchmark  for instance
+energybench  energy consumption figures for a standard workload may make it easier to judge the effect of an improvement in energy efficiency 
+performance  in operations second  per watt can also be written as operations watt-second  or operations joule  since 1 watt   1 joule second 
+flops per watt  
+exponential growth of supercomputer performance per watt based on data from the green500 list  the red crosses denote the most power efficient computer  while the blue ones denote the computer ranked 500 
+  operations per second  per watt is a common measure  like the flops it is based on  the metric is usually applied to
+and simulations involving many
+calculations 
+examples  
+as of june 2016  the
+list rates the two most efficient supercomputers highest
+those are both based on the same
+accelerator
+japanese technology in addition to intel xeon processors
+both at   the top one at 6673.8mflops watt  and the third ranked is the chinese-technology
+ a much bigger machine  that is the highest ranked on   the others are not on that list  at 6051.3mflops watt 
+in june 2012  the green500 list rated
+as the most efficient supercomputer on the top500 in terms of flops per watt  running at 2,100.88mflops watt 
+on 9 june 2008  cnn reported that
+supercomputer achieves 376mflops watt 
+in november 2010  ibm machine 
+achieves 1,684mflops watt 
+as part of  s
+research project  the team produced an 80 core cpu that can achieve over 16,000mflops watt  the future of that cpu is not certain 
+microwulf  a low cost desktop
+of 4 dual core athlon 64 x2 3800  computers  runs at 58mflops watt 
+kalray has developed a 256-core vliw cpu that achieves 25,000mflops watt  next generation is expected to achieve 75,000mflops watt 
+parallella has announced the epiphany-v  a 1024-core 64-bit risc processor intended to achieve 75gflops watt 
+green500 list  
+the green500 list ranks computers from the
+list of supercomputers in terms of energy efficiency  typically measured as
+flops per watt 
+as of august 2015  the shoubu supercomputer of
+outside
+japan tops the green500 list with 7032 mflops w  the top three supercomputers of the list use pezy-sc accelerators  -like that use   by
+with 1024 cores each and 6-7 gflops w efficiency 
+as of november 2014  the l-csc supercomputer of the
+at the
+in
+germany topped the green500 list with 5271 mflops w and was the first cluster to surpass an efficiency of 5 gflops w  it runs on
+processors with the
+architecture and
+gpu accelerators  it uses in rack watercooling and
+to reduce the energy required for cooling 
+as of june 2013  the
+supercomputer eurora at
+topped the green500 list with 3208 linpack mflops w  the cineca eurora supercomputer is equipped with two intel xeon e5-2687w cpus and two pci-e connected nvidia tesla k20 accelerators per node  water cooling and electronics design allows for very high densities to be reached with a peak performance of 350 tflop s per rack 
+as of november 2012  an
+xtreme-x supercomputer    topped the green500 list with 2499 linpack mflops w  beacon is deployed by nics of the university of tennessee and is a greenblade gb824m 
+based  eight cores  8c   2.6ghz  infiniband fdr  intel xeon phi 5110p computer 
+gpu efficiency  
+ gpu  have continued to increase in energy usage  while cpus designers have recently focused on improving performance per watt  high performance gpus may draw large amount of power and hence  intelligent techniques are required to manage gpu power consumption  measures like
+per watt can help identify more efficient gpus  however that may not adequately incorporate efficiency in typical use  where much time is spent doing less demanding tasks 
+with modern gpus  energy usage is an important constraint on the maximum computational capabilities that can be achieved  gpu designs are usually highly scalable  allowing the manufacturer to put multiple chips on the same video card  or to use multiple video cards that work in parallel  peak performance of any system is essentially limited by the amount of power it can draw and the amount of heat it can dissipate  consequently  performance per watt of a gpu design translates directly into peak performance of a system that uses that design 
+since gpus may also be used for some   sometimes their performance is measured in terms also applied to cpus  such as flops per watt 
+challenges  
+while performance per watt is useful  absolute power requirements are also important  claims of improved performance per watt may be used to mask increasing power demands  for instance  though newer generation gpu architectures may provide better performance per watt  continued performance increases can negate the gains in efficiency  and the gpus continue to consume large amounts of power 
+benchmarks that measure power under heavy load may not adequately reflect typical efficiency  for instance  3dmark stresses the 3d performance of a gpu  but many computers spend most of their time doing less intense display tasks  idle  2d tasks  displaying video   so the 2d or idle efficiency of the graphics system may be at least as significant for overall energy efficiency  likewise  systems that spend much of their time in standby or
+are not adequately characterized by just efficiency under load  to help address this some benchmarks  like   include measurements at a series of load levels 
+the efficiency of some electrical components  such as   decreases with increasing temperature  so the power used may increase with temperature  power supplies  motherboards  and some video cards are some of the subsystems affected by this  so their power draw may depend on temperature  and the temperature or temperature dependence should be noted when measuring 
+performance per watt also typically does not include full   since computer manufacturing is energy intensive  and computers often have a relatively short lifespan  energy and materials involved in production  distribution 
+and
+often make up significant portions of their cost  energy use  and environmental impact 
+energy required for climate control of the computer s surroundings is often not counted in the wattage calculation  but it can be significant 
+other energy efficiency measures  
+swap  space  wattage and performance  is a
+metric for data centers  incorporating energy and space 
+swap   performance    space  power 
+where performance is measured by any appropriate benchmark  and space is size of the computer 
+see also  
+energy efficiency benchmarks
+ acp 
+a measure of power consumption when running several standard benchmarks
+
+energybench
+
+a benchmark for web servers running java  server side java operations per joule 
+other
+ dcie 
+
+for gpu list  with energy use and theoretical flops
+ pue 
+notes and references  
+  cnet  2006
+fujitsu
+fujitsu
+ 
+  green500 
+  cnn  archived from
+on 2008-06-10  performing 376 million calculations for every watt of electricity used 
+ 
+  ibm    bluegene q system    setting a record in power efficiency with a value of 1,680mflops watt  more than twice that of the next best system 
+ 
+  tg daily 
+  intel technology and research 
+joel adams    microwulf  a personal  portable beowulf cluster 
+ 
+olofsson  andreas    retrieved 6 october 2016 
+olofsson  andreas 
+ pdf   retrieved 6 october 2016 
+ 
+  itnews australia 
+hindriksen  vincent  2 aug 2015     streamcomputing eu  retrieved 8 jan 2016 
+tiffany  tiffany  august 4  2015     hpcwire  retrieved 8 january 2016 
+  insidehpc  september 23  2015  retrieved 8 january 2016 
+ 
+  cineca  cineca  retrieved 28 june 2013 
+  top500 org  retrieved 28 june 2013 
+  national institute for computational sciences news  university of tennessee   oak ridge national laboratory  retrieved 21 november 2012 
+  top500 org  retrieved 21 november 2012 
+mittal et al       acm computing surveys  2015 
+atwood  jeff  2006-08-18    
+  xbit labs 
+tim smalley    bit tech  retrieved 2008-04-21 
+  zdnet 
+mike chin    silent pc review  p 5  retrieved 2008-04-21 
+mike chin    silent pc review  retrieved 2008-04-21 
+mike chin    eco pc review 
+eric williams  2004     environ  sci  technol  38  22   616674      
+wu-chun feng  2005     ct watch quarterly  1  5  
+greenhill  david 
+ pdf   us epa energystar  retrieved 14 november 2013 
+further reading  
+wu-chun feng  october 2003     acm queue  1  7  
+kirk w  cameron  november 2013     hpc wire  27  11  
+wu-chun feng and kirk w  cameron  december 2007     ieee computer  40  12  
+external links  
+retrieved from   
+  hidden categories 

@@ -1,0 +1,55 @@
+renewableandsustainableenergyreviews
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><p><i><b>Renewable and Sustainable Energy Reviews</b></i> is a <a class="mw-redirect" href="/wiki/Peer-review" title="Peer-review">peer-reviewed</a> <a href="/wiki/Scientific_journal" title="Scientific journal">scientific journal</a> covering research on <a href="/wiki/Sustainable_energy" title="Sustainable energy">sustainable energy</a>. It is published in 12 issues per year by <a href="/wiki/Elsevier" title="Elsevier">Elsevier</a> and the <a href="/wiki/Editor-in-chief" title="Editor-in-chief">editor-in-chief</a> is L. Kazmerski (<a href="/wiki/National_Renewable_Energy_Laboratory" title="National Renewable Energy Laboratory">National Renewable Energy Laboratory</a>). According to the <i><a href="/wiki/Journal_Citation_Reports" title="Journal Citation Reports">Journal Citation Reports</a></i>, the journal has a 2015 <a href="/wiki/Impact_factor" title="Impact factor">impact factor</a> of 6.798.<sup class="reference" id="cite_ref-WoS_1-0"><a href="#cite_note-WoS-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_and_Sustainable_Energy_Reviews&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-WoS-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-WoS_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">"Renewable and Sustainable Energy Reviews". <i>2015 <a href="/wiki/Journal_Citation_Reports" title="Journal Citation Reports">Journal Citation Reports</a></i>. <a href="/wiki/Web_of_Science" title="Web of Science">Web of Science</a> (Science ed.). <a href="/wiki/Thomson_Reuters" title="Thomson Reuters">Thomson Reuters</a>. 2016.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+and+Sustainable+Energy+Reviews&amp;rft.atitle=Renewable+and+Sustainable+Energy+Reviews&amp;rft.btitle=2015+Journal+Citation+Reports&amp;rft.date=2016&amp;rft.edition=Science&amp;rft.genre=bookitem&amp;rft.pub=Thomson+Reuters&amp;rft.series=Web+of+Science&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_and_Sustainable_Energy_Reviews&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a class="external text" href="http://www.journals.elsevier.com/renewable-and-sustainable-energy-reviews" rel="nofollow">Official website</a></span></span></li>
+<li><a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:1364-0321" rel="nofollow">1364-0321</a></li>
+</ul>
+<p><br/></p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a class="image" href="/wiki/File:Crystal_128_energy.png"><img alt="Stub icon" data-file-height="128" data-file-width="128" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Crystal_128_energy.png/30px-Crystal_128_energy.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Crystal_128_energy.png/45px-Crystal_128_energy.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Crystal_128_energy.png/60px-Crystal_128_energy.png 2x" width="30"/></a></td>
+<td><i>This article about energy, its collection, its distribution, or its uses is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Renewable_and_Sustainable_Energy_Reviews&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Energy-stub" title="Template:Energy-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Energy-stub" title="Template talk:Energy-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Energy-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a class="image" href="/wiki/File:Nuvola_apps_kfig.svg"><img alt="Stub icon 1" data-file-height="110" data-file-width="109" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Nuvola_apps_kfig.svg/30px-Nuvola_apps_kfig.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Nuvola_apps_kfig.svg/45px-Nuvola_apps_kfig.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Nuvola_apps_kfig.svg/60px-Nuvola_apps_kfig.svg.png 2x" width="30"/></a> <a class="image" href="/wiki/File:Book_Hexagonal_Icon.svg"><img alt="Stub icon 2" data-file-height="31" data-file-width="36" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Book_Hexagonal_Icon.svg/30px-Book_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Book_Hexagonal_Icon.svg/45px-Book_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Book_Hexagonal_Icon.svg/60px-Book_Hexagonal_Icon.svg.png 2x" width="30"/></a></td>
+<td><i>This article about an <a href="/wiki/Engineering" title="Engineering">engineering</a> <a href="/wiki/Academic_journal" title="Academic journal">journal</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Renewable_and_Sustainable_Energy_Reviews&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Engineering-journal-stub" title="Template:Engineering-journal-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Engineering-journal-stub" title="Template talk:Engineering-journal-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Engineering-journal-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<br/>
+<span style="font-style:normal;font-size:smaller"><a href="/wiki/Wikipedia:WikiProject_Academic_Journals/Writing_guide" title="Wikipedia:WikiProject Academic Journals/Writing guide">See tips for writing articles about academic journals</a>. Further suggestions might be found on the article's <a href="/wiki/Talk:Renewable_and_Sustainable_Energy_Reviews" title="Talk:Renewable and Sustainable Energy Reviews">talk page</a>.</span></td>
+</tr>
+</table>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:19343913-0!*!0!!*!4!* and timestamp 20161104094640 and revision id 726567091
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Renewable_and_Sustainable_Energy_Reviews&amp;oldid=726567091">https://en.wikipedia.org/w/index.php?title=Renewable_and_Sustainable_Energy_Reviews&amp;oldid=726567091</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Elsevier_academic_journals" title="Category:Elsevier academic journals">Elsevier academic journals</a></li><li><a href="/wiki/Category:Publications_established_in_1997" title="Category:Publications established in 1997">Publications established in 1997</a></li><li><a href="/wiki/Category:English-language_journals" title="Category:English-language journals">English-language journals</a></li><li><a href="/wiki/Category:Energy_and_fuel_journals" title="Category:Energy and fuel journals">Energy and fuel journals</a></li><li><a href="/wiki/Category:Energy_stubs" title="Category:Energy stubs">Energy stubs</a></li><li><a href="/wiki/Category:Engineering_journal_stubs" title="Category:Engineering journal stubs">Engineering journal stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

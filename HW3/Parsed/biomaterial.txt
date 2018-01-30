@@ -1,0 +1,139 @@
+biomaterial
+from wikipedia  the free encyclopedia
+jump to 					 
+ biomaterials  redirects here  for the journal  see  
+a biomaterial is any substance that has been engineered to interact with biological systems for a medical purpose - either a therapeutic  treat  augment  repair or replace a tissue function of the body  or a diagnostic one  as a science  biomaterials is about fifty years old  the study of biomaterials is called biomaterials science or biomaterials engineering  it has experienced steady and strong growth over its history  with many companies investing large amounts of money into the development of new products  biomaterials science encompasses elements of      
+and  
+note that a biomaterial is different from a biological material  such as   that is produced by a   additionally  care should be exercised in defining a biomaterial as   since it is application-specific  a biomaterial that is biocompatible or suitable for one application may not be biocompatible in another 
+the iridescent
+inside a
+shell 
+iupac definition
+material exploited in contact with living tissues  organisms  or microorganisms 
+contents
+introduction  
+biomaterials can be derived either from nature or synthesized in the laboratory using a variety of chemical approaches utilizing metallic components   
+or   they are often used and or adapted for a medical application  and thus comprises whole or part of a living structure or biomedical device which performs  augments  or replaces a natural function  such functions may be benign  like being used for a   or may be
+with a more interactive functionality such as
+coated   biomaterials are also used every day in dental applications  surgery  and drug delivery  for example  a construct with impregnated pharmaceutical products can be placed into the body  which permits the prolonged release of a drug over an extended period of time  a biomaterial may also be an  
+or
+used as a
+material 
+biomineralization  
+main article 
+biomineralization is the process by which living organisms produce   often to harden or stiffen existing tissues  such tissues are called   it is an extremely widespread phenomenon  all six taxonomic kingdoms contain members that are able to form minerals  and over 60 different minerals have been identified in organisms  examples include
+in
+and  
+in   and
+and
+in   these minerals often form structural features such as sea
+and the
+in
+and  
+have been producing mineralised
+for the past 550 million years  other examples include  
+and
+deposits involving bacteria  biologically-formed minerals often have special uses such as magnetic sensors in
+ fe3o4   gravity sensing devices  caco3  caso4  baso4  and iron storage and mobilization  fe2o3h2o in the protein   
+self-assembly  
+is the most common term in use in the modern scientific community to describe the spontaneous aggregation of particles  atoms  molecules      etc   without the influence of any external forces  large groups of such particles are known to assemble themselves into
+stable  structurally well-defined arrays  quite reminiscent of one of the 7 crystal systems found in
+and
+ e g  face-centered cubic  body-centered cubic  etc    the fundamental difference in equilibrium structure is in the spatial scale of the
+ or lattice parameter  in each particular case 
+molecular self-assembly is found widely in biological systems and provides the basis of a wide variety of complex biological structures  this includes an emerging class of mechanically superior biomaterials based on microstructural features and designs found in nature  thus  self-assembly is also emerging as a new strategy in chemical synthesis and   molecular crystals  liquid crystals  colloids  micelles    phase-separated polymers  thin films and self-assembled monolayers all represent examples of the types of highly ordered structures which are obtained using these techniques  the distinguishing feature of these methods is self-organization 
+structural hierarchy  
+nearly all materials could be seen as hierarchically structured  especially since the changes in spatial scale bring about different mechanisms of deformation and damage  however  in biological materials this hierarchical organization is inherent to the microstructure  one of the first examples of this  in the history of structural biology  is the early
+work on the hierarchical structure of
+and
+by astbury and woods  in bone  for example 
+is the building block of the
+ a triple helix with diameter of 1.5nm  these
+molecules are
+with the mineral phase    a calcium phosphate  forming
+that curl into
+of alternating directions  these    are the basic building blocks of bones  with the volume fraction distribution between organic and mineral phase being about 60/40 
+in another level of complexity  the hydroxyapatite crystals are mineral platelets that have a diameter of approximately 70100nm and thickness of 1nm  they originally nucleate at the gaps between collagen fibrils 
+similarly  the hierarchy of
+shell begins at the nanolevel  with an organic layer having a thickness of 2030nm  this layer proceeds with single crystals of
+ a polymorph of caco3  consisting of  bricks  with dimensions of 0.5 and finishing with layers approximately 0.3mm    
+are arthropods whose carapace is made of a mineralized hard component  which exhibits brittle fracture  and a softer organic component composed primarily of   the brittle component is arranged in a helical pattern  each of these mineral rods  1 m diameter  contains chitinprotein fibrils with approximately 60nm diameter  these fibrils are made of 3nm diameter canals which link the interior and exterior of the shell 
+applications  
+biomaterials are used in 
+bone plates
+artificial ligaments and tendons
+for tooth fixation
+blood vessel prostheses
+skin repair devices  artificial tissue 
+cochlear replacements
+drug delivery mechanisms
+sustainable materials
+vascular grafts
+nerve conduits
+  clips  and staples for
+pins and screws for fracture stabilisation
+biomaterials must be compatible with the body  and there are often issues of
+which must be resolved before a product can be placed on the market and used in a
+setting  because of this  biomaterials are usually subjected to the same requirements as those undergone by new
+therapies 
+all manufacturing companies are also required to ensure traceability of all of their products so that if a defective product is discovered  others in the same batch may be traced 
+heart valves  
+in the united states  45  of the 250,000 valve replacement procedures performed annually involve a mechanical valve implant  the most widely used valve is a bileaflet disc heart valve  or st  jude valve  the mechanics involve two semicircular discs moving back and forth  with both allowing the flow of blood as well as the ability to form a seal against backflow  the valve is coated with pyrolytic carbon  and secured to the surrounding tissue with a mesh of woven fabric called dacrontm  du pont s trade name for    the mesh allows for the body s tissue to grow while incorporating the valve 
+skin repair  
+main article 
+most of the time  artificial tissue is grown from the patients own cells  however  when the damage is so extreme that it is impossible to use the patient s own cells  artificial tissue cells are grown  the difficulty is in finding a scaffold that the cells can grow and organize on  the characteristics of the scaffold must be that it is biocompatible  cells can adhere to the scaffold  mechanically strong and   one successful scaffold is a
+of
+and  
+compatibility  
+is related to the behavior of
+in various environments under various chemical and physical conditions  the term may refer to specific properties of a material without specifying where or how the material is to be used  for example  a material may elicit little or no
+in a given organism  and may or may not able to integrate with a particular cell type or   the ambiguity of the term reflects the ongoing development of insights into how biomaterials interact with the
+and eventually how those interactions determine the clinical success of a
+ such as
+or    modern medical devices and
+are often made of more than one materialso it might not always be sufficient to talk about the biocompatibility of a specific material 
+biopolymers  
+main article 
+biopolymers are
+produced by living organisms 
+and  
+and   and
+and
+are all examples of biopolymers  in which the
+units  respectively  are     and   cellulose is both the most common biopolymer and the most common organic compound on earth  about 33  of all plant matter is cellulose 
+see also  
+footnotes  
+the notion of exploitation includes utility for applications and for fundamental research to understand reciprocal perturbations as well 
+the definition non-viable material used in a medical device  intended to interact with biological systems recommended in ref  cannot be extended to the environmental field where people mean material of natural origin 
+this general term should not be confused with the terms biopolymer or biomacromolecule  the use of polymeric biomaterial is recommended when one deals with
+or polymer device of therapeutic or biological interest 
+references  
+schmalz  g   arenholdt-bindslev  d   2008    chapter 1  basic aspects     berlin  springer-verlag  pp 112    retrieved 29 february 2016 
+ 
+vert  m   doi  y   hellwich  k  h   hess  m   hodge  p   kubisa  p   rinaudo  m   schu  f  o   2012    terminology for biorelated polymers and applications  iupac recommendations 2012    pure and applied chemistry  84  2     
+williams  d  f   ed   2004   definitions in biomaterials  proceedings of a consensus conference of the european society for biomaterials  amsterdam  elsevier 
+harris  ph d   edward d   1 january 2014  
+ 1st ed    lancaster  pa  destech publications  inc  p 378    retrieved 30 january 2015 
+astrid sigel  helmut sigel  roland k o  sigel  eds   2008   biomineralization  from nature to application  metal ions in life sciences  4  wiley   
+weiner  stephen  lowenstam  heinz a   1989   on biomineralization  oxford  oxfordshire   oxford university press   
+jean-pierre cuif  yannicke dauphin  james e  sorauf  2011   biominerals and fossils through time  cambridge   
+whitesides  g   mathias  j   seto  c   1991    molecular self-assembly and nanochemistry  a chemical strategy for the synthesis of nanostructures   science  254  5036   13129         
+dabbs  d  m   aksay  i  a   2000    self-assembledceramicsproduced bycomplex-fluidtemplation   annual review of physical chemistry  51  60122         
+ariga  k   hill  j  p   lee  m  v   vinu  a   charvet  r   acharya  s   2008    challenges and breakthroughs in recent research on self-assembly   science and technology of advanced materials  9  014109       
+stroud  r  m   2006    present at the flood  how structural biology came about  by richard e  dickerson   protein science  16  135136    
+pillai  c  k  s   sharma  c  p   2010    review paper  absorbable polymeric surgical sutures  chemistry  production  properties  biodegradability  and performance   journal of biomaterials applications  25  4   291366      
+pillai ck  sharma cp  review paper  absorbable polymeric surgical sutures  chemistry  production  properties  biodegradability  and performance  j biomater appl  2010 nov 25 4  291-366  review 
+waris  e  ashammakhi  n  kaarela  o  raatikainen  t  vasenius  j  december 2004    use of bioabsorbable osteofixation devices in the hand    journal of hand surgery  edinburgh  scotland   29  6   5908      
+deasis fj  et al current state of laparoscopic parastomal hernia repair  a meta-analysis  world j gastroenterol  2015 jul 28 21 28  8670-7  review 
+banyard da et al  regenerative biomaterials  a review plast reconstr surg  2015 jun 135 6  1740-8 
+meyers  m  a   chen  p  y   lin  a  y  m   seki  y   2008    biological materials  structure and mechanical properties   progress in materials science  53  1206    
+espinosa  h  d   rim  j  e   barthelat  f   buehler  m  j   2009    merger of structure and material in nacre and bone  perspectives on de novo biomimetic materials   progress in materials science  54  8   10591100    
+ 
+brown  theodore l   lemay  h  eugene  bursten  bruce e   2000   chemistry the central science  prentice-hall  inc  pp 451452   
+kammula  r  g  and morris  g  m   2001    medical device   diagnostic industry
+buehler  m  j   yung  y  c   2009    deformation and failure of protein materials in physiologically extreme conditions and disease   nature materials  8  3   17588         
+stupp  s  i   braun  p  v   1997    molecular manipulation of microstructures  biomaterials  ceramics  and semiconductors   science  277  5330   12428      
+klemm  d  heublein  b  fink  h  p   bohn  a  2005    cellulose  fascinating biopolymer and sustainable raw material   angewandte chemie international edition  44  22   335893      
+external links  
+retrieved from   
+ 

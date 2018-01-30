@@ -1,0 +1,69 @@
+listoflowenergybuildingtechniques
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><p><a class="mw-redirect" href="/wiki/Low-energy_building" title="Low-energy building">Low-energy buildings</a>, which include <a href="/wiki/Zero-energy_building" title="Zero-energy building">zero-energy buildings</a>, <a href="/wiki/Passive_house" title="Passive house">passive houses</a> and <a href="/wiki/Green_building" title="Green building">green buildings</a>, may use any of a large number of techniques to <a href="/wiki/Energy_conservation" title="Energy conservation">lower energy use</a>.</p>
+<p>The following are some of the techniques used to achieve low-energy buildings, which excludes <a href="/wiki/Microgeneration" title="Microgeneration">energy generation</a> (microgeneration).</p>
+<h2><span class="mw-headline" id="Improvements_to_building_envelope">Improvements to building envelope</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_low-energy_building_techniques&amp;action=edit&amp;section=1" title="Edit section: Improvements to building envelope">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Active_daylighting" title="Active daylighting">Active daylighting</a></li>
+<li><a href="/wiki/Barra_system" title="Barra system">Barra system</a></li>
+<li><a href="/wiki/Brise_soleil" title="Brise soleil">Brise soleil</a></li>
+<li><a class="mw-redirect" href="/wiki/Cool_roof" title="Cool roof">Cool roof</a> and <a href="/wiki/Green_roof" title="Green roof">green roof</a></li>
+<li><a href="/wiki/Daylighting" title="Daylighting">Daylighting</a></li>
+<li><a href="/wiki/Double_envelope_house" title="Double envelope house">Double envelope house</a></li>
+<li><a href="/wiki/Earth_sheltering" title="Earth sheltering">Earth sheltering</a></li>
+<li><a class="mw-redirect" href="/wiki/Energy_plus_house" title="Energy plus house">Energy plus house</a></li>
+<li><a href="/wiki/Fluorescent_lamp" title="Fluorescent lamp">Fluorescent lighting</a>, <a href="/wiki/Compact_fluorescent_lamp" title="Compact fluorescent lamp">compact fluorescent lamp</a>, and <a class="mw-redirect" href="/wiki/LED_lighting" title="LED lighting">LED lighting</a></li>
+<li><a href="/wiki/History_of_passive_solar_building_design" title="History of passive solar building design">History of passive solar building design</a></li>
+<li><a href="/wiki/Low-energy_house" title="Low-energy house">Low-energy house</a></li>
+<li><a href="/wiki/Passive_daylighting" title="Passive daylighting">Passive daylighting</a></li>
+<li><a href="/wiki/Passive_house" title="Passive house">Passive house</a></li>
+<li><a class="mw-redirect" href="/wiki/Passive_solar" title="Passive solar">Passive solar</a></li>
+<li><a href="/wiki/Passive_solar_building_design" title="Passive solar building design">Passive solar building design</a></li>
+<li><a href="/wiki/Solar_energy" title="Solar energy">Solar energy</a></li>
+<li><a href="/wiki/Superinsulation" title="Superinsulation">Superinsulation</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Sustainable architecture</a></li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li>
+<li><a href="/wiki/Trombe_wall" title="Trombe wall">Trombe wall</a></li>
+<li><a href="/wiki/Windcatcher" title="Windcatcher">Windcatcher</a></li>
+<li><a class="mw-redirect" href="/wiki/Zero_energy_building" title="Zero energy building">Zero energy building</a></li>
+</ul>
+<h2><span class="mw-headline" id="Improvements_to_heating.2C_cooling.2C_ventilation_and_water_heating">Improvements to heating, cooling, ventilation and water heating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_low-energy_building_techniques&amp;action=edit&amp;section=2" title="Edit section: Improvements to heating, cooling, ventilation and water heating">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Absorption_refrigerator" title="Absorption refrigerator">Absorption refrigerator</a></li>
+<li><a class="mw-redirect" href="/wiki/Annualized_geothermal_solar" title="Annualized geothermal solar">Annualized geothermal solar</a></li>
+<li><a class="mw-redirect" href="/wiki/Earth_cooling_tubes" title="Earth cooling tubes">Earth cooling tubes</a></li>
+<li><a href="/wiki/Geothermal_heat_pump" title="Geothermal heat pump">Geothermal heat pump</a></li>
+<li><a href="/wiki/Heat_recovery_ventilation" title="Heat recovery ventilation">Heat recovery ventilation</a></li>
+<li><a class="mw-redirect" href="/wiki/Hot_water_heat_recycling" title="Hot water heat recycling">Hot water heat recycling</a></li>
+<li><a href="/wiki/Passive_cooling" title="Passive cooling">Passive cooling</a></li>
+<li><a href="/wiki/Renewable_heat" title="Renewable heat">Renewable heat</a></li>
+<li><a href="/wiki/Seasonal_thermal_energy_storage" title="Seasonal thermal energy storage">Seasonal thermal energy storage</a> (STES)</li>
+<li><a href="/wiki/Solar_air_conditioning" title="Solar air conditioning">Solar air conditioning</a></li>
+<li><a class="mw-redirect" href="/wiki/Solar_hot_water" title="Solar hot water">Solar hot water</a></li>
+</ul>
+<h2><span class="mw-headline" id="Energy_rating_systems">Energy rating systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_low-energy_building_techniques&amp;action=edit&amp;section=3" title="Edit section: Energy rating systems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Crystal_energy.svg"><img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Sustainable_development.svg"><img alt="icon" class="noviewer" data-file-height="510" data-file-width="800" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/EnerGuide" title="EnerGuide">EnerGuide</a> (Canada)</li>
+<li><a href="/wiki/Home_energy_rating" title="Home energy rating">Home energy rating</a> (US)</li>
+<li><a href="/wiki/House_Energy_Rating" title="House Energy Rating">House Energy Rating</a> (Australia)</li>
+<li><a href="/wiki/Leadership_in_Energy_and_Environmental_Design" title="Leadership in Energy and Environmental Design">LEED - Leadership in Energy and Environmental Design</a></li>
+<li><a href="/wiki/National_Home_Energy_Rating" title="National Home Energy Rating">National Home Energy Rating</a> (UK)</li>
+</ul>
+<div style="clear:both;"></div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:17500066-0!*!0!!*!4!* and timestamp 20161025044616 and revision id 746083922
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_low-energy_building_techniques&amp;oldid=746083922">https://en.wikipedia.org/w/index.php?title=List_of_low-energy_building_techniques&amp;oldid=746083922</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Low-energy_building" title="Category:Low-energy building">Low-energy building</a></li><li><a href="/wiki/Category:Sustainable_building" title="Category:Sustainable building">Sustainable building</a></li><li><a href="/wiki/Category:Architecture_lists" title="Category:Architecture lists">Architecture lists</a></li><li><a href="/wiki/Category:Energy-related_lists" title="Category:Energy-related lists">Energy-related lists</a></li><li><a href="/wiki/Category:Lists_related_to_renewable_energy" title="Category:Lists related to renewable energy">Lists related to renewable energy</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

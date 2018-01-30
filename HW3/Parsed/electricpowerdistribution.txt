@@ -1,0 +1,161 @@
+electricpowerdistribution
+from wikipedia  the free encyclopedia
+jump to 					 
+this article has multiple issues  please help
+or discuss these issues on the     
+this article needs additional citations for   please help
+by   unsourced material may be challenged and removed   june 2014    
+this article includes a   but its sources remain unclear because it has insufficient   please help to
+this article by
+more precise citations   september 2014    
+  
+a 50kva pole-mounted distribution transformer
+electric power distribution is the final stage in the
+of   it carries electricity from the
+to individual consumers  distribution substations connect to the transmission system and lower the transmission voltage to medium
+ranging between 2 and 35kv with the use of   primary distribution lines carry this medium voltage power to
+located near the customer s premises  distribution transformers again lower the voltage to the
+of household appliances and typically feed several customers through secondary distribution lines at this voltage  commercial and residential customers are connected to the secondary distribution lines through   customers demanding a much larger amount of power may be connected directly to the primary distribution level or the
+level 
+contents
+history  
+further information 
+the late 1870s and early 1880s saw the introduction of
+lighting used outdoors or in large indoor spaces such as this
+system installed in 1880 in  
+electric power distribution only became necessary in the 1880s when electricity started being generated at   before that electricity was usually generated where it was used  the first power distribution systems installed in european and us cites were used to supply lighting 
+running on very high voltage  usually higher than 3000 volt 
+ ac  or
+ dc   and
+running on low voltage  100 volt  direct current  both were supplanting
+systems  with arc lighting taking over large area street lighting  and incandescent lighting replacing gas for business and residential lighting 
+due to the high voltages used in arc lighting  a single generating station could supply a long string of lights  up to 7-mile  11km  long circuits  since the capacity of a wire is proportional to the square of the current traveling on it  each doubling of the voltage would allow the same size cable to transmit the same amount of power four times the distance  direct current indoor incandescent lighting systems  for example the first edison
+installed in 1882   had difficulty supplying customers more than a mile away due to the low 110 volt system being used throughout the system  from the generators to the final use  the edison dc system needed thick copper conductor cables  and the generating plants needed to be within about 1.5 miles  2.4km  of the farthest customer to avoid excessively large and expensive conductors 
+introduction of the ac transformer  
+trying to deliver electricity long distance at high voltage and then reducing it to a fractional voltage for indoor lighting became a recognized engineering roadblock to electric power distribution with many  not very satisfactory  solutions tested by lighting companies  the mid-1880s saw a breakthrough with the development of functional ac
+that allowed the voltage to be  stepped up  to much higher transmission voltages and then dropped down to a lower end user voltage  with much cheaper transmission costs and the greater
+of having large generating plants supply whole cities and regions  the use of ac spread rapidly 
+in the us the competition between direct current and alternating current took a personal turn in the late 1880s in the form of a    when
+started attacking
+and his development of the first us ac transformer systems  pointing out all the deaths caused by high voltage ac systems over the years and claiming any ac system was inherently dangerous  edison s propaganda campaign was short lived with his company switching over to ac in 1892 
+ac became the dominant form of transmission of power with innovations in europe and the us in
+designs and the development of engineered universal systems allowing the large number of legacy systems to be connected to large ac grids 
+in the first half of the 20th century  the
+was   meaning that one company did generation  transmission  distribution  metering and billing  starting in the 1970s and 1980s nations began the process of
+and   leading to   the distribution system would remain regulated  but generation  retail  and sometimes transmission systems were transformed into competitive markets 
+generation and transmission  
+simplified diagram of ac
+from generation stations to consumers   
+electric power begins at a generating station  where the potential difference can be as high as 13,800volts  ac is usually used  users of large amounts of dc power such as some  
+and industrial processes such as
+smelting usually either operate their own or have adjacent dedicated generating equipment  or use rectifiers to derive dc from the public ac supply  however 
+can be advantageous for isolating alternating-current systems or controlling the quantity of electricity transmitted  for example 
+has a direct-current line which goes from the
+region to  
+from the generating station it goes to the generating stations switchyard where a step-up increases the voltage to a level suitable for transmission  from 44kv to 765kv  once in the transmission system  electricity from each generating station is combined with electricity produced elsewhere  electricity is consumed as soon as it is produced  it is transmitted at a very high speed  close to the  
+distribution overview  
+this section needs additional citations for   please help
+by   unsourced material may be challenged and removed   october 2014    
+general layout of   the voltages and loadings are typical of a european network 
+the transition from transmission to distribution happens in a power   which has the following functions 
+and switches enable the substation to be disconnected from the transmission grid or for distribution lines to be disconnected 
+transformers step down transmission voltages  35kv or more  down to primary distribution voltages  these are medium voltage circuits  usually 600-35,000 v 
+from the transformer  power goes to the
+that can split the distribution power off in multiple directions  the bus distributes power to distribution lines  which fan out to customers 
+urban distribution is mainly underground  sometimes in   rural distribution is mostly above ground with   and suburban distribution is a mix  closer to the customer  a distribution transformer steps the primary distribution power down to a low-voltage secondary circuit  usually 120 or 240v  depending on the region  the power comes to the customer via a
+and an   the final circuit in an urban system may be less than 50 feet  but may be over 300 feet for a rural customer 
+primary distribution  
+primary distribution voltages are 22kv or 11 kv  only large consumers are fed directly from distribution voltages  most utility customers are connected to a transformer  which reduces the distribution voltage to the low voltage used by lighting and interior wiring systems 
+voltage varies according to its role in the supply and distribution system  according to international standards  there are initially two voltage groups  low voltage  lv   up to and including 1kv ac  or 1.5kv dc  and high voltage  hv   above 1 kv ac  or 1.5 kv dc  
+network configurations  
+substation near   in the northwest territories of canada
+distribution networks are divided into two types  radial or network  a radial system is arranged like a tree where each customer has one source of supply  a network system has multiple sources of supply operating in parallel  spot networks are used for concentrated loads  radial systems are commonly used in rural or suburban areas 
+radial systems usually include emergency connections where the system can be reconfigured in case of problems  such as a fault or required replacement  this can be done by opening and closing switches  it may be acceptable to close a loop for a short time 
+long feeders experience
+  distortion  requiring capacitors to be installed 
+reconfiguration  by exchanging the functional links between the elements of the system  represents one of the most important measures which can improve the operational performance of a distribution system  the problem of optimization through the reconfiguration of a power distribution system  in terms of its definition  is a historical single objective problem with constraints  since 1975  when merlin and back introduced the idea of distribution system reconfiguration for active power loss reduction  until nowadays  a lot of researchers have proposed diverse methods and algorithms to solve the reconfiguration problem as a single objective problem  some authors have proposed pareto optimality based approaches  including active power losses and reliability indices as objectives   for this purpose  different artificial intelligence based methods have been used  microgenetic  branch exchange  particle swarm optimization and non-dominated sorting genetic algorithm 
+rural services  
+systems tend to use higher distribution voltages because of the longer distances covered by distribution lines  see    7.2  12.47  25  and 34.5kv distribution is common in the united states  11kv and 33kv are common in the uk  australia and new zealand  11kv and 22kv are common in south africa  other voltages are occasionally used  distribution in rural areas may be only single-phase if it is not economical to install three-phase power for relatively few and small customers 
+rural services normally try to minimize the number of poles and wires 
+ swer  is the least expensive  with one wire  it uses higher voltages  than urban distribution   which in turn permits use of galvanized steel wire  the strong steel wire allows for less expensive wide pole spacing  in rural areas a pole-mount transformer may serve only one customer 
+higher voltage split-phase or three phase service  at a higher infrastructure and a higher cost  provide increased equipment efficiency and lower energy cost for large agricultural facilities  petroleum pumping facilities  or water plants 
+in       and  
+systems  swer  are used to electrify remote rural areas 
+secondary distribution  
+electricity is delivered at a frequency of either 50 or 60hz  depending on the region  it is delivered to domestic customers as
+in some countries as in europe a
+supply may be made available for larger properties  seen in an   the domestic power supply in north america would look like a   oscillating between -170 volts and 170 volts  giving an effective voltage of 120 volts 
+power is more efficient in terms of power delivered per cable used  and is more suited to running large electric motors  some large european appliances may be powered by
+power  such as electric stoves and clothes dryers 
+a
+connection is normally provided for the customer s system as well as for the equipment owned by the utility  the purpose of connecting the customer s system to ground is to limit the voltage that may develop if high voltage conductors fall down onto lower-voltage conductors which are usually mounted lower to the ground  or if a failure occurs within a distribution transformer 
+can be tt  tn-s  tn-c-s or tn-c 
+regional variations  
+this section needs additional citations for   please help
+by   unsourced material may be challenged and removed   october 2014    
+worldwide electrical voltage and frequency
+220-240 volt systems  
+most of the world uses 50hz 220 or 230 v single phase 400v 3 phase for residential and light industrial services  in this system  the primary distribution network supplies a few substations per area  and the 230 v power from each substation is directly distributed  a live  hot  wire and neutral are connected to the building for each phase of three phase service  single-phase distribution is used where motor loads are light  in europe  electricity is normally distributed for industry and domestic use by the three-phase  four wire system  this gives a three-phase voltage of 400 volts wye service and a single-phase voltage of 230 volts  in the uk a typical urban or suburban low-voltage substation would normally be rated between 150kva and 1mva and supply a whole neighborhood of a few hundred houses  for industrial customers  3-phase 690   400 volt is also available  or may be generated locally     large industrial customers have their own transformer s  with an input from 11 kv to 220 kv 
+110-120 volt systems  
+most of the americas use 60hz ac  the 120/240 volt
+system domestically and three phase for larger installations  compared to european systems  north american ones have more step-down transformers near customers  this is because the higher domestic voltage used in europe  230v vs 120v  may be carried over a greater distance with acceptable power loss  north american transforms usually power homes at 240 volts  similar to europe s 230 volts  it is the split-phase that allows use of 120 volts in the home  the transformers actually provide 240 volts  not 120  so power can be carried over a greater distance 
+japan s utility frequencies are 50 hz and 60 hz 
+in the   the standard frequencies for ac are 50 and 60hz  in japan parts of the country use 50hz  while other parts use 60hz  this is a relic of the 1800s  some local providers in
+imported 50hz german equipment  while the local power providers in
+brought in 60hz generators from the united states  the grids grew until eventually the entire country was wired  today the frequency is 50hz in eastern japan  includingtokyo    and   and 60 hertz in western japan  including      and   
+most household appliances are made to work on either frequency  the problem of incompatibility came into the public eye when the
+knocked out about a third of the easts capacity  and power in the west couldnt be fully shared with the east  since the country does not have a common frequency 
+there are four
+ hvdc  converter stations that move power across japans ac frequency border 
+is a
+hvdc facility in
+which forms one of four
+stations that link japan s western and eastern power grids  the other three are at  
+and   together they can move up to 1.2 gw of power east or west 
+240 volt systems and 120 volt outlets  
+most modern north american homes are wired to receive 240 volts from the transformer  and through the use of   can have both 120 volt receptacles and 240 volt receptacles  the 120 volts is typically used for lighting and most wall outlets  the 240 volt outlets are usually placed where the water heater and clothes dryer would go  sometimes a 240 volt outlet is mounted in the garage for machinery or for charging an  
+see also  
+ ieee standard to interconnect tele-protection and multiplexer devices of power utility companies
+references  
+quentin r  skrabec  the 100 most significant events in american business  an encyclopedia  abc-clio - 2012  page 86
+berly  j   1880-03-24     journal of the society of telegraph engineers  institution of electrical engineers  ix  32   143  retrieved 2009-01-07 
+garrison  webb b   1983   behind the headlines  american history s schemes  scandals  and escapades  stackpole books  p 107 
+parke hughes  thomas  1993   networks of power  electrification in western society  1880-1930  jhu press  pp 120121 
+garud  raghu  kumaraswamy  arun  langlois  richard  2009   managing in the modular age  architectures  networks  and organizations  john wiley   sons  p 249 
+  www hydroquebec com  retrieved 2016-03-08 
+  www hydroquebec com  retrieved 2016-03-08 
+  howstuffworks  retrieved 2016-03-18 
+ 
+short  t a   2014   electric power distribution handbook  boca raton  florida  usa  crc press  pp 133   
+chan  f   electric power distribution systems  
+ pdf   retrieved 12 march 2016 
+planning of electric power distribution    siemens  2015 
+abdelhay a  sallam and om p  malik  may 2011   electric distribution systems  ieee computer society press  p 21   
+merlin  a   back  h  search for a minimal-loss operating spanning tree configuration in an urban power distribution system  in proceedings of the 1975 fifth power systems computer conference  pscc   cambridge  uk  15 september 1975  pp  118 
+mendoza  j e   lopez  m e   coello  c a   lopez  e a  microgenetic multiobjective reconfiguration algorithm considering power losses and reliability indices for medium voltage distribution network  iet gener  transm  distrib  2009  3  825840 
+bernardon  d p   garcia  v j   ferreira  a s q   canha  l n  multicriteria distribution network reconfiguration considering subtransmission analysis  ieee trans  power deliv  2010  25  26842691 
+amanulla  b   chakrabarti  s   singh  s n  reconfiguration of power distribution systems considering reliability and power loss  ieee trans  power deliv  2012  27  918926 
+  howstuffworks  retrieved 2016-03-18 
+ 
+gordenker  alice  2011-07-19     the japan times online    retrieved 2016-03-12 
+  japan-guide com  retrieved 2016-03-12 
+  spectrum ieee org  retrieved 2016-03-12 
+external links  
+wikimedia commons has media related to  
+wikiversity has learning materials about
+concepts
+sources
+and distribution
+  
+electric power distribution
+ tso 
+protective
+devices
+ gfi 
+economics
+and policies
+categories
+portals
+ 
+retrieved from   
+  hidden categories 

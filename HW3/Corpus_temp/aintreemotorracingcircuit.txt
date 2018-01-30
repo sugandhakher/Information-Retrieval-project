@@ -1,0 +1,366 @@
+aintreemotorracingcircuit
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="infobox vcard" style="width:22em">
+<caption class="fn org">Aintree Motor Racing Circuit</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Circuit_Aintree.svg" title="Circuit map."><img alt="Circuit map." data-file-height="490" data-file-width="470" height="261" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Circuit_Aintree.svg/250px-Circuit_Aintree.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Circuit_Aintree.svg/375px-Circuit_Aintree.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Circuit_Aintree.svg/500px-Circuit_Aintree.svg.png 2x" width="250"/></a></td>
+</tr>
+<tr>
+<th scope="row">Location</th>
+<td class="label"><a href="/wiki/Aintree" title="Aintree">Aintree</a>, <a href="/wiki/Merseyside" title="Merseyside">Merseyside</a>, <a href="/wiki/England" title="England">England</a></td>
+</tr>
+<tr>
+<th scope="row">Time zone</th>
+<td><a class="mw-redirect" href="/wiki/GMT" title="GMT">GMT</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a></th>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Aintree_Motor_Racing_Circuit&amp;params=53_28_37_N_2_56_26_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°28′37″N</span> <span class="longitude">2°56′26″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.47694°N 2.94056°W</span><span style="display:none">﻿ / <span class="geo">53.47694; -2.94056</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Aintree_Motor_Racing_Circuit&amp;params=53_28_37_N_2_56_26_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°28′37″N</span> <span class="longitude">2°56′26″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.47694°N 2.94056°W</span><span style="display:none">﻿ / <span class="geo">53.47694; -2.94056</span></span></span></a></span></span></span></td>
+</tr>
+<tr>
+<th scope="row">Opened</th>
+<td>1954</td>
+</tr>
+<tr>
+<th scope="row">Major events</th>
+<td><a href="/wiki/British_Grand_Prix" title="British Grand Prix">British Grand Prix</a><br/>
+<a href="/wiki/European_Grand_Prix" title="European Grand Prix">Grand Prix de Europe</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #dedede">Grand Prix Circuit (1954–1964)</th>
+</tr>
+<tr>
+<th scope="row">Length</th>
+<td>4.828 km (3.000 mi)</td>
+</tr>
+<tr>
+<th scope="row">Turns</th>
+<td>8</td>
+</tr>
+<tr>
+<th scope="row">Lap record</th>
+<td>1:55.0 (<span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" class="thumbborder" data-file-height="600" data-file-width="1200" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" width="23"/></a></span> <a href="/wiki/Jim_Clark" title="Jim Clark">Jim Clark</a>, <a href="/wiki/Lotus_25" title="Lotus 25">Lotus 25</a> <a href="/wiki/Coventry_Climax" title="Coventry Climax">Climax</a>, <a href="/wiki/1962_British_Grand_Prix" title="1962 British Grand Prix">1962</a>, <a href="/wiki/Formula_One" title="Formula One">Formula One</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #dedede">Club Circuit (1954–date)</th>
+</tr>
+<tr>
+<th scope="row">Length</th>
+<td>2.47 km (1.535 mi)</td>
+</tr>
+<tr>
+<th scope="row">Turns</th>
+<td>4</td>
+</tr>
+</table>
+<p><b>Aintree Motor Racing Circuit</b> is a 3-mile (4.83 km) motor racing circuit in the village of <a href="/wiki/Aintree" title="Aintree">Aintree</a>, <a href="/wiki/Merseyside" title="Merseyside">Merseyside</a>, <a href="/wiki/England" title="England">England</a>. The circuit is located within the famous <a href="/wiki/Aintree_Racecourse" title="Aintree Racecourse">Aintree Racecourse</a> and used the same grandstands as horse racing. Built in 1954 as the "<a href="/wiki/Goodwood_Circuit" title="Goodwood Circuit">Goodwood</a> of the North", hence the fact the two venues had so many things in common. The track is well surfaced and relatively flat - ranging from 15 to about 30 metres in elevation.</p>
+<p>The circuit has hosted the <a href="/wiki/Formula_One" title="Formula One">Formula One</a> <a href="/wiki/British_Grand_Prix" title="British Grand Prix">British Grand Prix</a> five times, in <a href="/wiki/1955_British_Grand_Prix" title="1955 British Grand Prix">1955</a>, <a href="/wiki/1957_British_Grand_Prix" title="1957 British Grand Prix">1957</a>, <a href="/wiki/1959_British_Grand_Prix" title="1959 British Grand Prix">1959</a>, <a href="/wiki/1961_British_Grand_Prix" title="1961 British Grand Prix">1961</a> and <a href="/wiki/1962_British_Grand_Prix" title="1962 British Grand Prix">1962</a>.</p>
+<p>In addition to the Grands Prix, the circuit also held 11 non-championship Formula 1 races, known as the Aintree 200, first won by Stirling Moss in 1954 with the last winner being <a href="/wiki/Jack_Brabham" title="Jack Brabham">Jack Brabham</a>, in April 1964 (Brabham had made his Formula One debut at the circuit in the 1955 British GP). Aintree was the location for the famous race in 1955 in which <a href="/wiki/Stirling_Moss" title="Stirling Moss">Stirling Moss</a> won his first <a href="/wiki/British_Grand_Prix" title="British Grand Prix">British Grand Prix</a>, driving a Mercedes. Two years later, he and <a href="/wiki/Tony_Brooks_(racing_driver)" title="Tony Brooks (racing driver)">Tony Brooks</a> (sharing the Vanwall) became the first British drivers to win both the <a href="/wiki/British_Grand_Prix" title="British Grand Prix">British Grand Prix</a> and a round of the Formula 1 World Championship, whilst driving a British car, a <a href="/wiki/Vanwall" title="Vanwall">Vanwall</a>. The 1957 Grand Prix also took the title of Grand Prix de Europe and was the premier Formula 1 event of the season, attracting 150 000 spectators.</p>
+<p>The full Grand Prix circuit was last raced on in 1964, but part of it (the 1.535-mile (2.47 km) Club Circuit) is still open and was used for racing until the early 1980s, having been operated by the Aintree Circuit Club <a class="external autonumber" href="http://www.aintree.org.uk" rel="nofollow">[1]</a> from the mid-1960s to the late 1990s. In the 1980s the 108 Car Club (<a href="/wiki/St_Helens,_Merseyside" title="St Helens, Merseyside">St. Helens</a>) brought rallying back to Aintree Circuit revitalising the circuits use with new and innovative ideas. A limited amount of motor sport continues today in the form of car sprints, track days and motorcycle racing on the Club Circuit.</p>
+<p>The Motorcycle events are organised by Aintree Motor Cycle Racing Club <a class="external autonumber" href="http://www.AintreeMotorcycleRacingClub" rel="nofollow">[2]</a>, who run 6 events at Aintree each year.</p>
+<p>The Car events are orgainsed by Liverpool Motor Club <a class="external autonumber" href="http://www.liverpoolmotorclub.com/" rel="nofollow">[3]</a> in the form of three sprints, in April, June and September and two trackdays in May and October on the club circuit. Nick Algar, the 2010 British Sprint Champion, set a new course record of 35.82 seconds on the 1847-metre sprint course on 26 June 2010 in a <a href="/wiki/Gould_Racing" title="Gould Racing">Gould GR55</a> 3500cc. The record was previously set by Roy Dawson on 8 September 2007 in the same car, in a time of 36.03 seconds. Nick Algar's speed through the finish line speed trap was 172 mph, although he did manage a speed of 176 mph on an earlier timed run that day.</p>
+<p>In addition, the Club Circuit sees occasional use by visiting events such as the Greenpower Electric Car Races for Schools <a class="external autonumber" href="http://www.greenpower.co.uk" rel="nofollow">[4]</a>, Sporting Bears Motor Club giving Dream Rides for Charity <a class="external autonumber" href="http://www.sportingbears.org.uk/index.html" rel="nofollow">[5]</a>, and also bicycle racing. The Club Circuit itself is situated within the Aintree Grand National Course, and in turn contains a public 9-hole Golf Course operated by Aintree Racecourse.</p>
+<p>Spectators are welcome at all of Aintree's Motorsport events; access is from Melling Road, Aintree, (Nearest postcode: L10 8LF).</p>
+<p><i>(Note - The circuit plan on the right incorporates errors in its annotation.</i></p>
+<p><i>Sefton Straight should be shown as the straight between points 2 &amp; 3 on the plan - ie between Anchor Bend &amp; Cottage Corner</i></p>
+<p><i>The long straight between points 6 &amp; 7 - ie between Bechers Bend and Melling Crossing - is actually Railway Straight, not Railway<b>s</b> Straight).</i></p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aintree_Motor_Racing_Circuit&amp;action=edit&amp;section=1" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.aintree.co.uk" rel="nofollow">Aintree Racecourse Official site</a></li>
+<li><a class="external text" href="http://www.aintree.org.uk" rel="nofollow">Aintree Circuit Club</a></li>
+<li><a class="external text" href="http://www.liverpoolmotorclub.com" rel="nofollow">Liverpool Motor Club</a></li>
+<li><a class="external text" href="http://www.aintreemotorcycleracingclub.co.uk" rel="nofollow">Aintree Motor Cycle Racing Club</a></li>
+<li><a class="external text" href="http://www.worldstadia.com/stadium/england/aintree_racecourse/1223.php" rel="nofollow">Aintree - Description and Image Gallery</a></li>
+<li><a class="external text" href="http://www.gg.com/aintree" rel="nofollow">Course guide on GG.COM</a></li>
+<li><a class="external text" href="http://www.attheraces.com/course.asp?CID=111" rel="nofollow">Course guide on At The Races</a></li>
+<li><a class="external text" href="http://goo.gl/maps/D7MS5" rel="nofollow">Aintree Motor Racing Circuit on Google Maps (Historic Formula 1 Tracks)</a></li>
+</ul>
+<div aria-labelledby="British_motor_racing_circuits" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:British_motor_racing_circuits" title="Template:British motor racing circuits"><abbr style=";;background:none transparent;border:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:British_motor_racing_circuits" title="Template talk:British motor racing circuits"><abbr style=";;background:none transparent;border:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:British_motor_racing_circuits&amp;action=edit"><abbr style=";;background:none transparent;border:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="British_motor_racing_circuits" style="font-size:114%"><a href="/wiki/List_of_motor_racing_tracks#United_Kingdom" title="List of motor racing tracks">British motor racing circuits</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Current</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Aintree</strong></li>
+<li><a href="/wiki/Anglesey_Circuit" title="Anglesey Circuit">Anglesey</a></li>
+<li><a href="/wiki/Battersea_Park_Street_Circuit" title="Battersea Park Street Circuit">Battersea Park</a></li>
+<li><a href="/wiki/Brands_Hatch" title="Brands Hatch">Brands Hatch</a></li>
+<li><a href="/wiki/Cadwell_Park" title="Cadwell Park">Cadwell Park</a></li>
+<li><a href="/wiki/Castle_Combe_Circuit" title="Castle Combe Circuit">Castle Combe</a></li>
+<li><a href="/wiki/Croft_Circuit" title="Croft Circuit">Croft</a></li>
+<li><a href="/wiki/Darley_Moor_Airfield" title="Darley Moor Airfield">Darley Moor</a></li>
+<li><a href="/wiki/Donington_Park" title="Donington Park">Donington Park</a></li>
+<li><a href="/wiki/Goodwood_Circuit" title="Goodwood Circuit">Goodwood</a></li>
+<li><a href="/wiki/Knockhill_Racing_Circuit" title="Knockhill Racing Circuit">Knockhill</a></li>
+<li><a href="/wiki/Llandow_Circuit" title="Llandow Circuit">Llandow</a></li>
+<li><a href="/wiki/Lydden_Hill_Race_Circuit" title="Lydden Hill Race Circuit">Lydden</a></li>
+<li><a href="/wiki/Mallory_Park" title="Mallory Park">Mallory Park</a></li>
+<li><a href="/wiki/Oliver%27s_Mount" title="Oliver's Mount">Oliver's Mount</a></li>
+<li><a href="/wiki/Oulton_Park" title="Oulton Park">Oulton Park</a></li>
+<li><a href="/wiki/Pembrey_Circuit" title="Pembrey Circuit">Pembrey</a></li>
+<li><a href="/wiki/Rockingham_Motor_Speedway" title="Rockingham Motor Speedway">Rockingham</a></li>
+<li><a href="/wiki/Silverstone_Circuit" title="Silverstone Circuit">Silverstone</a></li>
+<li><a href="/wiki/Snetterton_Circuit" title="Snetterton Circuit">Snetterton</a></li>
+<li><a href="/wiki/Thruxton_Circuit" title="Thruxton Circuit">Thruxton</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Former</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Birmingham_Superprix" title="Birmingham Superprix">Birmingham</a></li>
+<li><a href="/wiki/Blandford_Camp#Blandford_Motor_Racing_Circuit" title="Blandford Camp">Blandford</a></li>
+<li><a href="/wiki/Boreham_Circuit" title="Boreham Circuit">Boreham</a></li>
+<li><a href="/wiki/Brooklands" title="Brooklands">Brooklands</a></li>
+<li><a href="/wiki/Brough_Aerodrome" title="Brough Aerodrome">Brough</a></li>
+<li><a href="/wiki/RAF_Catterick" title="RAF Catterick">Catterick</a></li>
+<li><a href="/wiki/Crystal_Palace_circuit" title="Crystal Palace circuit">Crystal Palace</a></li>
+<li><a href="/wiki/Davidstow_Circuit" title="Davidstow Circuit">Davidstow</a></li>
+<li><a href="/wiki/RAF_Debden" title="RAF Debden">Debden</a></li>
+<li><a href="/wiki/RAF_Elvington" title="RAF Elvington">Elvington</a></li>
+<li><a class="new" href="/w/index.php?title=Eppynt_Circuit&amp;action=edit&amp;redlink=1" title="Eppynt Circuit (page does not exist)">Eppynt Circuit</a></li>
+<li><a href="/wiki/RAF_Fersfield" title="RAF Fersfield">Fersfield</a></li>
+<li><a href="/wiki/Full_Sutton_Circuit" title="Full Sutton Circuit">Full Sutton</a></li>
+<li><a href="/wiki/Retford_Gamston_Airport" title="Retford Gamston Airport">Gamston</a></li>
+<li><a href="/wiki/Gransden_Lodge_Airfield" title="Gransden Lodge Airfield">Gransden Lodge</a></li>
+<li><a href="/wiki/RAF_Ibsley" title="RAF Ibsley">Ibsley</a></li>
+<li><a href="/wiki/Ingliston_Racing_Circuit" title="Ingliston Racing Circuit">Ingliston Racing Circuit</a></li>
+<li><a href="/wiki/RAF_Linton-on-Ouse" title="RAF Linton-on-Ouse">Linton-on-Ouse</a></li>
+<li><a href="/wiki/Longridge_circuit" title="Longridge circuit">Longridge</a></li>
+<li><a href="/wiki/Lulsgate_Aerodrome" title="Lulsgate Aerodrome">Lulsgate</a></li>
+<li><a href="/wiki/RAF_Ouston" title="RAF Ouston">Ouston</a></li>
+<li><a href="/wiki/Rufforth_Circuit" title="Rufforth Circuit">Rufforth</a></li>
+<li><a href="/wiki/RAF_Thornaby" title="RAF Thornaby">Thornaby</a></li>
+<li><a href="/wiki/Whitchurch_Circuit" title="Whitchurch Circuit">Whitchurch</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Proposed</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Circuit_of_Wales" title="Circuit of Wales">Circuit of Wales</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Formula_One_circuits" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Formula_One_circuits" title="Template:Formula One circuits"><abbr style=";;background:none transparent;border:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Formula_One_circuits" title="Template talk:Formula One circuits"><abbr style=";;background:none transparent;border:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Formula_One_circuits&amp;action=edit"><abbr style=";;background:none transparent;border:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Formula_One_circuits" style="font-size:114%"><a href="/wiki/Formula_One" title="Formula One">Formula One</a> <a href="/wiki/List_of_Formula_One_circuits" title="List of Formula One circuits">circuits</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/2016_Formula_One_season" title="2016 Formula One season">2016 season</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Circuit_of_the_Americas" title="Circuit of the Americas">Austin</a></li>
+<li><a href="/wiki/Bahrain_International_Circuit" title="Bahrain International Circuit">Bahrain</a></li>
+<li><a href="/wiki/Baku_City_Circuit" title="Baku City Circuit">Baku</a></li>
+<li><a href="/wiki/Circuit_de_Barcelona-Catalunya" title="Circuit de Barcelona-Catalunya">Barcelona</a></li>
+<li><a href="/wiki/Hockenheimring" title="Hockenheimring">Hockenheim</a></li>
+<li><a href="/wiki/Hungaroring" title="Hungaroring">Hungaroring</a></li>
+<li><a href="/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace" title="Autódromo José Carlos Pace">Interlagos</a></li>
+<li><a href="/wiki/Marina_Bay_Street_Circuit" title="Marina Bay Street Circuit">Marina Bay</a></li>
+<li><a href="/wiki/Melbourne_Grand_Prix_Circuit" title="Melbourne Grand Prix Circuit">Melbourne</a></li>
+<li><a href="/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez" title="Autódromo Hermanos Rodríguez">Mexico City</a></li>
+<li><a href="/wiki/Circuit_de_Monaco" title="Circuit de Monaco">Monte Carlo</a></li>
+<li><a href="/wiki/Circuit_Gilles_Villeneuve" title="Circuit Gilles Villeneuve">Montreal</a></li>
+<li><a href="/wiki/Autodromo_Nazionale_Monza" title="Autodromo Nazionale Monza">Monza</a></li>
+<li><a href="/wiki/Sepang_International_Circuit" title="Sepang International Circuit">Sepang</a></li>
+<li><a href="/wiki/Shanghai_International_Circuit" title="Shanghai International Circuit">Shanghai</a></li>
+<li><a href="/wiki/Silverstone_Circuit" title="Silverstone Circuit">Silverstone</a></li>
+<li><a href="/wiki/Sochi_Autodrom" title="Sochi Autodrom">Sochi</a></li>
+<li><a href="/wiki/Circuit_de_Spa-Francorchamps" title="Circuit de Spa-Francorchamps">Spa-Francorchamps</a></li>
+<li><a href="/wiki/Red_Bull_Ring" title="Red Bull Ring">Spielberg</a></li>
+<li><a href="/wiki/Suzuka_Circuit" title="Suzuka Circuit">Suzuka</a></li>
+<li><a href="/wiki/Yas_Marina_Circuit" title="Yas Marina Circuit">Yas Marina</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Future</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Port_Imperial_Street_Circuit" title="Port Imperial Street Circuit">Port Imperial</a> (proposed, TBA)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Former</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adelaide_Street_Circuit" title="Adelaide Street Circuit">Adelaide</a></li>
+<li><a href="/wiki/Okayama_International_Circuit" title="Okayama International Circuit">Aida</a></li>
+<li><a href="/wiki/Ain-Diab_Circuit" title="Ain-Diab Circuit">Ain-Diab</a></li>
+<li><strong class="selflink">Aintree</strong></li>
+<li><a href="/wiki/Anderstorp_Raceway" title="Anderstorp Raceway">Anderstorp</a></li>
+<li><a href="/wiki/AVUS" title="AVUS">AVUS</a></li>
+<li><a href="/wiki/Brands_Hatch" title="Brands Hatch">Brands Hatch</a></li>
+<li><a href="/wiki/Circuit_Bremgarten" title="Circuit Bremgarten">Bremgarten</a></li>
+<li><a href="/wiki/Buddh_International_Circuit" title="Buddh International Circuit">Buddh</a></li>
+<li><a href="/wiki/Aut%C3%B3dromo_Juan_y_Oscar_G%C3%A1lvez" title="Autódromo Juan y Oscar Gálvez">Buenos Aires</a></li>
+<li><a href="/wiki/Caesars_Palace_Grand_Prix" title="Caesars Palace Grand Prix">Caesars Palace</a></li>
+<li><a class="mw-redirect" href="/wiki/Charade_Circuit" title="Charade Circuit">Clermont-Ferrand</a></li>
+<li><a href="/wiki/Fair_Park" title="Fair Park">Dallas</a></li>
+<li><a href="/wiki/Detroit_street_circuit" title="Detroit street circuit">Detroit</a></li>
+<li><a href="/wiki/Dijon-Prenois" title="Dijon-Prenois">Dijon</a></li>
+<li><a href="/wiki/Donington_Park" title="Donington Park">Donington Park</a></li>
+<li><a href="/wiki/Prince_George_Circuit" title="Prince George Circuit">East London</a></li>
+<li><a class="mw-redirect" href="/wiki/Aut%C3%B3dromo_do_Estoril" title="Autódromo do Estoril">Estoril</a></li>
+<li><a href="/wiki/Fuji_Speedway" title="Fuji Speedway">Fuji</a></li>
+<li><a href="/wiki/Autodromo_Enzo_e_Dino_Ferrari" title="Autodromo Enzo e Dino Ferrari">Imola</a></li>
+<li><a href="/wiki/Indianapolis_Motor_Speedway" title="Indianapolis Motor Speedway">Indianapolis</a></li>
+<li><a href="/wiki/Intercity_Istanbul_Park" title="Intercity Istanbul Park">Istanbul</a></li>
+<li><a href="/wiki/Aut%C3%B3dromo_Internacional_Nelson_Piquet" title="Autódromo Internacional Nelson Piquet">Jacarepaguá</a></li>
+<li><a href="/wiki/Circuito_del_Jarama" title="Circuito del Jarama">Jarama</a></li>
+<li><a href="/wiki/Circuito_de_Jerez" title="Circuito de Jerez">Jerez</a></li>
+<li><a href="/wiki/Kyalami" title="Kyalami">Kyalami</a></li>
+<li><a href="/wiki/Circuit_de_la_Sarthe" title="Circuit de la Sarthe">Le Mans</a></li>
+<li><a href="/wiki/Grand_Prix_of_Long_Beach" title="Grand Prix of Long Beach">Long Beach</a></li>
+<li><a href="/wiki/Circuit_de_Nevers_Magny-Cours" title="Circuit de Nevers Magny-Cours">Magny-Cours</a></li>
+<li><a href="/wiki/Circuito_de_Monsanto" title="Circuito de Monsanto">Monsanto</a></li>
+<li><a href="/wiki/Montju%C3%AFc_circuit" title="Montjuïc circuit">Montjuïc</a></li>
+<li><a href="/wiki/Circuit_Mont-Tremblant" title="Circuit Mont-Tremblant">Mont-Tremblant</a></li>
+<li><a href="/wiki/Canadian_Tire_Motorsport_Park" title="Canadian Tire Motorsport Park">Mosport Park</a></li>
+<li><a href="/wiki/Nivelles-Baulers" title="Nivelles-Baulers">Nivelles-Baulers</a></li>
+<li><a href="/wiki/N%C3%BCrburgring" title="Nürburgring">Nürburgring</a></li>
+<li><a href="/wiki/Circuito_da_Boavista" title="Circuito da Boavista">Oporto</a></li>
+<li><a href="/wiki/Circuit_Paul_Ricard" title="Circuit Paul Ricard">Paul Ricard</a></li>
+<li><a href="/wiki/Pedralbes_Circuit" title="Pedralbes Circuit">Pedralbes</a></li>
+<li><a href="/wiki/Pescara_Circuit" title="Pescara Circuit">Pescara</a></li>
+<li><a href="/wiki/Phoenix_street_circuit" title="Phoenix street circuit">Phoenix</a></li>
+<li><a href="/wiki/Reims-Gueux" title="Reims-Gueux">Reims</a></li>
+<li><a href="/wiki/Riverside_International_Raceway" title="Riverside International Raceway">Riverside</a></li>
+<li><a href="/wiki/Rouen-Les-Essarts" title="Rouen-Les-Essarts">Rouen</a></li>
+<li><a href="/wiki/Sebring_International_Raceway" title="Sebring International Raceway">Sebring</a></li>
+<li><a href="/wiki/Valencia_Street_Circuit" title="Valencia Street Circuit">Valencia</a></li>
+<li><a href="/wiki/Watkins_Glen_International" title="Watkins Glen International">Watkins Glen</a></li>
+<li><a href="/wiki/Korea_International_Circuit" title="Korea International Circuit">Yeongam</a></li>
+<li><a href="/wiki/Circuit_Park_Zandvoort" title="Circuit Park Zandvoort">Zandvoort</a></li>
+<li><a href="/wiki/Zeltweg_Air_Base" title="Zeltweg Air Base">Zeltweg</a></li>
+<li><a href="/wiki/Circuit_Zolder" title="Circuit Zolder">Zolder</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Circuits_of_the_British_Touring_Car_Championship" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:BTCC_Circuits" title="Template:BTCC Circuits"><abbr style=";;background:none transparent;border:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a class="new" href="/w/index.php?title=Template_talk:BTCC_Circuits&amp;action=edit&amp;redlink=1" title="Template talk:BTCC Circuits (page does not exist)"><abbr style=";;background:none transparent;border:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:BTCC_Circuits&amp;action=edit"><abbr style=";;background:none transparent;border:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Circuits_of_the_British_Touring_Car_Championship" style="font-size:114%">Circuits of the <a href="/wiki/British_Touring_Car_Championship" title="British Touring Car Championship">British Touring Car Championship</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Current circuits<br/>
+(<a class="mw-redirect" href="/wiki/2015_British_Touring_Car_Championship_season" title="2015 British Touring Car Championship season">2015 season</a>)</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brands_Hatch" title="Brands Hatch">Brands Hatch</a></li>
+<li><a href="/wiki/Donington_Park" title="Donington Park">Donington Park</a></li>
+<li><a href="/wiki/Thruxton_Circuit" title="Thruxton Circuit">Thruxton</a></li>
+<li><a href="/wiki/Oulton_Park" title="Oulton Park">Oulton Park</a></li>
+<li><a href="/wiki/Croft_Circuit" title="Croft Circuit">Croft</a></li>
+<li><a href="/wiki/Snetterton_Circuit" title="Snetterton Circuit">Snetterton</a></li>
+<li><a href="/wiki/Knockhill_Racing_Circuit" title="Knockhill Racing Circuit">Knockhill</a></li>
+<li><a href="/wiki/Rockingham_Motor_Speedway" title="Rockingham Motor Speedway">Rockingham</a></li>
+<li><a href="/wiki/Silverstone_Circuit" title="Silverstone Circuit">Silverstone</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Former circuits</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mondello_Park" title="Mondello Park">Mondello Park</a></li>
+<li><a href="/wiki/Pembrey_Circuit" title="Pembrey Circuit">Pembrey Circuit</a></li>
+<li><a href="/wiki/Birmingham_Superprix" title="Birmingham Superprix">Birmingham</a></li>
+<li><strong class="selflink">Aintree</strong></li>
+<li><a class="mw-redirect" href="/wiki/Crystal_Palace_(circuit)" title="Crystal Palace (circuit)">Crystal Palace</a></li>
+<li><a href="/wiki/Goodwood_Circuit" title="Goodwood Circuit">Goodwood</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:20880501-0!*!0!*!*!4!* and timestamp 20161024192557 and revision id 746002509
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Aintree_Motor_Racing_Circuit&amp;oldid=746002509">https://en.wikipedia.org/w/index.php?title=Aintree_Motor_Racing_Circuit&amp;oldid=746002509</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:British_Grand_Prix" title="Category:British Grand Prix">British Grand Prix</a></li><li><a href="/wiki/Category:Formula_One_circuits" title="Category:Formula One circuits">Formula One circuits</a></li><li><a href="/wiki/Category:Motorsport_venues_in_England" title="Category:Motorsport venues in England">Motorsport venues in England</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

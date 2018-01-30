@@ -1,0 +1,225 @@
+thermalinsulation
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Steinwolle_1600dpi_roxul_rxl80.jpg"><img alt="" class="thumbimage" data-file-height="3159" data-file-width="5904" height="118" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Steinwolle_1600dpi_roxul_rxl80.jpg/220px-Steinwolle_1600dpi_roxul_rxl80.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Steinwolle_1600dpi_roxul_rxl80.jpg/330px-Steinwolle_1600dpi_roxul_rxl80.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Steinwolle_1600dpi_roxul_rxl80.jpg/440px-Steinwolle_1600dpi_roxul_rxl80.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Steinwolle_1600dpi_roxul_rxl80.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Mineral_wool" title="Mineral wool">Mineral wool</a> Insulation, 1600 dpi scan</div>
+</div>
+</div>
+<p><b>Thermal insulation</b> is the reduction of <a href="/wiki/Heat_transfer" title="Heat transfer">heat transfer</a> (the transfer of <a href="/wiki/Thermal_energy" title="Thermal energy">thermal energy</a> between objects of differing temperature) between objects in thermal contact or in range of radiative influence. Thermal insulation can be achieved with specially engineered methods or processes, as well as with suitable object shapes and materials.</p>
+<p>Heat flow is an inevitable consequence of contact between objects of differing <a href="/wiki/Temperature" title="Temperature">temperature</a>. Thermal insulation provides a region of insulation in which <a href="/wiki/Thermal_conduction" title="Thermal conduction">thermal conduction</a> is reduced or <a href="/wiki/Thermal_radiation" title="Thermal radiation">thermal radiation</a> is reflected rather than absorbed by the lower-temperature body.</p>
+<p>The insulating capability of a material is measured with <a href="/wiki/Thermal_conductivity" title="Thermal conductivity">thermal conductivity (k)</a>. Low thermal conductivity is equivalent to high insulating capability (<a href="/wiki/R-value_(insulation)" title="R-value (insulation)">R-value</a>). In <a href="/wiki/Thermal_engineering" title="Thermal engineering">thermal engineering</a>, other important properties of insulating materials are product <a href="/wiki/Density" title="Density">density (ρ)</a> and <a href="/wiki/Heat_capacity" title="Heat capacity">specific heat capacity (c)</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Insulation"><span class="tocnumber">1.1</span> <span class="toctext">Insulation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Applications"><span class="tocnumber">2</span> <span class="toctext">Applications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Clothing_and_natural_animal_insulation_in_birds_and_mammals"><span class="tocnumber">2.1</span> <span class="toctext">Clothing and natural animal insulation in birds and mammals</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Buildings"><span class="tocnumber">2.2</span> <span class="toctext">Buildings</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Mechanical_systems"><span class="tocnumber">2.3</span> <span class="toctext">Mechanical systems</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Spacecraft"><span class="tocnumber">2.4</span> <span class="toctext">Spacecraft</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Automotive"><span class="tocnumber">2.5</span> <span class="toctext">Automotive</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Factors_influencing_performance"><span class="tocnumber">3</span> <span class="toctext">Factors influencing performance</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Calculating_requirements"><span class="tocnumber">4</span> <span class="toctext">Calculating requirements</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_insulation&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Insulation">Insulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_insulation&amp;action=edit&amp;section=2" title="Edit section: Insulation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Plasma_sprayed_ceramic_coating_applied_onto_a_part_of_an_automotive_exhaust_system_copy.jpg"><img alt="" class="thumbimage" data-file-height="175" data-file-width="275" height="140" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Plasma_sprayed_ceramic_coating_applied_onto_a_part_of_an_automotive_exhaust_system_copy.jpg/220px-Plasma_sprayed_ceramic_coating_applied_onto_a_part_of_an_automotive_exhaust_system_copy.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/b/bc/Plasma_sprayed_ceramic_coating_applied_onto_a_part_of_an_automotive_exhaust_system_copy.jpg 1.5x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Plasma_sprayed_ceramic_coating_applied_onto_a_part_of_an_automotive_exhaust_system_copy.jpg" title="Enlarge"></a></div>
+Car exhausts usually require some form of heat barrier, especially high performance exhausts where a ceramic coating is often applied</div>
+</div>
+</div>
+<p>Solid materials chosen for insulation have a low thermal conductivity <i>k</i>, measured in <a href="/wiki/Watt" title="Watt">watts</a>-per-meter per <a href="/wiki/Kelvin" title="Kelvin">kelvin</a> (W·m<sup>−1</sup>·K<sup>−1</sup>). As the thickness of insulation is increased, the thermal resistance—or <a href="/wiki/R-value_(insulation)" title="R-value (insulation)">R-value</a>—also increases.</p>
+<p>For insulated cylinders, there is a complication - a <i>critical radius</i> beyond which extra insulation paradoxically increases heat transfer. The convective thermal resistance is inversely proportional to the surface area and therefore the radius of the cylinder, while the <a href="/wiki/Thermal_conduction#Cylindrical_shells" title="Thermal conduction">thermal resistance of a cylindrical shell</a> (the insulation layer) depends on the ratio between outside and inside radius, not on the radius itself. If the outside radius of a cylinder is doubled by applying insulation, a fixed amount of conductive resistance (equal to ln(2)/(2πkL)) is added. However, at the same time, the convective resistance has been halved. Because convective resistance tends to infinity when the radius approaches zero, at small enough radiuses the decrease in convective resistance will be larger than the added conductive resistance, resulting in lower total resistance.<br/>
+This implies that adding insulation actually increases the heat transfer, until a <b>critical radius</b> is reached, at which point the heat transfer is at maximum. Above this critical radius, added insulation decreases the heat transfer. For insulated cylinders, the critical radius is given by the equation <sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<dl>
+<dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+<mi>r</mi>
+<mi>i</mi>
+<mi>t</mi>
+<mi>i</mi>
+<mi>c</mi>
+<mi>a</mi>
+<mi>l</mi>
+</mrow>
+</msub>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>k</mi>
+<mi>h</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {r_{critical}}={k \over h}}</annotation>
+</semantics>
+</math></span><img alt="{r_{critical}}={k \over h}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b2021bba091f159c02ed9a0450d4163450630f0f" style="vertical-align: -2.005ex; width:11.899ex; height:5.509ex;"/></span></dd>
+</dl>
+<p>This equation shows that the critical radius depends only on the heat transfer coefficient and the thermal conductivity of the insulation. If the radius of the uninsulated cylinder is larger than the critical radius for insulation, the addition of any amount of insulation will decrease heat transfer.</p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_insulation&amp;action=edit&amp;section=3" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Clothing_and_natural_animal_insulation_in_birds_and_mammals">Clothing and natural animal insulation in birds and mammals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_insulation&amp;action=edit&amp;section=4" title="Edit section: Clothing and natural animal insulation in birds and mammals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Gases possess poor <a href="/wiki/Thermal_conduction" title="Thermal conduction">thermal conduction</a> properties compared to liquids and solids, and thus makes a good insulation material if they can be trapped. In order to further augment the effectiveness of a gas (such as air) it may be disrupted into small cells which cannot effectively transfer heat by <a href="/wiki/Natural_convection" title="Natural convection">natural convection</a>. Convection involves a larger bulk flow of gas driven by buoyancy and temperature differences, and it does not work well in small cells where there is little density difference to drive it.</p>
+<p>In order to accomplish gas cell formation in man-made <strong class="selflink">thermal insulation</strong>, glass and polymer materials can be used to trap air in a foam-like structure. This principle is used industrially in building and piping insulation such as (<a href="/wiki/Glass_wool" title="Glass wool">glass wool</a>), <a href="/wiki/Cellulose" title="Cellulose">cellulose</a>, <a class="mw-redirect" href="/wiki/Rock_wool" title="Rock wool">rock wool</a>, <a href="/wiki/Polystyrene" title="Polystyrene">polystyrene</a> foam (styrofoam), <a href="/wiki/Polyurethane" title="Polyurethane">urethane foam</a>, <a href="/wiki/Vermiculite" title="Vermiculite">vermiculite</a>, <a href="/wiki/Perlite" title="Perlite">perlite</a>, and <a href="/wiki/Cork_(material)" title="Cork (material)">cork</a>. Trapping air is also the principle in all highly insulating clothing materials such as wool, down feathers and fleece.</p>
+<p>The air-trapping property is also the insulation principle employed by <a class="mw-redirect" href="/wiki/Homeothermic" title="Homeothermic">homeothermic</a> animals to stay warm, for example <a href="/wiki/Down_feather" title="Down feather">down feathers</a>, and insulating hair such as natural sheep's <a href="/wiki/Wool" title="Wool">wool</a>. In both cases the primary insulating material is air, and the polymer used for trapping the air is natural <a href="/wiki/Keratin" title="Keratin">keratin</a> protein.</p>
+<h3><span class="mw-headline" id="Buildings">Buildings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_insulation&amp;action=edit&amp;section=5" title="Edit section: Buildings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Building_insulation" title="Building insulation">Building insulation</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Hallway_insulation.jpg"><img alt="" class="thumbimage" data-file-height="3440" data-file-width="4718" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hallway_insulation.jpg/220px-Hallway_insulation.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hallway_insulation.jpg/330px-Hallway_insulation.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hallway_insulation.jpg/440px-Hallway_insulation.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Hallway_insulation.jpg" title="Enlarge"></a></div>
+Common insulation applications in <a href="/wiki/Apartment" title="Apartment">apartment</a> <a href="/wiki/Building" title="Building">building</a> in <a href="/wiki/Ontario" title="Ontario">Ontario</a>, <a href="/wiki/Canada" title="Canada">Canada</a>.</div>
+</div>
+</div>
+<p>Maintaining acceptable temperatures in buildings (by heating and cooling) uses a large proportion of global energy consumption. Building insulations also commonly use the principle of small trapped air-cells as explained above, e.g. fiberglass (specifically <a href="/wiki/Glass_wool" title="Glass wool">glass wool</a>), <a href="/wiki/Cellulose" title="Cellulose">cellulose</a>, <a class="mw-redirect" href="/wiki/Rock_wool" title="Rock wool">rock wool</a>, <a href="/wiki/Polystyrene" title="Polystyrene">polystyrene</a> foam, <a href="/wiki/Polyurethane" title="Polyurethane">urethane foam</a>, <a href="/wiki/Vermiculite" title="Vermiculite">vermiculite</a>, <a href="/wiki/Perlite" title="Perlite">perlite</a>, <a href="/wiki/Cork_(material)" title="Cork (material)">cork</a>, etc. For a period of time, <a href="/wiki/Asbestos" title="Asbestos">Asbestos</a> was also used, however, it caused health problems.</p>
+<p>When well insulated, a <a href="/wiki/Building" title="Building">building</a>:</p>
+<ul>
+<li>is energy-efficient, thus saving the owner money.</li>
+<li>provides more uniform temperatures throughout the space. There is less temperature gradient both vertically (between ankle height and head height) and horizontally from exterior walls, ceilings and windows to the interior walls, thus producing a more comfortable occupant environment when outside temperatures are extremely cold or hot.</li>
+<li>has minimal recurring expense. Unlike heating and cooling equipment, insulation is permanent and does not require maintenance, upkeep, or adjustment.</li>
+<li>lowers the carbon footprint of a building.</li>
+</ul>
+<p>Many forms of thermal insulation also reduce <a class="mw-redirect" href="/wiki/Acoustic_insulation" title="Acoustic insulation">noise</a> and vibration, both coming from the outside and from other rooms inside a building, thus producing a more comfortable environment.</p>
+<p><a href="/wiki/Window_insulation_film" title="Window insulation film">Window insulation film</a> can be applied in <a href="/wiki/Weatherization" title="Weatherization">weatherization</a> applications to reduce incoming thermal radiation in summer and loss in winter.</p>
+<p>In industry, energy has to be expended to raise, lower, or maintain the temperature of objects or process fluids. If these are not insulated, this increases the energy requirements of a process, and therefore the cost and environmental impact.</p>
+<h3><span class="mw-headline" id="Mechanical_systems">Mechanical systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_insulation&amp;action=edit&amp;section=6" title="Edit section: Mechanical systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Pipe_insulation" title="Pipe insulation">Pipe insulation</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Coloured_ceramic_thermal_barrier_coating_on_exhaust_component.jpg"><img alt="" class="thumbimage" data-file-height="293" data-file-width="450" height="143" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Coloured_ceramic_thermal_barrier_coating_on_exhaust_component.jpg/220px-Coloured_ceramic_thermal_barrier_coating_on_exhaust_component.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Coloured_ceramic_thermal_barrier_coating_on_exhaust_component.jpg/330px-Coloured_ceramic_thermal_barrier_coating_on_exhaust_component.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Coloured_ceramic_thermal_barrier_coating_on_exhaust_component.jpg/440px-Coloured_ceramic_thermal_barrier_coating_on_exhaust_component.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Coloured_ceramic_thermal_barrier_coating_on_exhaust_component.jpg" title="Enlarge"></a></div>
+Thermal insulation applied to exhaust component by means of plasma spraying</div>
+</div>
+</div>
+<p>Space heating and cooling systems distribute heat throughout buildings by means of pipe or ductwork. Insulating these pipes using pipe insulation reduces energy into unoccupied rooms and prevents <a href="/wiki/Condensation" title="Condensation">condensation</a> from occurring on cold and chilled pipework.</p>
+<p>Pipe insulation is also used on water supply pipework to help delay pipe freezing for an acceptable length of time.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<h3><span class="mw-headline" id="Spacecraft">Spacecraft</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_insulation&amp;action=edit&amp;section=7" title="Edit section: Spacecraft">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Huygens_thermal_multilayer_insulation.jpg"><img alt="" class="thumbimage" data-file-height="1518" data-file-width="2245" height="149" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Huygens_thermal_multilayer_insulation.jpg/220px-Huygens_thermal_multilayer_insulation.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Huygens_thermal_multilayer_insulation.jpg/330px-Huygens_thermal_multilayer_insulation.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Huygens_thermal_multilayer_insulation.jpg/440px-Huygens_thermal_multilayer_insulation.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Huygens_thermal_multilayer_insulation.jpg" title="Enlarge"></a></div>
+Thermal insulation on the <a class="mw-redirect" href="/wiki/Huygens_probe" title="Huygens probe">Huygens probe</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Aircraft_cabin_insulation_in_a_B747-8.jpg"><img alt="" class="thumbimage" data-file-height="2432" data-file-width="3648" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Aircraft_cabin_insulation_in_a_B747-8.jpg/220px-Aircraft_cabin_insulation_in_a_B747-8.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Aircraft_cabin_insulation_in_a_B747-8.jpg/330px-Aircraft_cabin_insulation_in_a_B747-8.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Aircraft_cabin_insulation_in_a_B747-8.jpg/440px-Aircraft_cabin_insulation_in_a_B747-8.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Aircraft_cabin_insulation_in_a_B747-8.jpg" title="Enlarge"></a></div>
+Cabin insulation of a <a href="/wiki/Boeing_747-8" title="Boeing 747-8">Boeing 747-8</a> airliner</div>
+</div>
+</div>
+<p>Launch and re-entry place severe mechanical stresses on spacecraft, so the strength of an insulator is critically important (as seen by the failure of insulating foam on the <a href="/wiki/Space_Shuttle_Columbia" title="Space Shuttle Columbia">Space Shuttle Columbia</a>). Re-entry through the atmosphere generates very high temperatures due to compression of the air at high speeds. Insulators must meet demanding physical properties beyond their thermal transfer retardant properties. E.g. reinforced <a href="/wiki/Carbon" title="Carbon">carbon</a>-carbon composite nose cone and <a href="/wiki/Silicon_dioxide" title="Silicon dioxide">silica</a> fiber tiles of the <a href="/wiki/Space_Shuttle" title="Space Shuttle">Space Shuttle</a>. See also <a href="/wiki/Insulative_paint" title="Insulative paint">Insulative paint</a>.</p>
+<h3><span class="mw-headline" id="Automotive">Automotive</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_insulation&amp;action=edit&amp;section=8" title="Edit section: Automotive">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote" role="note">Main article: <a class="mw-redirect" href="/wiki/Exhaust_Heat_Management" title="Exhaust Heat Management">Exhaust Heat Management</a></div>
+<p><a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">Internal combustion engines</a> produce a lot of heat during their combustion cycle. This can have a negative effect when it reaches various heat-sensitive components such as sensors, batteries and starter motors. As a result, thermal insulation is necessary to prevent the heat from the exhaust reaching these components.</p>
+<p>High performance cars often use thermal insulation as a means to increase engine performance.</p>
+<h2><span class="mw-headline" id="Factors_influencing_performance">Factors influencing performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_insulation&amp;action=edit&amp;section=9" title="Edit section: Factors influencing performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Insulation performance is influenced by many factors the most prominent of which include:</p>
+<ul>
+<li><a href="/wiki/Thermal_conductivity" title="Thermal conductivity">Thermal conductivity</a> ("k" or "λ" value)</li>
+<li>Surface <a href="/wiki/Emissivity" title="Emissivity">emissivity</a> ("ε" value)</li>
+<li>Insulation thickness</li>
+<li><a href="/wiki/Density" title="Density">Density</a></li>
+<li><a class="mw-redirect" href="/wiki/Specific_heat_capacity" title="Specific heat capacity">Specific heat capacity</a></li>
+<li><a class="mw-redirect" href="/wiki/Thermal_bridging" title="Thermal bridging">Thermal bridging</a></li>
+</ul>
+<p>It is important to note that the factors influencing performance may vary over time as material ages or environmental conditions change.</p>
+<h2><span class="mw-headline" id="Calculating_requirements">Calculating requirements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_insulation&amp;action=edit&amp;section=10" title="Edit section: Calculating requirements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Industry standards are often rules of thumb, developed over many years, that offset many conflicting goals: what people will pay for, manufacturing cost, local climate, traditional building practices, and varying standards of comfort. Both heat transfer and layer analysis may be performed in large industrial applications, but in household situations (appliances and building insulation), air tightness is the key in reducing heat transfer due to air leakage (forced or natural convection). Once air tightness is achieved, it has often been sufficient to choose the thickness of the insulating layer based on rules of thumb. Diminishing returns are achieved with each successive doubling of the insulating layer. It can be shown that for some systems, there is a minimum insulation thickness required for an improvement to be realized.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_insulation&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Thermal_mass" title="Thermal mass">Thermal mass</a></li>
+<li><a href="/wiki/List_of_thermal_conductivities" title="List of thermal conductivities">List of thermal conductivities</a></li>
+<li><a href="/wiki/Insulative_paint" title="Insulative paint">Insulative paint</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_insulation&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Bergman, Lavine, Incropera and DeWitt, <i>Introduction to Heat Transfer</i> (sixth edition), Wiley, 2011.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.firoflex.co.uk/KnowHow/FAQ-PipeFreezing.html" rel="nofollow">http://www.firoflex.co.uk/KnowHow/FAQ-PipeFreezing.html</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Frank P. Incropera; David P. De Witt (1990). <i>Fundamentals of Heat and Mass Transfer</i> (3rd ed.). <a href="/wiki/John_Wiley_%26_Sons" title="John Wiley &amp; Sons">John Wiley &amp; Sons</a>. pp. 100–103. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-471-51729-1" title="Special:BookSources/0-471-51729-1">0-471-51729-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+insulation&amp;rft.au=David+P.+De+Witt&amp;rft.au=Frank+P.+Incropera&amp;rft.btitle=Fundamentals+of+Heat+and+Mass+Transfer&amp;rft.date=1990&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft.isbn=0-471-51729-1&amp;rft.pages=100-103&amp;rft.pub=John+Wiley+%26+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<div class="refbegin" style="">
+<ul>
+<li>U.S. Environmental Protection Agency and the U.S. Department of Energy's Office of Building Technologies.</li>
+<li>Loose-Fill Insulations, DOE/GO-10095-060, FS 140, Energy Efficiency and Renewable Energy Clearinghouse (EREC), May 1995.</li>
+<li>Insulation Fact Sheet, U.S. Department of Energy, update to be published 1996. Also available from EREC.</li>
+<li>Lowe, Allen. "Insulation Update," The Southface Journal, 1995, No. 3. Southface Energy Institute, Atlanta, GA.</li>
+<li>ICAA Directory of Professional Insulation Contractors, 1996, and A Plan to Stop Fluffing and Cheating of Loose-Fill Insulation in Attics, Insulation Contractors Association of America, 1321 Duke St., #303, Alexandria, VA 22314, (703)739-0356.</li>
+<li>US DOE Consumer Energy Information.</li>
+<li>Insulation Information for Nebraska Homeowners, NF 91-40.</li>
+<li>Article in Daily Freeman, Thursday, 8 September 2005, Kingston, NY.</li>
+<li>TM 5-852-6 AFR 88-19, Volume 6 (Army Corp of Engineers publication).</li>
+<li>CenterPoint Energy Customer Relations.</li>
+<li><a class="external text" href="http://www.energycodes.gov/implement/pdfs/lib_ks_residential_insulation.pdf" rel="nofollow">US DOE publication, Residential Insulation</a></li>
+<li><a class="external text" href="http://www.energycodes.gov/implement/pdfs/lib_ks_energy-efficient_windows.pdf" rel="nofollow">US DOE publication, Energy Efficient Windows</a></li>
+<li><a class="external text" href="http://www.energystar.gov/ia/home_improvement/home_sealing/DIY_COLOR_100_dpi.pdf" rel="nofollow">US EPA publication on home sealing</a></li>
+<li><a class="external text" href="http://www.ornl.gov/sci/roofs+walls/insulation/ins_02.html" rel="nofollow">DOE/CE 2002</a></li>
+<li>Alaska Science Forum, May 7, 1981, Rigid Insulation, Article #484, by T. Neil Davis, provided as a public service by the Geophysical Institute, University of Alaska Fairbanks, in cooperation with the UAF research community.</li>
+<li>Guide raisonné de la construction écologique (Guide to products /fabricants of green building materials mainly in France but also surrounding countries), <a class="external text" href="http://www.batirsain.org" rel="nofollow">Batir-Sain</a> 2008-9</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_insulation&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a class="image" href="/wiki/File:Commons-logo.svg"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Thermal_insulation" title="commons:Category:Thermal insulation">Thermal insulation</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.insul.net/howto.php" rel="nofollow">Thermal Performance: Understanding how reflective insulation works</a></li>
+</ul>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="http://d-nb.info/gnd/4064200-8" rel="nofollow">4064200-8</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="http://id.ndl.go.jp/auth/ndlna/00561253" rel="nofollow">00561253</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:67043-0!*!0!!en!4!*!math=5 and timestamp 20161106201317 and revision id 748175638
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Thermal_insulation&amp;oldid=748175638">https://en.wikipedia.org/w/index.php?title=Thermal_insulation&amp;oldid=748175638</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Heat_transfer" title="Category:Heat transfer">Heat transfer</a></li><li><a href="/wiki/Category:Thermal_protection" title="Category:Thermal protection">Thermal protection</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

@@ -1,0 +1,94 @@
+oxyhydrogen
+from wikipedia  the free encyclopedia
+jump to 					 
+ knallgas  redirects here  for bacteria which oxidize hydrogen  see  
+nineteenth-century
+for producing oxyhydrogen 
+oxyhydrogen is a mixture of
+ h2  and
+ o2  gases  this gaseous mixture is used for torches to process
+materials and was the first gaseous mixture used for   theoretically  a ratio of 2 1 hydrogen oxygen is enough to achieve maximum efficiency  in practice a ratio 4 1 or 5 1 is needed to avoid an  
+this mixture may also be referred to as knallgas  scandinavian and german    bang-gas    although some authors define knallgas to be a generic term for the mixture of fuel with the precise amount of oxygen required for complete combustion  thus 2 1 oxyhydrogen would be called  hydrogen-knallgas  
+brown s gas and hho are
+terms for a 2 1 mixture of oxyhydrogen obtained under certain special conditions  its proponents claim that it has special properties 
+contents
+properties  
+oxyhydrogen will
+when brought to its   for the
+mixture  2 1 hydrogen oxygen  at normal   autoignition occurs at about 570c  1065f     the minimum energy required to ignite such a mixture with a spark is about 20     at   oxyhydrogen can burn when it is between about 4  and 95  hydrogen by volume   
+when ignited  the gas mixture converts to
+and   which sustains the reaction  241.8
+of energy    for every
+of 2 burned  the amount of heat energy released is independent of the mode of combustion  but the
+varies  the maximum temperature of about 2,800c  5,100f  is achieved with an exact stoichiometric mixture  about 700c  1,300f  hotter than a hydrogen flame in air  when either of the gases are mixed in excess of this ratio  or when mixed with an
+like nitrogen  the heat must spread throughout a greater quantity of matter and the temperature will be lower 
+production  
+a pure stoichiometric mixture may be obtained by   which uses an
+to dissociate the water molecules 
+electrolysis  2 h2o  2 h2   o2
+combustion  2 h2   o2  2 h2o
+was the first to decompose water in this manner in 1800  in theory  the input energy of a closed system will always equal the output energy  as the
+states  however  in practice no systems are perfectly closed  and the energy required to generate the oxyhydrogen will always exceed the energy released by combusting it  even at maximum practical efficiency  as the
+implies   see   
+applications  
+used an oxyhydrogen flame as a high-temperature heat source
+lighting  
+many forms of oxyhydrogen
+have been described  such as the   which used an oxyhydrogen flame to heat a piece of
+to
+  because of the explosiveness of the oxyhydrogen  limelights have been replaced by  
+oxyhydrogen blowpipe  
+nineteenth-century bellows-operated oxy-hydrogen blowpipe  including two different types of
+the oxy-hydrogen
+was developed by
+and
+in the early nineteenth century  it produced a flame hot enough to melt such
+materials as       and   and was a valuable tool in several fields of science  it is used in the
+to produce synthetic corundum   
+oxyhydrogen torch  
+an oxyhydrogen torch is an   which burns hydrogen  the   with oxygen  the    it is used for cutting and       and  
+due to competition from the acetylene-fueled cutting torch and from arc welding  the oxyhydrogen torch is seldom used today  but it remains the preferred cutting tool in some niche applicationssee  
+oxyhydrogen was once used in working
+because at the time such a torch was the only device that could attain the temperature required to melt the metal 1,768.3c  3,214.9f   these techniques have been superseded by the  
+brown s gas
+  
+ brown s gas  is oxyhydrogen with a 2 1
+of
+and
+gases  the same proportion as in   it is named after yull brown  who claimed that it could be used as a fuel for the internal combustion engine  it s also called  hho gas  after the claims of fringe physicist   who claims that his hho gas  produced by a special apparatus  is  a new form of water   with new properties  based on his
+of    
+many other pseudoscientific claims have been made about brown s gas s pretended ability to neutralize radioactive waste  help plants to germinate  etc 
+oxyhydrogen is often mentioned in conjunction with   the most common and decisive counter-argument against producing this gas on board to use as a fuel or fuel additive is that more energy is needed to split water molecules than is recouped by burning the resulting gas  additionally  the volume of gas that can be produced for on-demand consumption through electrolysis is very small in comparison to the volume consumed by an internal combustion engine 
+an article in
+reported that brown s gas does not increase the  
+ water-fueled  cars should not be confused with   where the hydrogen is produced elsewhere and used as fuel or where it is used  
+references  
+ 1916    oxy-hydrogen welding     american technical society
+viall  ethan  1921     mcgraw-hill  p 10 
+w  dittmar   exercises in quantitative chemical analysis   1887 
+ 
+ september 14  2007    
+news     retrieved 2008-12-08        brown s gas  a modern chemical unicorn to rival
+ in which hydrogen and oxygen are combined in a non-aqueous state called  oxyhydrogen   in the same proportions in which they are found in water  2 1  
+ 
+o connor  ken 
+ pdf   nasa glenn research center glenn safety manual 
+ 
+1911 encyclopedia   oxyhydrogen flame     accessed 2008-01-19  
+calvert  james b   2008-04-21       retrieved 2009-04-23  an air-hydrogen torch flame reaches 2045c  while an oxyhydrogen flame reaches 2660c 
+  the engineering toolbox  retrieved 2009-04-23   oxygen as oxidizer  3473k  air as oxidizer  2483k 
+  retrieved 2008-04-05   hydrogen in air  2,400k  hydrogen in oxygen  3,080 k 
+ 
+tilden  william augustus  1926     adamant media corporation  p 80   
+griffin  john joseph  1827     glasgow  r  griffin   co 
+p  n  rao  2001    24.4 oxyhydrogen welding  
+ 2 ed    tata mcgraw-hill education  pp 373374 
+ 
+ball  philip  2006    nuclear waste gets star attention   news nature      
+weimar  carrie  may 7  2007     st  petersburg times  retrieved 3 february 2011 
+schadewald  robert j   2008   worlds of their own - a brief history of misguided ideas  creationism  flat-earthism  energy scams  and the velikovsky affair  xlibris   
+simpson  bruce  may 2008     aardvark daily  retrieved 12 feb 2012 
+  mike allen  august 7  2008  popularmechanics com
+ 
+retrieved from   
+  hidden categories 

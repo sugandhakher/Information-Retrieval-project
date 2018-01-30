@@ -1,0 +1,119 @@
+energymonitoringandtargeting
+from wikipedia  the free encyclopedia
+jump to 					 
+this article needs additional citations for   please help
+by   unsourced material may be challenged and removed   may 2013    
+energy monitoring and targeting  m t  is an energy efficiency technique based on the standard
+axiom stating that you cannot manage what you cannot measure  m t techniques provide
+with feedback on operating practices  results of energy management projects  and guidance on the level of energy use that is expected in a certain period  importantly  they also give early warning of unexpected excess consumption caused by equipment malfunctions  operator error  unwanted user behaviours  lack of effective maintenance and the like 
+the foundation of m t lies in determining the normal relationships of energy consumptions to relevant driving factors  hvac equipment  production though puts  weather  occupancy available daylight  etc   and the goal is to help business managers 
+identify and explain excessive energy use
+detect instances when consumption is unexpectedly higher or lower than would usually have been the case
+visualize energy consumption trends  daily  weekly  seasonal  operational 
+determine future energy use and costs when planning changes in the business
+diagnose specific areas of wasted energy
+observe how changes to relevant driving factors impact energy efficiency
+develop performance targets for energy management programs
+manage energy consumption  rather than accept it as a fixed cost
+the ultimate goal is to reduce energy costs through improved
+and energy management control  other benefits generally include increased resource efficiency  improved
+budgeting and reduction of
+ ghg  emissions 
+contents
+history  
+m t is an established technique that was first launched as a national program in the
+in 1980  and has since then spread throughout europe  these techniques are now   also rapidly growing in america   
+goals and benefits  
+throughout the numerous m t projects implemented since the 1980s  a certain number of benefits have proved to be recurrent 
+energy cost savings  generally 5  of the original energy expenses  according to   carbon trust has conducted a study over 1000
+and has concluded that on average an organization could save 5  
+reduction in
+emissions  lower energy consumption helps reduce emissions
+financing  measured energy reductions help obtain
+for energy efficiency projects
+improved product and service costing 
+allows the division of the energy bill between the different processes of an   and can be calculated as a
+improved   m t techniques can help forecast energy expenses in the case of changes in the business  for example
+waste avoidance  helps diagnose energy waste in any process 
+technique  
+key principles  
+monitoring and targeting techniques rely on three main principles  which form a constant
+cycle  therefore improving control of energy use 
+monitoring  
+monitoring
+of energy use  in order to establish a basis for energy management and explain
+from an established pattern  its primary goal is to maintain said pattern  by providing all the necessary data on energy consumption  as well as certain   as identified during preliminary investigation    weather  etc  
+reporting  
+the final principle is the one which enables ongoing control of energy use  achievement of targets and verification of savings  reports must be issued to the appropriate managers  this in turn allows
+and actions to be taken in order to achieve the targets  as well as confirmation or denial that the targets have been reached 
+procedures  
+before the m t measures themselves are implemented  a few preparatory steps are necessary  first of all  key energy consumers on the site must be identified  generally  most of the energy consumption is concentrated in a small number of processes  like heating  or certain   this normally requires a certain survey of the
+and the equipment to estimate their energy consumption level 
+it is also necessary to assess what other
+will be required to
+the consumption appropriately  this data will be used to
+against the energy consumption  these are underlying factors which influence the consumption  often
+ for industry processes  or exterior
+ for heating processes   but may include many other variables 
+once all variables to be measured have been established  and the necessary meters installed  it is possible to initiate the m t procedures 
+measure  
+the first step is to compile the data from the different meters  low-cost energy feedback displays have become available  the frequency at which the data is compiled varies according to the desired reporting interval  but can go once every 30 seconds to once every 15 minutes  some measurements can be taken directly from the meters  others must be calculated  these different measurements are often called streams or channels 
+driving factors such as production or
+also constitute streams and must be collected at intervals to match 
+define the base-line  
+the data compiled must then be plotted on a
+in order to define the general consumption base-line  consumption rates are plotted in a
+against
+or any other variable previously identified  and the
+is identified  this graph is the image of the business average energy performance  and conveys a lot of information 
+the
+gives the minimal consumption in the absence of the variable  no   zero       this is the base load of the system  the minimal consumption when it is not operating 
+the
+represents the relationship between the consumption and the previously identified   this represents the efficiency of the process 
+the scatter is the degree of variability of the consumption with operational factors 
+the
+is not used quite as often for m t purposes  however  a high
+can mean that there is a fault in the process  causing it to use too much energy with no performance  unless there are specific distinctive features which lead to high base loads  very scattered points  on the other hand  may reflect other significant factors playing in the variation of the energy consumption  other than the one plotted in the first place  but it can also be the illustration of a lack of control over the process 
+monitor variations  
+the next step is to monitor the difference between the expected consumption and the actual measured consumption  one of the tools most commonly used for this is the   which is the cumulative sum of differences  this consists in first calculating the difference between the expected and actual performances  the
+previously identified and the points themselves  
+the
+can then be plotted against time on a new   which then yields more information for the energy efficiency specialist 
+scattered around zero usually mean that the process is operating normally  marked variations  increasing or decreasing steadily usually reflect a modification in the conditions of the process 
+in the case of the
+graph  the
+becomes very important  as it is the main indicator of the
+achieved  a
+going steadily down indicates steady   any variation in the
+indicates a change in the process  for example  in the graph on the right  the first section indicated no   however  in september  beginning of the yellow line   an energy efficiency measure must have been implemented  as
+start to occur  the green line indicates an increase in the
+ as the
+is becoming steeper   whereas the red line must reflect a modification in the process having occurred in november  as
+have decreased slightly 
+identify causes  
+energy efficiency specialists  in collaboration with building   will decipher the
+graph and identify the causes leading to variations in the consumption  this can be a change in   a modification to the process  different exterior conditions  etc  these changes must be monitored and the causes identified in order to promote and enhance good behaviour  and discourage bad ones 
+set targets  
+once the base line has been established  and causes for variations in energy consumption have been identified  it is time to set targets for the future  now with all this information in hand  the targets are more realistic  as they are based on the buildings actual consumption  targeting consists in two main parts  the measure to which the consumption can be reduced  and the
+during which the compression will be achieved 
+a good initial target is the
+identified during step 2  this line represents the
+historical performance  therefore  keeping all consumption below or equal to the historical average is an achievable target  yet remains a challenge as it involves eliminating high consumption peaks 
+some companies  as they improve their energy consumption  might even decide to bring their
+performance down to their historical best  this is considered a much more challenging target 
+monitor results  
+this brings us back to step 1  measure consumption  one of the specificities of m t is that it is an ongoing process  requiring constant
+in order to consistently improve performance  once the targets are set and the desired measures are implemented  repeating the procedure from the start ensures that the managers are aware of the success or failure of the measures  and can then decide on further action 
+examples  
+an example with some features of an m t application is the   which provides real-time and historic energy use and generation data for facilities of
+on a public web site  many utilities also offer customers electric interval data monitoring services 
+is an example of an investor owned utility that offers its customer electric and natural gas monitoring services under the product name
+which is administered by   a third party partner 
+see also  
+references  
+ pdf   archived from
+ pdf  on december 9  2015 
+labs  wayne  13 may 2013     food engineering magazine  retrieved 16 may 2013 
+  case studies  logic energy  retrieved 16 may 2013 
+retrieved from   
+  hidden categories 

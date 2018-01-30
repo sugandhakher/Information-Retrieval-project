@@ -1,0 +1,116 @@
+buildingintegratedphotovoltaics
+from wikipedia  the free encyclopedia
+ redirected from  
+jump to 					 
+ bapv  redirects here  for the bank  see  
+the
+in  
+was clad in pv panels at a cost of 5.5 million  it started feeding electricity to the
+in november 2005 
+building-integrated photovoltaics  bipv  are
+materials that are used to replace conventional building materials in parts of the
+such as the roof  skylights  or facades  they are increasingly being incorporated into the construction of new buildings as a principal or ancillary source of electrical power  although existing buildings may be retrofitted with similar technology  the advantage of integrated photovoltaics over more common non-integrated systems is that the initial cost can be offset by reducing the amount spent on building materials and labor that would normally be used to construct the part of the building that the bipv modules replace  these advantages make bipv one of the fastest growing segments of the photovoltaic industry   
+the term building-applied photovoltaics  bapv  is sometimes used to refer to photovoltaics that are a retrofit  integrated into the building after construction is complete  most building-integrated installations are actually bapv  some manufacturers and builders differentiate new construction bipv from bapv 
+contents
+history  
+pv applications for buildings began appearing in the 1970s  aluminum-framed photovoltaic modules were connected to  or mounted on  buildings that were usually in remote areas without access to an electric power grid  in the 1980s photovoltaic module add-ons to roofs began being demonstrated  these pv systems were usually installed on utility-grid-connected buildings in areas with centralized power stations  in the 1990s bipv construction products specially designed to be integrated into a building envelope became commercially available  a 1998 doctoral thesis by patrina eiffert  entitled an economic assessment of bipv  hypothesized that one day there would an economic value for trading renewable energy credits  recs   a 2011 economic assessment and brief overview of the history of bipv by the
+suggests that there may be significant technical challenges to overcome before the installed cost of bipv is competitive with photovoltaic panels  however  there is a growing consensus that through their widespread commercialization  bipv systems will become the backbone of the zero energy building  zeb  european target for 2020  despite technical promise  social barriers to widespread use have also been identified  such as the conservative culture of the building industry and integration with high-density urban design  these authors suggest enabling long-term use likely depends on effective public policy decisions as much as the technological development 
+photovoltaic wall near barcelona  spain
+projet bipv    southern france
+pv solar parking canopy  autonomous university of madrid  spain
+forms  
+2009 energy project award winning 525 kilowatt bipv coolply system manufactured by solarframeworks  co  on the patriot place complex adjacent to the gillette stadium in foxborough  ma  system is installed on single-ply roofing membrane on a flat roof using no roof penetrations 
+bapv solar facade on a municipal building located in
+   
+building-integrated photovoltaic modules are available in several forms 
+flat roofs
+the most widely installed to date is an amorphous
+integrated to a flexible
+module which has been attached to the roofing membrane using an adhesive sheet between the solar module backsheet and the roofing membrane   
+modules shaped like multiple roof tiles 
+are modules designed to look and act like regular shingles  while incorporating a flexible thin film cell 
+it extends normal roof life by protecting insulation and membranes from ultraviolet rays and water degradation  it does this by eliminating condensation because the
+is kept above the roofing membrane 
+facades can be installed on existing buildings  giving old buildings a whole new look  these modules are mounted on the facade of the building  over the existing structure  which can increase the appeal of the building and its resale value 
+ semi transparent modules can be used to replace a number of architectural elements commonly made with glass or similar materials  such as windows and skylights 
+what is bipv 
+three main types of bipv products
+crystalline silicon solar panels for ground-based and rooftop power plant
+amorphous crystalline silicon thin film solar pv modules which could be hollow  light  red blue yellow  as glass curtain wall and transparent skylight 
+double glasses solar panels with square cells inside 
+recently  in 2011-2016   australian researchers have been working on developing the new approaches to implementing the unconventional bipv systems and technologies  including solar photovoltaic windows of high visible transparency capable of providing significant energy savings
+due to superior thermal insulation properties and solar radiation control  significant electric energy outputs were obtained from installation-ready framed pv window systems  as documented in
+transparent and translucent photovoltaics  
+solar panels use a
+on the inner surface of the glass panes to conduct current out of the cell  the cell contains titanium oxide that is coated with a
+ 
+most conventional solar cells use visible and
+to generate electricity  in contrast  the innovative new solar cell also uses ultraviolet radiation  used to replace conventional window glass  or placed over the glass  the installation surface area could be large  leading to potential uses that take advantage of the combined functions of power generation  lighting and temperature control   
+another name for transparent photovoltaics is  photovoltaics  they transmit half the light that falls on them   similar to inorganic photovoltaics 
+are also capable of being translucent 
+government subsidies  
+see also 
+in some countries  additional incentives  or subsidies  are offered for building-integrated photovoltaics in addition to the existing feed-in tariffs for stand-alone solar systems  since july 2006 france offered the highest incentive for bipv  equal to an extra premium of eur 0.25 kwh paid in addition to the 30 euro cents for pv systems  these incentives are offered in the form of a rate paid for electricity fed to the grid 
+european union  
+france 0.25 kwh
+germany 0.05 kwh facade bonus expired in 2009
+italy 0.040.09 kwh  
+united kingdom 4.18 p kwh
+spain  compared with a non- building installation that receives 0.28 kwh  rd 1578/2008  
+20kw  0.34 kwh
+ 20kw  0.31 kwh
+usa  
+usa  varies by state  check database of state incentives for renewables   efficiency for more details 
+china  
+further to the announcement of a subsidy program for bipv projects in march 2009 offering rmb20 per watt for bipv systems and rmb15 watt for rooftop systems  the chinese government recently unveiled a photovoltaic energy subsidy program the golden sun demonstration project  the subsidy program aims at supporting the development of photovoltaic electricity generation ventures and the commercialization of pv technology  the ministry of finance  the ministry of science and technology and the national energy bureau have jointly announced the details of the program in july 2009  qualified on-grid photovoltaic electricity generation projects including rooftop  bipv  and ground mounted systems are entitled to receive a subsidy equal to 50  of the total investment of each project  including associated transmission infrastructure  qualified off-grid independent projects in remote areas will be eligible for subsidies of up to 70  of the total investment  in mid november  chinas finance ministry has selected 294 projects totaling 642 megawatts that come to roughly rmb 20 billion   3 billion  in costs for its subsidy plan to dramatically boost the countrys solar energy production 
+other integrated photovoltaics  
+ vipv  are similar for vehicles  solar cells could be embedded into panels exposed to sunlight such as the hood  roof and possibly the trunk depending on a car s design 
+see also  
+  a type of window blind capable of conserving energy for cooling
+further reading  
+agrawal  basant  tiwari  g n  2011  
+check  url  value     cambridge  uk  royal society of chemistry   
+warrick  joby  march 2015     the  
+references  
+strong  steven  june 9  2010     wbdg org  whole building design guide  retrieved 2011-07-26 
+  retrieved 6 august 2012 
+eiffert  patrina  kiss  gregory j   2000     p 59   
+eiffert  patrina  1998   an economic assessment of building integrated photovoltaics  oxford brookes school of architecture 
+james  ted  goodrich  a   woodhouse  m   margolis  r   ong  s   november 2011       nrel tr-6a20-53103 
+  angeliki kylili  paris a  fokaides   indoor and built environment  retrieved 30 october 2014 
+temby o   konstantinos k   berton h   rosenbloom d   gibson g   athienitis a   meadowcroft j  november 2014       environment magazine
+eiffert  patrina  2000  
+ pdf   pp 6061 
+ 2008-11-29     renewable energy focus  science direct  9  6   14  1619    
+vasiliev  m  et al  photonic microstructures for energy-generating clear glass and net-zero energy buildings  sci  rep  6  31831  doi  10.1038 srep31831  2016  
+west  mike  november 1992  
+ pdf   energy efficiency and environmental news  florida energy extension service  florida cooperative extension service  institute of food and agricultural sciences  university of florida  retrieved october 5  2011 
+  eugene standard  2006  retrieved 2008-10-26  30 ct per kilowatt-hour  40 ct for corsica  for twenty years  while an extra premium of 25 ct kwh is received for roof-  wall- or window-integrated pv  moreover  individual households also can receive a 50  tax credit for their pv investments 
+ 
+    2008-06-03  retrieved 2008-10-26  30  55  c kwh en france continentale
+february 3  2008  at the  
+  dsireusa org  2011  retrieved october 5  2011 
+  snec org cn  snec pv  2011  retrieved october 5  2011  china launched its much anticipated golden sun program of incentives for the deployment of 500 mw of large-scale solar pv projects throughout the country on july 21 
+  pvgroup org  pv group  2011  retrieved october 5  2011 
+wang  ucilia  november 16  2009     greentech media  retrieved october 5  2011 
+external links  
+  a european founded project  contract eie 05/171 si2.420208  related to the large-scale implementation of photovoltaics  pv  in european cities 
+concepts
+technology
+materials
+history
+system components
+system concepts
+applications
+appliances
+land transport
+air transport
+water transport
+solar vehicle racing
+individual projects
+building-mounted
+building-integrated photovoltaics
+by country
+individual producers
+retrieved from   
+  hidden categories 

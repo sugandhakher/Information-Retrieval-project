@@ -1,0 +1,289 @@
+renewableenergyinindia
+from wikipedia  the free encyclopedia
+jump to 					 
+renewable energy in india comes under the purview of the
+ mnre   newer renewable electricity sources are targeted to grow massively by 2022  including a more than doubling of india s large wind power capacity and an almost 15 fold increase in solar power from april 2016 levels  such ambitious targets would place india amongst the world leaders in renewable energy use and place india at the centre of its
+project promoting the growth and development of solar power internationally to over 120 countries 
+india was the first country in the world to set up a ministry of
+resources  in early 1980s  as of 30th april 2016 india s cumulative grid interactive or grid tied renewable energy capacity  excluding large hydro  reached about 42.85 gw  surpassing the installed capacity of large scale
+for the first time in indian history  63  of the renewable power came from   while
+contributed nearly 16   large hydro installed capacity was 42.78 gw as of 30 april 2016 and is administered separately by the ministry of power and not included in mnre targets 
+from 2015 onwards the mnre began laying down actionable plans for the renewable energy sector under its ambit to make a quantum jump  building on strong foundations already established in the country 
+mnre renewable electrictricity targets have been upscaled to grow from just under 43 gw in april 2016 to 175 gw by the year 2022  including 100 gw from solar power  60 gw from wind power  10 gw from bio power and 5 gw from small hydro power  the ambitious targets would see india quickly becoming one of the leading green energy producers in the world and surpassing numerous developed countries  the government intends to achieve 40  cumulative electric power capacity from non fossil fuel sources by 2030 
+contents
+renewable energy overview and targets  
+installed grid interactive renewable power capacity in india as of july 31  2016  res mnre 
+wind power  27,441.15 mw  61.3  
+solar power  8,062 mw  18.0  
+biomass power  4,860.83 mw  10.9  
+small hydro power  4,304.27 mw  9.6  
+waste-to-power  115.08 mw  0.3  
+grid connected renewable electricity  
+installed grid interactive renewable power capacity in india as of july 31  2016  res mnre 
+source
+total installed capacity  mw 
+2022 target  mw 
+wind power
+27,441.15
+60,000.00
+solar power
+8,062.00
+100,000.00
+ biomass   gasification and bagasse cogeneration 
+4,860.83
+ 10,000.00
+115.08
+small hydro power
+4,304.27
+5,000.00
+total
+44,783.33
+175,000.00
+  the target is given for  bio-power  which includes biomass power and waste to power generation 
+the figures above refer to newer and fast developing renewable energy sources and are managed by the ministry for new and renewable energy  mnre   in addition as of april 30th 2016 india had 42,783 mw of installed large hydro capacity  which comes under the ambit of ministry of power 
+in terms of renewable energy sources under the responsibility of the ministry of new and renewable energy by april 2016  wind power was the leading source of renewable power with 26.9 gw installed capacity  almost two thirds of the total renewable power installed capacity  next came solar power with 6.8 gw installed capacity and biomass power with 4.8 gw accounting for 15.8  and 11.3  of the total renewable power installed capacity  small hydro power accounted for 4.3 gw and waste-to-power accounted for just over 0.1 gw installed capacity  total installed renewable power capacity in this category was just under 43 gw by april 2016 
+in terms of meeting its ambitious 2022 targets  as of april 30  2016  wind power was almost half way towards its goal  whilst solar power was below 7  of its highly ambitious target  although expansion is expected to be dramatic in the near future  bio energy was also at just under half way towards its target whilst small hydro
+installed grid power capacity all source in india as of april 30  2016
+res mnre  42,849.38 mw  14.1  
+large hydro  42,783.42 mw  14.1  
+coal  185,992.88 mw  61.4  
+gas  24,508.63 mw  8.1  
+diesel  918.89 mw  0.3  
+nuclear  5,780 mw  1.9  
+power was already 85  of the way to meeting its target  overall india was 24.5  towards meeting its final 2022 renewable power installed power capacitiy of 175 gw  the total breakdown of installed grid connected capacity from all sources including large hydro was as follows 
+grid connected installed capacity from all sources as of april 30  2016
+source
+installed capacity  mw 
+42,849.38
+42,783.42
+coal
+185,992.88
+gas
+24,508.63
+diesel
+918.89
+nuclear
+5,780.00
+total
+302,833.20
+the first figure at the top of the table refers to the fast growing renewable energy sources under the responsibility of the ministry for new and renewable energy and slightly exceeded the installed capacity of large hydro installations  this figure is targeted to reach 175 gw by 2022  coal power currently represents the largest share of installed capacity at just under 186 gw  total installed capacity as of april 30  2016  for grid connected power in india stood at a little under 303 gw 
+off-grid renewable energy  
+off-grid power as of july 31  2016  mnre  capacities in mw eq 
+source
+total installed capacity  mw 
+161.39
+biomass non-bagasse 
+651.91
+-rural
+-industrial
+-
+18.15
+164.24
+2.79
+330.00
+ 
+18.81
+total
+1,347.29
+other renewable energy systems
+family
+plants  in lakhs 
+48.60
+in addition to grid connected renewable electricity india had 1,347.29 mw eq  of off grid renewable energy sources as well as 48.6 lakhs of family biogas plants by 31 july 2016 
+wind power  
+the largest
+of india in    
+main article 
+the development of wind power in india began in the 1990s  and has significantly increased in the last few years  although a relative newcomer to the wind industry compared with
+or the us  domestic policy support for
+has led india to become the country with the fourth largest installed wind power capacity in the world 
+as of march 31  2016 the installed capacity of wind power in india was 26,769.05   mainly spread across
+ 7,269.50 mw  
+ 4,100.40 mw  
+ 3,454.30 mw  
+ 2,784.90 mw  
+ 2,318.20 mw  
+ 746.20 mw  and
+ 423.40 mw  wind power accounts for 14  of india s total installed power capacity  india has set an ambitious target to generate 60,000 mw of electricity from wind power by 2022 
+some of india s largest wind farms are 
+largest wind farms in india
+wind farm
+producer
+state
+current capacity
+  
+notes
+muppandal wind
+1,500
+1,275
+brahmanvel windfarm
+parakh agro industries
+528
+dhalgaon windfarm
+278
+chakala windfarm
+217
+189
+vaspet windfarm
+144
+solar power  
+main article 
+of india
+india is densely populated and has high solar   an ideal combination for using
+in india  much of the country does not have an   so one of the first applications of solar power has been for water pumping  to begin replacing india s four to five million diesel powered   each consuming about 3.5kilowatts  and off-grid lighting  some large projects have been proposed  and a 35,000km area of the
+has been set aside for
+projects  sufficient to generate 700 to 2,100 
+the indian solar loan programme  supported by the
+has won the prestigious
+world award for sustainability for helping to establish a consumer financing program for solar home power systems  over the span of three years more than 16,000 solar home systems have been financed through 2,000 bank branches  particularly in rural areas of south india where the
+does not yet extend 
+launched in 2003  the indian solar loan programme was a four-year partnership between unep  the unep risoe centre  and two of india s largest banks  the canara bank and syndicate bank 
+announced in november 2009  the government of india proposed to launch its
+under the national action plan on climate change with plans to generate 1,000mw of power by 2013 and up to 20,000mw grid-based solar power  2,000mw of off-grid solar power and cover 20 million sq metres with collectors by the end of the final phase of the mission in 2020  the mission aims to achieve grid parity  electricity delivered at the same cost and quality as that delivered on the grid  by 2020  achieving this target would establish india as a global leader in solar power generation 
+indian electrical and electronics manufacturers association  ieema  plays a major role in renewable energy
+india s largest photovoltaic  pv  power plants
+name of plant
+dc peak power
+ mw 
+gwh
+ year
+capacity
+factor
+notes
+151mw neemuch solar project  neemuch  madhya pradesh
+151
+000000002012-02-01-0000 commissioned february 2014
+50mw rajasthan solar project  phalodhi  rajasthan
+50
+000000002012-02-01-0000 commissioned march 2013
+ mithapur  gujarat  tata power 
+25
+000000002012-02-01-0000 commissioned february 2012
+waa solar power plant  surendranagar  gujarat  madhav power 
+10
+000000002011-12-01-0000 commissioned december 2011
+ charanka  gujarat
+214
+000000002012-04-19-0000 commissioned april 2012
+bitta gujarat
+40
+000000002012-01-01-0000 commissioned january 2012
+clean energy limited  banaskantha  gujarat
+30
+000000002011-10-01-0000 commissioned october 2011
+sivaganga photovoltaic plant
+5
+000000002010-12-01-0000 completed december 2010
+kolar photovoltaic plant
+3
+000000002012-02-01-0000 completed may 2010
+karodiya solar park
+3
+000000002012-02-01-0000 completed may 2013
+itnal photovoltaic plant  belgaum
+3
+000000002010-04-01-0000 completed april 2010
+ photovoltaic plant
+2
+000000002009-01-01-00002009
+jamuria photovoltaic plant
+2
+000000002009-01-01-00002009
+ndpc photovoltaic plant
+1
+000000002010-01-01-00002010
+thyagaraj stadium plant-delhi
+1
+000000002010-04-01-0000april 2010
+gandhinagar solar plant
+1
+000000002011-01-21-000021 january 2011
+tata  mulshi  maharashtra
+3
+000000002011-04-01-0000 commissioned april 2011
+ sabarkantha  gujarat
+10
+000000002011-06-01-0000 commissioned june 2011
+tata  mayiladuthurai  tamil nadu
+1
+000000002011-07-01-0000 commissioned july 2011
+rehpl  sadeipali   bolangir  orissa
+1
+000000002011-07-01-0000 commissioned july 2011
+tata  osmanabad  maharashtra
+1
+000000002011-07-01-0000 commissioned 1st aug 2011
+green infra solar energy limited- rajkot  gujarat
+10
+000000002011-07-01-0000 commissioned november 2011
+total
+514
+waste to energy  
+every year  about 55 million tonnes of municipal solid waste  msw  and 38 billion litres of sewage are generated in the urban areas of india  in addition  large quantities of solid and liquid wastes are generated by industries  waste generation in india is expected to increase rapidly in the future  as more people migrate to urban areas and as incomes increase  consumption levels are likely to rise  as are rates of waste generation  it is estimated that the amount of waste generated in india will increase at a per capita rate of approximately 1-1.33  annually  this has significant impacts on the amount of land that is and will be needed for disposal  economic costs of collecting and transporting waste  and the environmental consequences of increased msw generation levels 
+india has had a long involvement with
+and
+technologies  waste water treatment plants in the country have been established which produce renewable energy from sewage gas  however there is significant un-tapped potential  also wastes from the distillery sector are on some sites converted into biogas to run in a
+to generate onsite power 
+types of waste waste can be broadly classified into
+waste
+prominent companies in the waste to energy sector
+of companies
+hanjer biotech energies
+ramky enviro engineers ltd
+hitachi zosen india pvt limited
+see also  
+references  
+ 
+chandrasekaran  kaavya  30 april 2016  
+ pdf   report  the economic times of india  retrieved 10 june 2016 
+chandrasekaran  kaavya  10 june 2016     news  the economic times of india  retrieved 10 june 2016 
+ 
+  ministry of new and renewable energy  retrieved 23 may 2016 
+ 
+ 
+ 
+  report  ministry of new   renewable energy  31 july 2016  retrieved 31 august 2016 
+ pdf   report  ministry of power  april 2016  retrieved 3 september 2016 
+  global wind energy council  retrieved 23 may 2016 
+ pdf   central statistics office  govt  of india  retrieved 23 may 2016 
+ pdf   central electricity authority  goi  july 2015  retrieved 23 may 2016 
+ pdf   ministry of new and renewable energy  retrieved 23 may 2016 
+  retrieved 2 february 2014 
+  retrieved 2 february 2014 
+  retrieved 2 february 2014 
+  retrieved 2 february 2014 
+  retrieved 2 february 2014 
+  retrieved 2 february 2014 
+  retrieved 2 february 2014 
+  retrieved 13 may 2015 
+ 
+sethi  nitin  18 november 2009     times of india 
+transforming india into a solar power  downloaded 31 july 2013
+pv resources com  2009  
+  retrieved 7 september 2014 
+  economic times  jaipur  india  2013-03-12 
+  economic times  new delhi  india  15 february 2012 
+  washington post  new delhi  india  19 april 2012 
+  economic times  new delhi  india  5 january 2102  check date values in   date    
+  the hindu  ahmedabad  india  12 october 2011 
+jaishankar  c   23 december 2010     the hindu  chennai  india 
+  deccan herald  kolar  india  17 june 2010 
+  patrikad  tarana  madhya pradesh  india  12 january 2014 
+  renewableenergyfocus com  itnal  belgaum district  karnataka  india  21 april 2010 
+  bloomberg  8 june 2011 
+  the times of india  8 july 2011 
+  the times of india  16 november 2011 
+emmanual  william    energy alternatives india  eai  retrieved 5 march 2012 
+  www clarke-energy com  retrieved 15/08/2014
+emmanual  william    energy alternatives india  retrieved 5 march 2012 
+external links  
+media related to
+at wikimedia commons
+india
+                              
+north america
+oceania
+south america
+portals 
+retrieved from   
+  hidden categories 

@@ -1,0 +1,42 @@
+energyefficiency(disambiguation)
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Energy_efficiency_(disambiguation)&amp;redirect=no" title="Energy efficiency (disambiguation)">Energy efficiency (disambiguation)</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><p><b>Energy efficiency</b> may refer to:</p>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Energy_efficiency_(physics)" title="Energy efficiency (physics)">Energy efficiency (physics)</a>, the ratio between the useful output and input of an energy conversion process
+<ul>
+<li><a href="/wiki/Electrical_efficiency" title="Electrical efficiency">Electrical efficiency</a>, useful power output per electrical power consumed</li>
+<li><a href="/wiki/Mechanical_efficiency" title="Mechanical efficiency">Mechanical efficiency</a>, a ratio of the measured performance to the performance of an ideal machine</li>
+<li><a href="/wiki/Thermal_efficiency" title="Thermal efficiency">Thermal efficiency</a>, the extent to which the energy added by heat is converted to net work output or vice versa</li>
+<li><a class="mw-redirect" href="/wiki/Luminous_efficiency" title="Luminous efficiency">Luminous efficiency</a>, a measure of how well a light source produces visible light</li>
+<li><a href="/wiki/Fuel_efficiency" title="Fuel efficiency">Fuel efficiency</a>, the efficiency of converting potential energy in a fuel into kinetic energy</li>
+<li><a href="/wiki/Energy_efficiency_in_transportation" title="Energy efficiency in transportation">Energy efficiency in transportation</a>, the fuel economy of various modes of transportation</li>
+</ul>
+</li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a>, minimizing the amount of energy used for a given, constant energy service</li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a>, reducing energy consumption by using less of an energy service</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_efficiency&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="mw-disambig" href="/wiki/Energy_(disambiguation)" title="Energy (disambiguation)">Energy (disambiguation)</a></li>
+<li><a class="mw-disambig" href="/wiki/Efficiency_(disambiguation)" title="Efficiency (disambiguation)">Efficiency (disambiguation)</a></li>
+<li><span class="selfreference"><a href="/wiki/Special:Search/intitle:%22Energy_efficiency%22" title='Special:Search/intitle:"Energy efficiency"'>All pages with titles containing <i>Energy efficiency</i></a></span></li>
+<li><span class="selfreference"><a href="/wiki/Special:Search/intitle:%22Energy_efficient%22" title='Special:Search/intitle:"Energy efficient"'>All pages with titles containing <i>Energy efficient</i></a></span></li>
+</ul>
+<table class="metadata plainlinks dmbox dmbox-disambig" id="disambigbox" role="presentation" style="">
+<tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"><a class="image" href="/wiki/File:Disambig_gray.svg"><img alt="Disambiguation icon" data-file-height="168" data-file-width="220" height="23" src="//upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/45px-Disambig_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/60px-Disambig_gray.svg.png 2x" width="30"/></a></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;">This <a href="/wiki/Help:Disambiguation" title="Help:Disambiguation">disambiguation</a> page lists articles associated with the title <b>Energy efficiency</b>.<br/>
+<small>If an <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Energy_efficiency&amp;namespace=0">internal link</a> led you here, you may wish to change the link to point directly to the intended article.</small></td>
+</tr>
+</table>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:412153-0!*!0!*!*!4!* and timestamp 20161025184703 and revision id 746176190
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Energy_efficiency&amp;oldid=746176190">https://en.wikipedia.org/w/index.php?title=Energy_efficiency&amp;oldid=746176190</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Disambiguation_pages" title="Category:Disambiguation pages">Disambiguation pages</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_article_disambiguation_pages" title="Category:All article disambiguation pages">All article disambiguation pages</a></li><li><a href="/wiki/Category:All_disambiguation_pages" title="Category:All disambiguation pages">All disambiguation pages</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

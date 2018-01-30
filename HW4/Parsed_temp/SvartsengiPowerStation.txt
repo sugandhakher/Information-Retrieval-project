@@ -1,0 +1,83 @@
+svartsengipowerstation
+from wikipedia  the free encyclopedia
+jump to 					navigation  					search
+this article needs to be updated  please update this article to reflect recent events or newly available information   june 2016 
+svartsengi power station
+the blue lagoon with the power station in the background 
+location of svartsengi power station in iceland
+country
+iceland
+location
+keflavk
+coordinates
+635243n 222558w   63.87861n 22.43278w   63.87861  -22.43278coordinates  635243n 222558w   63.87861n 22.43278w   63.87861  -22.43278
+status
+operational
+commissiondate
+1976 - 2008
+owner s 
+hs orka
+geothermalpowerstation
+type
+5 shallow steam wells
+8 steam and brine wells
+min sourcetemp 
+101c  210f 
+wells
+13
+max welldepth
+1,800m  5,900ft 
+powergeneration
+makeandmodel
+6
+thermalcapacity
+150 mw
+nameplatecapacity
+75 mw
+the svartsengi power station  svartsengi  icelandic pronunciation  svarsic     black meadow  in icelandic  is a geothermal power plant  which is located in the svartsengi geothermal field  about four km north of grindavk  approximately 20km se of keflavk international airport and 45km from reykjavk  the electric power station was built in 1976 by the subsidiary of alterra power  hs orka and it was the worlds first geothermal power plant for electric power generation and hot water production for district heating 
+the power station  which consists of an area of 150 ha  was constructed in six sequent phases  finished in 2008   in each phase they built a new power plant  so the generation capacity increased to 150 mwth for the district heating and the nameplate capacity to 75 mw for electricity power  1 
+since the svartsengi power station is the only heating system for the local district on the reykjanes peninsula  which pipes hot geothermal water to more than 21,000 households  it is considered one of the most important heating plants  2  3 
+this geothermal power plant does not only produce hot water and energy  it also produces spin-offs  one of these side product is one of icelands popular bathing resort  the blue lagoon and another spin off is the first renewable methanol plant carbon recycling international  4  5  6 
+contents
+1 geothermal power plant details
+2 power plant units
+3 see also
+4 external links
+5 references
+geothermal power plant details edit 
+in the beginning 1976  the svartsengi geothermal power plant was completely liquid-dominated  but it changed into a liquid dominated with a steam cap geothermal system  7 
+today  it consists of 13 production boreholes connected to the six plants  eight of those wells are producing a mixture of steam and brine and the other five are shallow dry steam wells 
+it also possesses one of the largest supervisory control and data acquisition  scada  in iceland with the p-cim monitors and the 50 substations  which include hot water  cold water  electricity distribution systems and 11 turbines and generators  8 
+power plant units edit 
+nowadays  the combined capacity of the svartsengi power plant is 75 mw in electrical energy and 150 mw in thermal energy 
+energy plant 1  with its two back-pressure turbines  was constructed in 1977  1979  it consisted of four thermal energy circuits  which produced 40 l s of heating water and 50 mw energy for its own power needs  but today it is mostly out of action and only two circuits are in use  so the produced capacity is 25 mw of thermal energy 
+energy plant 2 was built in 1980 and it produces  with its three thermal energy exchange systems 225 l s  3 x 75 l s  of 90c  194f  hot water and 75 mw  3 x 25 mw  energy 
+energy plant 3  with its 6 mw counter-pressure steam turbines  is especially used for producing electricity  each second 40kg of 160c  320f  steam passes through the turbines with 5 bar pressure 
+energy plant 4  with its seven 1.2 mw isopentan ormat turbines  was built in 1989-1992 to produce energy with 105c  221f  hot excess steam and low pressure steam from the other energy plants 
+energy plant 5 was built in 1999 to substitute the old energy plant 1 and to increase the energy and hot water  so the demand could be met  it produces with its 30 mw turbines and 75 mw thermal energy exchange system  around 225 gwh per annum 
+energy plant 6 is a condenser plant with unique high pressure steam turbines and a total capacity of 30 mw  it produces only electricity  which depends on the using of the district heating and the electrical use  9 
+see also edit 
+wikimedia commons has media related to svartsengi power station 
+geothermal power in iceland
+list of largest power stations in the world
+renewable energy in iceland
+list of power stations in iceland
+external links edit 
+official website
+photogallery by islandsmyndir is 2010-12-11
+photogallery by islandsmyndir is 2010-05-11
+photogallery by islandsmyndir is - 2013 inside
+ 1 
+references edit 
+  http   s1 q4cdn com 340776418 files assets  pdf icleandic assets svartsengi power plant - iceland pdf
+  http   www popularmechanics com science energy g1337 tour-one-of-icelands-incredible-geothermal-plants  
+  http   www geothermal-energy org pdf igastandard wgc 2005/2037 pdf
+  http   s1 q4cdn com 340776418 files assets  pdf icleandic assets svartsengi power plant - iceland pdf
+  http   www geothermal is geothermal-exploration-development-and-utilization-svartsengi
+  http   www americas fujielectric com sites default files variety 20of 20steam 20turbines 20in 20svartsengi 20 26 20reykjanes 20geothermal 20power 20plant pdf
+  http   s1 q4cdn com 340776418 files assets  pdf icleandic assets svartsengi power plant - iceland pdf
+  http   www afcon-inc com templates showpage asp tmid 84 fid 841 pid 3242
+  http   www hsorka is english hsproduction hsproductionsvartsengi aspx
+saved in parser cache with key enwiki pcache idhash 25651120-0   0  en 4   and timestamp 20161105004147 and revision id 728869793
+retrieved from  https   en wikipedia org w index php title svartsengi power station oldid 728869793 
+categories  geothermal power stations in icelandreykjanesbuildings and structures in keflavkhidden categories  wikipedia articles in need of updating from june 2016all wikipedia articles in need of updatingcoordinates on wikidatacommons category with local link same as on wikidata

@@ -1,0 +1,451 @@
+virunganationalpark
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="infobox vcard" style="width:22em;font-size: 90%; border-spacing: 3px; width: 300px;">
+<tr>
+<th class="fn org" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding: 0em 0.1em;">Virunga National Park</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;font-size: 100%;">
+<div style="background-color: #CDE5B2;"><a class="mw-redirect" href="/wiki/IUCN" title="IUCN">IUCN</a> category II (<a href="/wiki/National_park" title="National park">national park</a>)</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Bukima_Patrol_Post.jpg"><img alt="Bukima Patrol Post.jpg" data-file-height="3413" data-file-width="5120" height="189" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bukima_Patrol_Post.jpg/284px-Bukima_Patrol_Post.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bukima_Patrol_Post.jpg/426px-Bukima_Patrol_Post.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bukima_Patrol_Post.jpg/568px-Bukima_Patrol_Post.jpg 2x" width="284"/></a>
+<div>Bukima Camp in the foothills of Mikeno Mountain, home of the Congolese mountain gorillas</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:284px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:284px;padding:0">
+<div style="position:relative;width:284px"><a class="image" href="/wiki/File:Democratic_Republic_of_the_Congo_relief_location_map.jpg" title="Map showing the location of Virunga National Park"><img alt="Map showing the location of Virunga National Park" data-file-height="1095" data-file-width="1150" height="270" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Democratic_Republic_of_the_Congo_relief_location_map.jpg/284px-Democratic_Republic_of_the_Congo_relief_location_map.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Democratic_Republic_of_the_Congo_relief_location_map.jpg/426px-Democratic_Republic_of_the_Congo_relief_location_map.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Democratic_Republic_of_the_Congo_relief_location_map.jpg/568px-Democratic_Republic_of_the_Congo_relief_location_map.jpg 2x" width="284"/></a>
+<div style="position:absolute;top:34.583%;left:86.508%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Map showing the location of Virunga National Park" data-file-height="64" data-file-width="64" height="8" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" title="Virunga National Park" width="8"/></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="locality">
+<th scope="row" style="padding: 0em 0em 0em 0.3em;">Location</th>
+<td style="padding: 0em 0.3em;"><a href="/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Democratic Republic of the Congo</a></td>
+</tr>
+<tr class="note">
+<th scope="row" style="padding: 0em 0em 0em 0.3em;">Nearest city</th>
+<td style="padding: 0em 0.3em;"><a href="/wiki/Goma" title="Goma">Goma</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding: 0em 0em 0em 0.3em;">Coordinates</th>
+<td style="padding: 0em 0.3em;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Virunga_National_Park&amp;params=0_55_0_S_29_10_0_E_type:landmark_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">0°55′0″S</span> <span class="longitude">29°10′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">0.91667°S 29.16667°E</span><span style="display:none">﻿ / <span class="geo">-0.91667; 29.16667</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Virunga_National_Park&amp;params=0_55_0_S_29_10_0_E_type:landmark_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">0°55′0″S</span> <span class="longitude">29°10′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">0.91667°S 29.16667°E</span><span style="display:none">﻿ / <span class="geo">-0.91667; 29.16667</span></span></span></a></span></span></span></td>
+</tr>
+<tr>
+<th scope="row" style="padding: 0em 0em 0em 0.3em;">Area</th>
+<td style="padding: 0em 0.3em;">7,800 km<sup>2</sup> (1,900,000 acres)</td>
+</tr>
+<tr class="note">
+<th scope="row" style="padding: 0em 0em 0em 0.3em;">Established</th>
+<td style="padding: 0em 0.3em;">1925</td>
+</tr>
+<tr>
+<th scope="row" style="padding: 0em 0em 0em 0.3em;">Governing body</th>
+<td style="padding: 0em 0.3em;"><a href="/wiki/Institut_Congolais_pour_la_Conservation_de_la_Nature" title="Institut Congolais pour la Conservation de la Nature">Institut Congolais pour la Conservation de la Nature</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center"></th>
+</tr>
+<tr class="mergedrow">
+<th colspan="2" style="text-align:center">
+<div style="border:4px solid #FFE153; line-height: 1.5; text-align: center;"><a href="/wiki/World_Heritage_Site" title="World Heritage Site">UNESCO World Heritage Site</a></div>
+</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Type</th>
+<td>Natural</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Criteria</th>
+<td>vii, viii, x</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Designated</th>
+<td>1979 <small>(3rd <a href="/wiki/World_Heritage_Committee" title="World Heritage Committee">session</a>)</small></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Reference no.</th>
+<td><a class="external text" href="http://whc.unesco.org/en/list/63" rel="nofollow">63</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">State Party</th>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="800" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/20px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/31px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/40px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png 2x" width="20"/> </span><a href="/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Democratic Republic of the Congo</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Region</th>
+<td><a href="/wiki/List_of_World_Heritage_Sites_in_Africa" title="List of World Heritage Sites in Africa">Africa</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_World_Heritage_in_Danger" title="List of World Heritage in Danger">Endangered</a></th>
+<td>1994–<i>present</i></td>
+</tr>
+</table>
+<p>The <b>Virunga National Park</b> (<a href="/wiki/French_language" title="French language">French</a>: <span lang="fr" xml:lang="fr"><i>Parc National des Virunga</i></span>), formerly named <b>Albert National Park</b>, is a 7,800-square-kilometre (3,000 sq mi) National Park that stretches from the <a href="/wiki/Virunga_Mountains" title="Virunga Mountains">Virunga Mountains</a> in the South, to the <a href="/wiki/Rwenzori_Mountains" title="Rwenzori Mountains">Rwenzori Mountains</a> in the North, in the eastern <a href="/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Democratic Republic of the Congo</a>, bordering <a href="/wiki/Volcanoes_National_Park" title="Volcanoes National Park">Volcanoes National Park</a> in <a href="/wiki/Rwanda" title="Rwanda">Rwanda</a> and <a href="/wiki/Rwenzori_Mountains_National_Park" title="Rwenzori Mountains National Park">Rwenzori Mountains National Park</a> and <a href="/wiki/Queen_Elizabeth_National_Park" title="Queen Elizabeth National Park">Queen Elizabeth National Park</a> in <a href="/wiki/Uganda" title="Uganda">Uganda</a>.</p>
+<p>The park was established in 1925 as Africa's first national park and is a <a href="/wiki/UNESCO" title="UNESCO">UNESCO</a>-designated <a href="/wiki/World_Heritage_Site" title="World Heritage Site">World Heritage Site</a> since 1979. In recent years, <a href="/wiki/Poaching" title="Poaching">poaching</a> and the <a href="/wiki/Ituri_conflict" title="Ituri conflict">Congo Civil War</a> have seriously damaged its wildlife population. The park is managed by the Congolese National Park Authorities, the <a href="/wiki/Institut_Congolais_pour_la_Conservation_de_la_Nature" title="Institut Congolais pour la Conservation de la Nature">Institut Congolais pour la Conservation de la Nature</a> (ICCN) and its partner the <a class="new" href="/w/index.php?title=Virunga_Foundation&amp;action=edit&amp;redlink=1" title="Virunga Foundation (page does not exist)">Virunga Foundation</a>, formerly known as the <a class="new" href="/w/index.php?title=Africa_Conservation_Fund&amp;action=edit&amp;redlink=1" title="Africa Conservation Fund (page does not exist)">Africa Conservation Fund</a> (UK).</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Geography"><span class="tocnumber">1.1</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Biodiversity"><span class="tocnumber">1.2</span> <span class="toctext">Biodiversity</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Human_conflict"><span class="tocnumber">2</span> <span class="toctext">Human conflict</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Current_situation"><span class="tocnumber">2.1</span> <span class="toctext">Current situation</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Oil_Industry_threat"><span class="tocnumber">2.2</span> <span class="toctext">Oil Industry threat</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Charcoal_Trade"><span class="tocnumber">2.3</span> <span class="toctext">Charcoal Trade</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#In_popular_media"><span class="tocnumber">3</span> <span class="toctext">In popular media</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virunga_National_Park&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The park was created in 1925 by <a class="mw-redirect" href="/wiki/King_Albert_I_of_Belgium" title="King Albert I of Belgium">King Albert I of Belgium</a> as the first national park on the continent of Africa. It was founded primarily to protect the <a href="/wiki/Mountain_gorilla" title="Mountain gorilla">mountain gorillas</a><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> living in the forests of the Virunga Mountains controlled by the <a href="/wiki/Belgian_Congo" title="Belgian Congo">Belgian Congo</a>, but later expanded north to include the <a class="new" href="/w/index.php?title=Rwindi_Plains&amp;action=edit&amp;redlink=1" title="Rwindi Plains (page does not exist)">Rwindi Plains</a>, <a href="/wiki/Lake_Edward" title="Lake Edward">Lake Edward</a> and the Rwenzori Mountains in the far north.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Virunga_Mountain_Gorilla.jpg"><img alt="" class="thumbimage" data-file-height="3456" data-file-width="5184" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Virunga_Mountain_Gorilla.jpg/220px-Virunga_Mountain_Gorilla.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Virunga_Mountain_Gorilla.jpg/330px-Virunga_Mountain_Gorilla.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Virunga_Mountain_Gorilla.jpg/440px-Virunga_Mountain_Gorilla.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Virunga_Mountain_Gorilla.jpg" title="Enlarge"></a></div>
+Juvenile mountain gorilla</div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Gazelle_in_Virunga_National_Park.jpg"><img alt="" class="thumbimage" data-file-height="334" data-file-width="500" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gazelle_in_Virunga_National_Park.jpg/220px-Gazelle_in_Virunga_National_Park.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gazelle_in_Virunga_National_Park.jpg/330px-Gazelle_in_Virunga_National_Park.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gazelle_in_Virunga_National_Park.jpg/440px-Gazelle_in_Virunga_National_Park.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Gazelle_in_Virunga_National_Park.jpg" title="Enlarge"></a></div>
+Kob</div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Children_in_Virunga_National_Park.jpg"><img alt="" class="thumbimage" data-file-height="2000" data-file-width="3008" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Children_in_Virunga_National_Park.jpg/220px-Children_in_Virunga_National_Park.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Children_in_Virunga_National_Park.jpg/330px-Children_in_Virunga_National_Park.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Children_in_Virunga_National_Park.jpg/440px-Children_in_Virunga_National_Park.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Children_in_Virunga_National_Park.jpg" title="Enlarge"></a></div>
+Children in Virunga National Park</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Lava_Lake_Nyiragongo_2.jpg"><img alt="" class="thumbimage" data-file-height="2820" data-file-width="4324" height="143" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lava_Lake_Nyiragongo_2.jpg/220px-Lava_Lake_Nyiragongo_2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lava_Lake_Nyiragongo_2.jpg/330px-Lava_Lake_Nyiragongo_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lava_Lake_Nyiragongo_2.jpg/440px-Lava_Lake_Nyiragongo_2.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Lava_Lake_Nyiragongo_2.jpg" title="Enlarge"></a></div>
+The Lava Lake of the <a href="/wiki/Mount_Nyiragongo" title="Mount Nyiragongo">Nyiragongo Volcano</a>, one of the spectacular sights of Virunga NP</div>
+</div>
+</div>
+<p>In the first 35 years, the boundary of the park took shape, poaching was kept to a minimum, and sustainable tourism thrived due to the work of a large body of hand-picked Congolese rangers and dedicated wardens. Land remuneration and the use of park resources such as fishing and hunting by the local population became an ongoing problem and attempts were made to solve these issues.</p>
+<p>When the Belgians granted Congo independence in 1960 the new state deteriorated rapidly, and so did the park. It was only in 1969 when President <a href="/wiki/Mobutu_Sese_Seko" title="Mobutu Sese Seko">Mobutu</a> began to take a personal interest in conservation, that the park was revived. In the process of Mobutu's <a href="/wiki/Africanization" title="Africanization">Africanization</a> campaign, it was renamed Virunga National Park, and the first Congolese Wildlife Authority was established.</p>
+<p>Virunga fared well for the better part of the 1970s. Foreign investment helped to improve the park's infrastructure and training facilities, and the park became a popular destination for tourists, receiving on average 6500 visitors a year. In 1979 UNESCO designated the park as a World Heritage Site.<sup class="reference" id="cite_ref-unesco_2-0"><a href="#cite_note-unesco-2">[2]</a></sup></p>
+<p>In the mid-1980s the Mobutu regime began to lose its hold on power and the country began a long slide into chaos. The park suffered terribly. Poaching depleted Virunga's large mammal populations, infrastructure was destroyed, and many rangers were killed. The Congolese Wildlife Authority slowly lost control of Virunga and UNESCO changed the World Heritage Site status to "endangered."<sup class="reference" id="cite_ref-unesco_2-1"><a href="#cite_note-unesco-2">[2]</a></sup></p>
+<p>In 2013 the <a class="mw-redirect" href="/wiki/World_Wildlife_Fund" title="World Wildlife Fund">World Wildlife Fund</a> raised concerns about plans by the UK based <a class="mw-redirect" href="/wiki/Soco_International" title="Soco International">Soco International</a> to carry out exploration for oil in the park.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Currently more than 80% of Virunga National Park has been allocated as oil concessions.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> <a class="mw-redirect" href="/wiki/Soco_International" title="Soco International">Soco International</a>'s own environmental impact assessment reports admit that oil exploration is likely to cause pollution, irreparably damage habitats and bring poaching to the park. The <a class="mw-redirect" href="/wiki/World_Wildlife_Fund" title="World Wildlife Fund">World Wildlife Fund</a> have launched a campaign to petition<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> Soco to refrain exploring the world heritage area for oil, and thereby avoid these outcomes. As of August 30, 2014, SOCO demobilized its operations in the DRC.</p>
+<p>World Wildlife Fund executives now acknowledge that the battle over Virunga is hardly over. SOCO has yet to relinquish its operating permits or commit to an unconditional withdrawal.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virunga_National_Park&amp;action=edit&amp;section=2" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Virunga National Park is unrivaled in its diversity of landscapes and ecosystems.</p>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a class="image" href="/wiki/File:Nyiragongo_by_Night.jpg"><img alt="Nyiragongo by Night.jpg" data-file-height="683" data-file-width="1024" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nyiragongo_by_Night.jpg/120px-Nyiragongo_by_Night.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nyiragongo_by_Night.jpg/180px-Nyiragongo_by_Night.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nyiragongo_by_Night.jpg/240px-Nyiragongo_by_Night.jpg 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext"></div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a class="image" href="/wiki/File:Lava_Lake_Nyiragongo_Volcano.jpg"><img alt="" data-file-height="3026" data-file-width="2158" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lava_Lake_Nyiragongo_Volcano.jpg/85px-Lava_Lake_Nyiragongo_Volcano.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lava_Lake_Nyiragongo_Volcano.jpg/128px-Lava_Lake_Nyiragongo_Volcano.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lava_Lake_Nyiragongo_Volcano.jpg/171px-Lava_Lake_Nyiragongo_Volcano.jpg 2x" width="85"/></a></div>
+</div>
+<div class="gallerytext">
+<p>The Lava Lake of the Nyiragongo Volcano, the largest in the world</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:31px auto;"><a class="image" href="/wiki/File:Virunga_Mountain_Gorilla_1.jpg"><img alt="" data-file-height="2889" data-file-width="3946" height="88" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Virunga_Mountain_Gorilla_1.jpg/120px-Virunga_Mountain_Gorilla_1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Virunga_Mountain_Gorilla_1.jpg/180px-Virunga_Mountain_Gorilla_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Virunga_Mountain_Gorilla_1.jpg/240px-Virunga_Mountain_Gorilla_1.jpg 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Virunga NP mountain gorillas</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a class="image" href="/wiki/File:Bukima_Patrol_Post.jpg"><img alt="" data-file-height="3413" data-file-width="5120" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bukima_Patrol_Post.jpg/120px-Bukima_Patrol_Post.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bukima_Patrol_Post.jpg/180px-Bukima_Patrol_Post.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bukima_Patrol_Post.jpg/240px-Bukima_Patrol_Post.jpg 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Bukima Camp is situated in the foothills of the Mikeno Mountain, the home of the Congolese mountain gorillas</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a class="image" href="/wiki/File:Ruwenzori_Mountains_Virunga_National_Park.jpg"><img alt="" data-file-height="2848" data-file-width="4288" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ruwenzori_Mountains_Virunga_National_Park.jpg/120px-Ruwenzori_Mountains_Virunga_National_Park.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ruwenzori_Mountains_Virunga_National_Park.jpg/180px-Ruwenzori_Mountains_Virunga_National_Park.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ruwenzori_Mountains_Virunga_National_Park.jpg/240px-Ruwenzori_Mountains_Virunga_National_Park.jpg 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Rwenzori Mountains</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a class="image" href="/wiki/File:Rugendo_in_bukima.jpg"><img alt="" data-file-height="450" data-file-width="600" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rugendo_in_bukima.jpg/120px-Rugendo_in_bukima.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rugendo_in_bukima.jpg/180px-Rugendo_in_bukima.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rugendo_in_bukima.jpg/240px-Rugendo_in_bukima.jpg 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Silverback of the Rugendo family at Bukima patrol Post</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a class="image" href="/wiki/File:Volcano_shelters.jpg"><img alt="" data-file-height="2488" data-file-width="3733" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Volcano_shelters.jpg/120px-Volcano_shelters.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Volcano_shelters.jpg/180px-Volcano_shelters.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Volcano_shelters.jpg/240px-Volcano_shelters.jpg 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>The cabanes are situated at the edge of the crater in sight of the lava lake, the sight of which has an astounding effect on visitors</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a class="image" href="/wiki/File:Rwindi_49.jpg"><img alt="" data-file-height="1554" data-file-width="2321" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rwindi_49.jpg/120px-Rwindi_49.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rwindi_49.jpg/180px-Rwindi_49.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rwindi_49.jpg/240px-Rwindi_49.jpg 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Two <a href="/wiki/Congo_lion" title="Congo lion">Congo lion</a> males resting in an open area within the National Park near Rwindi</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a class="image" href="/wiki/File:Elephants_et_buffled_dans_le_parc_des_Virungas,_2003.jpg"><img alt="" data-file-height="334" data-file-width="500" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Elephants_et_buffled_dans_le_parc_des_Virungas%2C_2003.jpg/120px-Elephants_et_buffled_dans_le_parc_des_Virungas%2C_2003.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Elephants_et_buffled_dans_le_parc_des_Virungas%2C_2003.jpg/180px-Elephants_et_buffled_dans_le_parc_des_Virungas%2C_2003.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Elephants_et_buffled_dans_le_parc_des_Virungas%2C_2003.jpg/240px-Elephants_et_buffled_dans_le_parc_des_Virungas%2C_2003.jpg 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/African_elephant" title="African elephant">African elephant</a> and <a href="/wiki/African_buffalo" title="African buffalo">African buffaloes</a></p>
+</div>
+</div>
+</li>
+</ul>
+<table>
+<tr>
+<td valign="top">
+<ul>
+<li><b>Southern Sector:</b></li>
+</ul>
+<dl>
+<dd>
+<ul>
+<li>Montane Tropical forest (home to the <a href="/wiki/Mountain_gorilla" title="Mountain gorilla">mountain gorilla</a>)</li>
+<li>Alpine Forest (on the higher slopes of the Virunga Massive)</li>
+<li>Old (and new) Lava flows</li>
+</ul>
+</dd>
+</dl>
+</td>
+<td valign="top">
+<ul>
+<li><b>Central Sector</b></li>
+</ul>
+<dl>
+<dd>
+<ul>
+<li>African Savanna</li>
+<li>Marshland</li>
+<li>Riverine Forest</li>
+<li>Lake shores</li>
+</ul>
+</dd>
+</dl>
+</td>
+<td valign="top">
+<ul>
+<li><b>Northern sector</b></li>
+</ul>
+<dl>
+<dd>
+<ul>
+<li>Lake shores</li>
+<li>African Savanna</li>
+<li>Riverine (low land) forest</li>
+<li>Alpine forest (<a href="/wiki/Rwenzori_Mountains" title="Rwenzori Mountains">Rwenzori Mountains</a>)</li>
+<li>Eternal snow (<a href="/wiki/Glacier" title="Glacier">Glacier</a>)</li>
+</ul>
+</dd>
+</dl>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Biodiversity">Biodiversity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virunga_National_Park&amp;action=edit&amp;section=3" title="Edit section: Biodiversity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Virunga_National_Park_Gorilla.jpg"><img alt="" class="thumbimage" data-file-height="678" data-file-width="1024" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Virunga_National_Park_Gorilla.jpg/220px-Virunga_National_Park_Gorilla.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Virunga_National_Park_Gorilla.jpg/330px-Virunga_National_Park_Gorilla.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Virunga_National_Park_Gorilla.jpg/440px-Virunga_National_Park_Gorilla.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Virunga_National_Park_Gorilla.jpg" title="Enlarge"></a></div>
+A mountain gorilla in the park</div>
+</div>
+</div>
+<p>The park is known for its exceptional (bio)diversity, containing more bird, mammal and reptile species than any protected area on the African continent. Although <a href="/wiki/Mountain_gorilla" title="Mountain gorilla">mountain gorillas</a> are now extremely rare and listed as one of the most critically endangered species, successful conservation work has helped to secure the remaining populations. Their populations actually increased during the years of political upheaval in the region (1994–2004), and have continued to do so even throughout the difficult period of 2007-2008. The 2010 mountain gorilla census has indicated that the conservation efforts of Virunga have been very successful regarding the gorilla population. Both savanna and <a class="mw-redirect" href="/wiki/Forest_elephant" title="Forest elephant">forest elephants</a> as well as <a href="/wiki/Chimpanzee" title="Chimpanzee">chimpanzees</a> and low land gorillas can still be found in Virunga, along with <a href="/wiki/Okapi" title="Okapi">okapi</a>, giraffes, <a href="/wiki/African_buffalo" title="African buffalo">buffaloes</a> and many endemic <a href="/wiki/Bird" title="Bird">birds</a>. The neighboring <a class="new" href="/w/index.php?title=Mount_Hoyo&amp;action=edit&amp;redlink=1" title="Mount Hoyo (page does not exist)">Mount Hoyo</a> area was managed with the park and is home to a population of Bambuti <a class="mw-redirect" href="/wiki/Pygmy" title="Pygmy">pygmy</a> people, <a href="/wiki/Cave" title="Cave">caves</a> and <a href="/wiki/Waterfall" title="Waterfall">waterfalls</a>.</p>
+<h2><span class="mw-headline" id="Human_conflict">Human conflict</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virunga_National_Park&amp;action=edit&amp;section=4" title="Edit section: Human conflict">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since the civil wars, the park has suffered somewhat. Land invasions and intense poaching have challenged the park authorities to the limit, but most rangers have remained active. Since 1994, about 140 rangers have been killed in the line of duty protecting the park from illegal poaching and land acquisition.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> Amongst other military activity, the <a href="/wiki/Democratic_Forces_for_the_Liberation_of_Rwanda" title="Democratic Forces for the Liberation of Rwanda">Democratic Forces for the Liberation of Rwanda</a> (FDLR) used the park as a safe location when they have come under sustained attack, such as <a href="/wiki/Laurent_Nkunda" title="Laurent Nkunda">Laurent Nkunda</a>'s offensives against them in April–May 2007.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> The park was occupied by Nkunda's forces on 26 October 2008, during the <a class="mw-redirect" href="/wiki/Battle_of_Goma" title="Battle of Goma">Battle of Goma</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2012)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Current_situation">Current situation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virunga_National_Park&amp;action=edit&amp;section=5" title="Edit section: Current situation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>However over the last three years<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (September 2012)">when?</span></a></i>]</sup> the park has seen remarkable regeneration, with heavy investment in tourism development, social infrastructure as well as safety. Currently<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (September 2012)">when?</span></a></i>]</sup> over 3000 tourists a year visit the southern sector of Virunga National Park to admire the gorillas as well as the lava lake of the Nyiragongo Volcano. The park has been<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (September 2012)">when?</span></a></i>]</sup> closed until 20 July because of political insecurity. The <a class="new" href="/w/index.php?title=Virunga_Foundation&amp;action=edit&amp;redlink=1" title="Virunga Foundation (page does not exist)">Virunga Foundation</a> signed a 25-year management agreement to manage the park in March 2015. The park currently<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (September 2012)">when?</span></a></i>]</sup> receives most of its funding from the <a href="/wiki/European_Union" title="European Union">European Union</a> and the Howard G Buffett Foundation.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2012)">citation needed</span></a></i>]</sup> A Mai Mai militia attacked a park facility and killed two park rangers and a Congolese soldier in October 2012. Five of the Mai Mai militiamen died in the attack. Congolese Revolutionary Army (also known as M23) allegedly has a base camp inside the park.</p>
+<p><a class="mw-redirect" href="/wiki/Emmanuel_de_M%C3%A9rode" title="Emmanuel de Mérode">Emmanuel de Mérode</a>, a respected naturalist and member of the Belgian <a class="mw-redirect" href="/wiki/House_of_M%C3%A9rode" title="House of Mérode">House of Mérode</a>, has been the director of the park since 2008. On April 15, 2014 he was <a href="/wiki/Ambush" title="Ambush">ambushed</a> on a road in the park and shot four times in the stomach and legs by unknown assailants, but he survived the attack.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></p>
+<p>The <a href="/wiki/Beni_massacre" title="Beni massacre">Beni massacre</a> occurred inside the national park.</p>
+<h3><span class="mw-headline" id="Oil_Industry_threat">Oil Industry threat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virunga_National_Park&amp;action=edit&amp;section=6" title="Edit section: Oil Industry threat">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Virunga is currently under threat from UK oil company SOCO who want to undergo oil exploration within the park.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> Seismic tests were carried out by SOCO, and confirmed the presence of oil.<sup class="reference" id="cite_ref-:0_11-0"><a href="#cite_note-:0-11">[11]</a></sup> This announcement has reignited the debate to the merits of exploring oil in the park.<sup class="reference" id="cite_ref-:0_11-1"><a href="#cite_note-:0-11">[11]</a></sup> This could involve disruptive seismic testing, forest clearing, and deep underground drilling.<sup class="reference" id="cite_ref-:0_11-2"><a href="#cite_note-:0-11">[11]</a></sup> This can put at risk hundreds of lesser known fragile species which are found in no other country. Also, if Lake Edwards is drilled, it can have a detrimental impact on the people of the region. 30,000 people benefit economically from fishing in the park. Another 20,000 benefit from commercial activities related to the fishing industry.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> In response, a joint plea was launched by International environment and right groups to the Ugandan government and Republic of Congo to prevent oil drilling in or around the Virunga National park.<sup class="reference" id="cite_ref-:0_11-3"><a href="#cite_note-:0-11">[11]</a></sup> Regardless, the Ugandan government plans to receive bids on six new oil licenses.<sup class="reference" id="cite_ref-:0_11-4"><a href="#cite_note-:0-11">[11]</a></sup> To this day, no oil exploration has occurred.<sup class="reference" id="cite_ref-:0_11-5"><a href="#cite_note-:0-11">[11]</a></sup></p>
+<p>On March 13, 2015, BBC was reporting that the Democratic Republic of Congo says it wants to redraw the boundaries of Virunga National Park to allow for oil exploration.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup></p>
+<h3><span class="mw-headline" id="Charcoal_Trade">Charcoal Trade</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virunga_National_Park&amp;action=edit&amp;section=7" title="Edit section: Charcoal Trade">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Trees are being cut down at a rate of 2.3%. The country has lost 14,331 square miles of forest between 2001 and 2010. The primary cause has been the charcoal industry.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> The charcoal industry is worth almost 2 billion dollars. Virunga is the only source of charcoal for Rwanda because they passed a law banning the production of charcoal within its border. Trees are being cut down, covered in mud, and set on fire in order to make charcoal. There is also a strong military presence near Virunga, and many of these soldiers have reportedly not received paychecks for years. Therefore, these soldiers have turned to charcoal trade and other illegal activities in order to support themselves. Many of the gorilla killings are fueled by the charcoal trade.<sup class="reference" id="cite_ref-:1_15-0"><a href="#cite_note-:1-15">[15]</a></sup> There have been reported executions of gorillas as act of sabotage by people in the charcoal business who want to see the gorillas dead.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> Many park officials risk their lives to protect the park. However, some are in collaboration with the military and poachers. Poaching is a source of income for many people due to the economic instability in the country. Many of poachers are members of local militias. Most of money goes back to militias, and use the money to buy weapons.</p>
+<h2><span class="mw-headline" id="In_popular_media">In popular media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virunga_National_Park&amp;action=edit&amp;section=8" title="Edit section: In popular media">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The 2014 documentary <i><a href="/wiki/Virunga_(film)" title="Virunga (film)">Virunga</a></i> explored the work of conservation rangers and the activities of British oil company <a href="/wiki/SOCO_International" title="SOCO International">SOCO International</a> within the park. It has been screened internationally at film festivals and was released on streaming service <a href="/wiki/Netflix" title="Netflix">Netflix</a> on November 7, 2014.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup><sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virunga_National_Park&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Centre_National_d%27Appui_au_D%C3%A9veloppement_et_%C3%A0_la_Participation_populaire" title="Centre National d'Appui au Développement et à la Participation populaire">Centre National d'Appui au Développement et à la Participation populaire</a></li>
+<li><a href="/wiki/Eug%C3%A8ne_Rutagarama" title="Eugène Rutagarama">Eugène Rutagarama</a></li>
+<li><a href="/wiki/IGorilla" title="IGorilla">iGorilla</a></li>
+<li><a href="/wiki/Tourism_in_the_Democratic_Republic_of_the_Congo" title="Tourism in the Democratic Republic of the Congo">Tourism in the Democratic Republic of the Congo</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virunga_National_Park&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Denis, Armand. "On Safari: The story of my life". New York. Dutton, 1963, p. 76.</span></li>
+<li id="cite_note-unesco-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-unesco_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-unesco_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://whc.unesco.org/en/list/63" rel="nofollow">"Virunga National Park - UNESCO World Heritage List"</a>. <i>UNESCO World Heritage Centre</i>. UNESCO<span class="reference-accessdate">. Retrieved <span class="nowrap">22 January</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirunga+National+Park&amp;rft.atitle=Virunga+National+Park+-+UNESCO+World+Heritage+List&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwhc.unesco.org%2Fen%2Flist%2F63&amp;rft.jtitle=UNESCO+World+Heritage+Centre&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://www.bbc.co.uk/news/world-africa-23526178" rel="nofollow">"<span style="padding-left:0.2em;">'</span>Oil threat' to DR Congo's Virunga National Park"</a>. <i><a href="/wiki/BBC_Online" title="BBC Online">BBC Online</a></i>. BBC News. 31 July 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">2 August</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirunga+National+Park&amp;rft.atitle=%27Oil+threat%27+to+DR+Congo%27s+Virunga+National+Park&amp;rft.date=2013-07-31&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld-africa-23526178&amp;rft.jtitle=BBC+Online&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://savevirunga.com/" rel="nofollow">"Save Virunga"</a>. Save Virunga<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-21</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirunga+National+Park&amp;rft.btitle=Save+Virunga&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsavevirunga.com%2F&amp;rft.pub=Save+Virunga&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.causes.com/virunga-national-park" rel="nofollow">"Keep Oil Exploration Out of Virunga National Park · Causes"</a>. Causes.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-21</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirunga+National+Park&amp;rft.btitle=Keep+Oil+Exploration+Out+of+Virunga+National+Park+%B7+Causes&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.causes.com%2Fvirunga-national-park&amp;rft.pub=Causes.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.nytimes.com/2014/11/16/world/oil-dispute-takes-a-page-from-congos-bloody-past.html?_r=0" rel="nofollow">"Oil Dispute Takes a Page From Congo's Bloody Past"</a>. 2014-11-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-11-19</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirunga+National+Park&amp;rft.btitle=Oil+Dispute+Takes+a+Page+From+Congo%99s+Bloody+Past&amp;rft.date=2014-11-15&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F2014%2F11%2F16%2Fworld%2Foil-dispute-takes-a-page-from-congos-bloody-past.html%3F_r%3D0&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.msnbc.msn.com/id/20012315/site/newsweek/page/3/" rel="nofollow">Gorilla Warfare (<i>Newsweek</i> article)</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since June 2016">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">International Crisis Group, Congo: Bringing Peace to North Kivu, Africa Report No.133, 31 October 2007, p.11</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.bbc.co.uk/news/world-africa-27049627" rel="nofollow">"Belgian Emmanuel de Merode shot in DR Congo ambush"</a>. BBC News. 16 April 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">27 January</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirunga+National+Park&amp;rft.btitle=Belgian+Emmanuel+de+Merode+shot+in+DR+Congo+ambush&amp;rft.date=2014-04-16&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld-africa-27049627&amp;rft.pub=BBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://www.strategypage.com/qnd/congo/articles/20121031.aspx" rel="nofollow">"What's In A Name? That Which We call A Rebel ..."</a><span class="reference-accessdate">. Retrieved <span class="nowrap">1 November</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirunga+National+Park&amp;rft.atitle=What%27s+In+A+Name%3F+That+Which+We+call+A+Rebel+...&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.strategypage.com%2Fqnd%2Fcongo%2Farticles%2F20121031.aspx&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-:0-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:0_11-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:0_11-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-:0_11-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.dailymail.co.uk/wires/afp/article-3411049/NGOs-call-oil-drilling-ban-Africas-Virunga-wildlife-park.html" rel="nofollow">"NGOs seek oil drilling ban in famed mountain gorilla national park"</a>. <i>Mail Online</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-27</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirunga+National+Park&amp;rft.atitle=NGOs+seek+oil+drilling+ban+in+famed+mountain+gorilla+national+park&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.dailymail.co.uk%2Fwires%2Fafp%2Farticle-3411049%2FNGOs-call-oil-drilling-ban-Africas-Virunga-wildlife-park.html&amp;rft.jtitle=Mail+Online&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://wwf.panda.org/wwf_news/?244730/Virunga-National-Park-Intact-for-nine-decades-now-more-threatened-than-ever" rel="nofollow">"Virunga National Park: Intact for nine decades, now more threatened than ever"</a>. <i>wwf.panda.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-20</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirunga+National+Park&amp;rft.atitle=Virunga+National+Park%3A+Intact+for+nine+decades%2C+now+more+threatened+than+ever&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwwf.panda.org%2Fwwf_news%2F%3F244730%2FVirunga-National-Park-Intact-for-nine-decades-now-more-threatened-than-ever&amp;rft.jtitle=wwf.panda.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://m.bbc.com/news/world-africa-31876577" rel="nofollow">"DR Congo seeks Virunga park boundary change"</a>. 2015-03-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-03-13</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirunga+National+Park&amp;rft.btitle=DR+Congo+seeks+Virunga+park+boundary+change&amp;rft.date=2015-03-13&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fm.bbc.com%2Fnews%2Fworld-africa-31876577&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://deforestationofvirunga.weebly.com/" rel="nofollow">"Deforestation of Virunga National Park"</a>. <i>Deforestation of Virunga National Park</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-19</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirunga+National+Park&amp;rft.atitle=Deforestation+of+Virunga+National+Park&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdeforestationofvirunga.weebly.com%2F&amp;rft.jtitle=Deforestation+of+Virunga+National+Park&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-:1-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-:1_15-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://news.nationalgeographic.com/news/2007/08/070816-gorillas-congo.html" rel="nofollow">"Congo Gorilla Killings Fueled by Illegal Charcoal Trade"</a>. <i>news.nationalgeographic.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-19</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirunga+National+Park&amp;rft.atitle=Congo+Gorilla+Killings+Fueled+by+Illegal+Charcoal+Trade&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fnews.nationalgeographic.com%2Fnews%2F2007%2F08%2F070816-gorillas-congo.html&amp;rft.jtitle=news.nationalgeographic.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://ngm.nationalgeographic.com/2008/07/virunga/jenkins-text" rel="nofollow">"Who Murdered the Virunga Gorillas? - National Geographic Magazine"</a>. <i>ngm.nationalgeographic.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-19</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirunga+National+Park&amp;rft.atitle=Who+Murdered+the+Virunga+Gorillas%3F+-+National+Geographic+Magazine&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fngm.nationalgeographic.com%2F2008%2F07%2Fvirunga%2Fjenkins-text&amp;rft.jtitle=ngm.nationalgeographic.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://virungamovie.com/screenings/past" rel="nofollow">"Screenings"</a>. <i>Virunga (Official Website)</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirunga+National+Park&amp;rft.atitle=Screenings&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fvirungamovie.com%2Fscreenings%2Fpast&amp;rft.jtitle=Virunga+%28Official+Website%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news">Sinha-Roy, Pifa (6 November 2014). <a class="external text" href="http://www.reuters.com/article/2014/11/07/us-film-netflix-virunga-idUSKBN0IQ2OB20141107" rel="nofollow">"Netflix's 'Virunga' uncovers Congo's fight to protect resources"</a>. <i><a href="/wiki/Reuters" title="Reuters">Reuters</a></i>. Los Angeles<span class="reference-accessdate">. Retrieved <span class="nowrap">8 November</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirunga+National+Park&amp;rft.atitle=Netflix%27s+%27Virunga%27+uncovers+Congo%27s+fight+to+protect+resources&amp;rft.aufirst=Pifa&amp;rft.aulast=Sinha-Roy&amp;rft.date=2014-11-06&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.reuters.com%2Farticle%2F2014%2F11%2F07%2Fus-film-netflix-virunga-idUSKBN0IQ2OB20141107&amp;rft.jtitle=Reuters&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Virunga_National_Park&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a class="image" href="/wiki/File:Commons-logo.svg"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Virunga_National_Park" title="commons:Category:Virunga National Park">Virunga National Park</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><span class="official-website"><span class="url"><a class="external text" href="http://www.virunga.org" rel="nofollow">Official website</a></span></span></li>
+<li><a class="external text" href="http://www.iccn.gorilla.cd" rel="nofollow">ICCN</a></li>
+<li><a class="external text" href="http://www.visitvirunga.org" rel="nofollow">Tourism Website of Virunga National Park</a></li>
+<li><a class="external text" href="http://www.unep-wcmc.org/sites/wh/pdf/Virunga.pdf" rel="nofollow">UNEP-WCMC Natural Site Data Sheet</a></li>
+<li><a class="external text" href="http://whc.unesco.org/en/list/63" rel="nofollow">UNESCO Virunga National Park Site</a></li>
+<li><a class="external text" href="http://natgeotv.com.au/Programmes/Intro.aspx?Id=1173" rel="nofollow">National Geographic Channel</a></li>
+<li><a class="external text" href="http://www.europeanunion.gorilla.cd" rel="nofollow">European Union in Virunga National Park</a></li>
+</ul>
+<div aria-labelledby="National_Parks_of_the_Democratic_Republic_of_Congo" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style="background:#abdb75;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:National_Parks_of_the_Democratic_Republic_of_Congo" title="Template:National Parks of the Democratic Republic of Congo"><abbr style=";background:#abdb75;;background:none transparent;border:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:National_Parks_of_the_Democratic_Republic_of_Congo" title="Template talk:National Parks of the Democratic Republic of Congo"><abbr style=";background:#abdb75;;background:none transparent;border:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:National_Parks_of_the_Democratic_Republic_of_Congo&amp;action=edit"><abbr style=";background:#abdb75;;background:none transparent;border:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="National_Parks_of_the_Democratic_Republic_of_Congo" style="font-size:114%"><a class="mw-redirect" href="/wiki/List_of_national_parks_of_Africa#Democratic_Republic_of_the_Congo" title="List of national parks of Africa">National Parks of the Democratic Republic of Congo</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Garamba_National_Park" title="Garamba National Park">Garamba</a></li>
+<li><a href="/wiki/Kahuzi-Bi%C3%A9ga_National_Park" title="Kahuzi-Biéga National Park">Kahuzi-Biéga</a></li>
+<li><a href="/wiki/Kundelungu_National_Park" title="Kundelungu National Park">Kundelungu</a></li>
+<li><a href="/wiki/Lomami_National_Park" title="Lomami National Park">Lomami</a></li>
+<li><a href="/wiki/Maiko_National_Park" title="Maiko National Park">Maiko</a></li>
+<li><a href="/wiki/Mangroves_National_Park" title="Mangroves National Park">Mangroves</a></li>
+<li><a class="mw-redirect" href="/wiki/Okapi_National_Park" title="Okapi National Park">Okapi</a></li>
+<li><a href="/wiki/Salonga_National_Park" title="Salonga National Park">Salonga</a></li>
+<li><a href="/wiki/Upemba_National_Park" title="Upemba National Park">Upemba</a></li>
+<li><strong class="selflink">Virunga</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="World_Heritage_Sites_in_the_Democratic_Republic_of_the_Congo" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:World_Heritage_Sites_in_the_Democratic_Republic_of_the_Congo" title="Template:World Heritage Sites in the Democratic Republic of the Congo"><abbr style=";;background:none transparent;border:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:World_Heritage_Sites_in_the_Democratic_Republic_of_the_Congo" title="Template talk:World Heritage Sites in the Democratic Republic of the Congo"><abbr style=";;background:none transparent;border:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:World_Heritage_Sites_in_the_Democratic_Republic_of_the_Congo&amp;action=edit"><abbr style=";;background:none transparent;border:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="World_Heritage_Sites_in_the_Democratic_Republic_of_the_Congo" style="font-size:114%"><a href="/wiki/World_Heritage_Site" title="World Heritage Site">World Heritage Sites</a> in the <a href="/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Democratic Republic of the Congo</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Garamba_National_Park" title="Garamba National Park">Garamba National Park</a></li>
+<li><a href="/wiki/Kahuzi-Bi%C3%A9ga_National_Park" title="Kahuzi-Biéga National Park">Kahuzi-Biega National Park</a></li>
+<li><a href="/wiki/Okapi_Wildlife_Reserve" title="Okapi Wildlife Reserve">Okapi Wildlife Reserve</a></li>
+<li><a href="/wiki/Salonga_National_Park" title="Salonga National Park">Salonga National Park</a></li>
+<li><strong class="selflink">Virunga National Park</strong></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:0%;padding:0px 0px 0px 2px">
+<div>
+<div class="floatright"><a class="image" href="/wiki/File:Flag_of_the_Democratic_Republic_of_the_Congo.svg" title="Flag of the Democratic Republic of the Congo"><img alt="Flag of the Democratic Republic of the Congo" data-file-height="600" data-file-width="800" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/40px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/60px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/80px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png 2x" width="40"/></a></div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1008740-0!*!0!!en!4!* and timestamp 20161110065939 and revision id 747468442
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Virunga_National_Park&amp;oldid=747468442">https://en.wikipedia.org/w/index.php?title=Virunga_National_Park&amp;oldid=747468442</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Category_II" title="Category:IUCN Category II">IUCN Category II</a></li><li><a href="/wiki/Category:Virunga_National_Park" title="Category:Virunga National Park">Virunga National Park</a></li><li><a href="/wiki/Category:National_parks_of_the_Democratic_Republic_of_the_Congo" title="Category:National parks of the Democratic Republic of the Congo">National parks of the Democratic Republic of the Congo</a></li><li><a href="/wiki/Category:Rwenzori_Mountains" title="Category:Rwenzori Mountains">Rwenzori Mountains</a></li><li><a href="/wiki/Category:Virunga_Mountains" title="Category:Virunga Mountains">Virunga Mountains</a></li><li><a href="/wiki/Category:Ramsar_sites_in_the_Democratic_Republic_of_the_Congo" title="Category:Ramsar sites in the Democratic Republic of the Congo">Ramsar sites in the Democratic Republic of the Congo</a></li><li><a href="/wiki/Category:World_Heritage_Sites_in_the_Democratic_Republic_of_the_Congo" title="Category:World Heritage Sites in the Democratic Republic of the Congo">World Heritage Sites in the Democratic Republic of the Congo</a></li><li><a href="/wiki/Category:1925_establishments_in_the_Belgian_Congo" title="Category:1925 establishments in the Belgian Congo">1925 establishments in the Belgian Congo</a></li><li><a href="/wiki/Category:Protected_areas_established_in_1925" title="Category:Protected areas established in 1925">Protected areas established in 1925</a></li><li><a href="/wiki/Category:Conservation_in_the_Democratic_Republic_of_the_Congo" title="Category:Conservation in the Democratic Republic of the Congo">Conservation in the Democratic Republic of the Congo</a></li><li><a href="/wiki/Category:World_Heritage_Sites_in_Danger" title="Category:World Heritage Sites in Danger">World Heritage Sites in Danger</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_June_2016" title="Category:Articles with dead external links from June 2016">Articles with dead external links from June 2016</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_which_use_infobox_templates_with_no_data_rows" title="Category:Articles which use infobox templates with no data rows">Articles which use infobox templates with no data rows</a></li><li><a href="/wiki/Category:Articles_containing_French-language_text" title="Category:Articles containing French-language text">Articles containing French-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2012" title="Category:Articles with unsourced statements from September 2012">Articles with unsourced statements from September 2012</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_time_from_September_2012" title="Category:Vague or ambiguous time from September 2012">Vague or ambiguous time from September 2012</a></li><li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

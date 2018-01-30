@@ -1,0 +1,218 @@
+exhaustgas
+from wikipedia  the free encyclopedia
+jump to 					 
+a diesel-powered truck emits an exhaust gas rich in black particulate matter when starting its engine 
+exhaust gas or
+is emitted as a result of the
+of fuels such as     petrol  biodiesel blends      or   according to the type of engine  it is discharged into the atmosphere through an     or   it often disperses downwind in a pattern called an exhaust plume 
+it is a major component of motor vehicle emissions  and from stationary internal combustion engines   which can also include 
+blow-by
+evaporation of unused gasoline
+motor vehicle emissions contribute to
+and are a major ingredient in the creation of
+in some large cities  a 2013 study by
+indicates that 53,000 early deaths occur per year in the united states alone because of vehicle emissions  according to another study from the same university  traffic fumes alone cause the death of 5,000 people every year just in the united kingdom 
+contents
+composition  
+the largest part of most combustion gas is
+ n2   water vapor  h2o   except with pure-carbon fuels   and
+ co2   except for fuels without carbon   these are not toxic or noxious  although carbon dioxide is a
+that contributes to    a relatively small part of combustion gas is undesirable noxious or toxic substances  such as
+ co  from incomplete combustion 
+ properly indicated as cxhy  but typically shown simply as  hc  on emissions-test slips  from unburnt fuel 
+ nox  from excessive combustion temperatures  and
+ mostly   
+exhaust gas temperature  
+exhaust gas temperature  egt  is important to the functioning of the
+of an   it may be measured by an   egt is also a measure of engine health in gas-turbine engines  see below  
+cold engines  
+steam from tailpipe of cold car
+during the first two minutes after starting the engine of a car that has not been operated for several hours  the amount of emissions can be very high  this occurs for two main reasons 
+rich air-fuel ratio requirement in cold engines  when a cold engine is started  the fuel does not vaporize completely  creating higher emissions of  
+and   which diminishes only as the engine reaches operating temperature  the duration of this start-up phase has been reduced by advances in materials and technology  including   shorter intake lengths  and pre-heating of fuel and or inducted air 
+inefficient catalytic converter under cold conditions  catalytic converters are very inefficient until up to their   this time has been much reduced by moving the converter closer to the exhaust manifold and even more so placing a small yet quick-to-heat-up converter directly at the exhaust manifold  the small converter handles the start-up emissions  which allows enough time for the larger main converter to heat up  further improvements can be realised in many ways  including electric heating  thermal battery  chemical reaction preheating  flame heating and superinsulation 
+passenger car emissions summary  
+u s  environmental protection agency estimates of average passenger car emissions in the united states for april 2000
+component
+emission rate
+annual pollution emitted
+hydrocarbons
+2.80grams mile  1.75 g km 
+77.1 pounds  35.0kg 
+carbon monoxide
+20.9grams mile  13.06 g km 
+575 pounds  261kg 
+nox
+1.39grams mile  0.87 g km 
+38.2 pounds  17.3kg 
+carbon dioxide - greenhouse gas
+415 grams mile  258 g km 
+11,450 pounds  5,190kg 
+comparable with the
+euro iii as it was applied on october 2000
+in 2000  the united states environmental protection agency began to implement more stringent emissions standards for light duty vehicles  the requirements were phased in beginning with 2004 vehicles and all new cars and light trucks were required to meet the updated standards by the end of 2007 
+united states light-duty vehicle  light-duty truck  and medium-duty passenger vehicletier 2 exhaust emission standards  for bin 5 
+component
+emission rate
+annual pollution emitted
+nmog   
+0.075 grams mile  0.046 g km 
+2.1 pounds  0.95kg 
+carbon monoxide
+3.4grams mile  2.1 g km 
+94 pounds  43kg 
+nox
+0.05grams mile  0.0305 g km 
+1.4 pounds  0.64kg 
+0.015grams mile  0.0092 g km 
+0.41 pounds  0.19kg 
+types  
+internal-combustion engines  
+spark-ignition engines  
+see also 
+in
+the gases resulting from combustion of the fuel and air mix are called exhaust gases  the composition varies from petrol to diesel engines  but is around these levels 
+combustion-engine exhaust gases
+all figures are approximate
+  of total
+compound
+petrol
+diesel
+71
+67
+14
+12
+13
+11
+10
+trace elements  
+  0.6
+  0.3
+  0.25
+  0.15
+1 - 2
+  0.045
+  0.045
+  0.25
+  0.03
+possible traces
+  0.03
+the 10  oxygen for  diesel  is likely if the engine was idling  e g  in a test rig  it is much less if the engine is running under load   
+nitromethane additive  
+exhaust gas from an internal combustion engine whose fuel includes
+will contain
+vapour  which is corrosive  and when inhaled causes a muscular reaction making it impossible to breathe  people exposed to it should wear a  
+diesel engines  
+see    
+gas-turbine engines  
+in aircraft gas turbine engines   exhaust gas temperature   egt  is a primary measure of engine health  typically the egt is compared with a primary engine power indication called  engine pressure ratio   epr   for example  at full power epr there will be a maximum permitted egt limit  once an engine reaches a stage in its life where it reaches this egt limit  the engine will require specific maintenance in order to rectify the problem  the amount the egt is below the egt limit is called egt margin  the egt margin of an engine will be greatest when the engine is new  or has been overhauled  for most airlines  this information is also monitored remotely by the airline maintenance department by means of  
+jet engines and rocket engines  
+what looks like exhaust from jet engines  is actually    jet flying over the
+in   
+in
+and   exhaust from
+which in some applications shows    
+other types  
+from burning coal  
+steam engines  
+in
+terminology the exhaust is steam that is now so low in pressure that it can no longer do useful work 
+main motor vehicle emissions  
+nox  
+smog in
+as viewed from the
+in 1988 
+mono-nitrogen oxides no and no2  whether produced this way or naturally by   react with   moisture  and other compounds to form
+vapor and related particles  small particles can penetrate deeply into sensitive lung tissue and damage it  causing premature death in extreme cases  inhalation of such particles may cause or worsen respiratory diseases such as
+and   it may also aggravate existing heart disease  in a 2005
+study the largest emissions of nox came from on road motor vehicles  with the second largest contributor being
+which is mostly gasoline and diesel stations 
+the resulting nitric acid may be washed into soil  where it becomes   which is useful to growing plants 
+volatile organic compounds  
+non-road equipment is mostly gasoline and diesel stations 
+when oxides of nitrogen  nox  and
+ vocs  react in the presence of sunlight  ground level
+is formed  a primary ingredient in   a 2005 u s  epa report gives road vehicles as the second largest source of vocs in the u s  at 26  and 19  are from non road equipment which is mostly gasoline and diesel stations  27  of voc emissions are from solvents which are used in the manufacturer of paints and paint thinners and other uses 
+ozone  
+ozone is beneficial in the upper atmosphere  but at ground level  ozone irritates the   causing coughing  choking  and reduced lung capacity  it also has many bad effects throughout the ecosystem 
+carbon monoxide  co   
+satellite computer image of carbon monoxide march 2010 
+is the most common type of fatal air poisoning in many countries 
+is colorless  odorless and tasteless  but highly toxic  it combines with
+to produce   which is ineffective for delivering oxygen to bodily tissues  in 2011  52  of carbon monoxide emissions were created by mobile vehicles in the u s 
+hazardous air pollutants  toxics   
+ long-term  exposure to
+   damages   it can also cause excessive bleeding and depress the   increasing the chance of   benzene causes leukemia and is associated with other blood cancers and pre-cancers of the blood 
+particulate matter  pm10 and pm2.5   
+the
+of inhaling
+have been widely studied in humans and animals and include     cardiovascular issues  and premature   because of the size of the particles  they can penetrate the deepest part of the lungs  a 2011 uk study estimates 90 deaths per year due to passenger vehicle pm  in a 2006 publication  the
+ fhwa  state that in 2002 about 1 per-cent of all pm10 and 2 per-cent of all pm2.5 emissions came from the exhaust of on-road motor vehicles  mostly from   
+carbon dioxide  co2   
+is a   motor vehicle co2 emissions are part of the anthropogenic contribution to the growth of co2 concentrations in the atmosphere which is causing   motor vehicles are calculated to generate about 20  of the european union s man-made co2 emissions  with passenger cars contributing about 12  
+limit the co2 emissions of new passenger cars and light vehicles  the european union average new car co2 emissions figure dropped by 5.4  in the year to the first quarter of 2010  down to 145.6  
+water vapor  
+vehicle exhaust contains much  
+water recovery  
+there has been research into ways that troops in deserts can recover drinkable water from their vehicles  exhaust gases 
+pollution reduction  
+focus on reducing
+contained in the exhaust gases from vehicles as well as from industrial flue gas stacks and other
+exhaust sources in various large-scale industrial facilities such as   natural gas processing plants 
+plants and
+production plants  however  these are often referred to as  
+in cars intend to break down the pollution of exhaust gases using a catalyst 
+in ships intend to remove the sulfur dioxide  so2  of marine exhaust gases  the regulations on marine sulfur dioxide emissions are tightening  however only a small number of special areas worldwide have been designated for low sulfur diesel fuel use only 
+see also 
+one of the advantages claimed for
+engines is that they produce smaller quantities of toxic pollutants  e g  oxides of nitrogen  than petrol and diesel engines of the same power    they produce larger quantities of carbon dioxide but less carbon monoxide due to more efficient combustion 
+health studies  
+researchers from the university of california  los angeles school of public health say preliminary results of their statistical study of children listed in the california cancer registry born between 1998 and 2007 found that traffic pollution may be associated with a 5  to 15  increase in the likelihood of some cancers  a
+study found that diesel fumes cause an increase in lung cancer 
+localised effects  
+the
+ c a r b   found in studies that 50  or more of the
+   in
+is due to car emissions   
+see also  
+automobile exhaust
+references  
+omidvarborna  et al    journal of environmental chemical engineering  2  4   23352342    
+caiazzo  fabio  ashok  akshay  waitz  ian a   yim  steve h l   barrett  steven r h   november 2013     atmospheric environment  elsevier  79  198208        retrieved 25 october 2013 
+roland pease    bbc news 
+pulkrabek w w   2004  engineering fundamentals of the internal combustion engine  pearson prentice hall  new jersey
+ pdf   transportation and air quality  united states environmental protection agency 
+  emission standards reference guide  united states environmental protection agency  14 november 2012 
+ pdf   audi  april 2000  retrieved 23 march 2012 
+  nitrogen dioxide  united states environmental protection agency  14 february 2013 
+ pdf   united states environmental protection agency  september 1998 
+ 
+  air emission sources  united states environmental protection agency  25 october 2013 
+ 
+  air emission sources  united states environmental protection agency  25 october 2013 
+  toxic substances hydrology program  united states geological survey  usgs   12 april 2013 
+omaye st   2002    metabolic modulation of carbon monoxide toxicity   toxicology  180  2   139150      
+  air emission sources  united states environmental protection agency  25 october 2013 
+  automobile association developments limited  23 february 2012 
+ pdf   transportation and air quality  united states environmental protection agency 
+region 4  laboratory and field operations  pm 2.5  2008  pm 2.5 objectives and history  u s  environmental protection agency 
+mazzi  eric a   dowlatabadi  hadi  2007    air quality impacts of climate mitigation  uk policy and passenger vehicle choice   environmental science   technology  41  2   387    
+  u s  department of transportation federal highway commission  2006  retrieved 2010-04-14 
+ipcc  2013  summary for policymakers  in  climate change 2013  the physical science basis  contribution of working group i to the fifth assessment report of the intergovernmental panel on climate change  stocker  t f   d  qin  g -k  plattner  m  tignor  s k  allen  j  boschung  a  nauels  y  xia  v  bex and p m  midgley  eds     cambridge university press  cambridge  united kingdom and new york  ny  usa  
+  european commission  2007-02-07 
+  autoevolution  softnews net  2010-04-19 
+ap 42  fifth edition  compilation of air pollutant emission factors
+reinberg  steven  9 april 2013     usnews 
+external links  
+publication of the
+cone  tracie  13 november 2008     huffington post 
+  alpha online  environmed research inc 
+  clean vehicles  union of concerned scientists  3 september 2013 
+about diesel exhaust 
+motor fuels
+fuel types
+fluids
+full service
+ 
+retrieved from   
+  hidden categories 

@@ -1,0 +1,132 @@
+jstor
+from wikipedia  the free encyclopedia
+jump to 					 
+jstor
+screenshot
+the jstor front page
+type of site
+availablein
+ includes content in other languages 
+owner
+createdby
+website
+rank
+2,674  october 2016 
+registration
+yes
+launched
+1995  21years ago 1995 
+currentstatus
+active
+number
+jstor     short for journal storage  is a
+founded in 1995  originally containing
+back issues of   it now also includes books and primary sources  and current issues of journals  it provides
+of almost 2,000 journals  more than 8,000 institutions in more than 160 countries have access to jstor  most access is by subscription  but some older
+content is freely available to anyone 
+contents
+history  
+  president of
+from 1972 to 1988  founded jstor  jstor originally was conceived as a solution to one of the problems faced by libraries  especially   due to the increasing number of academic journals in existence  most libraries found it prohibitively expensive in terms of cost and space to maintain a comprehensive collection of journals  by digitizing many journal titles  jstor allowed libraries to outsource the storage of journals with the confidence that they would remain available long-term  online access and full-text search ability improved access dramatically 
+bowen initially considered using cd-roms for distribution  however    princeton university s vice-president for computing and information technology  convinced bowen that cd-rom was an increasingly outdated technology and that network distribution could eliminate redundancy and increase accessibility   for example  all princeton s administrative and academic buildings were networked by 1989  the student dormitory network was completed in 1994  and campus networks like the one at princeton were  in turn  linked to larger networks such as
+and the    jstor was initiated in 1995 at seven different library sites  and originally encompassed ten economics and history journals  jstor access improved based on feedback from its initial sites  and it became a fully searchable index accessible from any ordinary   special software was put in place   to make pictures and graphs clear and readable 
+with the success of this limited project  bowen and kevin guthrie  then-president of jstor  wanted to expand the number of participating journals  they met with representatives of the
+and an agreement was made   to digitize the
+dating from its beginning in 1665  the work of adding these volumes to jstor was completed by december 2000 
+the
+funded jstor initially  until january 2009 jstor operated as an independent  self-sustaining
+with offices in
+and in     then jstor merged with the nonprofit
+- a nonprofit organization founded in 2003 and  dedicated to helping the
+take full advantage of rapidly advancing information and networking technologies  
+content  
+jstor content is provided by more than 900 publishers  the
+contains more than 1,900 journal titles  in more than 50 disciplines  each object is uniquely identified by an integer value  starting at 1 
+in addition to the main site  the jstor labs group operates an open service that allows access to the contents of the archives for the purposes of corpus analysis at its data for research service  this site offers a search facility with graphical indication of the article coverage and loose integration into the main jstor site  users may create focused sets of articles and then request a dataset containing word and
+frequencies and basic metadata  they are notified when the dataset is ready and may download it in either
+or
+formats  the service does not offer full-text  although academics may request that from jstor  subject to a non-disclosure agreement 
+jstor plant science is available in addition to the main site  jstor plant science provides access to content such as plant type specimens  taxonomic structures  scientific literature  and related materials and aimed at those researching  teaching  or studying botany  biology  ecology  environmental  and conservation studies  the materials on jstor plant science are contributed through the global plants initiative  gpi  and are accessible only to jstor and gpi members  two partner networks are contributing to this  the african plants initiative  which focuses on plants from africa  and the latin american plants initiative  which contributes plants from latin america 
+jstor launched its books at jstor program in november 2012  adding 15,000 current and backlist books to its site  the books are linked with reviews and from citations in journal articles 
+access  
+jstor is licensed mainly to academic institutions  public libraries  research institutions  museums  and schools  more than 7,000 institutions in more than 150 countries have access  jstor has been running a pilot program of allowing subscribing institutions to provide access to their alumni  in addition to current students and staff  the alumni access program officially launched in january 2013  individual subscriptions also are available to certain journal titles through the journal publisher  every year  jstor blocks 150 million attempts by non-subscribers to read articles 
+inquiries have been made about the possibility of making jstor   according to harvard law professor   jstor had been asked  how much would it cost to make this available to the whole world  how much would we need to pay you  the answer was  250 million  
+aaron swartz incident  
+main article 
+see also 
+in late 2010 and early 2011  internet activist
+used  s data network to bulk-download a substantial portion of jstor s collection of academic journal articles  when the bulk-download was discovered  jstor employees initially placed a video camera in the room to film the mysterious visitor and left the relevant computer untouched  once video was captured of the visitor  the download was stopped and swartz identified  rather than pursue a civil lawsuit against him  in june 2011 they reached a settlement wherein he surrendered the downloaded data  the articles that were downloaded by swartz were from scholarly journals which published scientific papers largely funded by public universities and taxpayer money 
+the following month  federal authorities charged swartz with several   -related crimes  including   computer fraud  unlawfully obtaining information from a   and recklessly damaging a protected computer  prosecutors in the case claimed that swartz acted with the intention of making the papers available on  
+swartz surrendered to authorities  pleaded not guilty to all counts  and was released on  100,000 bail  in september 2012  u s  attorneys increased the number of charges against swartz from four to thirteen  with a possible penalty of 35 years in prison and  1 million in fines  the case still was pending when swartz committed
+in january 2013  prosecutors dropped the charges after his death 
+limitations  
+the availability of most journals on jstor is controlled by a     which is an agreed-upon delay between the current volume of the journal and the latest volume available on jstor  this time period is specified by agreement between jstor and the publisher of the journal  which usually is three to five years  publishers may request that the period of a  moving wall  be changed or request discontinuation of coverage  formerly  publishers also could request that the  moving wall  be changed to a  fixed wall a specified date after which jstor would not add new volumes to its database  as of november 2010   fixed wall  agreements were still in effect with three publishers of 29 journals made available online through sites controlled by the publishers 
+in 2010  jstor started adding current issues of certain journals through its current scholarship program 
+increasing public access  
+beginning september 6  2011  jstor made public domain content freely available to the public  this  early journal content  program constitutes about 6  of jstor s total content  and includes over 500,000 documents from more than 200 journals that were published before 1923 in the united states  and before 1870 in other countries  jstor stated that it had been working on making this material free for some time  the swartz controversy and greg maxwell s protest
+of the same content led jstor to  press ahead  with the initiative 
+in january 2012  jstor started a pilot program   register   read   offering limited no-cost access  not   to archived articles for individuals who register for the service  at the conclusion of the pilot  in january 2013  jstor expanded register   read from an initial 76 publishers to include about 1,200 journals from over 700 publishers  registered readers may read up to three articles online every two weeks  but may not print or download pdfs 
+this is done by placing up to 3 items on a  shelf   the  shelf  is under  my jstor  below  my profile   the 3 works can then be read online at any time  an item cannot be removed from the shelf until it has been there for 14 days  removing an old work from the shelf creates space for a new one  but doing so means the old work can no longer be accessed until it is shelved again 
+jstor is conducting a   whereby established editors are given reading privileges through the wikipedia library  as with a university library 
+use  
+in 2012  jstor users performed nearly 152 million searches  with more than 113 million article views and 73.5 million article downloads  jstor has been used as a resource for linguistics research to investigate trends in language use over time and also to analyze gender differences in scholarly publishing 
+see also  
+references  
+ 
+  ithaka  retrieved 2009-10-25 
+    retrieved 2016-10-03 
+  youtube  retrieved 16 december 2012 
+ 
+ at a glance   pdf  format  requires  url      jstor  february 13  2012  jstor 
+ 
+ pdf   jstor  19 march 2013  retrieved 13 april 2013 
+ 
+leitch  alexander     
+ jstor  a history  by roger c  schonfeld  princeton university press  2003
+ 
+taylor  john  2001    jstor  an electronic archive from 1665   notes and records of the royal society of london  55  1   17981     jstor 
+  jstor  retrieved 28 november 2015 
+  jstor 
+  jstor 
+  jstor 
+  jstor  november 12  2012  retrieved december 1  2012 
+  jstor  retrieved december 1  2012   subscription required 
+  jstor  retrieved december 1  2012   subscription required 
+  the atlantic  retrieved 29 january 2013 
+  youtube  2013-02-20   retrieved on 2014-04-12 
+ 
+  jstor  2011-07-19 
+ 
+  the huffington post  2013-01-12 
+bilton  nick  july 19  2011     bits blog  the new york times  retrieved december 1  2012 
+schwartz  john  july 19  2011     new york times  retrieved july 19  2011 
+lindsay  jay  july 19  2011       retrieved july 20  2011 
+ortiz  carmen  2011-07-19     the united states attorney s office  
+from the original on 2011-07-24 
+kravets  david  2012-09-18      
+  bbc news
+  money cnn com
+  jstor 
+  jstor  retrieved december 1  2012 
+ 
+brown  laura  september 7  2011       jstor  retrieved december 1  2012 
+ 
+rapp  david  2011-09-07     library journal 
+  jstor  retrieved december 1  2012 
+tilsley  alexandra  january 9  2013       retrieved 6 january 2015 
+  jstor  retrieved 2015-10-21 
+orlowitz  jake  earley  patrick  january 25  2014     the digital shift    retrieved 20 december 2014 
+price  gary  june 22  2014     infodocket    retrieved 20 december 2014 
+shapiro  fred r   1998    a study in computer-assisted lexicology  evidence on the emergence of hopefully as a sentence adverb from the jstor journal archive and other electronic resources   american speech  73  3   279296     jstor 
+wilson  robin  october 22  2012       retrieved 6 january 2015 
+further reading  
+gauger  barbara j  kacena  carolyn  2006    jstor usage data and what it can tell us about ourselves  is there predictability based on historical use by libraries of similar size    oclc systems   services  22  1   4355    
+schonfeld  roger c  2003   jstor  a history  princeton  nj  princeton university press   
+seeds  robert s  november 2002    impact of a digital archive  jstor  on print collection use   collection building  21  3   12022    
+spinella  michael p  2007    jstor   journal of library administration  46  2   5578    
+spinella  michael  2008    jstor and the changing digital landscape   interlending   document supply  36  2   7985    
+external links  
+  jstor  retrieved 2015-10-21   searchable database  includes many public libraries offering free access to library card holders 
+  jstor  retrieved 2015-10-21   free individual registration  offering free read-only access  no printing or saving  to three articles every two weeks  seventy-eight per year  
+retrieved from   
+  hidden categories 

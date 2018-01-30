@@ -1,0 +1,461 @@
+contract
+from wikipedia  the free encyclopedia
+jump to 					 
+ legally binding  redirects here  for other uses  see  
+ contracting  redirects here  for other uses  see  
+contract law
+part of the
+series
+contract formation
+defenses against formation
+contract interpretation
+excuses for non-performance
+rights of third parties
+related areas of law
+other
+areas
+    and
+a contract is a voluntary arrangement between two or more
+that is enforceable at law as a binding legal agreement  contract is a branch of the
+in jurisdictions of the
+tradition 
+a contract arises when the parties agree that there is an agreement  formation of a contract generally requires an     and a   each party to a contract must have capacity to enter the agreement  minors  intoxicated persons  and those under a mental affliction may have insufficient capacity to enter a contract  some types of contracts may   such as a memorialization in writing 
+contents
+formation  
+at common law  the elements of a contract are offer  acceptance  intention to create legal relations  and consideration 
+not all agreements are necessarily contractual  as the parties generally must be deemed to have an   a
+is one which is not intended to be legally enforceable  and which is  binding in honour only  
+offer and acceptance  
+main articles 
+and
+in order for a contract to be formed  the parties must reach mutual assent  also called a    this is typically reached through offer and an acceptance which does not vary the offer s terms  which is known as the     if a purported acceptance does vary the terms of an offer  it is not an acceptance but a counteroffer and  therefore  simultaneously a rejection of the original offer  the
+disposes of the mirror image rule in 2-207  although the ucc only governs transactions in goods in the usa  as a court cannot read minds  the intent of the parties is interpreted
+from the perspective of a   as determined in the early english case of
+ 1871   it is important to note that where an offer specifies a particular mode of acceptance  only an acceptance communicated via that method will be valid 
+contracts may be
+or   a bilateral contract is an agreement in which each of the parties to the contract makes a
+or set of promises to each other  for example  in a contract for the sale of a home  the buyer promises to pay the seller  200,000 in exchange for the seller s promise to deliver title to the property  these common contracts take place in the daily flow of
+transactions  and in cases with sophisticated or expensive promises may involve extensive
+and various
+requirements  which are requirements that must be met for the contract to be fulfilled 
+less common are unilateral contracts in which one party makes a promise  but the other side does not promise anything  in these cases  those accepting the offer are not required to communicate their acceptance to the offeror  in a reward contract  for example  a person who has lost a dog could promise a reward if the dog is found  through publication or orally  the payment could be additionally conditioned on the dog being returned alive  those who learn of the reward are not required to search for the dog  but if someone finds the dog and delivers it  the promisor is required to pay  in the similar case of advertisements of deals or bargains  a general rule is that these are not contractual offers but merely an  invitation to treat   or bargain   but the applicability of this rule is disputed and contains various exceptions  the high court of australia stated that the term unilateral contract is  unscientific and misleading  
+in certain circumstances  an
+may be created  a contract is
+if the circumstances imply that parties have reached an agreement even though they have not done so expressly  for example  a
+may implicitly enter a contract by visiting a doctor and being examined  if the patient refuses to pay after being examined  the patient has
+implied in fact  a contract which is
+is also called a   because it is not in fact a contract  rather  it is a means for the
+to remedy situations in which one party would be
+were he or she not required to compensate the other 
+claims are an example 
+invitation to treat  
+main article 
+where a something is advertised in a newspaper or on a poster  this will not normally constitute an offer but will instead be an   an indication that one or both parties are prepared to negotiate a deal 
+the carbolic smoke ball offer
+an exception arises if the advertisement makes a unilateral promise  such as the offer of a reward  as in the famous case of   decided in   carbolic  a medical firm  advertised a
+marketed as a
+that would  according to the instructions  protect users from catching the   if it did not work  buyers would receive 100 and the company said that they had deposited 1,000 in the bank to show their good faith  when sued  carbolic argued the advert was not to be taken as a serious 
+  instead it was  a mere puff   or   but the
+held that it would appear to a
+that carbolic had made a serious offer  and determined that the reward was a contractual promise 
+although an invitation to treat cannot be accepted  it should not be ignored  for it may nevertheless affect the offer  for instance  where an offer is made in response to an invitation to treat  the offer may incorporate the terms of the invitation to treat  unless the offer expressly incorporates different terms   if  as in the boots case  the offer is made by an action without any negotiations  such as presenting goods to a cashier   the offer will be presumed to be on the terms of the invitation to treat 
+auctions are governed by the sale of goods act 1979  as amended   where 57 2  provides  a sale by auction is complete when the auctioneer announces its completion by the fall of the hammer  or in other customary manner  until the announcement is made any bidder may retract his bid 
+intention to be legally bound  
+main article 
+in commercial agreements it is presumed that parties intend to be legally bound unless the parties expressly state the opposite as in a
+document  for example  in
+an agreement between two business parties was not enforced because an  honour clause  in the document stated  this is not a commercial or legal agreement  but is only a statement of the intention of the parties  
+in contrast  domestic and social agreements such as those between children and parents are typically unenforceable on the basis of   for example  in the english case
+a husband agreed to give his wife 30 a month while he was away from home  but the court refused to enforce the agreement when the husband stopped paying  in contrast  in
+the court enforced an agreement between an estranged couple because the circumstances suggested their agreement was more than a domestic arrangement 
+consideration  
+main article 
+is a concept devised by english common law  and is required for simple contracts  but not for special contracts  contracts by    the case of currie v misa declared consideration to be a right  interest  profit  benefit  or forbearance  detriment  loss  responsibility  thus  consideration is a promise of something of value given by a promissor in exchange for something of value given by a promisee  and typically the thing of value is goods  money  or an act  forbearance to act  such as an adult promising to refrain from smoking  is enforceable only if one is thereby surrendering a legal right 
+in colonial times  the concept of consideration was exported to many common law countries  but it is unknown in scotland and in civil law jurisdictions  roman law-based systems neither require nor recognise consideration  and some commentators have suggested that consideration be abandoned  and estoppel be used to replace it as a basis for contracts  however    rather than judicial development  has been touted as the only way to remove this entrenched common law doctrine 
+famously stated that  the doctrine of consideration is too firmly fixed to be overthrown by a side-wind   in the united states  the emphasis has shifted to the process of bargaining as exemplified by
+ 1891  
+courts will typically not weigh the  adequacy  of consideration provided the consideration is determined to be  sufficient   with sufficiency defined as meeting the test of law  whereas  adequacy  is the subjective fairness or equivalence  for instance  agreeing to sell a car for a penny may constitute a binding contract  although if the transaction is an attempt to avoid tax  it will be treated by the tax authority as though a market price had been paid   parties may do this for tax purposes  attempting to disguise gift transactions as contracts  this is known as the peppercorn rule  but in some jurisdictions  the penny may constitute legally insufficient nominal consideration  an exception to the rule of adequacy is money  whereby a debt must always be paid in full for    
+however  consideration must be given as part of entering the contract  not prior as in past consideration  for example  in the early english case of eastwood v  kenyon  1840   the guardian of a young girl took out a loan to educate her  after she was married  her husband promised to pay the debt but the loan was determined to be past consideration  the insufficiency of past consideration is related to the preexisting duty rule  in the early english case of
+ 1809   a captain promised to divide the wages of two deserters among the remaining crew if they agreed to sail home short-handed  however  this promise was found unenforceable as the crew were already contracted to sail the ship  the preexisting duty rule also extends to general legal duties  for example  a promise to refrain from committing a tort or crime is not sufficient 
+capacity  
+main article 
+sometimes the capacity of either
+or
+persons to either enforce contracts  or have contracts enforced against them is restricted  for instance  very small children may not be held to bargains they have made  on the assumption that they lack the maturity to understand what they are doing  errant employees or directors may be prevented from contracting for their company  because they have acted
+ beyond their power   another example might be people who are mentally incapacitated  either by disability or drunkenness 
+each contractual party must be a  competent person  having legal capacity  the parties may be natural persons   individuals   or
+      an agreement is formed when an  offer  is accepted  the parties must have an   and to be valid  the agreement must have both proper
+and a lawful object  in
+ and in
+using english contract principles   the parties must also exchange    to create a  mutuality of obligation   as in  
+in the united states  persons under 18 are typically
+and their contracts are considered   however  if the minor voids the contract  benefits received by the minor must be returned  the minor can enforce breaches of contract by an adult while the adult s enforcement may be more limited under the bargain principle   
+or
+may be available  but generally are not 
+formalities and writing requirements for some contracts  
+main article 
+a contract is often evidenced in writing or by   but a valid contract may  with some exceptions  be made orally or even by conduct  remedies for
+include  damages   monetary compensation for loss  and  for serious breaches only   repudiation   i e  cancellation   the equitable remedy of   enforceable through an   may be available if damages are insufficient 
+typically  contracts are oral or written  but written contracts have typically been preferred in
+legal systems  in 1677 england passed the
+which influenced similar
+laws in the united states and other countries such as australia  in general  the
+as adopted in the united states requires a written contract for tangible product sales in excess of  500  and real estate contracts are required to be written  if the contract is not required by law to be written  an oral contract is valid and therefore legally binding  the united kingdom has since replaced the original statute of frauds  but written contracts are still required for various circumstances such as land  through the   
+an
+may also be called a parol contract or a verbal contract  with  verbal  meaning  spoken  rather than  in words   an established usage in
+with regards to contracts and agreements  and common although somewhat deprecated as  loose  in  
+if a contract is in a written form  and somebody signs it  then the signer is typically bound by its terms regardless of whether they have actually read it
+provided the document is contractual in nature  however  affirmative defenses such as duress or unconscionability may enable the signer to avoid the obligation  further  reasonable notice of a contract s terms must be given to the other party prior to their entry into the contract 
+an unwritten  unspoken contract  also known as  a contract implied by the acts of the parties   which can be either an
+or   may also be legally binding  implied-in-fact contracts are real contracts under which the parties receive the  benefit of the bargain   however  contracts implied in law are also known as quasi-contracts  and the remedy is   the fair market value of goods or services rendered 
+contract terms  construction and interpretation  
+main article 
+a
+is  an y  provision forming part of a contract   each term gives rise to a contractual obligation 
+of which can give rise to   not all
+are stated expressly and some
+carry less legal weight as they are peripheral to the objectives of the contract 
+uncertainty  incompleteness and severance  
+see also 
+and
+if the terms of the contract are uncertain or incomplete  the parties cannot have reached an agreement in the eyes of the law  an agreement to agree does not constitute a contract  and an inability to agree on key issues  which may include such things as
+or safety  may cause the entire contract to fail  however  a court will attempt to give effect to
+where possible  by construing a reasonable construction of the contract  in new south wales  even if there is uncertainty or incompleteness in a contract  the contract may still be binding on the parties if there is a sufficiently certain and complete clause requiring the parties to undergo arbitration  negotiation or mediation 
+courts may also look to external standards  which are either mentioned explicitly in the contract or implied by
+in a certain field  in addition  the court may also imply a term  if price is excluded  the court may imply a reasonable price  with the exception of land  and second-hand goods  which are unique 
+if there are uncertain or incomplete clauses in the contract  and all options in resolving its true meaning have failed  it may be possible to sever and void just those affected clauses if the contract includes a   the test of whether a clause is severable is an whether a
+would see the contract standing even without the clauses  typically  non-severable contracts only require the substantial performance of a promise rather than the whole or complete performance of a promise to warrant payment  however  express clauses may be included in a non-severable contract to explicitly require the full performance of an obligation 
+classification of terms  
+contractual terms are classified differently depending upon the context or jurisdiction  terms establish   english  but not necessarily non-english  common law distinguishes between important conditions and   with a breach of a condition by one party allowing the other to repudiate and be discharged while a warranty allows for remedies and damages but not complete discharge  whether or not a term is a condition is determined in part by the parties  intent 
+in a less technical sense  however  a condition is a generic term and a warranty is a promise  not all language in the contract is determined to be a contractual term  representations  which are often precontractual  are typically less strictly enforced than terms  and material misrepresentations historically was a cause of action for the   warranties were enforced regardless of materiality  in modern united states law the distinction is less clear but warranties may be enforced more strictly  statements of opinion may be viewed as  mere puff  
+in specific circumstances these terms are used differently  for example  in english insurance law  violation of a  condition precedent  by an insured is a complete defense against the payment of claims  160 in general insurance law  a warranty is a promise that must be complied with  in product transactions  warranties promise that the product will continue to function for a certain period of time 
+in the united kingdom the courts determine whether a term is a condition or warranty  for example  an actress  obligation to perform the opening night of a
+production is a condition  but a singer s obligation to rehearse may be a warranty 
+may also declare a term or nature of term to be a condition or warranty  for example the
+s15a provides that terms as to title  description  quality and sample are generally conditions  the united kingdom has also contrived the concept of an  intermediate term   also called innominate   first established in
+ 1962  
+representations versus warranties  
+statements of fact in a contract or in obtaining the contract are considered to be either
+or representations  traditionally  warranties are factual promises which are enforced through a contract legal action  regardless of materiality  intent  or reliance  representations are traditionally precontractual statements which allow for a tort-based action  such as the   if the misrepresentation is negligent or fraudulent  historically a tort was the only action available  but by 1778  breach of warranty became a separate legal contractual action  in u s  law  the distinction between the two is somewhat unclear  warranties are viewed as primarily contract-based legal action while negligent or fraudulent misrepresentations are tort-based  but there is a confusing mix of case law in the united states  in modern english law  sellers often avoid using the term  represents  in order to avoid claims under the   while in america  warrants and represents  is relatively common  some modern commentators suggest avoiding the words and substituting  state  or  agree   and some model forms do not use the words  however  others disagree 
+statements in a contract may not be upheld if the court finds that the statements are subjective or promotional   english courts may weigh the emphasis or relative knowledge in determining whether a statement is enforceable as part of the contract  in the english case of bannerman v  white the court upheld a rejection by a buyer of hops which had been treated with sulphur since the buyer explicitly expressed the importance of this requirement  the relative knowledge of the parties may also be a factor  as in english case of bissett v  wilkinson where the court did not find misrepresentation when a seller said that farmland being sold would carry 2000 sheep if worked by one team  the buyer was considered sufficiently knowledgeable to accept or reject the seller s opinion 
+standard terms and contracts of adhesion  
+contain  boilerplate   which is a set of    contract provisions  however  the term may also narrowly refer to conditions at the end of the contract which specify the governing law provision  venue  assignment and delegation  waiver of jury trial  notice  and   restrictive provisions in contracts where the consumer has little negotiating power   contracts of adhesion   attract
+scrutiny 
+implied terms  
+a term may either be express or implied  an express term is stated by the parties during negotiation or written in a contractual document  implied terms are not stated but nevertheless form a provision of the contract 
+terms implied in fact  
+terms may be implied due to the factual circumstances or conduct of the parties  in the
+case of
+the uk
+proposed a five-stage test to determine situations where the facts of a case may imply terms  the classic tests have been the  business efficacy test  and the  officious bystander test   under the  business efficacy test  first proposed in
+ 1889   the minimum terms necessary to give business efficacy to the contract will be implied  under the officious bystander test  named in
+ 1940  but actually originating in reigate v  union manufacturing co  ramsbottom  ltd  1918    a term can only be implied in fact if an  officious bystander  listening to the contract negotiations suggested that the term be included the parties would promptly agree  the difference between these tests is questionable 
+terms implied in law  
+or
+may create implied contractual terms  particularly in standardized relationships such as employment or shipping contracts  the uniform commercial code of the united states also imposes an
+in performance and enforcement of contracts covered by the code  in addition   
+and
+imply a similar good faith term through laws 
+in england  some contracts  insurance and partnerships  require   while others may require
+ employment contracts and agency   most english contracts do not need any good faith  provided that the law is met  there is  however  an overarching concept of    
+most
+have statutes which deal directly with sale of goods  lease transactions  and trade practices  in the united states  prominent examples include  in the case of products  an implied
+of merchantability and fitness for a particular purpose  and in the case of homes an implied warranty of habitability 
+in the united kingdom  implied terms may be created by 
+statute  such as the   the
+and the  
+common law  such as   which introduced the  business efficacy  test 
+previous dealings  as in  
+custom  as in  
+third parties  
+main article 
+the common law doctrine of privity of contract provides that only those who are party to a contract may sue or be sued on it  the leading case of tweddle v atkinson  1861 
+immediately showed that the doctrine had the effect of defying the intent of the parties  in   the cases of scruttons v midland silicones  1962 
+and n z  shipping v satterthwaite  1975 
+established how third parties could gain the protection of limitation clauses within a   a number of common law exceptions allowed some circumvention  but the unpopular doctrine remained intact until it was amended by the
+which provides 
+a person who is not a party to a contract  a third party  may in his own right enforce a contract if 
+ a  the contract expressly provides that he may  or
+ b  the contract purports to confer a benefit on him 
+performance  
+performance varies according to the particular circumstances  while a contract is being performed  it is called an   and when it is completed it is an executed contract  in some cases there may be
+but not complete performance  which allows the performing party to be partially compensated 
+defenses  
+vitiating factors constituting defences to purported contract formation include 
+ such as  
+  including mental incompetence and infancy minority
+or fraud
+such defenses operate to determine whether a purported contract is either  1 void or  2 voidable  void contracts cannot be ratified by either party  voidable contracts can be ratified 
+misrepresentation  
+main article 
+misrepresentation means a false statement of fact made by one party to another party and has the effect of inducing that party into the contract  for example  under certain circumstances  false statements or promises made by a seller of goods regarding the quality or nature of the product that the seller has may constitute misrepresentation  a finding of misrepresentation allows for a remedy of rescission and sometimes damages depending on the type of misrepresentation 
+there are two types of misrepresentation  fraud in the factum and fraud in inducement  fraud in the factum focuses on whether the party alleging misrepresentation knew they were creating a contract  if the party did not know that they were entering into a contract  there is no meeting of the minds  and the contract is void  fraud in inducement focuses on misrepresentation attempting to get the party to enter into the contract  misrepresentation of a material fact  if the party knew the truth  that party would not have entered into the contract  makes a contract voidable 
+according to
+ 1986  it is possible to misrepresent either by words or conduct  generally  statements of opinion or intention are not statements of fact in the context of misrepresentation  if one party claims specialist knowledge on the topic discussed  then it is more likely for the courts to hold a statement of opinion by that party as a statement of fact 
+it is a fallacy that an opinion cannot be a statement of fact  if a statement is the honest expression of an opinion honestly entertained  it cannot be said that it involves any fraudulent misrepresentations of fact 
+mistake  
+main article 
+a mistake is an incorrect understanding by one or more parties to a contract and may be used as grounds to invalidate the agreement  common law has identified three different types of mistake in contract  common mistake  mutual mistake  and unilateral mistake 
+a common mistake occurs when both parties hold the same mistaken belief of the facts  this is demonstrated in the case of   which established that common mistake can only void a contract if the mistake of the subject-matter was sufficiently fundamental to render its identity different from what was contracted  making the performance of the contract impossible  see also svanosi v mcnamara  
+a mutual mistake occurs when both parties of a contract are mistaken as to the terms  each believes they are contracting to something different  the court usually tries to uphold such a mistake if a reasonable interpretation of the terms can be found  however  a contract based on a mutual mistake in judgment does not cause the contract to be voidable by the party that is adversely affected  see  
+a unilateral mistake occurs when only one party to a contract is mistaken as to the terms or subject-matter  the courts will uphold such a contract unless it was determined that the non-mistaken party was aware of the mistake and tried to take advantage of the mistake  it is also possible for a contract to be void if there was a mistake in the identity of the contracting party  an example is in lewis v  avery where
+held that the contract can only be avoided if the plaintiff can show that  at the time of agreement  the plaintiff believed the other party s identity was of vital importance  a mere mistaken belief as to the credibility of the other party is not sufficient 
+duress and undue influence  
+main articles 
+and
+duress has been defined as a  threat of harm made to compel a person to do something against his or her will or judgment  esp   a wrongful threat made by one person to compel a manifestation of seeming assent by another person to a transaction without real volition   an example is in
+ 1976  in a person was threatened with death if they did not sign the contract  an innocent party wishing to set aside a contract for duress to the person need only to prove that the threat was made and that it was a reason for entry into the contract  the
+then shifts to the other party to prove that the threat had no effect in causing the party to enter into the contract  there can also be duress to goods and sometimes   economic duress  
+undue influence is an equitable doctrine that involves one person taking advantage of a position of power over another person through a special relationship such as between parent and child or solicitor and client  as an equitable doctrine  the court has discretion  when no special relationship exists  the question is whether there was a relationship of such trust and confidence that it should give rise to such a presumption  see odorizzi v  bloomfield school district   
+unconscionable dealing  
+main article 
+in australian law  a contract can be set aside due to unconscionable dealing  firstly  the claimant must show that they were under a special disability  the test for this being that they were unable to act in their best interest  secondly  the claimant must show that the defendant took advantage of this special disability 
+illegal contracts  
+main article 
+if based on an illegal purpose or contrary to   a contract is void  in the 1996
+case of royal bank of canada v  newell a woman forged her husband s signature  and her husband signed agreed to assume  all liability and responsibility  for the forged checks  however  the agreement was unenforceable as it was intended to  stifle a criminal prosecution   and the bank was forced to return the payments made by the husband 
+in the u s   one unusual type of unenforceable contract is a personal
+contract to work as a spy or secret agent  this is because the very secrecy of the contract is a condition of the contract  in order to maintain    if the spy subsequently sues the government on the contract over issues like salary or benefits  then the spy has breached the contract by revealing its existence  it is thus unenforceable on that ground  as well as the public policy of maintaining
+ since a disgruntled agent might try to reveal all the government s secrets during his her lawsuit   other types of unenforceable employment contracts include contracts agreeing to work for less than
+and forfeiting the right to
+in cases where workman s compensation is due 
+remedies for defendant on defenses  
+setting aside the contract  
+there can be four different ways in which contracts can be set aside  a contract may be deemed            or  ineffective   voidness implies that a contract never came into existence  voidability implies that one or both parties may declare a contract ineffective at their wish  kill fees are paid by magazine publishers to authors when their articles are submitted on time but are subsequently not used for publication  when this occurs  the magazine cannot claim copyright for the  killed  assignment  unenforceability implies that neither party may have recourse to a court for a remedy  ineffectiveness implies that the contract terminates by order of a court where a public body has failed to satisfy
+law  to
+is to set aside or unmake a contract 
+disputes  
+choice of forum  
+many contracts contain a clause setting out where disputes in relation to the contract should be litigated  whether the  chosen court  will exercise jurisdiction  and whether courts not chosen will decline jurisdiction depends on the legislation of the state concerned  on whether the clause is in conformity with formal requirements  in many u s  states a choice of court agreement clause is only exclusive  when the word  exclusive  is explicitly mentioned  and the type of action  some states will not accept action that have no connection to the court that was chosen  and others will not recognise a choice of court clause when they consider them themselves a more   multilateral instruments requiring non-chosen courts dismiss cases  and require recognition of judgements made by courts having jurisdiction based on a choice of court clause are the
+instruments  31 european states  and the
+ european union and mexico   as well as several instruments related to a specific area of law 
+choice of law  
+the law that is applicable to a contract is dependent on the
+legislation of the court where an action in relation to a contract is brought  in the absence of a   the law of the forum or the law with which the conflict has the strongest link is generally determined as the applicable law  a choice of law-clause is recognised in the u s   but generally only regarding state law  and not internationally  and through the
+in the european union  also when the law of a non eu country is chosen  
+remedies for breach of contract  
+main article 
+in the united kingdom  breach of contract is defined in the
+as   i  non-performance    ii  poor performance   iii  part-performance  or  iv  performance which is substantially different from what was reasonably expected  innocent parties may repudiate  cancel  the contract only for a major breach  breach of condition   but they may always recover compensatory damages  provided that the breach has caused foreseeable loss 
+it was not possible to sue
+in the uk for breach of contract before 1948  however  it was appreciated that contractors might be reluctant to deal on such a basis and claims were entertained under a
+that needed to be endorsed by the
+and   s 1
+opened the crown to ordinary contractual claims through the courts as for any other person 
+damages  
+main article 
+there are several different types of damages 
+compensatory damages  which are given to the party which was detrimented by the breach of contract  with compensatory damages  there are two   consequential damage and direct damage 
+liquidated damages are an estimate of loss agreed to in the contract  so that the court avoids calculating compensatory damages and the parties have greater certainty  liquidated damages clauses may be called  penalty clauses  in ordinary language  but the law distinguishes between liquidated damages  legitimate  and penalties  invalid   a test for determining which category a clause falls into was established by the english house of lords in dunlop pneumatic tyre co  ltd v  new garage   motor co  ltd
+nominal damages consist of a small cash amount where the court concludes that the defendant is in breach but the plaintiff has suffered no quantifiable pecuniary loss  and may be sought to obtain a legal record of who was at fault 
+punitive or exemplary damages are used to punish the party at fault  but even though such damages are not intended primarily to compensate  nevertheless the claimant  and not the state  receives the award  exemplary damages are not recognised nor permitted in some jurisdictions  in the uk  exemplary damages are not available for breach of contract  but are possible after fraud  although vitiating factors  such as misrepresentation  mistake  undue influence and duress  relate to contracts  they are not contractual actions  and so  in a roundabout way  a claimant in contract may be able to get exemplary damages 
+compensatory damages compensate the plaintiff for actual losses suffered as accurately as possible  they may be  expectation damages    reliance damages  or   damages   expectation damages are awarded to put the party in as good of a position as the party would have been in had the contract been performed as promised  reliance damages are usually awarded where no reasonably reliable estimate of expectation loss can be arrived at or at the option of the plaintiff  reliance losses cover expense suffered in reliance to the promise  examples where reliance damages have been awarded because profits are too speculative include the australian case of mcrae v  commonwealth disposals commission which concerned a contract for the rights to salvage a ship  in anglia television ltd v  reed the english court of appeal awarded the plaintiff expenditures incurred prior to the contract in preparation of performance 
+after a breach has occurred  the innocent party has a duty to mitigate loss by taking any reasonable steps  failure to mitigate means that damages may be reduced or even denied altogether  however  professor michael furmston
+has argued that  it is wrong to express  the mitigation  rule by stating that the plaintiff is under a duty to mitigate his loss   citing sotiros shipping inc v  sameiet  the solholt  if a party provides notice that the contract will not be completed  an
+occurs 
+damages may be general or consequential  general damages are those damages which naturally flow from a breach of contract  consequential damages are those damages which  although not naturally flowing from a breach  are naturally supposed by both parties at the time of contract formation  an example would be when someone rents a car to get to a business meeting  but when that person arrives to pick up the car  it is not there  general damages would be the cost of renting a different car  consequential damages would be the lost business if that person was unable to get to the meeting  if both parties knew the reason the party was renting the car  however  there is still a duty to mitigate the losses  the fact that the car was not there does not give the party a right to not attempt to rent another car 
+to recover damages  a claimant must show that the breach of contract caused foreseeable loss 
+established that the test of foreseeability is both objective and or subjective  in other words  is it foreseeable to the objective bystander  and or to the contracting parties  who may have special knowledge  on the facts of this case  where a miller lost production because a carrier delayed taking broken mill parts for repair  the court held that no damages were payable since the loss was foreseeable neither by the  reasonable man  nor by the carrier  both of whom would have expected the miller to have a spare part in store 
+specific performance  
+main article 
+there may be circumstances in which it would be unjust to permit the defaulting party simply to buy out the injured party with damages  for example  where an art collector purchases a rare painting and the vendor refuses to deliver  the collector s damages would be equal to the sum paid 
+the court may make an order of what is called  specific performance   requiring that the contract be performed  in some circumstances a court will order a party to perform his or her promise  an order of     or issue an order  known as an  injunction   that a party refrain from doing something that would breach the contract  a specific performance is obtainable for the breach of a contract to sell land or real estate on such grounds that the property has a unique value  in the
+by way of the   specific performance in personal service contracts is only legal  as punishment for a crime whereof the criminal shall be dully convicted  
+both an order for specific performance and an injunction are discretionary remedies  originating for the most part in   neither is available as of right and in most jurisdictions and most circumstances a court will not normally order specific performance  a contract for the sale of real property is a notable exception  in most jurisdictions  the sale of real property is enforceable by specific performance  even in this case the defenses to an action in equity  such as   the bona fide purchaser rule  or   may act as a bar to specific performance 
+related to orders for specific performance  an injunction may be requested when the contract prohibits a certain action  action for injunction would prohibit the person from performing the act specified in the contract 
+procedure  
+in many countries  in order to obtain damages for breach of contract or to obtain specific performance or other equitable relief  the aggrieved injured party may file a civil  non-criminal  lawsuit in court 
+if the contract contains a valid
+clause  the aggrieved party must submit an arbitration claim in accordance with the procedures set forth in the clause  many contracts provide that all disputes arising thereunder will be resolved by arbitration  rather than litigated in courts  partly because arbitration awards are recognized and enforceable internationally under the   which has 156 parties  arbitration judgments may generally be enforced in the same manner as ordinary court judgments  however  in new york convention states  arbitral decisions are generally immune unless there is a showing that the arbitrator s decision was irrational or tainted by   not all disputes regarding contract claims can be resolved in arbitration however  especially regarding validity of registered ip rights  or if they implicate a public interest that goes beyond the narrow interests of the parties to the agreement like claims that a party violated a contract by engaging in illegal anti-competitive conduct or civil rights violations 
+in the u s   virtually all states  but notably not new york  have adopted the
+to facilitate the enforcement of arbitrated judgments  customer claims against securities brokers and dealers are almost always resolved by arbitration  in the united states because securities dealers are required  under the terms of their membership in self-regulatory organizations such as the
+ formerly the nasd  or
+to arbitrate disputes with their customers  the firms then began including arbitration agreements in their customer agreements  requiring their customers to arbitrate disputes 
+in   a contract may be enforced by use of a   or in urgent cases by applying for an
+to prevent a breach  likewise  in the united states  an aggrieved party may apply for injunctive relief to prevent a threatened breach of contract  where such breach would result in irreparable harm that could not be adequately remedied by money damages 
+history  
+main articles 
+and
+whilst early rules of trade and barter have existed since ancient times  modern laws of contract in the west are traceable from the industrial revolution  1750 onwards   when increasing numbers worked in factories for a cash wage  in particular  the growing strength of the british economy and the adaptability and flexibility of the
+led to a swift development of english contract law  while the more rigid civil law in europe lagged behind  colonies within the british empire  including the
+and   would
+of the mother country  civil law countries  especially germany  later developed their own brand of contract law  in the 20th century  the growth of export trade led to countries adopting international conventions  such as the
+and the   to promote uniform regulations 
+bill of sale of a male slave and a building in shuruppak 
+tablet  circa 2600 bc
+contract law is based on the principle expressed in the
+phrase      agreements must be kept    the common law of contract originated with the now-defuct writ of   which was originally a
+action based on reliance  contract law falls within the general   along with     and  
+jurisdictions vary in their principles of   in common law jurisdictions such as england and the united states  a high degree of freedom is the norm  for example  in   it was determined in the 1901 case of
+that a physician was permitted to deny treatment to a patient despite the lack of other available medical assistance and the patient s subsequent death  this is in contrast to the   which typically applies certain overarching principles to disputes arising out of contract  as in the   other legal systems such as islamic law  socialist legal systems  and customary law have their own variations 
+however  in both the
+and the united states  the need to prevent discrimination has eroded the full extent of freedom of contract  legislation governing equality  equal pay  racial discrimination  disability discrimination and so on  has imposed limits of the full freedom of contract  for example  the
+restricted private racial discrimination against african-americans  in the early 20th century the united states underwent the     in which the
+struck down economic regulations on the basis of freedom of contract and the   these decisions were eventually overturned and the supreme court established a deference to legislative statutes and regulations which restrict freedom of contract  the u s  constitution contains a   but this has been interpreted as only restricting the retroactive impairment of contracts 
+commercial use  
+contracts are widely used in   and form the legal foundation for transactions across the world  common examples include
+of
+and goods  both wholesale and retail             sale or lease of land  and various other uses 
+online contracts have become common  e-signature laws have made the electronic contract and signature as legally valid as a paper contract  in india  e-contracts are governed by the indian contract act  1872   according to which certain conditions need to be fulfilled while formulating a valid contact  certain sections in information technology act  2000  also provide for validity of online contract   
+although the
+is fundamentally an economic community with a range of trade rules  there is no overarching  eu law of contract   in 1993    under the auspices of the english and scottish   produced his  contract code   a proposal to both unify and codify the contract laws of england and scotland  this document was offered as a possible  contract code for europe   but tensions between english and german jurists meant that this proposal has so far come to naught 
+contract theory  
+contract theory is the body of legal theory that addresses normative and conceptual questions in contract law  one of the most important questions asked in contract theory is why contracts are enforced  one prominent answer to this question focuses on the economic benefits of enforcing bargains  another approach  associated with   maintains that the purpose of contract law is to enforce promises  this theory is developed in fried s book  contract as promise  other approaches to contract theory are found in the writings of
+and
+theorists 
+more generally  writers have propounded
+and feminist interpretations of contract  attempts at overarching understandings of the purpose and nature of contract as a phenomenon have been made  notably
+originally developed by u s  contracts scholars
+and stewart macaulay  building at least in part on the contract theory work of u s  scholar   while u s  scholars have been at the forefront of developing economic theories of contract focussing on questions of
+and so-called    theory 
+another dimension of the theoretical debate in contract is its place within  and relationship to a wider   obligations have traditionally been divided into contracts  which are voluntarily undertaken and owed to a specific person or persons  and obligations in
+which are based on the wrongful infliction of harm to certain protected interests  primarily imposed by the law  and typically owed to a wider class of persons 
+recently it has been accepted that there is a third category  restitutionary obligations  based on the
+of the defendant at the plaintiff s expense  contractual liability  reflecting the constitutive function of contract  is generally for failing to make things better  by not rendering the expected performance   liability in tort is generally for action  as opposed to omission  making things worse  and liability in restitution is for unjustly taking or retaining the benefit of the plaintiff s money or work 
+the common law describes the circumstances under which the law will recognise the existence of rights  privilege or power arising out of a promise 
+gallery  
+a contract from the
+that records the purchase of a 15-year-old slave for six bolts of plain silk and five chinese coins
+german marriage contract  1521 between    and apollonia von henneberg-rmhild
+to   may 1786  maritime insurance premiums
+contract of 1796
+see also  
+ category 
+by country  
+notes  
+rose   frank co v jr crompton   bros ltd  1923  2 k b  261  273  bailhache j    
+dimatteo l   1997     south carolina law review 
+ 1973 128 clr 387 
+feinman jm  brill sr   2006     hastings law journal 
+wilmot et al  2009  contract law  third edition  oxford university press  page 34
+household fire insurance v grant 1879
+ 1893  2 qb 256
+ pharmaceutical society of great britain v  boots cash chemists  southern  ltd  1953  1 q b  401  the offer is made by an action without any negotiations  such as presenting goods to a cashier   the offer will be presumed to be on the terms of the invitation to treat    
+currie v misa  1875  lr 10 ex 893
+wade v simeon  1846  2 cb 548
+white v bluett  1853  2 wr 75
+bronaugh r   1976     william   mary law review 
+e g  in germany   311 bgb
+e g  p s  atiyah   consideration  a restatement  in essays on contract  1986  p 195  oxford university press
+ 1947  kb 130
+ 1959  2 all er 701 in which the wrappers from three chocolate bars was held to be part of the consideration for the sale and purchase of a musical recording 
+  www irs gov  retrieved 2016-05-26 
+ pinnels case   1602  5 co rep 117a
+ jorden v money   1854  5 hlc 185
+ foakes v beer     1884  ac 605
+ 
+collins v  godefroy  1831  1 b    ad  950 
+see for a discussion of the position in english law  the
+for instance  bidding in auctions  or acting in response to a unilateral offer
+hadley v baxendale
+as in
+and
+michida s   1992    pacific rim law   policy journal 
+in australia  the sales of goods act applies 
+trans-lex org 
+burchfield  r w   1998   the new fowler s modern english usage   revised 3rd ed    oxford  clarendon press  pp 820821    expressed or conveyed by speech instead of writing  oral    e g  verbal agreement  contract  evidence
+bryan a  garner  1999     west publishing company   
+ 1934  2 kb 394  see also toll  fgct  pty ltd v alphapharm pty ltd  2004  hca52  2004  219 clr165
+ 1951  1 kb 805
+ 1906  4 clr 379  see also baltic shipping company v  dillon  1993  176 clr 344
+martin  e  ed    law  j  ed   oxford dictionary of law  ed6  2006  london oup  
+ 1953  2 d l r  817  b c s c 
+ 1932  147 lt 503
+see aiton australia pty ltd v transfield pty ltd  1999  153 flr 236
+ 1968  118 clr 445
+ 1967  111 sol  j  831
+    1795  101 er 573
+ 
+gillies p   1988   concise contract law    federation press 
+koffman l  macdonald e   2007   the law of contract  oxford university press  see also
+ 1938  38 sr  nsw  632
+ 
+west gd  lewis wb   2009  
+the business lawyer 
+ 
+burling jm   2011   research handbook on international insurance law and regulation  edward elgar publishing 
+ 1876  1 qbd 410
+ 1876  1 qbd 183
+as added by the sale of goods act 1994 s4 1  
+ 
+primack ma   2009     national law review 
+ferara ln  philips j  runnicles j   2007     jones day publications 
+telman j   2012     contractsprof blog 
+ 1861  10 cbns 844
+ 1927  ac 177
+   1977  180
+266 
+1889  14 pd 64
+ 1956  2 all er 121
+ 1836  m w 466
+dunlop v selfridge   1915  ac 79 hl
+beswick v beswick  1968  ac 58 hl
+tweddle v atkinson  1861  121 er 762
+scruttons v midland silicones  1962  ac 446 hl
+n z  shipping v satterthwaite  1975  ac 154 pc
+such as agency  assignment  and negligence
+adler v dickson  1955  qb 158
+lord denning declared that the doctrine had been abolished by 1925 property legislation  but he was overruled by the house of lords 
+the 1999 act does not cover contracts for the carriage of goods by sea  those are subject to the
+  legal services commission of south australia  11 december 2009  retrieved 10 october 2016 
+bisset v wilkinson and others  1927  ac 177
+esso petroleum co ltd v mardon  1976  2 lloyd s rep  305
+fitzpatrick v michel  1928  28 sr  nsw  285  2 april 1928 
+ 1931  all e r  rep  1   1932  a c  161
+svanosi v mcnamara  1956  96 clr 186
+ 1864  2 hurl    c  906 
+ 1871   see also
+ 8th ed  2004 
+johnson v  buttress  1936  56 clr 113  see also westmelton  vic  pty ltd v  archer and shulman  1982  vicrp 29
+ 
+commercial bank of australia ltd v amadio    1983  151 clr 447  see also
+hca 81    1956  99 clr 362
+royal bank of canada v  newell 147 d l r  4th  268  n c s a   
+and  
+ 
+ 2005  
+ 1962  1 all er 474  see also associated newspapers ltd v bancks  1951  hca 24
+the mihailis angelos  1971  1 qb 164
+ 1915  ac 79 at 86 per lord dunedin 
+bellgrove v eldridge  1954  90 clr 613
+ 1951  84 clr 377
+ 1972  1 qb 60
+the
+states   consequential damages    include any loss    which could not reasonably be prevented by cover or otherwise   ucc 2-715 in english law the chief authority on mitigation is british westinghouse electric and manufacturing co  v  underground electric railway co  of london 1912  ac 673  see especially 689 per lord haldane 
+m p  furmston  cheshire  fifoot   furmston s law of contract  15th edn  oup  oxford  2007  p 779 
+m p  furmston  cheshire  fifoot   furmston s law of contract  15th edn  oup  oxford  2007  p 779 n 130 
+ 1983  1 lloyd s rep 605 
+hadley v  baxendale 156 er 145   see also alexander v cambridge credit corp ltd  1987  9 nswlr 310
+  retrieved 2008-10-10 
+new york civil procedure law and rules  7501  et seq 
+as opposed to scottish law
+in 1789  while the french were engaged in their revolution  the english law was busying itself in defining the rules of auctions  see
+willmott  l  christensen  s  butler  d    dixon  b 2009 contract law  third edition  oxford university press  north melbourne
+      vol  53  no  4  oct   1959     trans-lex org
+atiyah ps   1986    law and contemporary problems 
+however  a movement in the 1990s to replace the separate teaching of contract and tort with a unified law of  obligations  has met with little success 
+blake v   2012     virtual mentor 
+ 
+bernstein de   2008     george mason law   economics research paper no  08-51 
+douglas d   2002     michigan law review 
+harvey mcgregor
+    indeed the code was neither published nor adopted by the uk  instead being privately published by an italian university
+beatson  anson s law of contract  1998  27th ed  oup  p 21
+references  
+about
+contract
+ewan mckendrick  contract law - text  cases and materials  2005  oxford university press
+p s  atiyah  the rise and fall of freedom of contract  1979  clarendon press
+randy e  barnett  contracts  2003  aspen publishers
+scott fruehwald   reciprocal altruism as the basis for contract   47 university of louisville law review 489  2009  
+external links  
+look up
+in wiktionary  the free dictionary 
+wikiquote has quotations related to 
+wikimedia commons has media related to  
+contract
+law making
+ 
+ 
+retrieved from   
+  hidden categories 

@@ -1,0 +1,128 @@
+sevcon
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Sevcon&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(August 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org">Sevcon</caption>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Trade_name" title="Trade name">Trading name</a></div>
+</th>
+<td style="line-height:1.35em;">Sevcon Inc. (former Tech/Ops Sevcon before 2011)</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Types_of_business_entity" title="Types of business entity">Type</a></div>
+</th>
+<td class="category" style="line-height:1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th>
+<td style="line-height:1.35em;"><a href="/wiki/NASDAQ" title="NASDAQ">NASDAQ</a>: <a class="external text" href="http://www.nasdaq.com/symbol/sev" rel="nofollow">SEV</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Industry</th>
+<td class="category" style="line-height:1.35em;">Electric vehicles</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Founded</th>
+<td style="line-height:1.35em;">Gateshead (April 4, 1961<span style="display:none"> (<span class="bday dtstart published updated">1961-04-04</span>)</span>)</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Founder</th>
+<td class="agent" style="line-height:1.35em;">Sir <a class="new" href="/w/index.php?title=Horace_Heyman&amp;action=edit&amp;redlink=1" title="Horace Heyman (page does not exist)">Horace William Heyman</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Headquarters</th>
+<td class="label" style="line-height:1.35em;">Gateshead, NE11 0QA</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Area served</div>
+</th>
+<td style="line-height:1.35em;">Worldwide</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Products</th>
+<td style="line-height:1.35em;">Microprocessor controls for electric vehicles</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Revenue</th>
+<td style="line-height:1.35em;">$26.053 million (2010)</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;"><a href="/wiki/Net_income" title="Net income">Profit</a></th>
+<td style="line-height:1.35em;">$329,000 (2010)</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Owner</th>
+<td style="line-height:1.35em;">Tech/Ops, Inc.</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div>
+</th>
+<td style="line-height:1.35em;">101 (79 in the UK, 12 in USA)</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Website</th>
+<td style="line-height:1.35em;"><a class="external text" href="http://www.sevcon.com" rel="nofollow">Sevcon</a></td>
+</tr>
+</table>
+<p><b>Sevcon</b> is an <a href="/wiki/Electrical_engineering" title="Electrical engineering">electrical engineering</a> company based in <a href="/wiki/Gateshead" title="Gateshead">Gateshead</a> in the UK, that manufactures controls for <a href="/wiki/Electric_vehicle" title="Electric vehicle">electric vehicles</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Worldwide"><span class="tocnumber">1.1</span> <span class="toctext">Worldwide</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Public_company"><span class="tocnumber">1.2</span> <span class="toctext">Public company</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Structure"><span class="tocnumber">2</span> <span class="toctext">Structure</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Products"><span class="tocnumber">3</span> <span class="toctext">Products</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sevcon&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It was founded in 1961 as Sevcon Engineering Ltd. The company was formed to develop technology originated by Horace William Heyman (13 March 1912 - 4 September 1998), who had been Managing Director of <a href="/wiki/Smith_Electric_Vehicles" title="Smith Electric Vehicles">Smith Electric Vehicles</a> from 1949 until 1964. It was the largest manufacturer of electric vehicles in Europe.</p>
+<p>His technology improved battery-life for frequent start-stop runs of electric vehicles at low speeds. There were always large electrical losses on starting an electric vehicle because of <a href="/wiki/Joule_heating" title="Joule heating">electrical resistances heating up</a>. The technology allowed a 20% reduction in battery size for equivalent power, or increased battery length or power for a standard-sized battery.</p>
+<p>An electric vehicle would have had resistances to <a href="/wiki/Voltage_drop" title="Voltage drop">drop the voltage</a> on the motor when starting, but this created heating. His technology employed <a href="/wiki/PWM_rectifier" title="PWM rectifier">semiconductor-controlled rectifiers</a>, with a semiconductor oscillator, which provided pulses of electrical power to power the motor.</p>
+<p>It won the Queen's Award to Industry in April 1970, and the <a href="/wiki/Queen%27s_Awards_for_Enterprise" title="Queen's Awards for Enterprise">Queen's Awards for Export</a> in April 1975. A new factory opened in June 1970 at Gateshead.</p>
+<h3><span class="mw-headline" id="Worldwide">Worldwide</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sevcon&amp;action=edit&amp;section=2" title="Edit section: Worldwide">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It opened its first subsidiary in 1968 in Paris. In 1969 it was bought by Tech/Ops of the USA.</p>
+<h3><span class="mw-headline" id="Public_company">Public company</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sevcon&amp;action=edit&amp;section=3" title="Edit section: Public company">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1988 it was listed on the USA stock exchange, then joined the <a class="mw-redirect" href="/wiki/NASDAQ_Capital_Market" title="NASDAQ Capital Market">NASDAQ Capital Market</a> in 2009.</p>
+<h2><span class="mw-headline" id="Structure">Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sevcon&amp;action=edit&amp;section=4" title="Edit section: Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The head office is situated opposite the automotive centre of <a href="/wiki/Gateshead_College" title="Gateshead College">Gateshead College</a>. It outsources much of the manufacture of its components to <a href="/wiki/Key_Tronic" title="Key Tronic">Key Tronic</a> of the USA. A UK site manufactures <a href="/wiki/Film_capacitor" title="Film capacitor">film capacitors</a>.</p>
+<p>Its competitors include <a href="/wiki/Danaher_Corporation" title="Danaher Corporation">Danaher</a>'s Motion division, and <a href="/wiki/General_Electric" title="General Electric">General Electric</a>. In 2010 it spent around £3 million in research and development at Gateshead.</p>
+<h2><span class="mw-headline" id="Products">Products</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sevcon&amp;action=edit&amp;section=5" title="Edit section: Products">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It makes microprocessor controllers for electric vehicles.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sevcon&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;"></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sevcon&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.sevcon.com" rel="nofollow">Sevcon</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:37809153-0!*!0!!en!4!* and timestamp 20161020235537 and revision id 735574413
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sevcon&amp;oldid=735574413">https://en.wikipedia.org/w/index.php?title=Sevcon&amp;oldid=735574413</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1961_establishments_in_England" title="Category:1961 establishments in England">1961 establishments in England</a></li><li><a href="/wiki/Category:Automotive_companies_of_the_United_Kingdom" title="Category:Automotive companies of the United Kingdom">Automotive companies of the United Kingdom</a></li><li><a href="/wiki/Category:Automotive_electronics" title="Category:Automotive electronics">Automotive electronics</a></li><li><a href="/wiki/Category:Companies_based_in_Tyne_and_Wear" title="Category:Companies based in Tyne and Wear">Companies based in Tyne and Wear</a></li><li><a href="/wiki/Category:Companies_established_in_1961" title="Category:Companies established in 1961">Companies established in 1961</a></li><li><a href="/wiki/Category:Companies_listed_on_NASDAQ" title="Category:Companies listed on NASDAQ">Companies listed on NASDAQ</a></li><li><a href="/wiki/Category:Electrical_engineering_companies_of_the_United_Kingdom" title="Category:Electrical engineering companies of the United Kingdom">Electrical engineering companies of the United Kingdom</a></li><li><a href="/wiki/Category:Electric_vehicles" title="Category:Electric vehicles">Electric vehicles</a></li><li><a href="/wiki/Category:Gateshead" title="Category:Gateshead">Gateshead</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_sources_from_August_2016" title="Category:Articles lacking sources from August 2016">Articles lacking sources from August 2016</a></li><li><a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">All articles lacking sources</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

@@ -1,0 +1,55 @@
+loadcurve
+from wikipedia  the free encyclopedia
+ redirected from  
+jump to 					 
+this article needs additional citations for   please help
+by   unsourced material may be challenged and removed   april 2009    
+typical seasonal loads of electric utilities in eastern new england division in 1919  united states geological survey  1921  image courtesy of the
+from
+in   a load profile is a graph of the variation in the
+versus time  a load profile will vary according to customer type  typical examples include residential  commercial and industrial   temperature and holiday seasons  power producers use this information to plan how much electricity they will need to make available at any given time 
+uses a similar load curve 
+contents
+power generation  
+in a power system  a load curve or load profile is a chart illustrating the variation in demand electrical load over a specific time  generation companies use this information to plan how much power they will need to generate at any given time  a
+is similar to a load curve  the information is the same but is presented in a different form  these curves are useful in the selection of
+units for supplying electricity 
+electricity distribution  
+in an
+  the load profile of electricity usage is important to the efficiency and reliability of power transmission  the power
+or
+are critical aspects of power distribution and sizing and modelling of batteries or transformers depends on the load profile  the factory specification of transformers for the optimization of
+is dependent directly on the characteristics of the load profile that the transformer is expected to be subjected to  this includes such characteristics as average       and   which can all be calculated based on a given load profile 
+on the
+so-called
+are used to specify the
+ on the delivery of a certain amount of electrical energy at a certain time 
+retail energy markets  
+in retail energy markets  supplier obligations are settled on an hourly or subhourly basis  for most customers  consumption is measured on a monthly basis  based on meter reading schedules  load profiles are used to convert the monthly consumption data into estimates of hourly or subhourly consumption in order to determine the supplier obligation  for each hour  these estimates are aggregated for all customers of an energy supplier  and the aggregate amount is used in market settlement calculations as the total demand that must be covered by the supplier 
+calculating and recording load profiles  
+load profiles can be determined by direct metering but on smaller devices such as distribution network transformers this is not routinely done  instead a load profile can be inferred from customer billing or other data  an example of a practical calculation used by utilities is using a transformer s maximum demand reading and taking into account the known number of each customer type supplied by these transformers  this process is called  
+actual demand can be collected at strategic locations to perform more detailed load analysis  this is beneficial to both distribution and end-user customers looking for peak consumption 
+  utility meter load profilers  data logging sub-meters and portable data loggers are designed to accomplish this task by recording readings at a set interval 
+see also  
+references  
+  planet ark 
+eromon  david i   2005     the international journal of modern engineering  6  1 
+external links  
+wikimedia commons has media related to  
+predicted system capacity and demand with approximate current demand chart for today 
+energy demand portable data logger application 
+concepts
+sources
+and
+  
+ tso 
+protective
+devices
+ gfi 
+economics
+and policies
+categories
+portals
+ 
+retrieved from   
+  hidden categories 

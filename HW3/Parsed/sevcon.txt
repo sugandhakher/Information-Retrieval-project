@@ -1,0 +1,56 @@
+sevcon
+from wikipedia  the free encyclopedia
+jump to 					 
+this article does not
+any   please help
+by   unsourced material may be challenged and    august 2016    
+sevcon
+sevcon inc   former tech ops sevcon before 2011 
+ 
+industry
+electric vehicles
+founded
+gateshead  april4 1961 1961-04-04  
+founder
+sir
+headquarters
+gateshead  ne11 0qa
+area served
+worldwide
+products
+microprocessor controls for electric vehicles
+revenue
+ 26.053 million  2010 
+ 329,000  2010 
+owner
+tech ops  inc 
+number of employees
+101  79 in the uk  12 in usa 
+website
+sevcon is an
+company based in
+in the uk  that manufactures controls for  
+contents
+history  
+it was founded in 1961 as sevcon engineering ltd  the company was formed to develop technology originated by horace william heyman  13 march 1912 - 4 september 1998   who had been managing director of
+from 1949 until 1964  it was the largest manufacturer of electric vehicles in europe 
+his technology improved battery-life for frequent start-stop runs of electric vehicles at low speeds  there were always large electrical losses on starting an electric vehicle because of   the technology allowed a 20  reduction in battery size for equivalent power  or increased battery length or power for a standard-sized battery 
+an electric vehicle would have had resistances to
+on the motor when starting  but this created heating  his technology employed   with a semiconductor oscillator  which provided pulses of electrical power to power the motor 
+it won the queen s award to industry in april 1970  and the
+in april 1975  a new factory opened in june 1970 at gateshead 
+worldwide  
+it opened its first subsidiary in 1968 in paris  in 1969 it was bought by tech ops of the usa 
+public company  
+in 1988 it was listed on the usa stock exchange  then joined the
+in 2009 
+structure  
+the head office is situated opposite the automotive centre of   it outsources much of the manufacture of its components to
+of the usa  a uk site manufactures  
+its competitors include  s motion division  and   in 2010 it spent around 3 million in research and development at gateshead 
+products  
+it makes microprocessor controllers for electric vehicles 
+references  
+external links  
+retrieved from   
+  hidden categories 

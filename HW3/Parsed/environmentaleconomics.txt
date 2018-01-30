@@ -1,0 +1,175 @@
+environmentaleconomics
+from wikipedia  the free encyclopedia
+jump to 					 
+not to be confused with  
+part of
+about
+environmental economics
+concepts
+policies
+dynamics
+carbon related
+environmental economics is a sub-field of
+that is concerned with environmental issues  quoting from the
+environmental economics program 
+      environmental economics       undertakes theoretical or empirical studies of the economic effects of national or local environmental policies around the world        particular issues include the costs and benefits of alternative environmental policies to deal with air pollution  water quality  toxic substances  solid waste  and global warming 
+environmental economics is distinguished from
+in that ecological economics emphasizes the economy as a subsystem of the ecosystem with its focus upon preserving   one survey of german economists found that ecological and environmental economics are different   with ecological economists emphasizing  strong 
+and rejecting the proposition that natural capital can be substituted by human-made capital 
+contents
+topics and concepts  
+ 2015 
+history
+types
+classification
+concepts
+theory
+techniques
+by application
+environmental
+ 
+ 
+  
+market failure  
+central to environmental economics is the concept of   market failure means that markets fail to allocate resources efficiently  as stated by hanley  shogren  and white  2007  in their textbook environmental economics   a market failure occurs when the market does not allocate scarce resources to generate the greatest social welfare  a wedge exists between what a private person does given market prices and what society might want him or her to do to protect the environment  such a wedge implies wastefulness or economic inefficiency  resources can be reallocated to make at least one person better off without making anyone else worse off   common forms of market failure include externalities  non-excludability and  
+externality  
+an
+exists when a person makes a choice that affects other people in a way that is not accounted for in the market price  an externality can be positive or negative  but is usually associated with negative externalities in environmental economics  for instance  water seepage in residential buildings happen in upper floor affect the lower floor  or a firm emitting
+will typically not take into account the costs that its pollution imposes on others  as a result  pollution may occur in excess of the  socially efficient  level  which is the level that would exist if the market was required to account for the pollution  a classic definition influenced by
+and
+is provided by heller and starrett  1976   who define an externality as a situation in which the private economy lacks sufficient incentives to create a potential market in some good and the nonexistence of this market results in losses of   in economic terminology  externalities are examples of   in which the unfettered market does not lead to an efficient outcome 
+common goods and public goods  
+when it is too costly to exclude some people from access to an environmental resource  the resource is either called a
+ when there is rivalry for the resource  such that one person s use of the resource reduces others  opportunity to use the resource  or a
+ when use of the resource is    in either case of non-exclusion  market allocation is likely to be inefficient 
+these challenges have long been recognized   s  1968  concept of the
+popularized the challenges involved in non-exclusion and common property   commons  refers to the environmental asset itself   common property resource  or  common pool resource  refers to a property right regime that allows for some collective body to devise schemes to exclude others  thereby allowing the capture of future benefit streams  and  open-access  implies no ownership in the sense that property everyone owns nobody owns 
+the basic problem is that if people ignore the scarcity value of the commons  they can end up expending too much effort 
+a resource  e g   a fishery   hardin theorizes that in the absence of restrictions  users of an open-access resource will use it more than if they had to pay for it and had exclusive rights  leading to   see  however   s  1990  work on how people using real common property resources have worked to establish self-governing rules to reduce the risk of the tragedy of the commons 
+the
+effects is an example of a public good  where the social benefits are not reflected completely in the market price  this is a public good since the risks of climate change are both non-rival and non-excludable  such efforts are non-rival since climate mitigation provided to one does not reduce the level of mitigation that anyone else enjoys  they are non-excludable actions as they will have global consequences from which no one can be excluded  a country s incentive to invest in carbon abatement is reduced because it can    off the efforts of other countries  over a century ago  swedish economist knut wicksell  1896  first discussed how public goods can be under-provided by the market because people might conceal their preferences for the good  but still enjoy the benefits without paying for them 
+global biogeochemical cycles critical for life
+nitrogen cycle
+water cycle
+carbon cycle
+oxygen cycle
+valuation  
+assessing the economic value of the environment is a major topic within the field  use and indirect use are tangible benefits accruing from
+or
+ see the
+of ecological economics   non-use values include existence  option  and bequest values  for example  some people may value the existence of a diverse set of species  regardless of the effect of the loss of a species on ecosystem services  the existence of these species may have an option value  as there may be the possibility of using it for some human purpose  certain plants may be researched for drugs   individuals may value the ability to leave a pristine environment to their children 
+use and indirect use values can often be inferred from revealed behavior  such as the cost of taking
+or using
+in which values are estimated based on observed prices  non-use values are usually estimated using stated preference methods such as
+or   contingent valuation typically takes the form of surveys in which people are asked how much they would pay to observe and recreate in the environment    or their willingness to accept  wta  compensation for the destruction of the environmental good 
+examines the effect the environment has on economic decisions through housing prices  traveling expenses  and payments to visit parks 
+solutions  
+solutions advocated to correct such externalities include 
+  under this plan  the economic impact has to be estimated by the regulator  usually this is done using   there is a growing realization that regulations  also known as  command and control  instruments  are not so distinct from economic instruments as is commonly asserted by proponents of environmental economics  e g 1 regulations are enforced by fines  which operate as a form of tax if pollution rises above the threshold prescribed  e g 2 pollution must be monitored and laws enforced  whether under a pollution tax regime or a regulatory regime  the main difference an environmental economist would argue exists between the two methods  however  is the total cost of the regulation   command and control  regulation often applies uniform emissions limits on polluters  even though each firm has different costs for emissions reductions  some firms  in this system  can abate inexpensively  while others can only abate at high cost  because of this  the total abatement has some expensive and some inexpensive efforts to abate  consequently  modern  command and control  regulations are oftentimes designed in a way  which addresses these issues by incorporating utility parameters  for instance  co2 emission standards for specific manufacturers in the automotive industry are either linked to the average vehicle footprint  us system  or average vehicle weight  eu system  of their entire vehicle fleet  environmental economic regulations find the cheapest emission abatement efforts first  then the more expensive methods second  e g  as said earlier  trading  in the quota system  means a firm only abates if doing so would cost less than paying someone else to make the same reduction  this leads to a lower cost for the total abatement effort as a whole   
+  often it is advocated that pollution reductions should be achieved by way of   which if freely traded may ensure that reductions in pollution are achieved at least cost  in theory  if such tradeable quotas are allowed  then a firm would reduce its own pollution load only if doing so would cost less than paying someone else to make the same reduction  in practice  tradeable permits approaches have had some success  such as the u s  s sulphur dioxide trading program or the eu emissions trading scheme  and interest in its application is spreading to other environmental problems 
+ removal of     increasing the costs of polluting will discourage polluting  and will provide a  dynamic incentive   that is  the disincentive continues to operate even as pollution levels fall  a pollution tax that reduces pollution to the socially  optimal  level would be set at such a level that pollution occurs only if the benefits to society  for example  in form of greater production  exceeds the costs  some advocate a major shift from taxation from income and sales taxes to tax on pollution - the so-called    
+better defined   the
+states that assigning property rights will lead to an optimal solution  regardless of who receives them  if
+are trivial and the number of parties negotiating is limited  for example  if people living near a factory had a right to clean air and water  or the factory had the right to pollute  then either the factory could pay those affected by the pollution or the people could pay the factory not to pollute  or  citizens could take action themselves as they would if other property rights were violated  the
+of the 1880s was an early example  giving citizens downstream the right to end pollution upstream themselves if government itself did not act  an early example of    many markets for  pollution rights  have been created in the late twentieth centurysee  
+relationship to other fields  
+this section does not
+any   please help improve this section by   unsourced material may be challenged and    august 2012    
+environmental economics is related to
+but there are differences  most environmental economists have been trained as economists  they apply the tools of economics to address environmental problems  many of which are related to so-called market failurescircumstances wherein the    of economics is unreliable  most ecological economists have been trained as ecologists  but have expanded the scope of their work to consider the impacts of humans and their economic activity on ecological systems and services  and vice versa  this field takes as its premise that economics is a strict subfield of   ecological economics is sometimes described as taking a more pluralistic approach to
+problems and focuses more explicitly on long-term environmental sustainability and issues of scale 
+environmental economics is viewed as more pragmatic in a   ecological economics as more idealistic in its attempts not to use
+as a primary arbiter of decisions  these two groups of specialists sometimes have conflicting views which may be traced to the different philosophical underpinnings 
+another context in which
+apply is when
+permits one player in a market who is unconcerned with
+to undercut prices of another who is - creating a
+in regulations and conservation  this in turn may cause loss of
+with consequent erosion  water purity problems  diseases  desertification  and other outcomes which are not
+in an economic sense  this concern is related to the subfield of
+and its political relation  the  
+the three pillars of sustainability  clickable 
+environmental economics was once distinct from   natural resource economics as a subfield began when the main concern of researchers was the optimal commercial exploitation of natural resource stocks  but resource managers and policy-makers eventually began to pay attention to the broader importance of natural resources  e g  values of fish and trees beyond just their commercial exploitation   externalities associated with mining   it is now difficult to distinguish  environmental  and  natural resource  economics as separate fields as the two became associated with   many of the more radical
+split off to work on an alternate  
+environmental economics was a major influence for the theories of
+and   which could be said to be two sub-branches of environmental economics concerned with
+in production  and the
+to humans  respectively  the theory of
+ hawken  lovins  lovins  goes further than traditional environmental economics by envisioning a world where natural services are considered on par with  
+the more radical
+reject neoclassical economics in favour of a new
+beyond
+or
+that gives a greater emphasis to the interaction of the human economy and the natural environment  acknowledging that  economy is three-fifths of ecology  - mike nickerson 
+these more radical approaches would imply changes to
+and likely also a
+so that political  economic  and ecological  environmental limits  were all aligned  and not subject to the
+normally possible under  
+an emerging sub-field of environmental economics studies its intersection with   dubbed  envirodevonomics  by michael greenstone and b  kelsey jack in their paper  envirodevonomics  a research agenda for a young field   the sub-field is primarily interested in studying  why environmental quality  is  so poor in developing countries   a strategy for better understanding this correlation between a country s gdp and its environmental quality involves analyzing how many of the central concepts of environmental economics  including market failures  externalities  and willingness to pay  may be complicated by the particular problems facing developing countries  such as political issues  lack of infrastructure  or inadequate financing tools  among many others 
+professional bodies  
+the main academic and professional organizations for the discipline of environmental economics are the
+and the   the main academic and professional organization for the discipline of ecological economics is the
+ isee   the main organization for green economics is the  
+see also  
+an eco standard 
+ policy think tank 
+ ssi 
+hypotheses and theorems  
+notes  
+  nber working group descriptions  national bureau of economic research  retrieved 2006-07-23 
+jeroen c j m  van den bergh  2001    ecological economics  themes  approaches  and differences with environmental economics   regional environmental change  2 1   pp 
+ press    
+illge l  schwarze r   2006  
+  german institute
+hanley  n   j  shogren  and b  white  2007   environmental economics in theory and practice  palgrave  london 
+rita yi man li  2012   the internalisation of environmental externalities affecting dwellings  a review of court cases in hong kong  economic affairs  volume 32  issue 2  pages 8187
+heller  walter p  and david a  starrett  1976   on the nature of externalities  in  lin  stephen a y   ed    theory and measurement of economic externalities  academic press  new york  p 10
+ 
+ostrom  e  1990  governing the commons  cambridge  cambridge university press 
+harris j   2006   environmental and natural resource economics  a contemporary approach  houghton mifflin company 
+greenstone  michael  jack  b  kelsey  september 2013     nber  19426   retrieved 15 january 2015 
+greenstone  michael  jack  b  kelsey  september 2013     nber  19426   3  retrieved 15 january 2015 
+ pdf   washington  d c   world bank  may 2012  pp 1213    retrieved 15 january 2015 
+references  
+allen k  kneese and clifford s  russell  1987    environmental economics     v  2  pp 15964 
+robert n  stavins  2008    environmental economics     2nd edition 
+maureen l  cropper and
+ 1992    environmental economics  a survey   journal of economic literature  30 2   pp   press    
+david pearce  2002    an intellectual history of environmental economics  
+2002  27 5781 
+unep  2007   guidelines for conducting economic valuation of coastal ecosystem goods and services 
+unep  2007   procedure for determination of national and regional economic values for ecotone goods and services  and total economic values of coastal habitats in the context of the unep gef project entitled  reversing environmental degradation trends in the south china sea and gulf of thailand 
+main fields
+related fields
+environmental economics
+applications
+see also
+fields
+environmental economics
+related
+design
+economics
+environmental
+sustainability
+urban
+applied
+architecture
+engineering
+health
+management
+planning
+policy
+technology
+energy
+food
+water
+accountability
+applications
+management
+agreements
+ rio 10  johannesburg 
+ rio 20  2012 
+ 
+ 
+retrieved from   
+  hidden categories 

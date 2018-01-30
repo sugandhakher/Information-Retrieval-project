@@ -1,0 +1,563 @@
+thoriumfuelcycle
+from wikipedia  the free encyclopedia
+jump to 					 
+a sample of
+the thorium fuel cycle is a
+that uses the
+of     as the   in the reactor  232th is
+into the
+artificial
+isotope
+which is the   unlike   natural thorium contains only trace amounts of fissile material  such as    which are insufficient to initiate a   additional fissile material or another neutron source are necessary to initiate the fuel cycle  in a thorium-fuelled reactor  232th absorbs
+eventually to produce 233u  this parallels the process in uranium
+whereby fertile
+absorbs neutrons to form fissile   depending on the design of the reactor and fuel cycle  the generated 233u either fissions
+or is chemically separated from the
+and formed into new nuclear fuel 
+the thorium fuel cycle claims several potential advantages over a   including thorium s   superior physical and nuclear properties  better resistance to
+and reduced
+and
+production 
+contents
+history  
+concerns about the
+motivated initial interest in the thorium fuel cycle  it was envisioned that as uranium reserves were depleted  thorium would supplement uranium as a fertile material  however  for most countries uranium was relatively abundant and research in thorium fuel cycles waned  a notable exception was   in the twenty-first century thorium s potential for improving proliferation resistance and
+characteristics led to renewed interest in the thorium fuel cycle 
+at
+in the 1960s  the
+used 233u as the fissile fuel as an experiment to demonstrate a part of the molten salt breeder reactor that was designed to operate on the thorium fuel cycle 
+ msr  experiments assessed thorium s feasibility  using
+dissolved in a
+fluid that eliminated the need to fabricate fuel elements  the msr program was defunded in 1976 after its patron
+was fired 
+in 2006 
+proposed the concept of an
+or  accelerator driven system   ads   which he saw as a novel and safe way to produce nuclear energy that exploited existing accelerator technologies  rubbia s proposal offered the potential to incinerate high-activity nuclear waste and produce energy from natural
+and depleted  
+  former nasa scientist and chief nuclear technologist at   has been a long-time promoter of thorium fuel cycle and particularly
+ lftrs   he first researched thorium reactors while working at   while evaluating power plant designs suitable for lunar colonies  in 2006 sorensen started  energyfromthorium com  to promote and make information available about this technology 
+a 2011 mit study concluded that although there is little in the way of barriers to a thorium fuel cycle  with current or near term light-water reactor designs there is also little incentive for any significant market penetration to occur  as such they conclude there is little chance of thorium cycles replacing conventional uranium cycles in the current nuclear power market  despite the potential benefits 
+nuclear reactions with thorium  
+ thorium is like wet wood  it  needs to be turned into fissile uranium just as wet wood needs to be
+in a furnace  
+   current chairman of the  
+in the thorium cycle  fuel is formed when 232th
+a
+ whether in a
+or   to become   this normally emits an
+and an
+   by
+to become   this then emits another electron and anti-neutrino by a second  decay to become 233u  the fuel 
+n
+neutron
+ 
+232
+90
+th
+
+233
+90
+th
+
+
+
+233
+91
+pa
+
+
+
+233
+92
+u
+fuel
+  displaystyle   ce    overset  neutron  n     90   232  th -   90   233  th -   beta   -    91   233  pa -   beta   -    overset  fuel    92   233  u      
+fission product wastes  
+produces radioactive
+which can have half-lives from
+to   according to some toxicity studies  the thorium cycle can fully recycle actinide wastes and only emit fission product wastes  and after a few hundred years  the waste from a thorium reactor can be less toxic than the
+that would have been used to produce
+fuel for a
+of the same power  other studies assume some actinide losses and find that actinide wastes dominate thorium cycle waste radioactivity at some future periods 
+actinide wastes  
+in a reactor  when a neutron hits a fissile atom  such as certain isotopes of uranium   it either splits the nucleus or is captured and transmutes the atom  in the case of 233u  the transmutations tend to produce useful nuclear fuels rather than
+wastes  when 233u absorbs a neutron  it either fissions or becomes   the chance of fissioning on absorption of a
+is about 92   the capture-to-fission ratio of 233u  therefore  is about 1 12  which is better than the corresponding capture vs  fission ratios of
+ about 1 6   or 239pu or
+ both about 1 3   the result is less
+waste than in a reactor using the uranium-plutonium fuel cycle 
+transmutation in the thorium fuel cycle
+230th
+
+231th
+
+232th
+
+233th
+ white actinides  t 27d 
+
+
+231pa
+
+232pa
+
+233pa
+
+234pa
+ colored  t 68y 
+
+
+
+
+231u
+
+232u
+
+233u
+
+234u
+
+235u
+
+236u
+
+237u
+
+
+
+
+  with t 90y or t 200ky 
+237np
+234u  like most
+with an even number of neutrons  is not fissile  but neutron capture produces fissile 235u  if the fissile isotope fails to fission on neutron capture  it produces       and eventually fissile 239pu and heavier   the 237np can be removed and stored as waste or retained and transmuted to plutonium  where more of it fissions  while the remainder becomes   then
+and   which in turn can be removed as waste or returned to reactors for further transmutation and fission 
+however  the
+ with a half-life of 70121031933520000003.27104years  formed via  n 2n  reactions with 232th  yielding 231th that decays to    while not a transuranic waste  is a major contributor to the long-term
+of spent nuclear fuel 
+uranium-232 contamination  
+is also formed in this process  via  n 2n  reactions between
+and 233u    and 232th 
+n
+ 
+232
+90
+th
+
+233
+90
+th
+
+
+
+233
+91
+pa
+
+
+
+233
+92
+u
+ 
+n
+
+232
+92
+u
+ 
+2
+n
+n
+ 
+232
+90
+th
+
+233
+90
+th
+
+
+
+233
+91
+pa
+ 
+n
+
+232
+91
+pa
+ 
+2
+n
+
+
+
+232
+92
+u
+n
+ 
+232
+90
+th
+
+231
+90
+th
+ 
+2
+n
+
+
+
+231
+91
+pa
+ 
+n
+
+232
+91
+pa
+
+
+
+232
+92
+u
+  displaystyle   begin array  l       ce   n    90   232 th-   90   233  th -   beta   -    91   233  pa -   beta   -     92   233 u   n -    92   232 u  2n      ce   n    90   232 th-   90   233 th-   beta   -     91   233 pa   n -    91   232 pa  2n-   beta   -    92   232 u      ce   n    90   232 th-    90   231 th  2n-   beta   -     91   231 pa  n-   91   232 pa-   beta   -    92   232 u       end array   
+uranium-232 has a relatively short half-life  700921743186400000068.9years   and some
+emit high energy   such as  
+and particularly   the   along with half-lives and relevant gamma energies  is 
+the 4n
+of 232th  commonly called the  thorium series 
+decays to
+where it joins the
+232
+92
+u
+
+
+228
+90
+th
+ 
+68.9
+y
+e
+a
+r
+s
+ 
+228
+90
+th
+
+
+224
+88
+ra
+ 
+1.9
+y
+e
+a
+r
+ 
+224
+88
+ra
+
+
+220
+86
+rn
+ 
+3.6
+d
+a
+y
+ 
+0.24
+m
+e
+v
+ 
+220
+86
+rn
+
+
+216
+84
+po
+ 
+55
+s
+ 
+0.54
+m
+e
+v
+ 
+216
+84
+po
+
+
+212
+82
+pb
+ 
+0.15
+s
+ 
+212
+82
+pb
+
+
+
+212
+83
+bi
+ 
+10.64
+h
+ 
+212
+83
+bi
+
+
+208
+81
+tl
+ 
+61
+m
+ 
+0.78
+m
+e
+v
+ 
+208
+81
+tl
+
+
+
+208
+82
+pb
+ 
+3
+m
+ 
+2.6
+m
+e
+v
+ 
+  displaystyle   begin array  rl   ce    92   232  u -   alpha    90   228 th      mathrm   68.9  years       ce    90   228  th -   alpha    88   224 ra      mathrm   1.9  year       ce    88   224  ra -   alpha    86   220 rn      mathrm   3.6  day   0.24  mev       ce    86   220  rn -   alpha    84   216 po      mathrm   55  s   0.54  mev       ce    84   216  po -   alpha    82   212 pb      mathrm   0.15  s       ce    82   212  pb -   beta   -    83   212 bi      mathrm   10.64  h       ce    83   212  bi -   alpha    81   208 tl      mathrm   61  m   0.78  mev       ce    81   208  tl -   beta   -    82   208 pb      mathrm   3  m   2.6  mev    end array   
+thorium-cycle fuels produce hard   which damage electronics  limiting their use in military bomb triggers  232u cannot be chemically separated from 233u from   however  chemical separation of thorium from uranium removes the decay product 228th and the radiation from the rest of the decay chain  which gradually build up as 228th reaccumulates  the hard gamma emissions also create a radiological hazard which requires remote handling during reprocessing 
+nuclear fuel  
+as a fertile material thorium is similar to 238u  the major part of natural and depleted uranium  the thermal neutron absorption
+ a  and
+ average of neutron cross sections over intermediate neutron energies  for 232th are about three and one third times those of the respective values for 238u 
+advantages  
+thorium is estimated to be about three to four times more abundant than uranium in earth s crust  although present knowledge of
+is limited  current demand for thorium has been satisfied as a by-product of
+extraction from
+sands 
+although the thermal neutron fission cross section  f  of the resulting 233u is comparable to 235u and 239pu  it has a much lower capture cross section    than the latter two fissile isotopes  providing fewer non-fissile neutron absorptions and improved   finally  the ratio of neutrons released per neutron absorbed    in 233u is greater than two over a wide range of energies  including the thermal spectrum  as a result  thorium-based fuels can be the basis for a   a breeding reactor in the uranium - plutonium cycle needs to use a fast neutron spectrum  because in the thermal spectrum one neutron absorbed by 239pu on average leads to less than two neutrons 
+thorium-based fuels also display favorable physical and chemical properties that improve reactor and
+performance  compared to the predominant reactor fuel 
+ uo
+2  
+ tho
+2  has a higher   higher   and lower   thorium dioxide also exhibits greater
+and  unlike uranium dioxide  does not further  
+because the 233u produced in thorium fuels is significantly contaminated with 232u in proposed power reactor designs  thorium-based
+possesses inherent
+resistance  232u cannot be
+from 233u and has several
+that emit high-energy   these high-energy photons are a
+that necessitate the use of
+of separated uranium and aid in the passive
+of such materials 
+the long-term  on the order of roughly 7003100000000000000103 to 7013315576000000000106years  radiological hazard of conventional uranium-based used nuclear fuel is dominated by plutonium and other   after which
+become significant contributors again  a single neutron capture in 238u is sufficient to produce   whereas five captures are generally necessary to do so from 232th  9899  of thorium-cycle fuel nuclei would fission at either 233u or 235u  so fewer long-lived transuranics are produced  because of this  thorium is a potentially attractive alternative to uranium in
+to minimize the generation of transuranics and maximize the destruction of plutonium 
+disadvantages  
+there are several challenges to the application of thorium as a nuclear fuel  particularly for solid fuel reactors 
+in contrast to uranium  naturally occurring thorium is effectively
+and contains no fissile isotopes  fissile material  generally 233u  235u or plutonium  must be added to achieve   this  along with the high
+temperature necessary to make thorium-dioxide fuel  complicates fuel fabrication 
+experimented with
+as fuel in a
+from 19641969  which was expected to be easier to process and separate from contaminants that slow or stop the chain reaction 
+in an
+ i e  utilizing 233u in situ   higher
+is necessary to achieve a favorable   although thorium dioxide performed well at burnups of 170,000 mwd t and 150,000 mwd t at
+and
+respectively  challenges complicate achieving this in
+ lwr   which compose the vast majority of existing power reactors 
+in a once-through thorium fuel cycle the residual 233u is a long-lived radioactive isotope in the waste 
+another challenge associated with the thorium fuel cycle is the comparatively long interval over which 232th breeds to 233u  the
+of 233pa is about 27 days  which is an order of magnitude longer than the half-life of   as a result  substantial 233pa develops in thorium-based fuels  233pa is a significant
+and  although it eventually
+into fissile 235u  this requires two more neutron absorptions  which degrades
+and increases the likelihood of
+production 
+alternatively  if solid thorium is used in a
+in which 233u is  
+is necessary for fuel fabrication because of the high radiation levels resulting from the
+of 232u  this is also true of recycled thorium because of the presence of 228th  which is part of the 232u decay sequence  further  unlike proven uranium fuel recycling technology  e g     recycling technology for thorium  e g  thorex  is only under development 
+although the presence of 232u complicates matters  there are public documents showing that 233u has been used once in a
+test  the united states tested a composite 233u-plutonium bomb core in the met  military effects test  blast during
+in 1955  though with much lower yield than expected 
+though thorium-based fuels produce far less long-lived
+than uranium-based fuels  some long-lived
+products constitute a long-term radiological impact  especially 231pa 
+advocates for liquid core and
+such as
+claim that these technologies negate thorium s disadvantages present in solid fueled reactors  as only two liquid-core fluoride salt reactors have been built  the ornl
+and   and neither have used thorium  it is hard to validate the exact benefits 
+reactors  
+thorium fuels have fuelled several different reactor types  including         and  
+list of thorium-fuelled reactors  
+from iaea tecdoc-1450  thorium fuel cycle - potential benefits and challenges   table 1  thorium utilization in different experimental and power reactors  additionally 
+in the united states used  thorium oxide corner rods  
+name
+country
+power
+fuel
+operation period
+germany
+  experimental   
+015000 15 mw e 
+th 235u driver fuel  coated fuel particles  oxide   dicarbides
+19671988
+germany
+  power   
+300000 300 mw e 
+th 235u  driver fuel  coated fuel particles  oxide   dicarbides
+19851989
+germany
+irradiation-testing
+060000 60 mw e 
+test fuel  th pu o2 pellets
+1968-1973
+ - 
+uk  also sweden  norway and switzerland 
+  experimental  pin-in-block design 
+020000 20 mwt
+th 235u driver fuel  coated fuel particles  oxide   dicarbides
+19661973
+united states
+  experimental  prismatic block 
+040000 40 mw e 
+th 235u driver fuel  coated fuel particles  oxide   dicarbides
+19661972
+united states
+  power  prismatic block 
+330000 330 mw e 
+th 235u driver fuel  coated fuel particles  dicarbide
+19761989
+united states
+007500 7.5 mwt
+233u molten fluorides
+19641969
+ 
+united states
+bwr  pin assemblies 
+002400 2.4 mw e   24 mw e 
+th 235u driver fuel oxide pellets
+1963 - 1968
+united states
+     pin assemblies 
+100000 100 mw e 
+th 233u driver fuel  oxide pellets
+19771982
+united states
+     pin assemblies 
+285000 285 mw e 
+th 233u driver fuel  oxide pellets
+19621980
+suspop kstr
+netherlands
+aqueous homogenous suspension  pin assemblies 
+001000 1 mwt
+th heu  oxide pellets
+19741977
+ 
+canada
+mtr  pin assemblies 
+020000 20 mw  200 mw   
+th 235u  test fuel
+1947  nrx    1957  nru   irradiationtesting of few fuel elements
+     
+india
+mtr thermal
+040000 40 mwt  100 mwt  30 kwt  low power  research 
+al 233u driver fuel  j rod of th   tho2  j rod of tho2
+1960-2010  cirus   others in operation
+  kgs 1   2 
+india
+   pin assemblies 
+220000 220 mw e 
+tho2 pellets  for neutron flux flattening of initial core after start-up 
+1980  raps 2     continuing in all new phwrs
+india
+   pin assemblies 
+040000 40 mwt
+tho2 blanket
+1985  in operation
+see also  
+references  
+kang  j   von hippel  f  n   2001    u232 and the proliferationresistance of u233 in spent fuel   science   global security  9  1    
+faq
+ 
+robert hargraves  ralph moir  january 2011    
+forum on physics   society  retrieved 31 may 2012 
+ 
+ pdf   international atomic energy agency  may 2005  retrieved 2009-03-23 
+ganesan venkataraman  1994   bhabha and his magnificent obsessions  page 157  universities press 
+ pdf   international atomic energy agency  2002  retrieved 2009-03-24 
+evans  brett  april 14  2006       archived from
+on 2010-03-28  retrieved 2011-09-17 
+martin  richard  december 21  2009       retrieved 2010-06-19 
+miller  daniel  march 2011     abc news  retrieved 2012-03-25 
+dean  tim  april 2006       retrieved 2010-06-19 
+ february 20  2009     uit cambridge ltd  p 166  retrieved 2010-06-19 
+  flibe energy  retrieved 2012-06-12 
+ report   mit  2011  p 181 
+    2 september 2013  retrieved 4 september 2013 
+ 
+le brun  c   l  mathieu  d  heuer  a  nuttin 
+ pdf   technical meeting on fissile material management strategies for sustainable nuclear energy  vienna 2005  retrieved 2010-06-20 
+ 
+brissot r   heuer d   huffer e   le brun  c   loiseaux  j-m  nifenecker h   nuttin a   july 2001     laboratoire de physique subatomique et de cosmologie  lpsc   according to computer simulations done at isn  this protactinium dominates the residual toxicity of losses at 701131557600000000010000years
+    retrieved 2 march 2015  thermal neutron cross sections in barns  isotope  capture fission  f f c  f c  233u 45.26 531.3 92.15  11.74  235u 98.69 585.0 85.57  5.928  239pu 270.7 747.9 73.42  2.763  241pu 363.0 1012 73.60  2.788 
+ pdf   american nuclear society  november 2006  retrieved 2009-03-24 
+  world nuclear news  21 june 2013  retrieved 21 july 2013 
+  nuclear weapon archive  15 october 1997  retrieved 2008-12-09 
+ pdf   international atomic energy agency  november 2002  retrieved 2009-03-24 
+    1995  p 111    retrieved 11 june 2012  they were manufactured by
+ assembly code xdr07g  and later sent to the
+for reprocessing 
+further reading  
+kasten  p  r   1998      science   global security  7 3   237-269 
+duncan clark  9 september 2011       the guardian
+nelson  a  t   2012    thorium  not a near-term commercial nuclear fuel   bulletin of the atomic scientists  68  5   33    
+b d  kuz minov  v n  manokhin   1998    iaea translation from the russian journal yadernye konstanty  nuclear constants  issue no  3-4  1997
+comparison by the uk
+at the  
+from the alsos digital library for nuclear issues
+external links  
+retrieved from   
+ 

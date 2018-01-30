@@ -1,0 +1,196 @@
+greenjob
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="plainlinks metadata ambox ambox-content ambox-globalize" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="Globe icon." data-file-height="290" data-file-width="350" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/73px-Ambox_globe_content.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/97px-Ambox_globe_content.svg.png 2x" width="48"/></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">The examples and perspective in this section <b>may not represent a <a href="/wiki/Wikipedia:WikiProject_Countering_systemic_bias" title="Wikipedia:WikiProject Countering systemic bias">worldwide view</a> of the subject</b>. <span class="hide-when-compact">You may <a class="external text" href="//en.wikipedia.org/w/index.php?title=Green_job&amp;action=edit">improve this article</a>, discuss the issue on the <a href="/wiki/Talk:Green_job" title="Talk:Green job">talk page</a>, or <a href="/wiki/Wikipedia:Article_wizard" title="Wikipedia:Article wizard">create a new article</a>, as appropriate.</span> <small><i>(December 2009)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Environmental_economics" title="Category:Environmental economics">a series</a> about</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></th>
+</tr>
+<tr>
+<th style="padding:0.1em">Concepts</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Green_accounting" title="Green accounting">Green accounting</a></li>
+<li><a href="/wiki/Green_economy" title="Green economy">Green economy</a></li>
+<li><a href="/wiki/Green_trading" title="Green trading">Green trading</a></li>
+<li><a href="/wiki/Eco_commerce" title="Eco commerce">Eco commerce</a></li>
+<li><strong class="selflink">Green job</strong></li>
+<li><a href="/wiki/Environmental_enterprise" title="Environmental enterprise">Environmental enterprise</a></li>
+<li><a href="/wiki/Fiscal_environmentalism" title="Fiscal environmentalism">Fiscal environmentalism</a></li>
+<li><a href="/wiki/Environmental_finance" title="Environmental finance">Environmental finance</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">Policies</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Sustainable tourism</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Environmental_tariff" title="Environmental tariff">Environmental tariff</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Environmental_pricing_reform" title="Environmental pricing reform">Environmental pricing reform</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">Dynamics</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">Renewable energy commercialization</a></li>
+<li><a href="/wiki/Marginal_abatement_cost" title="Marginal abatement cost">Marginal abatement cost</a></li>
+<li><a href="/wiki/Green_paradox" title="Green paradox">Green paradox</a></li>
+<li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Pollution_haven_hypothesis" title="Pollution haven hypothesis">Pollution haven hypothesis</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">Carbon related</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Low-carbon_economy" title="Low-carbon economy">Low-carbon economy</a></li>
+<li><a class="mw-redirect" href="/wiki/Carbon_neutral_fuel" title="Carbon neutral fuel">Carbon neutral fuel</a></li>
+<li><a href="/wiki/Carbon_neutrality" title="Carbon neutrality">Carbon neutrality</a></li>
+<li><a class="mw-redirect" href="/wiki/Carbon_pricing" title="Carbon pricing">Carbon pricing</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Carbon_credit" title="Carbon credit">Carbon credit</a></li>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Carbon_emission_trading" title="Carbon emission trading">Carbon emission trading</a></li>
+<li><a href="/wiki/Personal_carbon_trading" title="Personal carbon trading">Personal carbon trading</a></li>
+<li><a href="/wiki/Carbon_tax" title="Carbon tax">Carbon tax</a></li>
+<li><a href="/wiki/Carbon_finance" title="Carbon finance">Carbon finance</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Carbon_diet" title="Carbon diet">Carbon diet</a></li>
+<li><a href="/wiki/Food_miles" title="Food miles">Food miles</a></li>
+<li><a href="/wiki/2000-watt_society" title="2000-watt society">2000-watt society</a></li>
+<li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Green_economics_sidebar" title="Template:Green economics sidebar"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Green_economics_sidebar" title="Template talk:Green economics sidebar"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_economics_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>A <b>green job</b>, also called a <b>green-collar job</b> is, according to the <a class="mw-redirect" href="/wiki/United_Nations_Environment_Program" title="United Nations Environment Program">United Nations Environment Program</a>, "work in agricultural, manufacturing, <a href="/wiki/Research_and_development" title="Research and development">research and development</a> (R&amp;D), administrative, and service activities that contribute(s) substantially to preserving or restoring environmental quality. Specifically, but not exclusively, this includes jobs that help to protect ecosystems and biodiversity; reduce energy, materials, and water consumption through high efficiency strategies; de-carbonize the economy; and minimize or altogether avoid generation of all forms of waste and pollution."<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Net_jobs"><span class="tocnumber">1</span> <span class="toctext">Net jobs</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Green_Jobs_and_Workforce_Education"><span class="tocnumber">2</span> <span class="toctext">Green Jobs and Workforce Education</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Green_Jobs_Initiatives"><span class="tocnumber">3</span> <span class="toctext">Green Jobs Initiatives</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#UNEP_Green_Jobs_Initiative"><span class="tocnumber">3.1</span> <span class="toctext">UNEP Green Jobs Initiative</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#USA_Green_Jobs_Act_2007"><span class="tocnumber">3.2</span> <span class="toctext">USA Green Jobs Act 2007</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Pathways_out_of_Poverty"><span class="tocnumber">3.3</span> <span class="toctext">Pathways out of Poverty</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Net_jobs">Net jobs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_job&amp;action=edit&amp;section=1" title="Edit section: Net jobs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A 2004 study by the Renewable and Appropriate Energy Laboratory (RAEL) at UC Berkeley reported that the renewable energy sector generates more jobs than the fossil fuel-based energy sector per unit of energy delivered (i.e., per average megawatt) across a broad range of scenarios.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> Contrarily, a report by <a class="new" href="/w/index.php?title=Gabriel_Calzada_Alvarez&amp;action=edit&amp;redlink=1" title="Gabriel Calzada Alvarez (page does not exist)">Gabriel Calzada Alvarez</a> analyzing the impact of an eleven-year Green energy project in Spain concluded that the U.S. should expect a loss of at least 2.2 jobs on average for each "green job" created, or about 9 jobs lost for every 4 created, in addition to those jobs that non-subsidized investments with the same resources would have created.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> A rebuttal to the Spanish study by the <a href="/wiki/National_Renewable_Energy_Laboratory" title="National Renewable Energy Laboratory">National Renewable Energy Laboratory</a> (NREL) presented numerous allegations of methodological flaws in the Spanish study, citing outdated data, non-standard measures of job creation, and a lack of accompanying statistical analysis among the limitations of the study.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<p>In 2010, the US <a href="/wiki/Bureau_of_Labor_Statistics" title="Bureau of Labor Statistics">Bureau of Labor Statistics</a> (BLS) received funding to analyze data about green jobs. The goal of this initiative is to [map] "(1) the number of and trend over time in green jobs, (2) the industrial, occupational, and geographic distribution of the jobs, and (3) the wages of the workers in these jobs."<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<p>In September 2010, the BLS published its final definition of green jobs in the Federal Register,<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> organizing them in 2 types: A) Jobs in businesses that produce goods and provide services that benefit the environment or conserve natural resources. Type A) green jobs are further divided in 5 categories. B) Jobs in which workers' duties involve making their establishment's production processes more environmentally friendly or use fewer natural resources. Type B) jobs are further divided in 4 categories.</p>
+<p>A 2011, Canadian report by the <a href="/wiki/Pembina_Institute" title="Pembina Institute">Pembina Institute</a> found that the <a href="/wiki/Canada" title="Canada">Canada</a>’s governments could create more jobs by implementing strong climate policies than by continuing with business as usual.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></p>
+<h2><span class="mw-headline" id="Green_Jobs_and_Workforce_Education">Green Jobs and Workforce Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_job&amp;action=edit&amp;section=2" title="Edit section: Green Jobs and Workforce Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The National Council for Workforce Education and AED published a report, <a class="external text" href="http://www.ncwe.org/wp-content/uploads/2007/11/GoingGreensmaller.pdf" rel="nofollow">Going Green: Going Green: The Vital Role of Community Colleges in Building a Sustainable Future and a Green Workforce</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since May 2012">dead link</span></a></i>]</span></sup> that examines how workforce education and community colleges contribute to the overall efforts in the move toward renewable and clean energy. The report gives examples of initiatives currently in effect nationally as well as offering information as to how to implement programs.</p>
+<p>In response to high unemployment and a distressed economy workers need skills that are relevant to their specific geographical locations. "Instead of making green jobs we need to make jobs green" says Ken Warden, an administrator in workforce education.</p>
+<p>A 2016 study indicates that the declining <a href="/wiki/Coal" title="Coal">coal</a> industry could protect their workers by retraining them for the <a class="mw-disambig" href="/wiki/Solar" title="Solar">solar</a> industry. <sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> There is also some indications that the solar industry “welcomes coal workers with open arms”.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup></p>
+<h2><span class="mw-headline" id="Green_Jobs_Initiatives">Green Jobs Initiatives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_job&amp;action=edit&amp;section=3" title="Edit section: Green Jobs Initiatives">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="UNEP_Green_Jobs_Initiative">UNEP Green Jobs Initiative</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_job&amp;action=edit&amp;section=4" title="Edit section: UNEP Green Jobs Initiative">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2007 the <a href="/wiki/United_Nations_Environment_Programme" title="United Nations Environment Programme">United Nations Environment Programme</a> (UNEP), the <a class="mw-redirect" href="/wiki/International_Labor_Organization" title="International Labor Organization">International Labor Organization</a> (ILO), and the <a href="/wiki/International_Trade_Union_Confederation" title="International Trade Union Confederation">International Trade Union Confederation</a> (ITUC) jointly launched the Green Jobs Initiative. The <a class="mw-redirect" href="/wiki/International_Employers_Organization" title="International Employers Organization">International Employers Organization</a> (IEO) .</p>
+<p><br/></p>
+<h3><span class="mw-headline" id="USA_Green_Jobs_Act_2007">USA Green Jobs Act 2007</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_job&amp;action=edit&amp;section=5" title="Edit section: USA Green Jobs Act 2007">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Green Jobs Act of 2007 (H.R. 2847), introduced by Reps. <a href="/wiki/Hilda_Solis" title="Hilda Solis">Hilda Solis</a> (D-CA) and <a href="/wiki/John_F._Tierney" title="John F. Tierney">John Tierney</a> (D-MA), "authorized up to $125 million in funding to establish national and state job training programs, administered by the U.S. Department of Labor, to help address job shortages that are impairing growth in green industries, such as energy efficient buildings and construction, renewable electric power, energy efficient vehicles, and biofuels development." <sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> The Energy Independence and Security Act passed in December 2007 incorporates the Green Jobs Act of 2007.</p>
+<p>Additionally, the <a class="mw-redirect" href="/wiki/American_Recovery_and_Reinvestment_Act" title="American Recovery and Reinvestment Act">American Recovery and Reinvestment Act</a> (ARRA), passed in early 2009, includes provisions for new jobs in industries such as energy, utilities, construction, and manufacturing with a focus toward energy efficiency and more environmentally-friendly practices.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup></p>
+<p>In March 2009, U.S. President <a href="/wiki/Barack_Obama" title="Barack Obama">Barack Obama</a> appointed <a href="/wiki/Van_Jones" title="Van Jones">Van Jones</a> as <a class="mw-redirect" href="/wiki/Special_Advisor_for_Green_Jobs,_Enterprise_and_Innovation" title="Special Advisor for Green Jobs, Enterprise and Innovation">Special Advisor for Green Jobs, Enterprise and Innovation</a> at the <a class="mw-redirect" href="/wiki/White_House_Council_on_Environmental_Quality" title="White House Council on Environmental Quality">White House Council on Environmental Quality</a> (CEQ). Following Jones' resignation in September 2009, no further candidates appear to have been appointed to this position.</p>
+<h3><span class="mw-headline" id="Pathways_out_of_Poverty">Pathways out of Poverty</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_job&amp;action=edit&amp;section=6" title="Edit section: Pathways out of Poverty">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b><a href="/wiki/Pathways_out_of_Poverty" title="Pathways out of Poverty">Pathways out of Poverty</a></b> (POP) is a national workforce training program that was established on August 14, 2009 by the <a class="mw-redirect" href="/wiki/Obama_administration" title="Obama administration">Obama administration</a> and funded by the <a class="mw-redirect" href="/wiki/American_Recovery_and_Reinvestment_Act" title="American Recovery and Reinvestment Act">American Recovery and Reinvestment Act</a> (ARRA) of 2009. POP targets individuals living below or near the poverty level to provide them with skills needed to enter the green job market, focusing on the energy efficiency and renewable energy industries. The training programs focus on teaching basic literacy and job readiness skills. Some of the programs also provide supportive assistance with childcare and transportation to overcome barriers to employment.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_job&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Corporate_Social_Responsibility" title="Corporate Social Responsibility">Corporate Social Responsibility</a> (CSR)</li>
+<li><a href="/wiki/Ethical_job" title="Ethical job">Ethical job</a></li>
+<li><a href="/wiki/Green-collar_worker" title="Green-collar worker">Green-collar worker</a></li>
+<li><i><a href="/wiki/The_Green_Collar_Economy" title="The Green Collar Economy">The Green Collar Economy</a></i></li>
+<li><a class="mw-redirect" href="/wiki/Green_For_All" title="Green For All">Green For All</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_job&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.unep.org/labour_environment/PDFs/Greenjobs/UNEP-Green-Jobs-Report.pdf" rel="nofollow">Green Jobs: Towards decent work in a sustainable, low-carbon world</a> (September 2008), United Nations Environmental Programme.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://rael.berkeley.edu/sites/default/files/old-site-files/2004/Kammen-Renewable-Jobs-2004.pdf" rel="nofollow">Putting Renewables to Work: How Many Jobs Can the Clean Energy Industry Generate?</a>, Renewable and Appropriate Energy Laboratory (RAEL), UC Berkeley, April 13, 2004 (corrected January 21, 2006) page 4 (page 2 of the PDF).</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.juandemariana.org/pdf/090327-employment-public-aid-renewable.pdf" rel="nofollow">Study of the effects on employment of public aid to renewable energy sources</a>, Page 1 (page 7 of the PDF), Universidad Rey Juan Carlos, March 2009.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Furchtgott-Roth, Diana (2012). <a class="external text" href="http://www.manhattan-institute.org/regulatingtodisaster/" rel="nofollow"><i>Regulating to Disaster: How Green Jobs Policies Are Damaging America's Economy</i></a>. Encounter Books. p. 168. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1594036163" title="Special:BookSources/978-1594036163">978-1594036163</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+job&amp;rft.aufirst=Diana&amp;rft.aulast=Furchtgott-Roth&amp;rft.btitle=Regulating+to+Disaster%3A+How+Green+Jobs+Policies+Are+Damaging+America%27s+Economy&amp;rft.date=2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.manhattan-institute.org%2Fregulatingtodisaster%2F&amp;rft.isbn=978-1594036163&amp;rft.pages=168&amp;rft.pub=Encounter+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.nrel.gov/docs/fy09osti/46261.pdf" rel="nofollow">NREL rebuttal to Spanish Study</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.bls.gov/green/" rel="nofollow">Green Jobs</a> – U.S. Bureau of Labor Statistics</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.gpo.gov/fdsys/pkg/FR-2010-09-21/html/2010-23485.htm" rel="nofollow">US BLS: Notice of comments received and final definition of green jobs.</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Pembina Institute. Reducing Pollution, Creating Jobs: The effects of climate policies on employment. <a class="external free" href="https://www.pembina.org/pub/2178" rel="nofollow">https://www.pembina.org/pub/2178</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Edward P. Louie and Joshua M. Pearce. <a class="external text" href="https://www.academia.edu/26372861/Retraining_Investment_for_U.S._Transition_from_Coal_to_Solar_Photovoltaic_Employment" rel="nofollow">Retraining Investment for U.S. Transition from Coal to Solar Photovoltaic Employment</a>. <i>Energy Economics</i>. <b>57</b>,295–302 (2016). doi:10.1016/j.eneco.2016.05.016</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.huffingtonpost.com/joshua-pearce/solar-industry-welcomes-c_b_10602842.html" rel="nofollow">Solar Industry Welcomes Coal Workers With Open Arms</a>- ‘’Huffington Post Business’’</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a class="external text" href="http://solis.house.gov/list/press/ca32_solis/wida6/greenjobscomm.shtml" rel="nofollow">House Committee Passes Solis' Green Jobs Act</a>, U.S. House of Representatives, June 27, 2007. <a class="external text" href="https://web.archive.org/web/20090221125207/http://solis.house.gov/list/press/ca32_solis/wida6/greenjobscomm.shtml" rel="nofollow">Archived</a> 21 February 2009 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.cdc.gov/niosh/topics/greenjobs/" rel="nofollow">Going Green: Safe and Healthy Jobs</a>. National Institute for Occupational Safety and Health. Accessed July 13, 2009.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.recovery.gov/" rel="nofollow">RECOVERY.gov</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">U.S. Department of Labor. <a class="external text" href="http://www.dol.gov/opa/media/press/eta/eta20100039.htm" rel="nofollow">"American Recovery and Reinvestment Act of 2009: Pathways Out of Poverty Grants"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+job&amp;rft.au=U.S.+Department+of+Labor&amp;rft.btitle=American+Recovery+and+Reinvestment+Act+of+2009%3A+Pathways+Out+of+Poverty+Grants&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.dol.gov%2Fopa%2Fmedia%2Fpress%2Feta%2Feta20100039.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_job&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a class="image" href="/wiki/File:Wiktionary-logo-v2.svg"><img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/40px-Wiktionary-logo-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/60px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/80px-Wiktionary-logo-v2.svg.png 2x" width="40"/></a></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/Green_job" title="wiktionary:Green job">Green job</a></b></i> or <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/Green_jobs" title="wiktionary:Green jobs">Green jobs</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.europarl.europa.eu/news/expert/infopress_page/048-78672-193-07-29-908-20100712IPR78671-12-07-2010-2010-false/default_es.htm" rel="nofollow">Green jobs the key to a sustainable economy</a> (<a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a>)</li>
+<li>NOW on PBS—Green Jobs: Hope or Hype? An interview with <a class="external text" href="http://www.pbs.org/now/shows/522/index.html" rel="nofollow">environmental activist Van Jones, founder of "Green for All,"</a></li>
+<li>United Nations Environment Program, <a class="external text" href="http://www.unep.org/labour_environment/features/greenjobs-initiative.asp" rel="nofollow">The UNEP- ILO- IEO – ITUC Green Jobs Initiative</a></li>
+<li>United Nations Environment Program, <a class="external text" href="http://www.unep.org/labour_environment/PDFs/Greenjobs/UNEP-Green-Jobs-Towards-Sustainable-Summary.pdf" rel="nofollow">Green Jobs: Towards Decent Work in a Sustainable, Low-Carbon World</a>, September 2008.</li>
+<li>Bryan Walsh, <i><a class="external text" href="http://www.time.com/time/health/article/0,8599,1809506,00.html" rel="nofollow">What Is a Green-Collar Job, Exactly?</a></i>, Time Magazine, Monday, May. 26, 2008.</li>
+<li>Paul Glover, <i><a class="external text" href="http://paulglover.org/deepgreen" rel="nofollow">Deep Green Jobs</a></i>, Greenplanners, 2012.</li>
+<li>Innovative ideas and startup thinking, <i><a class="external text" href="http://workasengineer.com/" rel="nofollow">Green jobs in enineering</a></i></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14300289-0!*!0!!en!4!* and timestamp 20161103190859 and revision id 747677960
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_job&amp;oldid=747677960">https://en.wikipedia.org/w/index.php?title=Green_job&amp;oldid=747677960</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Employment_classifications" title="Category:Employment classifications">Employment classifications</a></li><li><a href="/wiki/Category:Green_politics" title="Category:Green politics">Green politics</a></li><li><a href="/wiki/Category:Green_jobs" title="Category:Green jobs">Green jobs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_Wayback_Machine_links" title="Category:Articles with Wayback Machine links">Articles with Wayback Machine links</a></li><li><a href="/wiki/Category:Articles_with_limited_geographic_scope_from_December_2009" title="Category:Articles with limited geographic scope from December 2009">Articles with limited geographic scope from December 2009</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_May_2012" title="Category:Articles with dead external links from May 2012">Articles with dead external links from May 2012</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

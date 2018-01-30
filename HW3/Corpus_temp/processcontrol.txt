@@ -1,0 +1,185 @@
+processcontrol
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="hatnote" role="note">See also: <a href="/wiki/Control_theory" title="Control theory">Control theory</a></div>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Process_control&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(November 2010)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Automation" title="Automation">Automation</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Auxostat_schematic.svg"><img alt="" class="thumbimage" data-file-height="393" data-file-width="392" height="221" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Auxostat_schematic.svg/220px-Auxostat_schematic.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Auxostat_schematic.svg/330px-Auxostat_schematic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Auxostat_schematic.svg/440px-Auxostat_schematic.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Auxostat_schematic.svg" title="Enlarge"></a></div>
+Example of control system of a <a href="/wiki/Continuous_stirred-tank_reactor" title="Continuous stirred-tank reactor">continuous stirred-tank reactor</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Nuclear_Ship_Savannah_-_Reactor_Control_Room_-_Center_and_Left_Panels.jpg"><img alt="" class="thumbimage" data-file-height="1110" data-file-width="1700" height="144" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Nuclear_Ship_Savannah_-_Reactor_Control_Room_-_Center_and_Left_Panels.jpg/220px-Nuclear_Ship_Savannah_-_Reactor_Control_Room_-_Center_and_Left_Panels.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Nuclear_Ship_Savannah_-_Reactor_Control_Room_-_Center_and_Left_Panels.jpg/330px-Nuclear_Ship_Savannah_-_Reactor_Control_Room_-_Center_and_Left_Panels.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Nuclear_Ship_Savannah_-_Reactor_Control_Room_-_Center_and_Left_Panels.jpg/440px-Nuclear_Ship_Savannah_-_Reactor_Control_Room_-_Center_and_Left_Panels.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Nuclear_Ship_Savannah_-_Reactor_Control_Room_-_Center_and_Left_Panels.jpg" title="Enlarge"></a></div>
+Control panel of a <a href="/wiki/Nuclear_reactor" title="Nuclear reactor">nuclear reactor</a>.</div>
+</div>
+</div>
+<p><b>Process control</b> is an <a href="/wiki/Engineering" title="Engineering">engineering</a> discipline that deals with <a href="/wiki/Process_architecture" title="Process architecture">architectures</a>, <a class="mw-redirect" href="/wiki/Mechanism_(technology)" title="Mechanism (technology)">mechanisms</a> and <a href="/wiki/Algorithm" title="Algorithm">algorithms</a> for maintaining the output of a specific <a href="/wiki/Process_(engineering)" title="Process (engineering)">process</a> within a desired range. For instance, the temperature of a chemical reactor may be controlled to maintain a consistent product output.</p>
+<p>Process control is extensively used in industry and enables mass production of consistent products from continuously operated processes such as oil refining, paper manufacturing, chemicals, power plants and many others. Process control enables <a href="/wiki/Automation" title="Automation">automation</a>, by which a small staff of operating personnel can operate a complex process from a central control room.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Hierarchy_of_process_control"><span class="tocnumber">2</span> <span class="toctext">Hierarchy of process control</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Types_of_processes_using_process_control"><span class="tocnumber">3</span> <span class="toctext">Types of processes using process control</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Examples"><span class="tocnumber">4</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_control&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Feedback_loop_with_descriptions.svg"><img alt="" class="thumbimage" data-file-height="126" data-file-width="500" height="55" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Feedback_loop_with_descriptions.svg/220px-Feedback_loop_with_descriptions.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Feedback_loop_with_descriptions.svg/330px-Feedback_loop_with_descriptions.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Feedback_loop_with_descriptions.svg/440px-Feedback_loop_with_descriptions.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Feedback_loop_with_descriptions.svg" title="Enlarge"></a></div>
+Block diagram of a of closed control (Feedback) loop</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Smart_current_loop_positioner.png"><img alt="" class="thumbimage" data-file-height="1125" data-file-width="1500" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Smart_current_loop_positioner.png/220px-Smart_current_loop_positioner.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Smart_current_loop_positioner.png/330px-Smart_current_loop_positioner.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Smart_current_loop_positioner.png/440px-Smart_current_loop_positioner.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Smart_current_loop_positioner.png" title="Enlarge"></a></div>
+Example of a continuous flow control loop. Signalling is by industry standard 4-20 mA current loops, and a "smart" <a href="/wiki/Control_valve" title="Control valve">valve positioner</a> ensures the <a href="/wiki/Control_valve" title="Control valve">control valve</a> operates correctly.</div>
+</div>
+</div>
+<p>Process control may either use <a href="/wiki/Feedback" title="Feedback">feedback</a> or it may be open loop. Control may also be continuous (automobile cruise control) or cause a sequence of discrete events, such as a timer on a lawn sprinkler (on/off) or controls on an elevator (logical sequence).</p>
+<p>A thermostat on a heater is an example of control that is on or off. A temperature sensor turns the heat source on if the temperature falls below the set point and turns the heat source off when the set point is reached. There is no measurement of the difference between the set point and the measured temperature (e.g. no error measurement) and no adjustment to the rate at which heat is added other than all or none.</p>
+<p>A familiar example of feedback control is cruise control on an automobile. Here speed is the <b>measured variable</b>. The operator (driver) adjusts the desired speed <b>set point</b> (e.g. 100 km/hr) and the controller monitors the speed sensor and compares the measured speed to the set point. Any deviations, such as changes in grade, drag, wind speed or even using a different grade of fuel (for example an ethanol blend) are corrected by the controller making a compensating adjustment to the fuel valve open position, which is the <b>manipulated variable</b>. The controller makes adjustments having information only about the error (magnitude, rate of change or cumulative error) although settings known as <i>tuning</i> are used to achieve stable control. The operation of such controllers is the subject of <a href="/wiki/Control_theory" title="Control theory">control theory</a>.</p>
+<p>A commonly used control device called a <a href="/wiki/Programmable_logic_controller" title="Programmable logic controller">programmable logic controller</a>, or a PLC, is used to read a set of digital and analog inputs, apply a set of logic statements, and generate a set of analog and digital outputs.</p>
+<p>For example, if an adjustable valve were used to hold level in a tank the logical statements would compare the equivalent pressure at depth setpoint to the pressure reading of a sensor below the normal low liquid level and determine whether more or less valve opening was necessary to keep the level constant. A PLC output would then calculate an incremental amount of change in the valve position. Larger more complex systems can be controlled by a <a class="mw-redirect" href="/wiki/Distributed_Control_System" title="Distributed Control System">Distributed Control System</a> (DCS) or <a href="/wiki/SCADA" title="SCADA">SCADA</a> system.</p>
+<h2><span class="mw-headline" id="Hierarchy_of_process_control">Hierarchy of process control</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_control&amp;action=edit&amp;section=2" title="Edit section: Hierarchy of process control">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:502px;"><a class="image" href="/wiki/File:Functional_levels_of_a_Distributed_Control_System.svg"><img alt="" class="thumbimage" data-file-height="1400" data-file-width="2700" height="259" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Functional_levels_of_a_Distributed_Control_System.svg/500px-Functional_levels_of_a_Distributed_Control_System.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Functional_levels_of_a_Distributed_Control_System.svg/750px-Functional_levels_of_a_Distributed_Control_System.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Functional_levels_of_a_Distributed_Control_System.svg/1000px-Functional_levels_of_a_Distributed_Control_System.svg.png 2x" width="500"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Functional_levels_of_a_Distributed_Control_System.svg" title="Enlarge"></a></div>
+Functional levels of a manufacturing control operation.</div>
+</div>
+</div>
+<p>The accompanying diagram is a general model which shows functional manufacturing levels in a large process using computerised control.</p>
+<p>Referring to the diagram;</p>
+<ul>
+<li>Level 0 contains the field devices such as flow and temperature sensors, and final control elements, such as <a href="/wiki/Control_valve" title="Control valve">control valves</a></li>
+<li>Level 1 contains the industrialised Input/Output (I/O) modules, and their associated distributed electronic processors.</li>
+<li>Level 2 contains the supervisory computers, which collate information from processor nodes on the system, and provide the operator control screens.</li>
+<li>Level 3 is the production control level, which does not directly control the process, but is concerned with monitoring production and monitoring targets</li>
+<li>Level 4 is the production scheduling level.</li>
+</ul>
+<h2><span class="mw-headline" id="Types_of_processes_using_process_control">Types of processes using process control</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_control&amp;action=edit&amp;section=3" title="Edit section: Types of processes using process control">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Processes can be characterized as one or more of the following forms:</p>
+<ul>
+<li>Discrete – Found in many manufacturing, motion and packaging applications. Robotic assembly, such as that found in automotive production, can be characterized as discrete process control. Most <a href="/wiki/Discrete_manufacturing" title="Discrete manufacturing">discrete manufacturing</a> involves the production of discrete pieces of product, such as metal stamping.</li>
+<li>Batch – Some applications require that specific quantities of raw materials be combined in specific ways for particular durations to produce an intermediate or end result. One example is the production of adhesives and glues, which normally require the mixing of raw materials in a heated vessel for a period of time to form a quantity of end product. Other important examples are the production of food, beverages and medicine. Batch processes are generally used to produce a relatively low to intermediate quantity of product per year (a few pounds to millions of pounds).</li>
+<li>Continuous – Often, a physical system is represented through variables that are smooth and uninterrupted in time. The control of the water temperature in a heating jacket, for example, is an example of continuous process control. Some important continuous processes are the production of fuels, chemicals and plastics. Continuous processes in manufacturing are used to produce very large quantities of product per year (millions to billions of pounds).</li>
+</ul>
+<p>Applications having elements of discrete, batch and continuous process control are often called <i>hybrid</i> applications.</p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_control&amp;action=edit&amp;section=4" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>An <a href="/wiki/Anti-lock_braking_system" title="Anti-lock braking system">anti-lock braking system</a> (ABS) is a complex example, consisting of multiple inputs, conditions and outputs.</li>
+<li>Aircraft stability control is a highly complex example using multiple inputs and outputs.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_control&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+<table role="presentation" style="width: 100%; background-color:transparent;table-layout:fixed; border:none; border-spacing:0;">
+<tr style="vertical-align: top;">
+<td>
+<div style="margin-right:20px;">
+<ul>
+<li><a href="/wiki/Actuator" title="Actuator">Actuator</a></li>
+<li><a href="/wiki/Automation" title="Automation">Automation</a></li>
+<li><a href="/wiki/Automatic_control" title="Automatic control">Automatic control</a></li>
+<li><a href="/wiki/Check_weigher" title="Check weigher">Check weigher</a></li>
+<li><a href="/wiki/Citect" title="Citect">Citect</a></li>
+<li><a class="mw-redirect" href="/wiki/Closed-loop_controller" title="Closed-loop controller">Closed-loop controller</a></li>
+<li><a href="/wiki/Control_engineering" title="Control engineering">Control engineering</a></li>
+<li><a href="/wiki/Control_panel_(engineering)" title="Control panel (engineering)">Control panel</a></li>
+<li><a href="/wiki/Control_system" title="Control system">Control system</a></li>
+<li><a href="/wiki/Control_theory" title="Control theory">Control theory</a></li>
+<li><a href="/wiki/Controllability" title="Controllability">Controllability</a></li>
+<li><a href="/wiki/Controller_(control_theory)" title="Controller (control theory)">Controller (control theory)</a></li>
+<li><a href="/wiki/Cruise_control" title="Cruise control">Cruise control</a></li>
+<li><a href="/wiki/Current_loop" title="Current loop">Current loop</a></li>
+<li><a href="/wiki/Digital_control" title="Digital control">Digital control</a></li>
+<li><a href="/wiki/Distributed_control_system" title="Distributed control system">Distributed control system</a></li>
+</ul>
+</div>
+</td>
+<td>
+<div style="margin-right: 20px;">
+<ul>
+<li><a href="/wiki/Feedback" title="Feedback">Feedback</a></li>
+<li><a href="/wiki/Feed_forward_(control)" title="Feed forward (control)">Feed-forward</a></li>
+<li><a href="/wiki/Fieldbus" title="Fieldbus">Fieldbus</a></li>
+<li><a href="/wiki/Flow_control_valve" title="Flow control valve">Flow control valve</a></li>
+<li><a href="/wiki/Fuzzy_control_system" title="Fuzzy control system">Fuzzy control system</a></li>
+<li><a href="/wiki/Gain_scheduling" title="Gain scheduling">Gain scheduling</a></li>
+<li><a href="/wiki/Intelligent_control" title="Intelligent control">Intelligent control</a></li>
+<li><a href="/wiki/Laplace_transform" title="Laplace transform">Laplace transform</a></li>
+<li><a href="/wiki/Linear_parameter-varying_control" title="Linear parameter-varying control">Linear parameter-varying control</a></li>
+<li><a class="mw-redirect" href="/wiki/Measurement_instrument" title="Measurement instrument">Measurement instruments</a></li>
+<li><a href="/wiki/Model_predictive_control" title="Model predictive control">Model predictive control</a></li>
+<li><a href="/wiki/Negative_feedback" title="Negative feedback">Negative feedback</a></li>
+<li><a href="/wiki/Nonlinear_control" title="Nonlinear control">Nonlinear control</a></li>
+<li><a href="/wiki/Open-loop_controller" title="Open-loop controller">Open-loop controller</a></li>
+<li><a href="/wiki/Operational_historian" title="Operational historian">Operational historian</a></li>
+<li><a href="/wiki/PID_controller" title="PID controller">PID controller</a></li>
+<li><a href="/wiki/Piping_and_instrumentation_diagram" title="Piping and instrumentation diagram">Piping and instrumentation diagram</a></li>
+</ul>
+</div>
+</td>
+<td>
+<div style="margin-right: 20px;">
+<ul>
+<li><a href="/wiki/Positive_feedback" title="Positive feedback">Positive feedback</a></li>
+<li><a href="/wiki/Process_capability" title="Process capability">Process capability</a></li>
+<li><a class="mw-redirect" href="/wiki/Programmable_Logic_Controller" title="Programmable Logic Controller">Programmable Logic Controller</a></li>
+<li><a href="/wiki/Regulator_(automatic_control)" title="Regulator (automatic control)">Regulator (automatic control)</a></li>
+<li><a href="/wiki/SCADA" title="SCADA">SCADA</a></li>
+<li><a href="/wiki/Servomechanism" title="Servomechanism">Servomechanism</a></li>
+<li><a href="/wiki/Setpoint_(control_system)" title="Setpoint (control system)">Setpoint</a></li>
+<li><a href="/wiki/Signal-flow_graph" title="Signal-flow graph">Signal-flow graph</a></li>
+<li><a href="/wiki/Simatic_S5_PLC" title="Simatic S5 PLC">Simatic S5 PLC</a></li>
+<li><a href="/wiki/Sliding_mode_control" title="Sliding mode control">Sliding mode control</a></li>
+<li><a href="/wiki/Temperature_control" title="Temperature control">Temperature control</a></li>
+<li><a href="/wiki/Transducer" title="Transducer">Transducer</a></li>
+<li><a href="/wiki/Valve" title="Valve">Valve</a></li>
+<li><a class="mw-redirect" href="/wiki/Watt_governor" title="Watt governor">Watt governor</a></li>
+<li><a href="/wiki/Process_control_monitoring" title="Process control monitoring">Process control monitoring</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_control&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://controls.engin.umich.edu/wiki" rel="nofollow">The Michigan Chemical Engineering Process Dynamics and Controls Open Textbook</a></li>
+<li><a class="external text" href="http://www.controlguru.com" rel="nofollow">PID Control Theory and Best Practices</a></li>
+<li><a class="external text" href="http://www.ProcessControl.tv" rel="nofollow">Process Control Equipment Video Tutorials</a></li>
+<li><a class="external text" href="http://www.PIDlab.com" rel="nofollow">PID control virtual laboratory, free video tutorials, on-line simulators, advanced process control schemes</a></li>
+<li><a class="external text" href="http://www.connectingindustry.com/ProcessControl" rel="nofollow">Process &amp; Control publication</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:658183-0!*!0!!en!4!* and timestamp 20161107150009 and revision id 748309386
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Process_control&amp;oldid=748309386">https://en.wikipedia.org/w/index.php?title=Process_control&amp;oldid=748309386</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chemical_process_engineering" title="Category:Chemical process engineering">Chemical process engineering</a></li><li><a href="/wiki/Category:Control_theory" title="Category:Control theory">Control theory</a></li><li><a href="/wiki/Category:Production_and_manufacturing" title="Category:Production and manufacturing">Production and manufacturing</a></li><li><a href="/wiki/Category:Process_management" title="Category:Process management">Process management</a></li><li><a href="/wiki/Category:Engineering_statistics" title="Category:Engineering statistics">Engineering statistics</a></li><li><a href="/wiki/Category:Process_engineering" title="Category:Process engineering">Process engineering</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_sources_from_November_2010" title="Category:Articles lacking sources from November 2010">Articles lacking sources from November 2010</a></li><li><a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">All articles lacking sources</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

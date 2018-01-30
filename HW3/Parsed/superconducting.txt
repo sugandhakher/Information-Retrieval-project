@@ -1,0 +1,353 @@
+superconducting
+from wikipedia  the free encyclopedia
+ redirected from  
+jump to 					 
+a
+levitating above a   cooled with   persistent electric current flows on the surface of the superconductor  acting to exclude the magnetic field of the magnet     this current effectively forms an electromagnet that repels the magnet 
+video of a meissner effect in a high temperature superconductor  black pellet  with a ndfeb magnet  metallic 
+a high-temperature superconductor levitating above a magnet
+superconductivity is a phenomenon of exactly zero
+and expulsion of
+occurring in certain materials when
+below a characteristic   it was discovered by dutch physicist
+on april8  1911 in   like
+and   superconductivity is a
+phenomenon  it is characterized by the   the complete ejection of
+from the interior of the superconductor as it transitions into the superconducting state  the occurrence of the meissner effect indicates that superconductivity cannot be understood simply as the
+of
+in  
+the electrical resistance of a metallic
+decreases gradually as temperature is lowered  in ordinary conductors  such as
+or   this decrease is limited by impurities and other defects  even near   a real sample of a normal conductor shows some resistance  in a superconductor  the resistance drops abruptly to zero when the material is cooled below its critical temperature  an
+flowing through a loop of
+can persist indefinitely with no power source 
+in 1986  it was discovered that some -
+materials have a critical temperature above 90k  183c   such a high transition temperature is theoretically impossible for a   leading the materials to be termed  
+boils at 77k  and superconduction at higher temperatures than this facilitates many experiments and applications that are less practical at lower temperatures 
+contents
+classification  
+main article 
+there are many criteria by which superconductors are classified  the most common are 
+response to a magnetic field  a superconductor can be   meaning it has a single critical field  above which all superconductivity is lost  or   meaning it has two critical fields  between which it allows partial penetration of the magnetic field 
+by theory of operation  it is
+if it can be explained by the
+or its derivatives  or   otherwise 
+by critical temperature  a superconductor is generally considered
+if it reaches a superconducting state when cooled using
+ that is  at only tc  77k   or low temperature if more aggressive cooling techniques are required to reach its critical temperature 
+by material  superconductor material classes include
+ e g 
+or   
+ such as     and   
+  and   
+ like fluorine-doped laofeas  or
+  and   though perhaps these examples should be included among the chemical elements  as they are composed entirely of   
+elementary properties of superconductors  
+most of the physical properties of superconductors vary from material to material  such as the
+and the critical temperature  critical field  and critical current density at which superconductivity is destroyed 
+on the other hand  there is a class of properties that are independent of the underlying material  for instance  all superconductors have exactly zero resistivity to low applied currents when there is no magnetic field present or if the applied field does not exceed a critical value  the existence of these  universal  properties implies that superconductivity is a   and thus possesses certain distinguishing properties which are largely independent of microscopic details 
+zero electrical dc resistance  
+electric cables for accelerators at   both the massive and slim cables are rated for 12,500   top  conventional cables for   bottom  superconductor-based cables for the
+cross section of a preform superconductor rod from abandoned  
+the simplest method to measure the
+of a sample of some material is to place it in an
+in series with a
+i and measure the resulting
+v across the sample  the resistance of the sample is given by
+as r v i  if the voltage is zero  this means that the resistance is zero 
+superconductors are also able to maintain a current with no applied voltage whatsoever  a property exploited in
+such as those found in
+machines  experiments have demonstrated that currents in superconducting coils can persist for years without any measurable degradation  experimental evidence points to a current lifetime of at least 100,000 years  theoretical estimates for the lifetime of a persistent current can exceed the estimated lifetime of the   depending on the wire geometry and the temperature 
+in a normal conductor  an electric current may be visualized as a fluid of
+moving across a heavy
+lattice  the electrons are constantly colliding with the ions in the lattice  and during each collision some of the
+carried by the current is absorbed by the lattice and converted into   which is essentially the vibrational
+of the lattice ions  as a result  the energy carried by the current is constantly being dissipated  this is the phenomenon of electrical resistance and  
+the situation is different in a superconductor  in a conventional superconductor  the electronic fluid cannot be resolved into individual electrons  instead  it consists of bound pairs of electrons known as   this pairing is caused by an attractive force between electrons from the exchange of   due to   the
+of this cooper pair fluid possesses an   meaning there is a minimum amount of energy e that must be supplied in order to excite the fluid  therefore  if e is larger than the
+of the lattice  given by kt  where k is
+and t is the   the fluid will not be scattered by the lattice  the cooper pair fluid is thus a   meaning it can flow without energy dissipation 
+in a class of superconductors known as   including all known   an extremely small amount of resistivity appears at temperatures not too far below the nominal superconducting transition when an electric current is applied in conjunction with a strong magnetic field  which may be caused by the electric current  this is due to the motion of
+in the electronic superfluid  which dissipates some of the energy carried by the current  if the current is sufficiently small  the vortices are stationary  and the resistivity vanishes  the resistance due to this effect is tiny compared with that of non-superconducting materials  but must be taken into account in sensitive experiments  however  as the temperature decreases far enough below the nominal superconducting transition  these vortices can become frozen into a disordered but stationary phase known as a  vortex glass   below this vortex glass transition temperature  the resistance of the material becomes truly zero 
+superconducting phase transition   
+behavior of heat capacity  cv  blue  and resistivity    green  at the superconducting phase transition
+in superconducting materials  the characteristics of superconductivity appear when the
+t is lowered below a critical temperature tc  the value of this critical temperature varies from material to material  conventional superconductors usually have critical temperatures ranging from around 20 to less than 1k  solid   for example  has a critical temperature of 4.2k  as of 2009  the highest critical temperature found for a conventional superconductor is 39 k for
+ mgb2   although this material displays enough exotic properties that there is some doubt about classifying it as a  conventional  superconductor 
+superconductors can have much higher critical temperatures    one of the first cuprate superconductors to be discovered  has a critical temperature of 92k  and mercury-based cuprates have been found with critical temperatures in excess of 130k  the explanation for these high critical temperatures remains unknown  electron pairing due to
+exchanges explains superconductivity in conventional superconductors  but it does not explain superconductivity in the newer superconductors that have a very high critical temperature 
+similarly  at a fixed temperature below the critical temperature  superconducting materials cease to superconduct when an external
+is applied which is greater than the critical magnetic field  this is because the
+of the superconducting phase increases quadratically with the magnetic field while the free energy of the normal phase is roughly independent of the magnetic field  if the material superconducts in the absence of a field  then the superconducting phase free energy is lower than that of the normal phase and so for some finite value of the magnetic field  proportional to the square root of the difference of the free energies at zero magnetic field  the two free energies will be equal and a phase transition to the normal phase will occur  more generally  a higher temperature and a stronger magnetic field lead to a smaller fraction of the electrons in the superconducting band and consequently a longer
+of external magnetic fields and currents  the penetration depth becomes infinite at the phase transition 
+the onset of superconductivity is accompanied by abrupt changes in various physical properties  which is the hallmark of a   for example  the electronic
+is proportional to the temperature in the normal  non-superconducting  regime  at the superconducting transition  it suffers a discontinuous jump and thereafter ceases to be linear  at low temperatures  it varies instead as e t for some constant    this exponential behavior is one of the pieces of evidence for the existence of the  
+the
+of the superconducting phase transition was long a matter of debate  experiments indicate that the transition is second-order  meaning there is no   however  in the presence of an external magnetic field there is latent heat  because the superconducting phase has a lower entropy below the critical temperature than the normal phase  it has been experimentally demonstrated that  as a consequence  when the magnetic field is increased beyond the critical field  the resulting phase transition leads to a decrease in the temperature of the superconducting material 
+calculations in the 1970s suggested that it may actually be weakly first-order due to the effect of long-range fluctuations in the electromagnetic field  in the 1980s it was shown theoretically with the help of a   in which the
+of the superconductor play a major role  that the transition is of second order within the
+regime and of first order  i e     within the
+regime  and that the two regions are separated by a   the results were strongly supported by monte carlo computer simulations 
+meissner effect  
+main article 
+when a superconductor is placed in a weak external
+h  and cooled below its transition temperature  the magnetic field is ejected  the meissner effect does not cause the field to be completely ejected but instead the field penetrates the superconductor but only to a very small distance  characterized by a parameter  called the   decaying exponentially to zero within the bulk of the material  the
+is a defining characteristic of superconductivity  for most superconductors  the london penetration depth is on the order of 100nm 
+the meissner effect is sometimes confused with the kind of
+one would expect in a perfect electrical conductor  according to   when a changing magnetic field is applied to a conductor  it will induce an electric current in the conductor that creates an opposing magnetic field  in a perfect conductor  an arbitrarily large current can be induced  and the resulting magnetic field exactly cancels the applied field 
+the meissner effect is distinct from thisit is the spontaneous expulsion which occurs during transition to superconductivity  suppose we have a material in its normal state  containing a constant internal magnetic field  when the material is cooled below the critical temperature  we would observe the abrupt expulsion of the internal magnetic field  which we would not expect based on lenz s law 
+the meissner effect was given a phenomenological explanation by the brothers
+and   who showed that the electromagnetic
+in a superconductor is minimized provided
+
+2
+h
+ 
+
+
+2
+h
+  displaystyle  nabla   2  mathbf  h    lambda   -2  mathbf  h     
+where h is the magnetic field and  is the  
+this equation  which is known as the   predicts that the magnetic field in a superconductor
+from whatever value it possesses at the surface 
+a superconductor with little or no magnetic field within it is said to be in the meissner state  the meissner state breaks down when the applied magnetic field is too large  superconductors can be divided into two classes according to how this breakdown occurs  in   superconductivity is abruptly destroyed when the strength of the applied field rises above a critical value hc  depending on the geometry of the sample  one may obtain an intermediate state consisting of a baroque pattern of regions of normal material carrying a magnetic field mixed with regions of superconducting material containing no field  in   raising the applied field past a critical value hc1 leads to a mixed state  also known as the vortex state  in which an increasing amount of
+penetrates the material  but there remains no resistance to the flow of electric current as long as the current is not too large  at a second critical field strength hc2  superconductivity is destroyed  the mixed state is actually caused by vortices in the electronic superfluid  sometimes called
+because the flux carried by these vortices is   most pure
+superconductors  except
+and   are typei  while almost all impure and compound superconductors are typeii 
+london moment  
+conversely  a spinning superconductor generates a magnetic field  precisely aligned with the spin axis  the effect  the   was put to good use in   this experiment measured the magnetic fields of four superconducting gyroscopes to determine their spin axes  this was critical to the experiment since it is one of the few ways to accurately determine the spin axis of an otherwise featureless sphere 
+history of superconductivity  
+heike kamerlingh onnes  right   the discoverer of superconductivity     
+stand to his left 
+main article 
+superconductivity was discovered on april 8  1911 by   who was studying the resistance of solid
+at
+temperatures using the recently produced
+as a   at the temperature of 4.2k  he observed that the resistance abruptly disappeared  in the same experiment  he also observed the
+transition of helium at 2.2k  without recognizing its significance  the precise date and circumstances of the discovery were only reconstructed a century later  when onnes s notebook was found  in subsequent decades  superconductivity was observed in several other materials  in 1913 
+was found to superconduct at 7k  and in 1941
+was found to superconduct at 16k 
+great efforts have been devoted to finding out how and why superconductivity works  the important step occurred in 1933  when
+and
+discovered that superconductors expelled applied magnetic fields  a phenomenon which has come to be known as the   in 1935 
+and
+showed that the meissner effect was a consequence of the minimization of the electromagnetic
+carried by superconducting current 
+london theory  
+the first phenomenological theory of superconductivity was   it was put forward by the brothers fritz and heinz london in 1935  shortly after the discovery that magnetic fields are expelled from superconductors  a major triumph of the equations of this theory is their ability to explain the   wherein a material exponentially expels all internal magnetic fields as it crosses the superconducting threshold  by using the london equation  one can obtain the dependence of the magnetic field inside the superconductor on the distance to the surface 
+there are two london equations 
+
+j
+s
+
+t
+ 
+n
+s
+e
+2
+m
+e
+ 
+
+
+j
+s
+ 
+
+n
+s
+e
+2
+m
+b
+ 
+  displaystyle   frac   partial  mathbf  j    s    partial t     frac  n  s e  2   m   mathbf  e    qquad  mathbf   nabla    times  mathbf  j    s  -  frac  n  s e  2   m   mathbf  b    
+the first equation follows from
+for superconducting electrons 
+conventional theories  1950s   
+during the 1950s  theoretical
+physicists arrived at an understanding of  conventional  superconductivity  through a pair of remarkable and important theories  the phenomenological
+ 1950  and the microscopic
+ 1957  
+in 1950  the
+of superconductivity was devised by
+and   this theory  which combined landau s theory of second-order
+with a -like wave equation  had great success in explaining the macroscopic properties of superconductors  in particular 
+showed that ginzburg-landau theory predicts the division of superconductors into the two categories now referred to as typei and typeii  abrikosov and ginzburg were awarded the 2003 nobel prize for their work  landau had received the 1962 nobel prize for other work  and died in 1968   the four-dimensional extension of the ginzburg-landau theory  the   is important in
+and  
+also in 1950  maxwell and reynolds et al  found that the critical temperature of a superconductor depends on the
+of the constituent   this important discovery pointed to the - interaction as the microscopic mechanism responsible for superconductivity 
+the complete microscopic theory of superconductivity was finally proposed in 1957 by  
+and   this bcs theory explained the superconducting current as a
+of   pairs of electrons interacting through the exchange of phonons  for this work  the authors were awarded the nobel prize in 1972 
+the bcs theory was set on a firmer footing in 1958  when
+showed that the bcs wavefunction  which had originally been derived from a variational argument  could be obtained using a canonical transformation of the electronic   in 1959 
+showed that the bcs theory reduced to the ginzburg-landau theory close to the critical temperature 
+generalizations of bcs theory for conventional superconductors form the basis for understanding of the phenomenon of   because they fall into the
+universality class  the extent to which such generalizations can be applied to
+is still controversial 
+further history  
+the first practical application of superconductivity was developed in 1954 with  s invention of the   two superconductors with greatly different values of critical magnetic field are combined to produce a fast  simple  switch for computer elements 
+soon after discovering superconductivity in 1911  kamerlingh onnes attempted to make an electromagnet with superconducting windings but found that relatively low magnetic fields destroyed superconductivity in the materials he investigated  much later  in 1955  g b  yntema
+succeeded in constructing a small 0.7-tesla iron-core electromagnet with superconducting niobium wire windings  then  in 1961  j e  kunzler  e  buehler  f s l  hsu  and j h  wernick
+made the startling discovery that  at 4.2 kelvin  a compound consisting of three parts niobium and one part tin  was capable of supporting a current density of more than 100,000 amperes per square centimeter in a magnetic field of 8.8 tesla  despite being brittle and difficult to fabricate  niobium-tin has since proved extremely useful in supermagnets generating magnetic fields as high as 20 tesla  in 1962 t g  berlincourt and r r  hake
+discovered that alloys of niobium and titanium are suitable for applications up to 10 tesla  promptly thereafter  commercial production of niobium-titanium supermagnet wire commenced at westinghouse electric corporation and at wah chang corporation  although niobium-titanium boasts less-impressive superconducting properties than those of niobium-tin  niobium-titanium has  nevertheless  become the most widely used workhorse supermagnet material  in large measure a consequence of its very-high ductility and ease of fabrication  however  both niobium-tin and niobium-titanium find wide application in mri medical imagers  bending and focusing magnets for enormous high-energy-particle accelerators  and a host of other applications  conectus  a european superconductivity consortium  estimated that in 2014  global economic activity for which superconductivity was indispensable amounted to about five billion euros  with mri systems accounting for about 80  of that total 
+in 1962 
+made the important theoretical prediction that a supercurrent can flow between two pieces of superconductor separated by a thin layer of insulator  this phenomenon  now called the   is exploited by superconducting devices such as   it is used in the most accurate available measurements of the
+0 h  2e   where h is the   coupled with the   this leads to a precise measurement of the planck constant  josephson was awarded the nobel prize for this work in 1973 
+in 2008  it was proposed that the same mechanism that produces superconductivity could produce a
+state in some materials  with almost infinite  
+high-temperature superconductivity  
+timeline of superconducting materials
+main article 
+until 1986  physicists had believed that bcs theory forbade superconductivity at temperatures above about 30k  in that year 
+and
+discovered superconductivity in a -based cuprate
+material  which had a transition temperature of 35k  nobel prize in physics  1987   it was soon found that replacing the lanthanum with
+ i e  making   raised the critical temperature to 92k 
+this temperature jump is particularly significant  since it allows
+as a refrigerant  replacing   this can be important commercially because liquid nitrogen can be produced relatively cheaply  even on-site  also  the higher temperatures help avoid some of the problems that arise at liquid helium temperatures  such as the formation of plugs of frozen air that can block cryogenic lines and cause unanticipated and potentially hazardous pressure buildup 
+many other cuprate superconductors have since been discovered  and the theory of superconductivity in these materials is one of the major outstanding challenges of theoretical   there are currently two main hypotheses  the   and spin fluctuation which has the most support in the research community  the second hypothesis proposed that electron pairing in high-temperature superconductors is mediated by short-range spin waves known as      
+since about 1993  the highest-temperature superconductor has been a ceramic material consisting of mercury  barium  calcium  copper and oxygen  hgba2ca2cu3o8   with tc  133138 k  the latter experiment  138 k  still awaits experimental confirmation  however 
+in february 2008  an iron-based family of high-temperature superconductors was discovered  hideo hosono  of the   and colleagues found lanthanum oxygen fluorine iron arsenide  lao1-xfxfeas   an
+that superconducts below 26k  replacing the lanthanum in lao1xfxfeas with
+leads to superconductors that work at 55k 
+in may 2014 
+ h
+2s  was predicted to be a high-temperature superconductor with a transition temperature of 80 k at 160 gigapascals of pressure  in 2015  h
+2s has been observed to exhibit superconductivity at below 203k but at extremely high pressures  around 150 gigapascals 
+applications  
+main article 
+video of superconducting levitation of
+are some of the most powerful
+known  they are used in   machines    the beam-steering magnets used in
+and plasma confining magnets in some   they can also be used for magnetic separation  where weakly magnetic particles are extracted from a background of less or non-magnetic particles  as in the
+industries 
+in the 1950s and 1960s  superconductors were used to build experimental digital computers using
+switches  more recently  superconductors have been used to make
+based on
+technology and
+for
+base stations 
+superconductors are used to build
+which are the building blocks of
+ superconducting quantum interference devices   the most sensitive
+known  squids are used in
+and   series of josephson devices are used to realize the
+  depending on the particular mode of operation  a
+josephson junction can be used as a photon
+or as a   the large resistance change at the transition from the normal- to the superconducting state is used to build thermometers in cryogenic
+photon   the same effect is used in ultrasensitive
+made from superconducting materials 
+other early markets are arising where the relative efficiency  size and weight advantages of devices based on
+outweigh the additional costs involved  for example  in
+the lower weight and volume of superconducting generators could lead to savings in construction and tower costs  offsetting the higher costs for the generator and lowering the total lcoe 
+promising future applications include high-performance        
+ e g  for vehicle propulsion  as in
+or        enhancing spintronic devices with superconducting materials  and superconducting   however  superconductivity is sensitive to moving magnetic fields so applications that use
+ e g  transformers  will be more difficult to develop than those that rely upon   compared to traditional power lines superconducting transmission lines are more efficient and require only a fraction of the space  which would not only lead to a better environmental performance but could also improve public acceptance for expansion of the electric grid 
+nobel prizes for superconductivity  
+ 1913    for his investigations on the properties of matter at low temperatures which led  inter alia  to the production of liquid helium 
+    and
+ 1972    for their jointly developed theory of superconductivity  usually called the bcs-theory 
+    and
+ 1973    for their experimental discoveries regarding tunneling phenomena in semiconductors and superconductors  respectively   and  for his theoretical predictions of the properties of a supercurrent through a tunnel barrier  in particular those phenomena which are generally known as the josephson effects 
+and
+ 1987    for their important break-through in the discovery of superconductivity in ceramic materials 
+    and
+ 2003    for pioneering contributions to the theory of superconductors and superfluids 
+   
+ 2016 
+see also  
+in quarks
+references  
+john bardeen  leon cooper  j  r  schriffer  december 1  1957     physical review  8  5   1178          retrieved june 6  2014  reprinted in nikola nikolaevich bogoliubov  1963  the theory of superconductivity  vol  4  crc press    p  73
+john daintith  2009  
+ 4th ed    infobase publishing  p 238   
+ 
+john c  gallop  1990       pp 3  20   
+durrant  alan  2000     crc press  pp 102103   
+ 
+j  g  bednorz   k  a  mller  1986    possible high tc superconductivity in the balacuo system   z  phys  b  64  1   189193       
+jun nagamatsu  norimasa nakagawa  takahiro muranaka  yuji zenitani  et al   2001    superconductivity at 39 k in magnesium diboride     410  6824   634         
+paul preuss  14 august 2002     research news    retrieved 2009-10-28 
+hamish johnston  17 february 2009         retrieved 2009-10-28 
+r  l  dolecek  1954    adiabatic magnetization of a superconducting sphere     96  1   2528       
+h  kleinert  1982  
+ pdf     35  13   405412    
+j  hove  s  mo  a  sudbo  2002  
+ pdf     66  6   064524          
+lev d  landau  evgeny m  lifschitz  1984   electrodynamics of continuous media    8  oxford  butterworth-heinemann   
+david j  e  callaway  1990    on the remarkable structure of the superconducting intermediate state     344  3   627645       
+h  k  onnes  1911    the resistance of pure mercury at helium temperatures     12  120 
+dirk vandelft   peter kes  september 2010  
+ pdf   physics today  american institute of physics  63  3843       
+w  meissner   r  ochsenfeld  1933    ein neuer effekt bei eintritt der supraleitfhigkeit     21  44   787788       
+f  london   h  london  1935    the electromagnetic equations of the supraconductor     149  866   7188         
+meissner  w   r  ochsenfeld  1933    ein neuer effekt bei eintritt der supraleitfhigkeit   naturwissenschaften  21  44   787788       
+  the open university  retrieved 2011-10-16 
+j  bardeen  l  n  cooper   j  r  schrieffer  1957    microscopic theory of superconductivity     106  1   162164       
+ 
+j  bardeen  l  n  cooper   j  r  schrieffer  1957    theory of superconductivity     108  5   11751205       
+v  l  ginzburg   l d  landau  1950    on the theory of superconductivity     20  1064 
+e  maxwell  1950    isotope effect in the superconductivity of mercury     78  4   477       
+c  a  reynolds  b  serin  w  h  wright   l  b  nesbitt  1950    superconductivity of isotopes of mercury     78  4   487       
+n  n  bogoliubov  1958    a new method in the theory of superconductivity     34  58 
+l  p  gor kov  1959    microscopic derivation of the ginzburglandau equations in the theory of superconductivity     36  1364 
+m  combescot  w v  pogosov and o  betbeder-matibet  2013     physica c  superconductivity  485  4757           retrieved 11 august 2014 
+buck  dudley a 
+ pdf   lincoln laboratory  massachusetts institute of technology  retrieved 10 august 2014 
+g b yntema  1955    superconducting winding for electromagnet     98  4   1197       
+j e  kunzler  e  buehler  f l s  hsu  and j h  wernick  1961    superconductivity in nb3sn at high current density in a magnetic field of 88 kgauss   physical review letters  6  3   8991        cs1 maint  uses authors parameter   
+t g  berlincourt and r r  hake  1962    pulsed-magnetic-field studies of superconducting transition metal alloys at high and low current densities   bulletin of the american physical society  ii7  408 
+t g  berlincourt  1987    emergence of nb-ti as supermagnet material   cryogenics  27  6   283289       
+b  d  josephson  1962    possible new effects in superconductive tunnelling     1  7   251253       
+  science daily  april 9  2008  retrieved 2008-10-23 
+ 
+m  k  wu  et al   1987    superconductivity at 93 k in a new mixed-phase y-ba-cu-o compound system at ambient pressure     58  9   908910         
+   cryogenics and fluid branch   goddard space flight center  nasa 
+   superconducting rock magnetometer cryogenic system manual   2g enterprises  archived from
+on may 6  2009  retrieved 9 october 2012 
+alexei a  abrikosov  8 december 2003     nobel lecture 
+adam mann  jul 20  2011    high-temperature superconductivity at 25  still in suspense   nature  475  7356   2802         
+pines  d   2002    the spin fluctuation model for high temperature superconductivity  progress and prospects   the gap symmetry and fluctuations in high-tc superconductors  nato science series  b   371  new york  kluwer academic  pp 111142    
+p  monthoux  a  v  balatsky   d  pines  1991    toward a theory of high-temperature superconductivity in the antiferromagnetically correlated cuprate oxides   phys  rev  lett  67  24   34483451         
+a  schilling  et al   1993    superconductivity above 130 k in the hgbacacuo system     363  6424   5658       
+p  dai  b  c  chakoumakos  g  f  sun  k  w  wong  et al   1995    synthesis and neutron powder diffraction study of the superconductor hgba2ca2cu3o8  by tl substitution     243  34   201206       
+hiroki takahashi  kazumi igawa  kazunobu arii  yoichi kamihara  et al   2008    superconductivity at 43 k in an iron-based layered compound lao1xfxfeas     453  7193   376378         
+adrian cho    sciencenow daily news 
+zhi-an ren  et al   2008    superconductivity and phase diagram in iron-based arsenic-oxides refeaso1-d  re   rare-earth metal  without fluorine doping     83  17002          
+li  yinwei  hao  jian  liu  hanyu  li  yanling  ma  yanming  2014-05-07     the journal of chemical physics  140  17   174712            
+drozdov  a  p   eremets  m  i   troyan  i  a   ksenofontov  v   shylin  s  i   2015    conventional superconductivity at 203 kelvin at high pressures in the sulfur hydride system   nature  525  7567   736              
+islam  et al   2014    a review of offshore wind turbine nacelle  technical challenges  and research and developmental trends      33  161176    
+linder  jacob  robinson  jason w  a   2 april 2015    superconducting spintronics   nature physics  11  4   307315          
+thomas  et al   2016    superconducting transmission lines  sustainable electric energy transfer with higher public acceptance      55  5972    
+  nobelprize org  nobel media ab 2014 
+further reading  
+hagen kleinert  1989    superflow and vortex lines     1     
+anatoly larkin  andrei varlamov  2005   theory of fluctuations in superconductors     
+a  g  lebed  2008   the physics of organic superconductors and conductors  110  1st ed       
+jean matricon  georges waysand  charles glashausser  2003   the cold wars  a history of superconductivity     
+    17 august 2006 
+michael tinkham  2004   introduction to superconductivity  2nd ed    dover books   
+terry orlando  kevin delin  1991   foundations of applied superconductivity     
+paul tipler  ralph llewellyn  2002   modern physics  4th ed       
+external links  
+national high magnetic field laboratory
+state
+ 
+low energy
+high energy
+other states
+magnetically ordered
+quantities
+concepts
+superconductivity
+lists
+ 
+ 
+retrieved from   
+  hidden categories 

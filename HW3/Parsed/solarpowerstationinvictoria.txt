@@ -1,0 +1,84 @@
+solarpowerstationinvictoria
+from wikipedia  the free encyclopedia
+ redirected from  
+jump to 					 
+mildura solar concentrator power station
+the 1.5
+demonstration facility completed in 2013
+location of mildura solar concentrator power station in victoria
+country
+location
+coordinates
+ 
+constructionbegan
+2012
+solarfield
+type
+powergeneration
+1.5
+planned  100
+website
+the mildura solar concentrator power station is a proposed 100  mw 
+ cpv 
+to be built at   near     it was proposed by   which was acquired by
+in 2010  a 1.5mw demonstration plant was commissioned in april 2013  construction of the larger facility was expected to commence in 2014 and be completed in 2017 
+the expansion plan was abandoned in august 2014 due to a number of factors  these included low wholesale
+prices  a lack of commitment to clean energy by the
+and uncertainty surrounding the
+ ret  in australia 
+contents
+history  
+the project to build a 154mw solar plant was announced in 2006 and expected to be completed in 2013  it was delayed after solar systems went into administration as a result of the   the demonstration plant was completed in 2013 
+technology  
+the  cs500  dish
+unit design has 112 curved reflecting mirrors  which track the sun throughout the day  the combination of mirror profile  mounting framework  and solar receiver will deliver concentrated solar energy to each   the tracking mechanism allows electricity to be produced during the day whenever the sun is more than 5 above the horizon  direct current electricity from the receivers is passed through a
+that produces grid-quality   transformers step up the voltage to the requirement of the local network at the point of connection  advantages claimed for this design include 
+ the cs500 dish has a longer effective operating life than conventional   because the receiver is only a small area of pv  a 35 cs500 dish has a pv area of 0.23m whereas 35kw of traditional flat plate would use approximately 350m  maintenance is simple  quick and affordable  the modules include a specially designed filter that removes harmful uv radiation that reduces the operating efficiency and life of traditional pv technology  the modules are also cooled  which increases their effective operating life and their efficiency  
+ the cs500 dish costs significantly less  per installed watt  than traditional pv technology  this is despite the fact that the cs500 is new and still near the top of its cost curve  advances in technology  maturity and volume production will further increase the gap  
+ the cs500 produces more electricity  per installed watt  than fixed flatplate pv technology - by up to 30   this is because it tracks the sun and operates at lower temperatures  
+previous projects  
+the commercialisation of this technology has already seen four smaller solar power stations established in central australia  with support from the  
+see also  
+references  
+ pdf   silex systems limited  march 2011  retrieved 2011-07-11 
+ 22 may 2010     environment co za  retrieved on 28 september 2012 
+sophie vorrath    18 july 2013
+ 
+tom arup    in   17 july 2013
+    19 august 2014  retrieved 21 august 2014 
+    18 august 2014  retrieved 21 august 2014 
+lawrence bartlett 
+in cosmons  26 october 2006
+chee chee leung    in   17 june 2008
+  solar systems  retrieved on 28 september 2012 
+  solar systems  retrieved on 28 september 2012 
+coal-fired power stations
+gas-fired power stations
+hydroelectric
+wind farms
+solar concentrator
+proposed  mildura
+cogeneration
+symex cogeneration project
+victoria harbour cogeneration project
+geothermal
+portland geothermal facility
+distributors
+inner melbourne
+citipower
+western suburbs  western victoria
+eastern northeastern suburbs  eastern victoria
+northwestern suburbs
+southeastern suburbs  mornington peninsula
+united energy
+retailers
+australian power and gas
+dodo power   gas
+momentum energy
+neighbourhood energy
+powerdirect
+generators
+regulators
+historical
+retrieved from   
+  hidden categories 

@@ -1,0 +1,215 @@
+greenbank financialinstitution 
+from wikipedia  the free encyclopedia
+ redirected from  
+jump to 					 
+a green bank  sometimes referred to as green investment bank  clean energy finance authority  or clean energy finance corporation  is a   typically public or quasi-public  that uses innovative financing techniques and
+tools in partnership with the private sector to accelerate deployment of
+technologies  green banks use public funds to leverage private
+in clean energy technologies that  despite being commercially viable  have struggled to establish a widespread presence in consumer markets  green banks seek to reduce energy costs for ratepayers  stimulate private sector investment and economic activity  and expedite the transition to a low-carbon economy 
+in the united states  green banks have been created at the state and local levels  the      
+and
+have all created national banks dedicated to leveraging private investment in clean energy technologies  together  green banks around the world have driven approximately  20 billion of clean energy investment 
+contents
+history  
+in the us  the green bank concept was originally developed by
+and ken berlin  as a part of the 2008 s efforts to facilitate clean energy development  a similar concept was adopted as an amendment to the federal
+bill  called the   introduced in may 2009  a companion piece of federal green financing legislation was simultaneously introduced in the senate  where it received broad bipartisan support 
+when the 2009 cap and trade legislation ultimately failed to pass the senate  green bank advocates in the us focused on the state level 
+established the first state green bank in 2011  followed by
+in 2013  by the end of fiscal year 2015  the connecticut green bank had supported  663 million in project investments 
+in the uk in 2009  two reports were published advocating the creation of a state-backed infrastructure bank to provide financing to green projects  the first  entitled  accelerating green infrastructure financing  outline proposals for uk green bonds and infrastructure bank  was published in march 2009 byand e3g  the second  entitled  delivering a 21st century infrastructure for britain  was published byin september 2009 and was written by  james wardlaw and 
+essential elements  
+there are many types and styles of institutions that finance clean energy and green infrastructure projects  there are several key elements that distinguish green banks from other financing institutions  a focus on commercially viable technologies  a dedicated source of capital  a focus on leveraging private investment  and a relationship with government 
+green banks focus on commercially viable technologies  as opposed to early-stage innovative technologies  because they have been tested  have less associated technology risk and can reliably produce revenue for project owners  green banks are public-purpose entities with some manner of a relationship with government  and are usually capitalized by public dollars  just like a   green banks lend capital and own   so it is important they have their own   green banks also focus on using their capital to facilitate private entry into the clean energy marketspecifically by using limited public dollars to leverage private investment in clean energy 
+market barriers  
+for consumers  high upfront costs often make clean energy technology unattractive to adopt despite declines in clean energy technology costs  historically  the clean energy sector has depended on taxpayer-funded   rebates  s  and other
+to drive market development 
+ideally  private lenders would provide financing to building-owners to cover upfront cost of clean energy adoption  beyond what is covered by rebates   however  there are
+inefficiencies and inherent challenges to financing clean energy that have resulted in inadequate investment by private lenders  some private lenders do offer for clean energy projects  but typically charge
+that are relatively high and
+tenors that are short  such terms make financing a clean energy project unattractive from the end-users perspective  to be attractive from the end-users perspective  financing terms would be such that the monthly
+from clean energy projects would be greater than the monthly payments for the cost of financing  this kind of cash flow structure is only possible with loan terms that match the expected lifetime of the projects savings  and with rates that are commensurate with the risk  therefore  private capital offered at unfavorable terms  if it is available at all  undercuts the economic attractiveness of the project potential customers or project developers 
+a shortfall of private financing exists for several reasons  one reason is that there is a relatively short track record for clean energy financing  and therefore there is little data for lenders to rely on  without data  and observable pipeline of similar projects  banks are left with high levels of uncertainty over how well different types of projects perform and how often borrowers repay their loans  this uncertainty leads to either hesitation to enter the market  high due diligence costs and or unfavorable lending terms 
+another reason for the financing gap is that many clean energy projects are small and distributed  building efficiency upgrades and
+projects are inherently small investments that are geographically dispersed  with varying
+among counter parties  heterogeneity in clean energy projects is more expensive for a private lender to
+at scale  making loans for clean energy projects potentially uneconomical from the perspective of the lender 
+a third reason for the financing gap is the lack of capital market
+and maturity  if a commercial bank provides an
+loan  it is unknown to the bank if it will be able to sell that loan to another lender or if it will have to hold that loan on its balance sheet 
+and auto lenders dont have this difficulty  because there are highly liquid
+for home and car loans  which helps keeps rates low  these kinds of secondary markets are just now forming for clean energy technologies 
+the final cause of private underinvestment relates to human and organizational behavior  to begin lending into a new market  a bank must hire new staff  learn about the risks and processes of a new market  and determine precise criteria for what kind of projects and credit ratings they are willing to lend to  this process may be time-consuming 
+financing activities  
+to combat these barriers to clean energy market development  green banks help consumers secure long-term  low-interest loans  green banks harness a diverse set of financing techniques  including credit enhancements  co-investment  and securitization 
+credit enhancement  
+green banks frequently utilize
+to leverage private investment  loan loss reserves  overcollateralization and subordinated debt can help assuage concern among private lenders who are interested in entering the market  but concerned about the risks associated with developers  counter parties or technologies with less established history in their given jurisdiction  credit enhancements also help lower the cost of capital for borrowers and improve debt ratings from credit agencies 
+co-investment  
+sometimes green banks invest directly in clean energy projects to facilitate additional private investment or improve the financial terms set by private lenders 
+securitization  
+clean energy loans makes lending far more attractive for private investors  individual clean energy projects  which vary in credit  location  and technology  can be expensive for a bank to underwrite  and may not achieve the desired scale of investment  bundling these loans into
+and selling them  or
+of them  diffuses risk and creates scale  attracting a broader group of private investors  a green bank can create and securitize portfolios of loans  allowing investors can purchase some portion of the green banks debt on the secondary market  green banks can also add   such as overcollateralization or loan loss reserves  to lower the creditors exposure to default risk and secure better ratings from credit rating agencies  securitization provides greater liquidity in the market for clean energy project financing  which helps lower the
+for borrowers  the connecticut green bank executed one of the first such securitization deals  selling 75  of its  40 million pace portfolio to clean fund  a specialty finance company 
+financing structures  
+green banks innovative financing techniques are more effective if they can operate through robust delivery mechanisms  green banks can use these structures to increase the security of debt service payments and allow lenders to offer lower interest rates for clean energy financing 
+property assessed clean energy  
+allows consumers to pay energy upgrade loans through   the process places a
+on the property  and the property owner then repays the financing through pace assessments on the property tax bill  this reduces the
+risk associated with a loan and incentivizes private investment  because the pace structure reduces risk  it allows consumers to obtain lower interest rates on their loans  because the loans are attached to the property  when property is sold  the new owners take over loan repayment 
+on-bill financing  
+on-bill financing permits consumers to repay energy upgrade loans through
+bills  similar to pace financing  on-bill repayment affords lenders security in a developing market  because electricity is a necessity  utility bills have a very high rate of repayment nationwide  placing loan payments on a utility bill increases their chances of being repaid  appealing to private investors and facilitating affordable loans for consumers  also  the on-bill structure enables renters to reap the benefits of added energy efficiency  furthermore  the simplicity of on-bill financing is attractiveit is logical that tenants pay for the good they consume 
+market development activities  
+sometimes the availability of clean energy financing products is not enough to stimulate the desired level of clean energy finance activity  and various non-finance market development activities are necessary as well  a green bank may design and execute various market development activities to build the market for clean energy  market development activities may not directly involve lending  and a green bank may hire an outside organization to design and perform these activities 
+demand aggregation  
+green banks or their partners can aggregate consumer demand for clean energy projects and financing to reduce
+for contractors and provide scale for investors  one means by which a green bank might aggregate demand is a neighborhood-wide group-buying deal  the connecticut green bank and solarizect have used this technique throughout connecticut 
+contractor training  
+a green bank can organize contractor trainings  in which local clean energy technology installers  contractors  and developers learn about various green bank financing options  contractor trainings allow contractors to use their knowledge of green bank financing products as a sales tool  increasing the size and volume of the projects they do  ensuring that contractors fully understand green bank financing is a crucial means of getting that information to the end-users of the financingbuilding owners 
+rec financing  
+innovative renewable energy credit  rec  financing plans have also helped green banks lower energy costs for consumers  green banks can agree to acquire and monetize the recs that will be produced by a given clean energy project  after gaining possession of the recs through the financing agreement  a green bank can then sell them to utilities  as a result of this activity  green banks can offer more favorable financing terms and utilities can obtain recs in large volumes potentially at below market prices  reducing their cost of compliance and allowing them to pass savings on to their ratepayers 
+central clearinghouse  
+green banks also operate as an interface between lenders and borrowers  green banks can offer a central clearinghouse for all online data on energy resources  including rebates and financing   technical assistance for investors  and project coordination services for contractors  by facilitating transparency and accessibility of resources  green banks bridge the gap between supply of and demand for capital for clean energy projects 
+organizational structure and placement  
+a green bank can take many forms  green banks can be newly created entities  or it can be created by repurposing an existing entity  a green bank can be a direct part of government  such as a subdivision of an existing agency  the new york green bank  for example  is a division of the
+ nyserda   a green bank can also be a quasi-public instrumentality  such as a wholly owned non-profit public corporation  the connecticut green bank  for example  is a quasi-public entity with both government officials and independent directors serving on its board  a green bank can also an independent non-profit entity administered by the government  either through a contract  or by purpose-building an entity to serve as green bank  the montgomery county green bank  for example  is a non-profit organization that was purpose-built in accordance with legislation and serves as montgomery countys green bank as a result of a resolution of the county council 
+sources of capital  
+green banks are usually seeded with public capital  and that capital can come from a wide variety of channels  the green bank finance model preserves limited supplies of public capital  allowing each dollar to be recycled continuously and utilized for multiple clean energy projects 
+ratepayer surcharge  
+a state or local government may place a small
+on energy bills within its   and may require that the funds raised by this charge be disbursed to a green bank  or the government may repurpose an existing surcharge and direct the revenue to a green bank  the surcharge can provide green banks with a yearly influx of capital  the connecticut green bank and new york green bank are capitalized in part by a systems benefit charge 
+bond issuance  
+green banks can also issue
+to obtain capital  public sector bonds have the benefit of being tax exempt  allowing governments and other public authorities to pay relatively low interest rates to bond owners  a green banks bonding authority allows debt investors to secure a steady stream of payments from an institution with a low risk of default  in exchange  the green bank receives capital that it can immediately invest in clean energy deployment 
+types of bonds  
+green banks can be capitalized by bond issuances that are backed by state in which the green bank exists 
+green banks can also be capitalized by issuing bonds that are backed by the green bank itself 
+green banks can raise capital by issuing project bonds that are backed by the revenue-generating potential of the projects they will fund  revenue bonds from a dedicated cash stream
+other bonds backed by a dedicated cash stream  such as ratepayer fees  or by auctions of emissions allowances  can be issued to generate capital for a green bank 
+if a green bank is short on capital  it can securitize loans it has issued  assets  and  through a secondary market  sell them to another investor as a bond  for example  the connecticut green bank sold  30 million in bonds backed by commercial efficiency loans to clean fund 
+industrial revenue bonds and private activity bonds can be issued for certain green bank activities 
+revenue from carbon pricing  
+green banks can also be partially capitalized by the revenue raised from various carbon pricing policies such as carbon taxes  fees  and cap-and-trade systems  for example  both the nygb and the cgb are capitalized in part by the revenue each state raises through the
+ rggi  
+direct budget appropriation  
+a government can allocate dollars to a green bank as a part of its regular budget and appropriations process 
+re-allocation of existing funds  
+sometimes an existing investment fund will be underused or completely unused  it may be possible to re-allocate some such funds and put the dollars to work in a green bank 
+pension funds  
+pension funds can invest in deals or portfolios of deals generated by green banks 
+foundations  
+foundations can make grants to green banks to fund startup costs  or they can make program-related investments in green banks and earn a return on their money in a way that is aligned with their mission 
+community development financial institutions  
+ cdfis  can co-invest or provide startup capital for green banks  cdfis can also provide important technical expertise in certain areas of green bank activity 
+federal sources in the us  
+the
+and its
+ rus  program provide funding for infrastructure projects  including energy-related infrastructure  to rural communities  the rus has funding available that could be used by green banks to finance projects in rural areas 
+the
+ doe  has programs  notably the loan program office  lpo   which provides federal dollars for innovative clean energy companies and project portfolios  a green bank could take advantage of doe money by building portfolios of projects designed to meet the standard set out by the lpo 
+the
+ epa  has a
+ cwsrf  which makes low-cost financing available for various water and energy infrastructure projects  green banks can apply for access to these funds 
+current green banks  
+connecticut green bank  
+the connecticut green bank  cgb  was established in 2011 and was the first green bank in the united states  it is the most advanced green bank in the nation in terms of deal volume  connecticuts legislature converted the connecticut clean energy fund  a grant-focused promoter of clean energy investment  into a deployment financing entity  the cgb is quasi-public and its board of directors is composed of both government officials and independent directors  the cgb is continually capitalized by a systems benefit charge and revenue generated by connecticuts participation in the regional greenhouse gas initiative  rggi  trading program  the bank also possesses the ability to issue its own bonds based on its balance sheet 
+in its first four years of existence  the cgb has stimulated  663.2 million of investment in clean energy projects  three-fourths of which came from the private sector  the increase in clean energy investment coincided with a huge decline in the number of taxpayer-funded clean energy grants  in effect  the cgb increased clean energy investment while reducing taxpayers financial burden 
+new york green bank  
+governor
+created the largest green bank in the nation  ny green bank  nygb   and capitalized it through re-purposed ratepayer surcharges and revenues generated by the issuance of emissions permits  the new york energy office designed a 5-year capitalization structure with multiple infusions of capital summing to  1 billion  the nygb is now a fully staffed entity and operates as a
+clean energy finance lender  as opposed to connecticut  which operates more as a
+lender   rather than design specific financing products and programs  the nygb relies on the market to learn what financing is needed 
+to date  the nygb has received over  1 billion in proposals and has an active project pipeline of   500 million  the first set of nygb investments were announced in the fall of 2015  the nygb used  49 million of public capital to leverage  178 million in private capital  achieving a leverage ratio greater that 3 1 
+california cleen center  
+the california lending for energy and environmental needs center operates as the states green bank  the cleen center exists within the california infrastructure and economic development bank  one of the centers major initiativesthe statewide energy efficiency program  sweep finances energy efficiency projects and upgrades for municipalities  universities  schools  and hospitals  unlike the connecticut and new york green banks  the cleen center exclusively facilitates commercial projects and upgrades  interested parties propose a project and apply for financial assistance with the cleen center  cleen projects receive funding ranging from  500,000 to  30 million 
+hawaii green infrastructure authority  
+the hawaii green infrastructure authority was created in 2014 to finance clean energy development in hawaii  the first program to be adopted was the green energy market securitization  gems  programan effort to provide the low-to-moderate income market with solar lease financing  for geographical reasons  electricity is more expensive in hawaii than anywhere else in the united states  the advent of solar leasing has allowed many hawaiian homeowners to install solar panels  but solar market penetration has hardly reached low-credit households  the cash flow positive financing generated by gems is designed to help low-to-moderate income hawaiians enter a market from which they have historically been excluded 
+rhode island  
+in 2015  state legislators converted the rhode island clean water finance agency  ricwfa  into the rhode island infrastructure bank  riib   the riib offers both residential and commercial pace programs designed to reduce energy costs for consumers  the riib also created the efficient buildings fund  a program used to provide low-cost financing for energy efficiency and renewable energy projects in public buildings 
+montgomery county  md  
+is the only county in the u s  that has created a local green bank  the montgomery county green bank  mcgb  was capitalized with  20 million from the settlement that accompanied the merger of utilities
+and  
+malaysia  
+malaysias green technology financing corporation was launched in 2010 as a component of the governments national green technology policy  through the green technology financing scheme  the corporation offers companies a 2  interest rate buy down and 60  guaranteed financing for green technology projects 
+united kingdom  
+in 2012  the
+created the
+ gib  to attract private funds for the financing of the private sector s investments related to environmental preservation and improvement  it is structured as a
+and is owned by the
+ bis   its headquarters are in   where it is also registered  and it has a secondary office in   the gib works with a variety of technologies including energy efficiency  waste and     and onshore renewables  uks gib has committed 2.6 billion to 76 domestic infrastructure projects  mobilizing over 10 billion of private investment 
+in march 2016  the uk government announced that it planned to move the gib to the private sector  the government plans to sell its shares in the gib  but will seek to retain a special share to ensure the continued protection of gibs green purposes 
+australia  
+australias
+ cefc  was founded in 2012 with the purpose of mobilizing investment in renewable energy  energy efficiency  and low emissions technologies  at the beginning of fiscal year 2016  the cefc had invested  1.4 billion of its own capital and attracted  2.2 billion in private sector investment 
+green bank network  
+the green bank network is an international membership organization focusing on solutions to clean energy finance  it was launched at the 2015
+meeting in paris  by state and national green banks in connecticut  australia  malaysia  new york  japan and the united kingdom  and the non-profits the
+ nrdc  and the
+ cgc  
+see also  
+references  
+  oecd org  may 2016  retrieved 2016-07-21 
+ 
+  coalition for green capital  retrieved 2016-07-21 
+ 
+u s  department of energy   energy investment partnerships  how state and local governments are engaging private capital to drive clean energy investment 
+organization for economic cooperation and development   green investment banks  scaling up private investment in low-carbon  climate resilient infrastructure
+ 
+  
+climate progress   what is the clean energy bank and why is it in waxman-markey 
+mcgowan  elizabeth   clean energy investment bank has bipartisan support  but no money 
+ pdf   e3g org  march 2009  retrieved 2016-07-21 
+  september 2009 
+kennan  hallie   working paper  state green banks for clean energy 
+carol browner  danielle baussan  ben bovarnick  mari hernandez  matt kasper   clean energy investment in the united states
+ 
+ken berlin  reed hundt  marko muro  and devashree saha   state clean energy banks  new investment facilities for clean energy deployment 
+clean energy states alliance   developing an effective state clean energy program  clean energy loans 
+griffin  alfred   ny green bank  introduction to standardization and collaboration 
+smith  graham   responsible marketplace lending  indispensable for commercial solar s growth
+financing solutions working group   accessing secondary markets as a capital source for energy efficiency finance programs  program design considerations for policymakers and administrators 
+  srmnetwork com  2014-05-19  retrieved 2016-07-21 
+  seia  retrieved 2016-07-21 
+ 
+reed hundt   growing clean energy markets quickly with green bank financing and market development 
+  solarizect com  retrieved 2016-07-21 
+coalition for green capital   green bank product and activity overview 
+  greenbank ny gov  retrieved 2016-07-21 
+ 
+connecticut green bank   comprehensive annual financial report  fiscal year 2015 
+  montgomerycountymd gov  retrieved 2016-07-21 
+ 
+coalition for green capital   growing the maryland clean energy economy 
+ 
+schub  jeff   bond structures typically used by green banks 
+lombardi  nick   in a watershed deal  securitization comes to commercial efficiency 
+ 
+organization for economic cooperation and development   green investment banks  policy perspectives 
+  rd usda gov  retrieved 2016-07-21 
+u s  department of energy loan programs office   federal loan guarantee solicitation and supplements for renewable energy projects and energy efficiency projects  
+  epa gov  2016-04-04  retrieved 2016-07-21 
+connecticut green bank   bylaws  pursuant to section 16-245n of the connecticut general statutes 
+nyserda   ny green bank business plan 
+enerknol   ny green bank highlights role of innovation in solar financing 
+nyserda   clean energy fund information supplement  case 14-m-0094 
+nyserda   governor cuomo announces three new york green bank transactions to improve access to clean energy and reduce greenhouse gas emissions 
+california infrastructure and economic development bank   criteria  priorities  and guidelines for the selction of projects for ibank financing under the california lending for energy and environmental needs center
+state of hawaii   status of the green infrastructure authority s activities  report to the governor and the legislature of the state of hawaii 
+ 
+  ri infrastructure bank  retrieved 2016-07-21 
+devashree saha and mark muro   green banking goes local 
+thomas heath and aaron c  davis   dc regulators green-light pepco-exelon merger  creating largest utility in the nation 
+  greentechmalaysia my  retrieved 2016-07-21 
+  gtfs my  retrieved 2016-07-21 
+  march 2012 
+  green investment bank  retrieved 2016-07-21 
+green investment bank   summary of transactions  transactions to date 
+  wwf org uk  2015-11-24  retrieved 2016-07-21 
+ pdf   july 2016 
+  cleanenergyfinancecorp com au  retrieved 2016-07-21 
+clean energy finance corporation   annual report 2014-2015 
+  greenbanknetwork org  2014-06-20  retrieved 2016-07-21 
+retrieved from   
+  hidden categories 

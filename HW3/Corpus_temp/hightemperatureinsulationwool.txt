@@ -1,0 +1,195 @@
+hightemperatureinsulationwool
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="plainlinks metadata ambox ambox-style ambox-external_links" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article's <b>use of <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a> may not follow Wikipedia's policies or guidelines</b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=High-temperature_insulation_wool&amp;action=edit">improve this article</a> by removing <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_mirror_or_a_repository_of_links.2C_images.2C_or_media_files" title="Wikipedia:What Wikipedia is not">excessive</a> or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">inappropriate</a> external links, and converting useful links where appropriate into <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">footnote references</a>.</span> <small><i>(April 2013)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=High-temperature_insulation_wool&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(April 2013)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Ceramic_fibre_close_up_2.jpg"><img alt="" class="thumbimage" data-file-height="2400" data-file-width="3200" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ceramic_fibre_close_up_2.jpg/200px-Ceramic_fibre_close_up_2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ceramic_fibre_close_up_2.jpg/300px-Ceramic_fibre_close_up_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ceramic_fibre_close_up_2.jpg/400px-Ceramic_fibre_close_up_2.jpg 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Ceramic_fibre_close_up_2.jpg" title="Enlarge"></a></div>
+Microscopic close-up of ceramic fibre</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:High_Temperature_Insulation_Wool_modules.jpg"><img alt="" class="thumbimage" data-file-height="1100" data-file-width="1100" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/High_Temperature_Insulation_Wool_modules.jpg/200px-High_Temperature_Insulation_Wool_modules.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/High_Temperature_Insulation_Wool_modules.jpg/300px-High_Temperature_Insulation_Wool_modules.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/High_Temperature_Insulation_Wool_modules.jpg/400px-High_Temperature_Insulation_Wool_modules.jpg 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:High_Temperature_Insulation_Wool_modules.jpg" title="Enlarge"></a></div>
+HTIW modules</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Industrial_furnace_equipped_with_HTIW_modules.jpg"><img alt="" class="thumbimage" data-file-height="480" data-file-width="640" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Industrial_furnace_equipped_with_HTIW_modules.jpg/200px-Industrial_furnace_equipped_with_HTIW_modules.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Industrial_furnace_equipped_with_HTIW_modules.jpg/300px-Industrial_furnace_equipped_with_HTIW_modules.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Industrial_furnace_equipped_with_HTIW_modules.jpg/400px-Industrial_furnace_equipped_with_HTIW_modules.jpg 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Industrial_furnace_equipped_with_HTIW_modules.jpg" title="Enlarge"></a></div>
+Industrial furnace equipped with HTIW modules</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Industrial_furnace.jpg"><img alt="" class="thumbimage" data-file-height="2592" data-file-width="1944" height="267" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Industrial_furnace.jpg/200px-Industrial_furnace.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Industrial_furnace.jpg/300px-Industrial_furnace.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Industrial_furnace.jpg/400px-Industrial_furnace.jpg 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Industrial_furnace.jpg" title="Enlarge"></a></div>
+Industrial furnace equipped with HTIW in operation</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Grafik_temperaturbereiche_-_e.png"><img alt="" class="thumbimage" data-file-height="385" data-file-width="545" height="141" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grafik_temperaturbereiche_-_e.png/200px-Grafik_temperaturbereiche_-_e.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grafik_temperaturbereiche_-_e.png/300px-Grafik_temperaturbereiche_-_e.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grafik_temperaturbereiche_-_e.png/400px-Grafik_temperaturbereiche_-_e.png 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Grafik_temperaturbereiche_-_e.png" title="Enlarge"></a></div>
+Temperature ranges for the application of HTIW</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:02_aes_diagramm.png"><img alt="" class="thumbimage" data-file-height="202" data-file-width="545" height="74" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/02_aes_diagramm.png/200px-02_aes_diagramm.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/02_aes_diagramm.png/300px-02_aes_diagramm.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/02_aes_diagramm.png/400px-02_aes_diagramm.png 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:02_aes_diagramm.png" title="Enlarge"></a></div>
+Applications of alkaline earth silicate wool sorted by sector (in the EU)</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:02_asw_diagramm.png"><img alt="" class="thumbimage" data-file-height="250" data-file-width="545" height="92" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/02_asw_diagramm.png/200px-02_asw_diagramm.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/02_asw_diagramm.png/300px-02_asw_diagramm.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/02_asw_diagramm.png/400px-02_asw_diagramm.png 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:02_asw_diagramm.png" title="Enlarge"></a></div>
+Applications of alumino silicate wool sorted by sector (in the EU)</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:02_pcw_diagramm.png"><img alt="" class="thumbimage" data-file-height="202" data-file-width="545" height="74" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/02_pcw_diagramm.png/200px-02_pcw_diagramm.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/02_pcw_diagramm.png/300px-02_pcw_diagramm.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/02_pcw_diagramm.png/400px-02_pcw_diagramm.png 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:02_pcw_diagramm.png" title="Enlarge"></a></div>
+Applications of polycristalline wool sorted by sector (in the EU)</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:2011-10_comparison_of_traditional_and_modern_refractories.jpg"><img alt="" class="thumbimage" data-file-height="453" data-file-width="844" height="107" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/2011-10_comparison_of_traditional_and_modern_refractories.jpg/200px-2011-10_comparison_of_traditional_and_modern_refractories.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/2011-10_comparison_of_traditional_and_modern_refractories.jpg/300px-2011-10_comparison_of_traditional_and_modern_refractories.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/2011-10_comparison_of_traditional_and_modern_refractories.jpg/400px-2011-10_comparison_of_traditional_and_modern_refractories.jpg 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:2011-10_comparison_of_traditional_and_modern_refractories.jpg" title="Enlarge"></a></div>
+Comparison of traditional and modern refractories</div>
+</div>
+</div>
+<p><br/>
+<b>High-temperature insulation wool</b> (<b>HTIW</b>), known as <b>ceramic fiber wool</b> until the 1990s, is one of several types of synthetic <a href="/wiki/Mineral_wool" title="Mineral wool">mineral wool</a>, generally defined as those resistant to temperatures above 1000°<a href="/wiki/Celsius" title="Celsius">C</a>. The first variety, aluminium silicate fibre, developed in the 1950s, was referred to as <b>refractory ceramic fibre</b>.</p>
+<p>Due to the costly production, and limited availability compared to mineral wool, HTIW products are almost only used in high temperature industrial applications and processes.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#High-temperature_insulation_wool_.28HTIW.29"><span class="tocnumber">2</span> <span class="toctext">High-temperature insulation wool (HTIW)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Alkaline_earth_silicate_wool_.28AES_wool.29"><span class="tocnumber">2.1</span> <span class="toctext">Alkaline earth silicate wool (AES wool)</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Alumino_silicate_wool_.28ASW.29"><span class="tocnumber">2.2</span> <span class="toctext">Alumino silicate wool (ASW)</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Polycrystalline_wool_.28PCW.29"><span class="tocnumber">2.3</span> <span class="toctext">Polycrystalline wool (PCW)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#HTIW_and_REACH"><span class="tocnumber">3</span> <span class="toctext">HTIW and REACH</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Definitions"><span class="tocnumber">4</span> <span class="toctext">Definitions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Classification_temperature"><span class="tocnumber">4.1</span> <span class="toctext">Classification temperature</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Wool"><span class="tocnumber">4.2</span> <span class="toctext">Wool</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Continuous_fibres.2Ftextile_glass_fibres_.28VDI_3469_Part_1.29"><span class="tocnumber">4.3</span> <span class="toctext">Continuous fibres/textile glass fibres (VDI 3469 Part 1)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Health_hazards"><span class="tocnumber">5</span> <span class="toctext">Health hazards</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Fibrous_dust"><span class="tocnumber">5.1</span> <span class="toctext">Fibrous dust</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Crystalline_silica"><span class="tocnumber">5.2</span> <span class="toctext">Crystalline silica</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High-temperature_insulation_wool&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Humans have used fire for melting and heat treating metals for thousands of years. To ensure safe working with the fire, for melting and working metals (<a href="/wiki/Bronze" title="Bronze">bronze</a>, <a href="/wiki/Iron" title="Iron">iron</a>), special <a href="/wiki/Refractory" title="Refractory">refractory</a> materials were needed to enable the handling of liquid or hot <a href="/wiki/Metal" title="Metal">metals</a> . To meet the needs of the wide-ranging applications, a large number of shaped, dense materials <a href="/wiki/Grog_(clay)" title="Grog (clay)">(refractory bricks, chamotte)</a>, shaped heat-insulating materials (lightweight refractory bricks) and unshaped refractory materials (heavy- and lightweight ramming mixes) have been developed, which are used for special high temperature applications. For decades, however, other manmade materials have been used for thermal insulation, <a href="/wiki/Glass_wool" title="Glass wool">glass wool</a> and <a href="/wiki/Mineral_wool" title="Mineral wool">rock wool</a> being used in the low-temperature range (around 200 °C to maximum 500 °C).</p>
+<p>In the 1960s aluminium-silicate-based "refractory ceramic fibre" were launched on the market in Europe. Due to their high temperature-resistance and good technical properties (i.e. good thermal shock resistance and low thermal conductivity), they quickly became the reference for industrial high temperature insulation. Due to the development of new material types the nomenclature of <i>high-temperature insulation wool</i> was redefined in Germany at the end of the 1990s. (VDI 3469.<sup class="reference" id="cite_ref-VDI_1-0"><a href="#cite_note-VDI-1">[1]</a></sup>). Although even today the term "ceramic fibre" or "refractory ceramic fibre" is commonly used it is inaccurate in terms of the materials available, their specific properties and limitations.</p>
+<p>Thermal insulation with HTIW enabled a more lightweight construction of <a class="mw-redirect" href="/wiki/Industrial_furnaces" title="Industrial furnaces">industrial furnaces</a> and other technical equipment (heating systems, automobiles), resulting in many economic and ecological benefits. Consequences are smaller wall thicknesses and considerably lower lining masses.</p>
+<p>Comparison of the mass for the different wall linings</p>
+<ul>
+<li>Heavyweight lining: 1500–3500 kg/m³,</li>
+<li>Lightweight lining: 500–1000 kg/m³,</li>
+<li>Lining with HTIW: 160–300 kg/m³.</li>
+</ul>
+<h2><span class="mw-headline" id="High-temperature_insulation_wool_.28HTIW.29">High-temperature insulation wool (HTIW)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High-temperature_insulation_wool&amp;action=edit&amp;section=2" title="Edit section: High-temperature insulation wool (HTIW)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>High-temperature insulation wool is an accumulation of fibres of different lengths and diameters, produced synthetically from mineral raw materials. The group of the HTIWs include amorphous alkaline earth silicate wool (AES) and alumino silicate wool (ASW) as well as polycrystalline wool (PCW) (VDI 3469;<sup class="reference" id="cite_ref-VDI_1-1"><a href="#cite_note-VDI-1">[1]</a></sup> DIN-EN 1094) with a classification temperatures &gt;1000 °C. Besides the differences in the chemical composition, manmade fibres have parallel edges in contrast to natural fibres.</p>
+<h3><span class="mw-headline" id="Alkaline_earth_silicate_wool_.28AES_wool.29">Alkaline earth silicate wool (AES wool)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High-temperature_insulation_wool&amp;action=edit&amp;section=3" title="Edit section: Alkaline earth silicate wool (AES wool)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Also known as “high-temperature glass wool" (HTGW), AES Wool consist of amorphous fibres, which are produced by melting a combination of CaO-, MgO-, SiO<sub>2</sub> and ZrO<sub>2</sub> (see also VDI 3469, Parts 1 and 5<sup class="reference" id="cite_ref-VDI_1-2"><a href="#cite_note-VDI-1">[1]</a></sup>). Products made from AES are generally used at application temperatures less than 900 °C and in continuously operating equipment and domestic appliances.</p>
+<h3><span class="mw-headline" id="Alumino_silicate_wool_.28ASW.29">Alumino silicate wool (ASW)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High-temperature_insulation_wool&amp;action=edit&amp;section=4" title="Edit section: Alumino silicate wool (ASW)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Alumino silicate wool, also known as “refractory ceramic fibre” (RCF), are amorphous fibres produced by melting a combination of Al<sub>2</sub>O<sub>3</sub> and SiO<sub>2</sub>, usually in a weight ratio 50:50 (see also VDI 3469 Parts 1 and 5,<sup class="reference" id="cite_ref-VDI_1-3"><a href="#cite_note-VDI-1">[1]</a></sup> as well as TRGS 521). Products made of Alumino Silicate Wool are generally used at application temperatures &gt;900°C and in intermittently operating equipment and critical application conditions (see Technical Rules TRGS 619).</p>
+<h3><span class="mw-headline" id="Polycrystalline_wool_.28PCW.29">Polycrystalline wool (PCW)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High-temperature_insulation_wool&amp;action=edit&amp;section=5" title="Edit section: Polycrystalline wool (PCW)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Polycrystalline wool consists of fibres containing greater than 70 wt.% Al<sub>2</sub>O<sub>3</sub>; they are produced by a "sol-gel method" from aqueous spinning solutions. The water-soluble green fibres obtained as a precursor are crystallized by means of heat treatment (see also VDI 3469 Parts 1 and 5<sup class="reference" id="cite_ref-VDI_1-4"><a href="#cite_note-VDI-1">[1]</a></sup>). Polycrystalline Wool is generally used at application temperatures greater than 1300 °C and in critical chemical and physical application conditions, also at lower temperatures.</p>
+<h2><span class="mw-headline" id="HTIW_and_REACH">HTIW and REACH</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High-temperature_insulation_wool&amp;action=edit&amp;section=6" title="Edit section: HTIW and REACH">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Registration,_Evaluation,_Authorisation_and_Restriction_of_Chemicals" title="Registration, Evaluation, Authorisation and Restriction of Chemicals">Registration, Evaluation, Authorisation and Restriction of Chemicals</a> (REACH) is a European Union regulation of 18 December 2006. REACH addresses the production and use of chemical substances, and their potential impacts on both human health and the environment. A Substance Information Exchange Forum (SIEF) has been set up for each type of HITW. AES, ASW and PCW have been registered before the first deadline of 1 December 2010 and can therefore be used on the European market.</p>
+<p>Regulation (EC) No 1907/2006 of the European Parliament and the Council of 18 December 2006 concerning the <a class="mw-redirect" href="/wiki/Registration,_Evaluation,_Authorization_and_Restriction_of_Chemicals" title="Registration, Evaluation, Authorization and Restriction of Chemicals">Registration, Evaluation, Authorization and Restriction of Chemicals</a> (REACH) require manufacturers, importers and Only Representatives of non-European manufacturers to share data on potential health and environmental hazard and provide data to the <a href="/wiki/European_Chemicals_Agency" title="European Chemicals Agency">European Chemicals Agency</a> (ECHA) in a formalized registration process.</p>
+<p>ASW/RCF, AES and PCW were registered using a joint registration dossier before the first deadline of 1 December 2010. They can therefore be used on the European market. The registration process required that manufacturers, importers of substances &gt;1 t/year agreed on classification, labelling and uses of ASW/RCF, AES and PCW.</p>
+<p>The REACH and the <a href="/wiki/CLP_Regulation" title="CLP Regulation">CLP Regulation</a> being based on the principle of self-classification by industry; however prior harmonized classification of substances contained in Annex 1 of Directive 67/548 remains valid and has been transferred to Annex VI of CLP. Classification in Annex VI of the CLP Regulation is the mandatory classification; industry has to evaluate whether additional/stricter classification may apply.</p>
+<ul>
+<li>ASW/RCF is therefore classified as carcinogen category 1B</li>
+<li>AES is exempted from carcinogen classification based on short term in vitro study result</li>
+<li>PCW are not classified; self-classification led to the conclusion that PCW are not hazardous</li>
+</ul>
+<p>On 13 January 2010 some of the aluminosilicate refractory ceramic fibres and zirconia aluminosilicate refractory ceramic fibres have been included in the candidate list of <a class="mw-redirect" href="/wiki/Substances_of_Very_High_Concern" title="Substances of Very High Concern">Substances of Very High Concern</a>. In response to concerns raised with the definition and the dossier two additional dossiers were posted on the ECHA website for consultation and resulted in two additional entries on the candidate list. This actual (having four entries for one substance/group of substances) situation is contrary to the REACH procedure intended. Aside from this situation, concerns raised during the two consultation periods remain valid.</p>
+<p>Regardless of the concerns raised, the inclusion of a substance in the candidate list triggers immediately the following legal obligations of manufacturers, importers and suppliers of articles containing that substance in a concentration above 0.1% (w/w):</p>
+<ul>
+<li>Notification to ECHA -REACH Regulation Art. 7</li>
+<li>Provision of Safety Data Sheet- REACH Regulation Art. 31.1</li>
+<li>Duty to communicate safe use information or responding to customer requests -REACH Regulation Art. 33</li>
+</ul>
+<h2><span class="mw-headline" id="Definitions">Definitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High-temperature_insulation_wool&amp;action=edit&amp;section=7" title="Edit section: Definitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Classification_temperature">Classification temperature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High-temperature_insulation_wool&amp;action=edit&amp;section=8" title="Edit section: Classification temperature">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The classification temperature is defined as the temperature at which a linear shrinkage of 4% is not exceeded after 24‑hour heat treatment in the electrically heated <a href="/wiki/Laboratory_oven" title="Laboratory oven">laboratory oven</a> and in a neutral atmosphere. Depending on the type of product, the value may not exceed the following limits: 2% for boards and shaped products, 4% for mats and papers. The classification temperature is specified in 50 °C steps (starting at 850 °C and up to 1600 °C). The classification temperature does not mean that the product can be used continuously at this temperature. In the field, the continuous application temperature of amorphous HTIW (AES and ASW) is typically 100–150 °C below the classification temperature. Products made of Polycrystalline Wool can generally be used up to classification temperature.</p>
+<h3><span class="mw-headline" id="Wool">Wool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High-temperature_insulation_wool&amp;action=edit&amp;section=9" title="Edit section: Wool">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Wool is an ordered accumulation of fibres of varying length and diameter. HTIW fulfil this definition and are therefore covered by the term “wool”. Amorphous AES and ASW are produced by melting the raw materials in a melting pot by means of electrical resistance melting. The jet of melt discharged from the pot is accelerated in a blowing or spinning process and pulled into fibres with different length/diameter ratios.</p>
+<h3><span class="mw-headline" id="Continuous_fibres.2Ftextile_glass_fibres_.28VDI_3469_Part_1.29">Continuous fibres/textile glass fibres (VDI 3469 Part 1)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High-temperature_insulation_wool&amp;action=edit&amp;section=10" title="Edit section: Continuous fibres/textile glass fibres (VDI 3469 Part 1)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>These fibres are produced by means of the continuous filament process with defined nozzle diameters, all fibres having the technical defined and required diameter. During handling, only fibres of the given diameter but different length are released.</p>
+<h2><span class="mw-headline" id="Health_hazards">Health hazards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High-temperature_insulation_wool&amp;action=edit&amp;section=11" title="Edit section: Health hazards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Fibrous_dust">Fibrous dust</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High-temperature_insulation_wool&amp;action=edit&amp;section=12" title="Edit section: Fibrous dust">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Based on the total experience with humans and the findings of scientific research (animals, cells), it can be concluded that elongated dust particles of every type have in principle the potential to cause the development of tumours providing they are sufficiently long, thin and biopersistent. According to scientific findings inorganic fibre dust particles with a length-to-diameter ratio exceeding 3:1, a length longer than 5 μm (0.005 mm) and a diameter smaller than 3 μm (WHO-Fibres) are considered health-critical.</p>
+<p>HTIW processed to products contain fibres with different diameters and lengths. During handling of HTIW products, fibrous dusts can be emitted. These can include fibres complying with the WHO definition. The amount depends on how the material is handled. High concentrations are usually found during removal of after-use HTIW and also during mechanical finishing activities and in the assembly of modules. Where fibre products are mechanically abraded by sawing, sanding, routing or other machining the airborne fibre concentrations will be high if uncontrolled. Dust release is further modified by the intensity of energy applied to the product, the surface area to which the energy is applied, and the type, quantity and dimensions of materials being handled or processed. Dispersion or dilution of dust produced depends on the extent of confinement of the sources and the work area, as well as the presence and effectiveness of exhaust ventilation.</p>
+<h3><span class="mw-headline" id="Crystalline_silica">Crystalline silica</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High-temperature_insulation_wool&amp;action=edit&amp;section=13" title="Edit section: Crystalline silica">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Amorphous HTIW (AES and ASW) are produced from a molten glass stream which is aerosolised by a jet of high pressure air or by letting the stream impinge onto spinning wheels. The droplets are drawn into fibres; the mass of both fibres and remaining droplets cool very rapidly so that no crystalline phases may form.</p>
+<p>When amorphous HTIW are installed and used in high temperature applications such as industrial furnaces, at least one face may be exposed to conditions causing the fibres to partially devitrify. Depending on the chemical composition of the glassy fibre and the time and temperature to which the materials are exposed, different stable crystalline phases may form.</p>
+<p>In after-use HTIW <a class="mw-redirect" href="/wiki/Crystalline_silica" title="Crystalline silica">crystalline silica</a> crystals are embedded in a matrix composed of other crystals and glasses. Experimental results on the biological activity of after-use HTIW have not demonstrated any hazardous activity that could be related to any form of silica they may contain.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High-temperature_insulation_wool&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-VDI-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-VDI_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-VDI_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-VDI_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-VDI_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-VDI_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">VDI Guideline: VDI 3469 Part 1 - Overview Part 5 – High-Temperature Insulation Wool</span></li>
+</ol>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=High-temperature_insulation_wool&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a class="image" href="/wiki/File:Commons-logo.svg"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Ceramic_fibre" title="commons:Category:Ceramic fibre">Ceramic fibre</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li>ECFIA - <a class="external text" href="http://www.ecfia.eu" rel="nofollow">European Association representing the High Temperature Insulation Wool Industry</a></li>
+<li>BAuA - <a class="external text" href="http://www.baua.de" rel="nofollow">Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (german)</a></li>
+<li>IOM - <a class="external text" href="http://www.IOM-world.org" rel="nofollow">Institute of Occupational Medicine</a></li>
+<li><a class="external text" href="http://www.iom-world.org/pubs/IOM_TM8907.pdf" rel="nofollow">A report on the environmental conditions at seven European ceramic fibre plants</a> by JW Cherrie and others. <a href="/wiki/Institute_of_Occupational_Medicine" title="Institute of Occupational Medicine">Institute of Occupational Medicine</a> Research Report TM/89/07</li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:13105287-0!*!0!!en!4!* and timestamp 20161030091359 and revision id 719114507
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=High-temperature_insulation_wool&amp;oldid=719114507">https://en.wikipedia.org/w/index.php?title=High-temperature_insulation_wool&amp;oldid=719114507</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Refractory_materials" title="Category:Refractory materials">Refractory materials</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_external_links_cleanup_from_April_2013" title="Category:Wikipedia external links cleanup from April 2013">Wikipedia external links cleanup from April 2013</a></li><li><a href="/wiki/Category:Wikipedia_spam_cleanup_from_April_2013" title="Category:Wikipedia spam cleanup from April 2013">Wikipedia spam cleanup from April 2013</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2013" title="Category:Articles needing additional references from April 2013">Articles needing additional references from April 2013</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

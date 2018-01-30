@@ -1,0 +1,184 @@
+europeanbiomassassociation
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="plainlinks metadata ambox ambox-content ambox-Advert" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>contains content that is written like <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_soapbox_or_means_of_promotion" title="Wikipedia:What Wikipedia is not">an advertisement</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=European_Biomass_Association&amp;action=edit">improve it</a> by removing <a href="/wiki/Wikipedia:Spam" title="Wikipedia:Spam">promotional content</a> and inappropriate <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, and by adding encyclopedic content written from a <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>.</span> <small><i>(July 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org">European Biomass Association</caption>
+<tr>
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div class="floatnone"><a class="image" href="/wiki/File:AEBIOM_logo_200x87.png"><img alt="AEBIOM logo 200x87.png" data-file-height="87" data-file-width="220" height="87" src="//upload.wikimedia.org/wikipedia/commons/0/08/AEBIOM_logo_200x87.png" width="220"/></a></div>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Abbreviation</th>
+<td class="nickname">AEBIOM</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Formation</th>
+<td class="note">1990, <a href="/wiki/Brussels" title="Brussels">Brussels</a>, <a href="/wiki/Belgium" title="Belgium">Belgium</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Type</th>
+<td><a class="mw-redirect" href="/wiki/Trade_Association" title="Trade Association">Trade Association</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Purpose</th>
+<td><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a>, <a href="/wiki/Bioenergy" title="Bioenergy">Bioenergy</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Headquarters</th>
+<td><a href="/wiki/Brussels" title="Brussels">Brussels</a>, <a href="/wiki/Belgium" title="Belgium">Belgium</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Region served</div>
+</th>
+<td><a href="/wiki/Europe" title="Europe">Europe</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Members</div>
+</th>
+<td>27 national associations 90 companies (2016)</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">President</div>
+</th>
+<td>Gustav Melin (SE)</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">General Secretary</div>
+</th>
+<td>Jean-Marc Jossart (BE)</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Main organ</div>
+</th>
+<td><a class="mw-redirect" href="/wiki/Board_of_Directors" title="Board of Directors">Board of Directors</a>, <a class="mw-redirect" href="/wiki/Steering_Committee" title="Steering Committee">Steering Committee</a>, <a class="mw-redirect" href="/wiki/General_Assembly" title="General Assembly">General Assembly</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Staff</div>
+</th>
+<td>13 (2016)</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Website</th>
+<td><a class="external text" href="http://www.aebiom.org/" rel="nofollow">www.aebiom.org</a></td>
+</tr>
+</table>
+<p>The <b>European Biomass Association</b> (AEBIOM, from the official <a href="/wiki/French_language" title="French language">French</a> name <i>Association Européenne pour la Biomasse</i>) is a European trade association opens to national <a href="/wiki/Biomass" title="Biomass">biomass</a> associations and <a href="/wiki/Bioenergy" title="Bioenergy">bioenergy</a> companies active in <a href="/wiki/Europe" title="Europe">Europe</a>. AEBIOM was founded in 1990 and aims to promote biomass production and application throughout Europe.</p>
+<p>AEBIOM is the umbrella organisation of the European Pellet Council (EPC),<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> the European Industry of Pellet Suppliers (EIPS) and the International Biomass Torrefaction Council (IBTC).<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#EU-projects"><span class="tocnumber">1</span> <span class="toctext">EU-projects</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Members_-_National_Associations"><span class="tocnumber">2</span> <span class="toctext">Members - National Associations</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="EU-projects">EU-projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=European_Biomass_Association&amp;action=edit&amp;section=1" title="Edit section: EU-projects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2016, AEBIOM was involved in different EU-funded projects:<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<ul>
+<li><a class="external text" href="http://bioresproject.eu/" rel="nofollow">BioRES</a></li>
+<li><a class="external text" href="http://www.bioenergy4business.eu/" rel="nofollow">Bioenergy4Business</a></li>
+<li><a class="external text" href="http://www.biomasspolicies.eu/" rel="nofollow">Biomass Policies</a></li>
+<li><a class="external text" href="http://www.front-rhc.eu/" rel="nofollow">FROnT</a></li>
+<li><a class="external text" href="http://www.knowres-jobs.eu/en/" rel="nofollow">KnowRES</a></li>
+<li><a class="external text" href="http://www.africa-eu-renewables.org/" rel="nofollow">Africa-EU Renewable Energy Cooperation Programme (RECP)</a></li>
+</ul>
+<h2><span class="mw-headline" id="Members_-_National_Associations">Members - National Associations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=European_Biomass_Association&amp;action=edit&amp;section=2" title="Edit section: Members - National Associations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Austrian Biomass Association - ABA</li>
+<li>Association for extension of biomass in Spain - ADABE</li>
+<li>British Biogen</li>
+<li>Bulgarian Biomass Association - <a class="external text" href="http://www.bab-bg.com/contacts.html" rel="nofollow">BBA</a></li>
+<li>Centrales Agrar-Rohstoff Marketing- und Energie-Netzwerk e.V. - <a class="external text" href="https://www.carmen-ev.de/" rel="nofollow">CARMEN</a></li>
+<li>Czech Biomass Association - <a class="external text" href="http://czbiom.cz/en/" rel="nofollow">CZ-BIOM</a></li>
+<li>Danish Biomass Association - <a class="external text" href="http://www.danishenergyassociation.com/Theme/BiomassForEnergy.aspx" rel="nofollow">DANBIO</a></li>
+<li>Energy utilization Biomass Association - <a class="external text" href="http://www.euba.bg/" rel="nofollow">EUBA</a></li>
+<li>Estonia Biofuels Association - EBU</li>
+<li>European Wood Energy Technical Institute- ITEBE - France</li>
+<li>Finnish Bioenergy Association - <a class="external text" href="http://www.bioenergia.fi/English" rel="nofollow">FINBIO</a></li>
+<li>German BioEnergy Association - <a class="external text" href="https://www.bioenergie.de/" rel="nofollow">BBE</a></li>
+<li>Greek Biomass Association - <a class="external text" href="http://www.hellabiom.gr/?lang=en" rel="nofollow">HELLABIOM</a></li>
+<li>Hungarian Biomass Association - HBA</li>
+<li>Italian Biomass Association - ITABIA</li>
+<li>Irish Bioenergy Association - <a class="external text" href="http://www.irbea.org" rel="nofollow">IrBEA</a></li>
+<li>Latvian Bioenergy Association - <a class="external text" href="http://latbio.lv/en/home/" rel="nofollow">LATBIO</a></li>
+<li>Lithuanian Bioenergy Association - <a class="external text" href="http://www.biokuras.lt/titulinis.html" rel="nofollow">LITBIOMA</a></li>
+<li>Norwegian Bioenergy Association - <a class="external text" href="http://nobio.no/" rel="nofollow">NOBIO</a></li>
+<li>Polish Biomass Association - <a class="external text" href="http://www.polbiom.pl/" rel="nofollow">POLBIOM</a></li>
+<li>Slovak Association for Biomass - SK-BIOM</li>
+<li>Slovenian Biomass Association - SLO-BIOM</li>
+<li>South Tyrol Biomass Association - STBA - Italy</li>
+<li>Russian Biomass Association - RBA</li>
+<li>Swedish Bioenergy Association - <a class="external text" href="https://www.svebio.se/english" rel="nofollow">SVEBIO</a></li>
+<li>Swiss Farmer's Union - SBV</li>
+<li>The Netherlands Bio-energy Association - NL-BEA</li>
+<li>Ukrainian Bioenergy Association - UBA</li>
+<li>Valorization of Biomass in Belgium - <a class="external text" href="http://www.valbiom.be/" rel="nofollow">ValBiom</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=European_Biomass_Association&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+<li><a href="/wiki/Bioenergy" title="Bioenergy">Bioenergy</a></li>
+<li><a href="/wiki/Biogas" title="Biogas">Biogas</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Lignocellulosic_biomass" title="Lignocellulosic biomass">Lignocellulosic biomass</a></li>
+<li><a href="/wiki/Pellet_fuel" title="Pellet fuel">Pellet fuel</a></li>
+<li><a href="/wiki/Woodchips" title="Woodchips">Woodchips</a></li>
+<li><a href="/wiki/Energy_crop" title="Energy crop">Energy crop</a></li>
+<li><a href="/wiki/Miscanthus" title="Miscanthus">Miscanthus</a></li>
+<li><a href="/wiki/Solid_fuel" title="Solid fuel">Solid fuel</a></li>
+<li><a href="/wiki/Renewable_heat" title="Renewable heat">Renewable heat</a></li>
+<li><a href="/wiki/Pellet_mill" title="Pellet mill">Pellet mill</a></li>
+<li><a href="/wiki/Pellet_stove" title="Pellet stove">Pellet stove</a></li>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/District_heating" title="District heating">District heating</a></li>
+<li><a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">Micro combined heat and power</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=European_Biomass_Association&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.aebiom.org" rel="nofollow">AEBIOM website</a></li>
+<li><a class="external text" href="http://www.pelletcouncil.eu/" rel="nofollow">EPC website</a></li>
+<li><a class="external text" href="http://www.biomasstorrefaction.org/" rel="nofollow">IBTC website</a></li>
+<li><a class="external text" href="http://www.enplus-pellets.eu/" rel="nofollow">ENplus website</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=European_Biomass_Association&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.pelletcouncil.eu/" rel="nofollow">http://www.pelletcouncil.eu/</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.biomasstorrefaction.org/" rel="nofollow">http://www.biomasstorrefaction.org/</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.aebiom.org/activities/european-ongoing-projects/" rel="nofollow">http://www.aebiom.org/activities/european-ongoing-projects/</a></span></li>
+</ol>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:51388-0!*!0!!en!4!* and timestamp 20161107233320 and revision id 735621412
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=European_Biomass_Association&amp;oldid=735621412">https://en.wikipedia.org/w/index.php?title=European_Biomass_Association&amp;oldid=735621412</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Renewable_energy" title="Category:Renewable energy">Renewable energy</a></li><li><a href="/wiki/Category:Natural_resources_organizations" title="Category:Natural resources organizations">Natural resources organizations</a></li><li><a href="/wiki/Category:Organisations_based_in_Europe" title="Category:Organisations based in Europe">Organisations based in Europe</a></li><li><a href="/wiki/Category:Sustainable_products" title="Category:Sustainable products">Sustainable products</a></li><li><a href="/wiki/Category:Soil_improvers" title="Category:Soil improvers">Soil improvers</a></li><li><a href="/wiki/Category:Biomass" title="Category:Biomass">Biomass</a></li><li><a href="/wiki/Category:Wood_fuel" title="Category:Wood fuel">Wood fuel</a></li><li><a href="/wiki/Category:Wood_products" title="Category:Wood products">Wood products</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_a_promotional_tone_from_July_2016" title="Category:Articles with a promotional tone from July 2016">Articles with a promotional tone from July 2016</a></li><li><a href="/wiki/Category:All_articles_with_a_promotional_tone" title="Category:All articles with a promotional tone">All articles with a promotional tone</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Pages_using_infobox_organization_with_unsupported_parameters" title="Category:Pages using infobox organization with unsupported parameters">Pages using infobox organization with unsupported parameters</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

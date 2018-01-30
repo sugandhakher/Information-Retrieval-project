@@ -1,0 +1,372 @@
+energyconservationlaw
+from wikipedia  the free encyclopedia
+ redirected from  
+jump to 					 
+this article is about the law of conservation of energy in physics  for sustainable energy resources  see  
+this article needs additional citations for   please help
+by   unsourced material may be challenged and removed   february 2013    
+in physics  the law of conservation of energy states that the total
+of an
+remains constantit is said to be
+over time  energy can neither be created nor destroyed  rather  it transforms from one form to another  for instance 
+can be
+to
+in the explosion of a stick of  
+a consequence of the
+of conservation of energy is that a
+cannot exist  that is to say  no system without an external energy supply can deliver an unlimited amount of energy to its surroundings 
+contents
+history  
+this section needs additional citations for   please help
+by   unsourced material may be challenged and removed   november 2015    
+gottfried leibniz
+as far back as
+c 550 bce had inklings of the conservation of some underlying substance of which everything is made  however  there is no particular reason to identify this with what we know today as  mass-energy   for example  thales thought it was water  
+ 490430 bce  wrote that in his universal system  composed of
+ earth  air  water  fire    nothing comes to be or perishes   instead  these elements suffer continual rearrangement 
+in 1605 
+was able to solve a number of problems in statics based on the principle that perpetual motion was impossible 
+in 1638 
+published his analysis of several situationsincluding the celebrated  interrupted pendulum which can be described  in modern language  as conservatively converting potential energy to kinetic energy and back again  essentially  he pointed out that the height a moving body rises is equal to the height from which it falls  and used this observation to infer the idea of inertia  the remarkable aspect of this observation is that the height that a moving body ascends to does not depend on the shape of the frictionless surface that the body is moving on 
+in 1669 
+published his laws of collision  among the quantities he listed as being invariant before and after the collision of bodies were both the sum of their linear momentums as well as the sum of their kinetic energies  however  the difference between elastic and inelastic collision was not understood at the time  this led to the dispute among later researchers as to which of these conserved quantities was the more fundamental  in his   he gave a much more explicit and clearer statement regarding the height of ascent of a moving body  and connected this idea with the impossibility of a perpetual motion  huygens  study of the dynamics of pendulum motion was based on a single principle  that the center of gravity of heavy objects cannot lift itself 
+the fact that kinetic energy is scalar  unlike linear momentum which is a vector  and hence easier to work with did not escape the attention of   it was leibniz during 16761689 who first attempted a mathematical formulation of the kind of energy which is connected with motion  kinetic energy   using huygens  work on collision  leibniz noticed that in many mechanical systems  of several   mi each with
+vi   
+
+i
+m
+i
+v
+i
+2
+  displaystyle  sum   i m  i v  i   2  
+was conserved so long as the masses did not interact  he called this quantity the
+or living force of the system  the principle represents an accurate statement of the approximate conservation of
+in situations where there is no friction  many
+at that time  such as newton  held that the   which holds even in systems with friction  as defined by the  
+
+i
+m
+i
+v
+i
+  displaystyle      sum   i m  i v  i  
+was the conserved vis viva  it was later shown that both quantities are conserved simultaneously  given the proper conditions such as an  
+in 1687 
+published his   which was organized around the concept of force and momentum  however  the researchers were quick to recognize that the principles set out in the book  while fine for point masses  were not sufficient to tackle the motions of rigid and fluid bodies  some other principles were also required 
+daniel bernoulli
+the law of conservation of vis viva was championed by the father and son duo 
+and   the former enunciated the principle of
+as used in statics in its full generality in 1715  while the later based his   published in 1738  on this single conservation principle  daniel s study of loss of vis viva of flowing water led him to formulate the   which relates the loss to be proportional to the change in hydrodynamic pressure  daniel also formulated the notion of work and efficiency for hydraulic machines  and he gave a kinetic theory of gases  and linked the kinetic energy of gas molecules with the temperature of the gas 
+this focus on the vis viva by the continental physicists eventually led to the discovery of stationarity principles governing mechanics  such as the
+and
+and
+formulations of mechanics 
+ 1706  1749  proposed and tested the hypothesis of the conservation of total energy  as distinct from momentum  inspired by the theories of gottfried leibniz  she repeated and publicized an experiment originally devised by
+in 1722 in which balls were dropped from different heights into a sheet of soft clay  each ball s kinetic energy - as indicated by the quantity of material displaced - was shown to be proportional to the square of the velocity  the deformation of the clay was found to be directly proportional to the height the balls were dropped from  equal to the initial potential energy  earlier workers  including newton and voltaire  had all believed that  energy   so far as they understood the concept at all  was not distinct from momentum and therefore proportional to velocity  according to this understanding  the deformation of the clay should have been proportional to the square root of the height from which the balls were dropped from  in classical physics the correct formula is
+e
+k
+ 
+1
+2
+m
+v
+2
+  displaystyle e  k    frac  1  2  mv  2  
+  where
+e
+k
+  displaystyle e  k  
+is the kinetic energy of an object 
+m
+  displaystyle m 
+its mass and
+v
+  displaystyle v 
+its speed  on this basis  chtelet proposed that energy must always have the same dimensions in any form  which is necessary to be able to relate it in different forms  kinetic  potential  heat  
+such as      
+and
+recognized that conservation of momentum alone was not adequate for practical calculation and made use of leibniz s principle  the principle was also championed by some
+such as   academics such as
+were quick to point out that kinetic energy is clearly not conserved  this is obvious to a modern analysis based on the   but in the 18th and 19th centuries the fate of the lost energy was still unknown 
+gradually it came to be suspected that the heat inevitably generated by motion under friction was another form of vis viva  in 1783 
+and
+reviewed the two competing theories of vis viva and    s 1798 observations of heat generation during the
+of
+added more weight to the view that mechanical motion could be converted into heat  and  as importantly  that the conversion was quantitative and could be predicted  allowing for a universal conversion constant between kinetic energy and heat   vis viva then started to be known as energy  after the term was first used in that sense by
+in 1807 
+gaspard-gustave coriolis
+the recalibration of vis viva to
+1
+2
+
+i
+m
+i
+v
+i
+2
+  displaystyle   frac  1  2   sum   i m  i v  i   2  
+which can be understood as converting kinetic energy to   was largely the result of
+and
+over the period 18191839  the former called the quantity quantit de travail  quantity of work  and the latter  travail mcanique  mechanical work   and both championed its use in engineering calculation 
+in a paper ber die natur der wrme german  on the nature of heat warmth    published in the
+in 1837 
+gave one of the earliest general statements of the doctrine of the conservation of energy in the words   besides the 54 known chemical elements there is in the physical world one agent only  and this is called kraft  energy or work   it may appear  according to circumstances  as motion  chemical affinity  cohesion  electricity  light and magnetism  and from any one of these forms it can be transformed into any of the others  
+mechanical equivalent of heat  
+this section needs additional citations for   please help
+by   unsourced material may be challenged and removed   november 2015    
+a key stage in the development of the modern conservation principle was the demonstration of the   the
+maintained that heat could neither be created nor destroyed  whereas conservation of energy entails the contrary principle that heat and mechanical work are interchangeable 
+in the middle of the eighteenth century   a russian scientist  postulated his corpusculo-kinetic theory of heat  which rejected the idea of a caloric  through the results of empirical studies  lomonosov came to the conclusion that heat was not transferred through the particles of the caloric fluid 
+in 1798  count rumford    performed measurements of the frictional heat generated in boring cannons  and developed the idea that heat is a form of kinetic energy  his measurements refuted caloric theory  but were imprecise enough to leave room for doubt 
+james prescott joule
+the mechanical equivalence principle was first stated in its modern form by the german surgeon
+in 1842  mayer reached his conclusion on a voyage to the   where he found that his patients  blood was a deeper red because they were consuming less   and therefore less energy  to maintain their body temperature in the hotter climate  he discovered that
+and
+were both forms of energy and in 1845  after improving his knowledge of physics  he published a monograph that stated a quantitative relationship between them 
+joule s apparatus for measuring the mechanical equivalent of heat  a descending weight attached to a string causes a paddle immersed in water to rotate 
+meanwhile  in 1843 
+independently discovered the mechanical equivalent in a series of experiments  in the most famous  now called the  joule apparatus   a descending weight attached to a string caused a paddle immersed in water to rotate  he showed that the gravitational
+lost by the weight in descending was equal to the
+gained by the water through
+with the paddle 
+over the period 18401843  similar work was carried out by engineer
+though it was little known outside his native denmark 
+both joule s and mayer s work suffered from resistance and neglect but it was joule s that eventually drew the wider recognition 
+for the dispute between joule and mayer over priority  see  
+in 1844 
+postulated a relationship between mechanics  heat   
+and
+by treating them all as manifestations of a single  force   energy in modern terms   in 1874  grove published his theories in his book the correlation of physical forces  in 1847  drawing on the earlier work of joule 
+and  
+arrived at conclusions similar to grove s and published his theories in his book ber die erhaltung der kraft  on the conservation of force  1847   the general modern acceptance of the principle stems from this publication 
+in 1850 
+first used the phrase the law of the conservation of energy for the principle 
+in 1877 
+claimed that the principle originated with sir isaac newton  based on a creative reading of propositions 40 and 41 of the   this is now regarded as an example of  
+massenergy equivalence  
+this section needs additional citations for   please help
+by   unsourced material may be challenged and removed   november 2015    
+main article 
+matter is composed of such things as atoms  electrons  neutrons  and protons  it has   in the limited range of recognized experience of the nineteenth century it was found that such rest mass is conserved  einstein s 1905 theory of
+showed that it corresponds to an equivalent amount of rest energy  this means that it can be converted to or from equivalent amounts of other  non-material  forms of energy  for example kinetic energy  potential energy  and electromagnetic radiant energy  when this happens  as recognized in twentieth century experience  rest mass is not conserved  unlike the
+or total energy  all forms of energy contribute to the total mass and total energy 
+for example  an
+and a
+each have rest mass  they can perish together  converting their combined rest energy into
+having electromagnetic radiant energy  but no rest mass  if this occurs within an isolated system that does not release the photons or their energy into the external surroundings  then neither the total mass nor the total energy of the system will change  the produced electromagnetic radiant energy contributes just as much to the inertia  and to any weight  of the system as did the rest mass of the electron and positron before their demise  likewise  non-material forms of energy can perish into matter  which has rest mass 
+thus  conservation of energy  total  including material or rest energy   and
+ total  not just rest   each still holds as an  equivalent  law  in the nineteenth century these had appeared as two seemingly-distinct laws 
+conservation of energy in beta decay  
+main article 
+the discovery in 1911 that electrons emitted in
+have a continuous rather than a discrete spectrum appeared to contradict conservation of energy  under the then-current assumption that beta decay is the simple emission of an electron from a nucleus  this problem was eventually resolved in 1933 by
+who proposed the correct
+as the emission of both an electron and an   which carries away the apparently missing energy 
+first law of thermodynamics  
+main article 
+for a   the first law of thermodynamics may be stated as 
+
+q
+ 
+d
+u
+ 
+
+w
+  displaystyle  delta q  mathrm  d  u  delta w 
+  or equivalently 
+d
+u
+ 
+
+q
+
+
+w
+ 
+  displaystyle  mathrm  d  u  delta q- delta w  
+where
+
+q
+  displaystyle  delta q 
+is the quantity of
+added to the system by a
+process 
+
+w
+  displaystyle  delta w 
+is the quantity of energy lost by the system due to
+done by the system on its surroundings and
+d
+u
+  displaystyle  mathrm  d  u 
+is the change in the
+of the system 
+the  s before the heat and work terms are used to indicate that they describe an increment of energy which is to be interpreted somewhat differently than the
+d
+u
+  displaystyle  mathrm  d  u 
+increment of internal energy  see    work and heat refer to kinds of process which add or subtract energy to or from a system  while the internal energy
+u
+  displaystyle u 
+is a property of a particular state of the system when it is in unchanging thermodynamic equilibrium  thus the term  heat energy  for
+
+q
+  displaystyle  delta q 
+means  that amount of energy added as the result of heating  rather than referring to a particular form of energy  likewise  the term  work energy  for
+
+w
+  displaystyle  delta w 
+means  that amount of energy lost as the result of work   thus one can state the amount of internal energy possessed by a thermodynamic system that one knows is presently in a given state  but one cannot tell  just from knowledge of the given present state  how much energy has in the past flowed into or out of the system as a result of its being heated or cooled  nor as the result of work being performed on or by the system 
+is a function of the state of a system which tells of limitations of the possibility of conversion of heat into work 
+for a simple compressible system  the work performed by the system may be written 
+
+w
+ 
+p
+d
+v
+ 
+  displaystyle  delta w p   mathrm  d  v  
+where
+p
+  displaystyle p 
+is the
+and
+d
+v
+  displaystyle dv 
+is a small change in the
+of the system  each of which are system variables  in the fictive case in which the process is idealized and infinitely slow  so as to be called quasi-static  and regarded as reversible  the heat being transferred from a source with temperature infinitesimally above the system temperature  then the heat energy may be written
+
+q
+ 
+t
+d
+s
+ 
+  displaystyle  delta q t   mathrm  d  s  
+where
+t
+  displaystyle t 
+is the
+and
+d
+s
+  displaystyle  mathrm  d  s 
+is a small change in the
+of the system  temperature and entropy are variables of state of a system 
+if an open system  in which mass may be exchanged with the environment  has several walls such that the mass transfer is through rigid walls separate from the heat and work transfers  then the first law may be written 
+d
+u
+ 
+
+q
+
+
+w
+ 
+u
+
+d
+m
+ 
+  displaystyle  mathrm  d  u  delta q- delta w u   dm    
+where
+d
+m
+  displaystyle dm 
+is the added mass and
+u
+
+  displaystyle u  
+is the internal energy per unit mass of the added mass  measured in the surroundings before the process 
+noether s theorem  
+main article 
+the conservation of energy is a common feature in many physical theories  from a mathematical point of view it is understood as a consequence of   developed by
+in 1915 and first published in 1918  the theorem states every continuous symmetry of a physical theory has an associated conserved quantity  if the theory s symmetry is time invariance then the conserved quantity is called  energy   the energy conservation law is a consequence of the shift
+of time  energy conservation is implied by the empirical fact that the
+do not change with time itself  philosophically this can be stated as  nothing depends on time per se   in other words  if the physical system is invariant under the
+of time translation then its energy  which is
+quantity to time  is conserved  conversely  systems which are not invariant under shifts in time  an example  systems with time dependent potential energy  do not exhibit conservation of energy unless we consider them to exchange energy with another  external system so that the theory of the enlarged system becomes time invariant again  since any time-varying system can be embedded within a larger time-invariant system  with the exception of the universe   conservation can always be recovered by a suitable re-definition of what energy is and extending the scope of your system  conservation of energy for finite systems is valid in such physical theories as special relativity and quantum theory  including   in the flat  
+relativity  
+with the discovery of
+by
+and   energy was proposed to be one component of an   each of the four components  one of energy and three of momentum  of this vector is separately conserved across time  in any closed system  as seen from any given   also conserved is the vector length     which is the
+for single particles  and the
+for systems of particles  where momenta and energy are separately summed before the length is calculatedsee the article on   
+the relativistic energy of a single
+particle contains a term related to its
+in addition to its kinetic energy of motion  in the limit of zero kinetic energy  or equivalently in the   of a massive particle  or else in the
+for objects or systems which retain kinetic energy  the
+of particle or object  including internal kinetic energy in systems  is related to its
+or its
+via the famous equation
+e
+ 
+m
+c
+2
+  displaystyle e mc  2  
+ 
+thus  the rule of
+continues to hold  so long as the
+of the observer is unchanged  this applies to the total energy of systems  although different observers disagree as to the energy value  also conserved  and invariant to all observers  is the   which is the minimal system mass and energy that can be seen by any observer  and which is defined by the  
+in
+conservation of energy-momentum is expressed with the aid of a   the theory of general relativity leaves open the question of whether there is a conservation of energy for the entire universe 
+quantum theory  
+in   energy of a quantum system is described by a
+ or hermitian  operator called the   which acts on the
+ or a space of   of the system  if the hamiltonian is a time-independent operator  emergence probability of the measurement result does not change in time over the evolution of the system  thus the expectation value of energy is also time independent  the local energy conservation in quantum field theory is ensured by the quantum
+for energy-momentum tensor operator  note that due to the lack of the  universal  time operator in quantum theory  the uncertainty relations for time and energy are not fundamental in contrast to the position-momentum uncertainty principle  and merely holds in specific cases  see    energy at each fixed time can in principle be exactly measured without any trade-off in precision forced by the time-energy uncertainty relations  thus the conservation of energy in time is a well defined concept even in quantum mechanics 
+see also  
+references  
+richard feynman  1970     addison wesley longman   
+planck  m   1923/1927   treatise on thermodynamics  third english edition translated by a  ogg from the seventh german edition  longmans  green   co   london  page 40 
+janko  richard  2004  
+ pdf   zeitschrift fr papyrologie und epigraphik  150  126 
+hagengruber  ruth  editor  2011  milie du chatelet between leibniz and newton  springer   
+arianrhod  robyn  2012  
+ us ed    new york  oxford university press   
+lavoisier  a l    laplace  p s   1780   memoir on heat   acadmie royale des sciences pp 4355
+von mayer  j r   1842   remarks on the forces of inorganic nature  in annalen der chemie und pharmacie  43  233
+mayer  j r   1845   die organische bewegung in ihrem zusammenhange mit dem stoffwechsel  ein beitrag zur naturkunde  dechsler  heilbronn 
+grove  w  r   1874   the correlation of physical forces  6th ed    london  longmans  green 
+  bartleby  retrieved april 6  2014 
+william john macquorn rankine  1853   on the general law of the transformation of energy   proceedings of the philosophical society of glasgow  vol  3  no  5  pages 276-280  reprinted in   1  philosophical magazine  series 4  vol  5  no  30 
+ february 1853   and  2  w  j  millar  ed   miscellaneous scientific papers  by w  j  macquorn rankine       london  england  charles griffin and co   1881   part ii     the law of the conservation of energy is already knownviz  that the sum of all the energies of the universe  actual and potential  is unchangeable  
+hadden  richard w   1994     suny press  p 13    
+jensen  carsten  2000     birkhuser verlag   
+brown  laurie m   1978    the idea of the neutrino   physics today  31  9   238       
+wilson  f  l   1968  
+ pdf     36  12   1150       
+griffiths  d   2009   introduction to elementary particles  2nd ed    pp 314315   
+ 1949   natural philosophy of cause and chance  oxford university press  london   
+bibliography  
+modern accounts  
+goldstein  martin  and inge f    1993   the refrigerator and the universe  harvard univ  press  a gentle introduction 
+kroemer  herbert  kittel  charles  1980   thermal physics  2nd ed    w  h  freeman company   
+nolan  peter j   1996   fundamentals of college physics  2nd ed  william c  brown publishers 
+oxtoby   nachtrieb  1996   principles of modern chemistry  3rd ed  saunders college publishing 
+papineau  d   2002   thinking about consciousness  oxford  oxford university press 
+serway  raymond a   jewett  john w   2004   physics for scientists and engineers  6th ed    brooks cole   
+stenger  victor j   2000   timeless reality  prometheus books  especially chpt  12  nontechnical 
+tipler  paul  2004   physics for scientists and engineers  mechanics  oscillations and waves  thermodynamics  5th ed    w  h  freeman   
+  cornelius  1970   the variational principles of mechanics  toronto  university of toronto press   
+history of ideas  
+brown  t m   1965    resource letter eec-1 on the evolution of energy concepts from galileo to helmholtz   american journal of physics  33  10   759765       
+cardwell  d s l   1971   from watt to clausius  the rise of thermodynamics in the early industrial age  london  heinemann   
+guillen  m   1999     new york  abacus   
+hiebert  e n   1981   historical roots of the principle of conservation of energy  madison  wis   ayer co pub   
+ 1957   energy conservation as an example of simultaneous discovery   in m  clagett  ed   critical problems in the history of science pp 32156
+sarton  g   joule  j  p   carnot  sadi  1929    the discovery of the law of conservation of energy   isis  13  1849    
+smith  c   1998   the science of energy  cultural history of energy physics in victorian britain  london  heinemann   
+ 1872     open court pub  co   illinois 
+ 1905   science and hypothesis  walter scott publishing co  ltd  dover reprint  1952     chapter 8   energy and thermo-dynamics 
+external links  
+   by jerzy borysowicz for  
+ 
+retrieved from   
+  hidden categories 

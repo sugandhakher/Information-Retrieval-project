@@ -1,0 +1,836 @@
+dieselengine
+from wikipedia  the free encyclopedia
+jump to 					 
+not to be confused with  
+diesel generator on an
+the diesel engine  correctly known as a compression-ignition or ci engine  is an
+in which
+of the
+that has been injected into the
+is caused by the high temperature which a gas achieves  i e  the air  when greatly compressed     diesel engines work by compressing only the air  this increases the air temperature inside the cylinder to such a high degree that it ignites atomised diesel fuel that is injected into the combustion chamber  this contrasts with spark-ignition engines such as a
+  engine  or
+ using a gaseous fuel as opposed to    which use a
+to ignite an air-fuel mixture  in compression-ignition engines  glow plugs  combustion chamber pre-warmers  may be used to aid starting in cold weather  or when the engine uses a lower compression-ratio  or both  the original compression-ignition engine operates on the  constant pressure  cycle of gradual combustion and produces no audible knock 
+a diesel engine built by
+in 1906
+detroit diesel timing
+fairbanks morse model 32
+the compression-ignition engine has the highest
+   of any practical
+or
+engine due to its very high
+and inherent
+burn which enables heat dissipation by the excess air  a small efficiency loss is also avoided compared to two-stroke non-direct-injection gasoline engines since unburnt fuel is not present at valve overlap and therefore no fuel goes directly from the intake injection to the exhaust  low-speed compression-ignition engines  as used in ships and other applications where overall engine weight is relatively unimportant  can have a thermal efficiency that exceeds 50  
+compression-ignition engines are manufactured in
+and
+versions  they were originally used as a more efficient replacement for stationary   since the 1910s they have been used in
+and ships  use in locomotives  trucks 
+and electricity generation plants followed later  in the 1930s  they slowly began to be used in a few   since the 1970s  the use of compression-ignition engines in larger on-road and
+in the us increased  according to the british society of motor manufacturing and traders  the
+average for compression-ignition cars accounts for 50  of the total sold  including 70  in france and 38  in the uk 
+the world s largest compression-ignition engine is currently a
+common rail marine compression-ignition  which produces a peak power output of 84.42mw  113,210hp  at 102 
+contents
+history  
+diesel s prototype engine
+diesels first experimental engine 1893
+hot bulb engine
+the definition of a  diesel  engine to many has become an engine that uses compression ignition  to some it may be an engine that uses heavy fuel oil  to others an engine that does not use spark ignition  however the original cycle proposed by
+in 1892 was a constant temperature cycle  a cycle based on the carnot theory  which would require much higher compression than what is needed for compression ignition  diesel s idea was to compress the air so tightly that the temperature of the air would exceed that of combustion  in his 1892 us patent  granted in 1895   542846 diesel describes the compression required for his cycle 
+ pure atmospheric air is compressed  according to curve 1 2  to such a degree that  before ignition or combustion takes place  the highest pressure of the diagram and the highest temperature are obtained-that is to say  the temperature at which the subsequent combustion has to take place  not the burning or igniting point  to make this more clear  let it be assumed that the subsequent combustion shall take place at a temperature of 700  then in that case the initial pressure must be sixty-four atmospheres  or for 800 centigrade the pressure must be ninety atmospheres  and so on  into the air thus compressed is then gradually introduced from the exterior finely divided fuel  which ignites on introduction  since the air is at a temperature far above the igniting-point of the fuel  the characteristic features of the cycle according to my present invention are therefore  increase of pressure and temperature up to the maximum  not by combustion  but prior to combustion by mechanical compression of air  and there upon the subsequent performance of work without increase of pressure and temperature by gradual combustion during a prescribed part of the stroke determined by the cut-oil  
+in later years diesel realized his original cycle would not work and he adopted the constant pressure cycle  diesel describes the cycle in his 1885 patent application  notice that there is no longer a mention of compression temperatures exceeding the temperature of combustion  now all that is mentioned is the compression must be high enough for ignition 
+ 1  in an internal-combustion engine  the combination of a cylinder and piston constructed and arranged to compress air to a degree producing a temperature above the igniting-point of the fuel  a supply for compressed air or gas  a fuel-supply  adistributin g-valve for fuel  a passage from the airsupply to the cylinder in communication with the fuel-distributing valve  an inletto the cylinder in communication with the air-supply and with the f uel-valve  and a cut-oil  substantially as described   see us patent   608845 filed 1895   granted 1898
+history shows that the invention of the diesel engine was not based solely on one man s idea but it was the culmination of many different ideas that would be developed over time 
+in 1806 claude and
+ brothers  developed the first known internal combustion engine and the first fuel injection system  the
+fuel system used a blast of air provided by a bellows to atomize lycopodium  a highly combustible fuel made from broad moss  later coal dust mixed with resin became the fuel  finally in 1816 they experimented with alcohol and white oil of petroleum  a fuel similar to kerosene  they discovered that the kerosene type fuel could be finely vaporized by passing it through a reed type device  this made the fuel highly combustible 
+in 1874
+developed and patented a 2 stroke  oil fueled constant pressure engine  the ready motor   this engine used a metered pump to supply fuel to an injection device in which the oil was vaporize by air and burned as it entered the cylinder  these were some of the first practical internal combustion engines to supply motive power  brayton s engines were installed in several boats  a rail car  2 submarines and a bus  early diesel engines use a similar cycle 
+throughout the 1880s brayton continued trying to improve his engines  in 1887 brayton developed and patented a 4 stroke direct injection oil engine  us patent  432,114 of 1890  application filed in 1887  the fuel system used a variable quantity pump and liquid fuel high pressure spray type injection  the liquid was forced through a spring loaded relief type valve  injector  which caused the fuel to become divided into small droplets  vaporized   injection was timed to occur at or near the peak of the compression stroke  a platinum igniter or ignitor provided the source of ignition  brayton describes the invention as follows   i have discovered that heavy oils can be mechanically converted into a finely-divided condition within a firing portion of the cylinder  or in a communicating firing chamber   another part reads  i have for the first time  so far as my knowledge extends  regulated speed by variably controlling the direct discharge of liquid fuel into the combustion chamber or cylinder into a finely-divided condition highly favorable to immediate combustion   this was likely the first engine to use a lean burn system to regulate engine speed   output  in this manner the engine fired on every power stroke and speed   output was controlled solely by the quantity of fuel injected 
+in 1890 brayton developed and patented a 4 stroke air blast oil engine  us patent  432,260  the fuel system delivered a variable quantity of vaporized fuel to the center of the cylinder under pressure at or near the peak of the compression stroke  the ignition source was an igniter made from platinum wire  a variable quantity injection pump provided the fuel to an injector where it was mixed with air as it entered the cylinder  a small crank driven compressor provided the source for air  this engine also used the lean burn system 
+brayton died in 1893 but would be credited with the invention of the constant pressure  
+in 1885  the
+inventor
+began investigating the possibility of using
+ very similar to modern-day   for an engine  which unlike
+would be difficult to vaporise in a carburettor as its
+is not sufficient to allow this 
+the   first prototyped in 1886 and built from 1891 by   used a pressurized
+system  the
+engine used a comparatively low compression ratio  so that the temperature of the air compressed in the combustion chamber at the end of the compression stroke was not high enough to initiate combustion  combustion instead took place in a separated combustion chamber  the  vaporizer  or  hot bulb  mounted on the cylinder head  into which fuel was sprayed  self-ignition occurred from contact between the fuel-air mixture and the hot walls of the vaporizer  as the engine s load increased  so did the temperature of the bulb  causing the ignition period to advance  to counteract pre-ignition  water was dripped into the air intake 
+in 1892  akroyd stuart patented a water-jacketed vaporiser to allow
+to be increased  in the same year 
+at hornsbys built a working high-compression version for experimental purposes  whereby the vaporiser was replaced with a   therefore not relying on air being preheated  but by combustion through higher   it ran for six hoursthe first time automatic ignition was produced by compression alone  this was five years before rudolf diesel built his well-known high-compression prototype engine in 1897 
+was a pioneer in developing compression ignition 
+however  was subsequently credited with the compression ignition engine innovation  higher compression and thermal efficiency is what distinguishes diesel s patent of 3,500 kilopascals  508 psi  
+in 1892 diesel received patents in germany  switzerland  the united kingdom and the united states for  method of and apparatus for converting heat into work   in 1893 he described a  slow-combustion engine  that first compressed air thereby raising its temperature above the igniting-point of the fuel  then gradually introducing fuel while letting the mixture expand  against resistance sufficiently to prevent an essential increase of temperature and pressure   then cutting off fuel and  expanding without transfer of heat     in 1894 and 1895 he filed patents and addenda in various countries for his diesel engine  the first patents were issued in spain  no 16,654   france  no 243,531  and belgium  no 113,139  in december 1894  and in germany  no 86,633  in 1895 and the united states  no 608,845  in 1898  he operated his first successful engine in 1897 
+on february 17  1894  the redesigned engine ran for 88 revolutions - one minute  with this news  maschinefabrik augsburg s stock rose by 30   indicative of the tremendous anticipated demands for a more efficient engine  in 1896  rudolph s rushed to have a prototype running  in order to maintain the patent  the first engine ready for testing was built on december 31  1896  a much different engine than the one they had started with  in 1897  between deal signing  and brainstorming episodes they succeed  the engine runs  16.93kw with an efficiency of 16.6   he is granted the patent  by 1898  diesel had become a millionaire  his engines were used to power   electric and water plants  automobiles and trucks  and marine craft  they were soon to be used in mines    factories  and transoceanic shipping 
+timeline  
+1800 s 
+1806 the
+uses the first fuel injection system 
+1874  s constant pressure  ready motor  uses a metered fuel pump and burns oil fuel inside the cylinder 
+1886 
+builds a prototype    
+1887
+builds an engine that uses a spring loaded injector and solid metered injection system  lean burn combustion  
+1890
+builds an  air blast  injection engine with a lean burn system 
+1891 
+patents an internal combustion engine that uses a  hot bulb  and pressurized    
+1892  february 23 
+obtained a patent  rp 67207  titled  arbeitsverfahren und ausfhrungsart fr verbrennungsmaschinen   working methods and techniques for internal combustion engines  
+1892  akroyd stuart builds his first working diesel engine   
+1893  diesel s essay titled theory and construction of a rational motor appeared 
+1893  august 10  diesel built his first prototype in augsburg  this engine never ran under its own power 
+1894 diesel s second prototype runs for the first time 
+1895 diesel applies for a second patent us patent   608845
+1896   a stamford
+they built lamp start oil engines   
+1897 
+licenses rights to the diesel engine for the us and canada 
+1897 after 4 years diesel s prototype engine is running and finally ready for efficiency testing and production 
+1898  diesel licensed his engine to   a russian oil company interested in an engine that could consume non-distilled oil  branobel s engineers spent four years designing a ship-mounted engine 
+1899  diesel licensed his engine to builders
+and   who quickly became major manufacturers 
+1900s
+1902  until 1910
+produced 82 copies of the stationary diesel engine 
+1903  two first diesel-powered ships were launched  both for river and canal operations 
+in france  powered by dyckhoff-built diesels  and
+tanker in russia  powered by swedish-built diesels with an electrical transmission 
+1904  the french built the first diesel   the z 
+1905  four diesel engine
+and
+were manufactured by bchl  ch   as well as a
+from creux  f  company 
+1908 
+and
+developed a precisely controlled injection pump with a needle injection nozzle 
+1909  the prechamber with a hemispherical combustion chamber was developed by prosper l orange with  
+1910s
+1910  the norwegian research ship
+was a sailing ship fitted with an auxiliary diesel engine  and was thus the first ocean-going ship with a diesel engine 
+1912  the danish built the first ocean-going ship exclusively powered by a diesel engine    the first
+with a diesel engine also appeared 
+1913 
+submarines used
+units 
+died mysteriously when he crossed the
+on the  
+1914  german
+were powered by man diesels 
+1919  prosper l orange obtained a patent on a prechamber insert and made a needle injection nozzle  first diesel engine from  
+1920s
+one of the eight-cylinder 3200 i h p  harland and wolffburmeister   wain diesel engines installed in the motorship glenapp  this was the highest powered diesel engine yet  1920  installed in a ship  note man standing lower right for size comparison 
+1921  prosper l orange built a continuous variable output  
+1922  the first vehicle with a  pre-chamber  diesel engine was
+type 6 of the
+agricultural tractor oe benz sendling 
+1923  the first
+with pre-chamber diesel engine made by
+and  
+testing the first air-injection diesel-engined truck 
+1924  the introduction on the truck market of the diesel engine by commercial truck manufacturers in the iaa 
+starts building diesel engines 
+1924-1925 fairbanks morse introduced the 2 stroke y-va and model 32  it was the first cold start diesel manufactured by fairbanks and would be come an icon of american industrial power 
+1927  first truck
+and
+of   first passenger car prototype of  
+1930s
+1930s 
+started building diesels for their tractors 
+1930  first us diesel-power passenger car   powered packard  built in columbus  indiana  us  
+1930 
+diesel engines power the british airship  
+1932  introduction of the strongest diesel truck in the world by man with 160hp  120kw  
+1933  first european
+with diesel engines   rosalie   citron used an engine of the english diesel pioneer sir   the car did not go into production due to legal restrictions on the use of diesel engines 
+1934  first
+diesel engine for a
+by   first streamlined  stainless steel passenger train in the us  the   using a winton engine 
+1934  first tank equipped with diesel engine  the polish  
+193435 
+in germany started production of the jumo aviation diesel engine family  the most famous of these being the   of which over 900 examples were produced by the outbreak of  
+ s 1893 patent on his engine design
+1936 
+built the
+diesel car 
+inaugurated the diesel train   the airship
+was powered by diesel engines  first series of passenger cars manufactured with diesel engine   260 d 
+and   
+airship diesel engine 602lof6 for the lz129 hindenburg  
+1937  the
+developed the
+diesel engine  later used in the
+tanks  widely regarded as the best tank chassis of world war ii 
+1937 
+experimental airplane diesel engine development 
+1938 
+forms the gm diesel division  later to become   and introduces the
+high-speed medium-horsepower
+engine  gm s emd subsidiary introduces the
+two stroke medium-speed high-horsepower engine for locomotive  ship and stationary applications  these gm and emd engines utilize gm s patented  
+1938  first turbo diesel engine of  
+diesel engines on the wwii submarine
+ on display in san francisco 
+1940s
+1942 
+started production of
+with
+v12 diesel engine 
+194346  the common-rail  crd  system was invented  and patented by 
+1944  development of
+for diesel engines by
+ khd  for the production stage  and later also for magirus deutz 
+1950s
+1953  -diesel truck for
+in small series 
+1954  turbo-diesel truck in mass production by   first diesel engine with an overhead
+of  
+1958 emd introduces turbocharging for its 567 series of medium speed  high horsepower locomotive  stationary and marine engines  every subsequent engine  645 and 710  would incorporate this turbocharger 
+1960s
+1960  the diesel drive displaced
+and coal fired steam engines 
+196265  a   eventually to be manufactured by jacobs  of drill chuck fame  and nicknamed the  jake brake   was invented and patented by clessie cummins 
+1968 
+introduced the first
+small cars with a transversally mounted diesel engine and  
+1970s
+1973 
+produced an air-cooled diesel engine 
+1976 february  tested a diesel engine for the
+golf passenger car  the cummins
+injection system was further developed by the eth zurich from 1976 to 1992 
+1978  mercedes-benz produced the first passenger car with a turbo-diesel engine  mercedes-benz 300 sd  
+introduced the first passenger car diesel engine produced by an american car company 
+1979    the first turbo-diesel car to be sold in europe 
+1980s
+1985  ati intercooler diesel engine from daf  european truck common rail system with the ifa truck type w50 introduced 
+1986 
+524td  the world s first passenger car equipped with an
+ developed by    the same year  the
+was the first passenger car in the world to have a
+ turbocharged  diesel engine 
+1987  most powerful production truck with a 460hp  340kw  man diesel engine 
+1989    the first passenger car in the world with a turbocharged direct injection and electronic control diesel engine 
+1990s
+1991  european emission standards
+met with the truck diesel engine of  
+1993  pump nozzle injection introduced in volvo truck engines 
+1994  unit injector system by bosch for diesel engines  mercedes-benz unveils the first automotive diesel engine with four valves per cylinder  medium speed high horsepower locomotive  ship and stationary diesel engines have utilized four valves per cylinder since at least 1938 
+1995  first successful use of
+in a production vehicle  by
+in japan 
+ rising ranger  truck 
+1996  first diesel engine with direct injection and four valves per cylinder  used in the  
+1997  first
+diesel engine in a passenger car  the  
+1998  bmw made history by winning the 24 hour
+race with the 320d  powered by a two-litre  four-cylinder diesel engine  the combination of high-performance with better fuel efficiency allowed the team to make fewer pit stops during the long endurance race 
+introduces three and four-cylinder turbodiesel engines  with bosch-developed electronically controlled  
+presented the first
+three-cylinder diesel engine used in a passenger car  the   
+1999 
+of scania and the first
+truck diesel engine of  
+2000s
+2002  a street-driven dodge dakota pickup with a 735 horsepower  548kw  diesel engine built at
+hauls its own service trailer to the
+and set an
+land speed record as the world s fastest pickup truck with a one-way run of 222mph  357km h  and a two-way average of 217mph  349km h  
+2003 
+injector technology by bosch  siemens and delphi 
+2004  in western europe  the proportion of passenger cars with diesel engine exceeded 50   selective catalytic reduction  scr  system in mercedes  euro 4 with egr system and particle filters of   audi a8 3.0 tdi is the first production vehicle in the world with common rail injection and piezoelectric injectors 
+2006 
+won the
+and defeated all other engine concepts  the same car won the  
+for all
+trucks 
+broke the fia diesel land speed record from 1973  eventually setting the new record at over 350mph  563km h  
+2007 
+develops a new 440cc
+diesel engine  which two years later sees application in automotive use  in the
+microcars  at the time  this engine was considered to be the smallest twin-cyinder engine with a common rail system 
+2008 
+introduced the first
+diesel engine to be fitted to a passenger car  this is a euro 5 compliant engine with an
+system 
+wins the drivers  title and the manufacturers  title in the
+with the   the achievements are repeated in the following season 
+2009 
+won the 2009 dakar rally held in argentina and chile  the first diesel to do so 
+models finished first and second  the same year 
+is claimed the world s strongest truck with their fh16 700  an inline 6-cylinder  16l  976cuin  700hp  522kw  diesel engine producing 3150 nm  2323.32lbft  of torque and fully complying with euro 5 emission standards 
+2010s
+2010 
+developed and started mass production of its
+1.8l dohc i4  the world s first passenger car diesel engine that features a
+system   s v8 had the highest torque and power ratings of any truck engine  730hp  544kw  and 3,500nm  2,581ftlb  
+2011 
+launches a
+turbodiesel engine  with
+injection  on its new range of  
+2012  common rail systems working with pressures of 2,500 bar launched 
+operating principle  
+p-v diagram for the ideal diesel cycle  the cycle follows the numbers 14 in clockwise direction  the horizontal axis is volume of the cylinder  in the diesel cycle the combustion occurs at almost constant pressure  on this diagram the work that is generated for each cycle corresponds to the area within the loop 
+diesel engine model  left side
+diesel engine model  right side
+see also 
+and
+the diesel internal combustion engine differs from the gasoline powered
+by using highly compressed hot air to ignite the fuel rather than using a spark plug  compression ignition rather than spark ignition  
+in the true diesel engine  only air is initially introduced into the combustion chamber  the air is then compressed with a compression ratio typically between 15 1 and 23 1  this high compression causes the temperature of the air to rise  at about the top of the compression stroke  fuel is injected directly into the compressed air in the combustion chamber  this may be into a  typically   void in the top of the piston or a pre-chamber depending upon the design of the engine  the fuel injector ensures that the fuel is broken down into small droplets  and that the fuel is distributed evenly  the heat of the compressed air vaporizes fuel from the surface of the droplets  the vapour is then ignited by the heat from the compressed air in the combustion chamber  the droplets continue to vaporise from their surfaces and burn  getting smaller  until all the fuel in the droplets has been burnt  combustion occurs at a substantially constant pressure during the initial part of the power stroke  the start of vaporisation causes a delay before ignition and the characteristic diesel knocking sound as the vapour reaches ignition temperature and causes an abrupt increase in pressure above the piston  not shown on the p-v indicator diagram   when combustion is complete the combustion gases expand as the piston descends further  the high pressure in the cylinder drives the piston downward  supplying power to the crankshaft 
+as well as the high level of compression allowing combustion to take place without a separate ignition system  a high
+greatly increases the engine s efficiency  increasing the compression ratio in a spark-ignition engine where fuel and air are mixed before entry to the cylinder is limited by the need to prevent damaging   since only air is compressed in a diesel engine  and fuel is not introduced into the cylinder until shortly before top dead centre     premature detonation is not a problem and compression ratios are much higher 
+the pv diagam is a simplified and idealised representation of the events involved in a diesel engine cycle  arranged to illustrate the similarity with a   starting at 1  the piston is at bottom dead centre and both valves are closed at the start of the compression stroke  the cylinder contains air at atmospheric pressure  between 1 and 2 the air is compressed adiabaticallythat is without heat transfer to or from the environmentby the rising piston   this is only approximately true since there will be some heat exchange with the cylinder walls   during this compression  the volume is reduced  the pressure and temperature both rise  at or slightly before 2  tdc  fuel is injected and burns in the compressed hot air  chemical energy is released and this constitutes an injection of thermal energy  heat  into the compressed gas  combustion and heating occur between 2 and 3  in this interval the pressure remains constant since the piston descends  and the volume increases  the temperature rises as a consequence of the energy of combustion  at 3 fuel injection and combustion are complete  and the cylinder contains gas at a higher temperature than at 2  between 3 and 4 this hot gas expands  again approximately adiabatically  work is done on the system to which the engine is connected  during this expansion phase the volume of the gas rises  and its temperature and pressure both fall  at 4 the exhaust valve opens  and the pressure falls abruptly to atmospheric  approximately   this is unresisted expansion and no useful work is done by it  ideally the adiabatic expansion should continue  extending the line 34 to the right until the pressure falls to that of the surrounding air  but the loss of efficiency caused by this unresisted expansion is justified by the practical difficulties involved in recovering it  the engine would have to be much larger   after the opening of the exhaust valve  the exhaust stroke follows  but this  and the following induction stroke  are not shown on the diagram  if shown  they would be represented by a low-pressure loop at the bottom of the diagram  at 1 it is assumed that the exhaust and induction strokes have been completed  and the cylinder is again filled with air  the piston-cylinder system absorbs energy between 1 and 2this is the work needed to compress the air in the cylinder  and is provided by mechanical kinetic energy stored in the flywheel of the engine  work output is done by the piston-cylinder combination between 2 and 4  the difference between these two increments of work is the indicated work output per cycle  and is represented by the area enclosed by the pv loop  the adiabatic expansion is in a higher pressure range than that of the compression because the gas in the cylinder is hotter during expansion than during compression  it is for this reason that the loop has a finite area  and the net output of work during a cycle is positive 
+major advantages  
+diesel engines have several advantages over other internal combustion engines 
+they burn less fuel than a petrol engine performing the same work  due to the engine s higher temperature of combustion and greater expansion ratio  gasoline engines are typically 30  efficient while diesel engines can convert over 45  of the fuel energy into mechanical energy  see
+for further explanation  
+they have no high voltage electrical ignition system  resulting in high reliability and easy adaptation to damp environments  the absence of coils  spark plug wires  etc   also eliminates a source of
+which can interfere with navigation and communication equipment  which is especially important in marine and aircraft applications  and for preventing interference with  
+the longevity of a diesel engine is generally about twice that of a petrol engine due to the increased strength of parts used  diesel fuel has better lubrication properties than petrol as well  indeed  in   the fuel is employed for three distinct purposes  injector lubrication  injector cooling and injection for combustion 
+bus powered by
+is distilled directly from petroleum  distillation yields some gasoline  but the yield would be inadequate without   which is a more costly process 
+although diesel fuel will burn in open air using a   it does not release a large amount of flammable vapor which could lead to an explosion  the low
+of diesel is especially advantageous in marine applications  where the accumulation of explosive fuel-air mixtures is a particular hazard  for the same reason  diesel engines are immune to  
+for any given partial load the
+ mass burned per energy produced  of a diesel engine remains nearly constant  as opposed to petrol and turbine engines which use proportionally more fuel with partial power outputs 
+they generate less waste heat in cooling and exhaust 
+diesel engines can accept super- or turbo-charging pressure without any natural limit  constrained only by the strength of engine components  this is unlike petrol engines  which inevitably suffer detonation at higher pressure 
+the carbon monoxide content of the exhaust is minimal 
+is an easily synthesized  non-petroleum-based fuel  through   which can run directly in many diesel engines  while gasoline engines either need adaptation to run
+or else use them as an additive to gasoline  e g  
+added to   
+early fuel injection systems  
+diesel s original engine injected fuel with the assistance of compressed air  which atomized the fuel and forced it into the engine through a nozzle  a similar principle to an aerosol spray   the nozzle opening was closed by a pin valve lifted by the camshaft to initiate the fuel injection before top dead centre     this is called an air-blast injection  driving the compressor used some power but the efficiency and net power output was more than any other combustion engine at that time 
+diesel engines in service today raise the fuel to extreme pressures by mechanical pumps and deliver it to the combustion chamber by pressure-activated injectors without compressed air  with direct injected diesels  injectors spray fuel through 4 to 12 small orifices in its nozzle  the early air injection diesels always had a superior combustion without the sharp increase in pressure during combustion  research is now being performed and patents are being taken out to again use some form of air injection to reduce the nitrogen oxides and pollution  reverting to diesel s original implementation with its superior combustion and possibly quieter operation  in all major aspects  the modern diesel engine holds true to rudolf diesel s original design  that of igniting fuel by compression at an extremely high pressure within the cylinder  with much higher pressures and high technology injectors  present-day diesel engines use the so-called solid injection system applied by
+for his   the
+engine could be considered the latest development of these low speed hot bulb ignition engines 
+fuel delivery  
+over the years many different injection methods have been used  these can be described as 
+air blast  where the fuel is blown into the cylinder by a blast of air 
+solid fuel   hydraulic injection where the fuel is pushed through a spring loaded valve   injector to produce a combustable mist 
+mechanical unit injector where the injector is directly operated by a cam and fuel quantity is controlled by a rack or lever  
+mechanical electronic unit injector where the injector is operated by a cam and fuel quantity is controlled electronically 
+common rail mechanical injection  fuel is at high pressure in a common rail and controlled by mechanical means 
+common rail electronic injection  fuel is at high pressure in a common rail and controlled electronically 
+diesel engines are also produced with two significantly different injection locations   direct  and  indirect   indirect injected engines place the injector in a pre-combustion chamber in the head which due to thermal losses generally require a  glow plug  to start and very high compression ratio  usually in the range of 21 1 to 23 1 ratio  direct injected engines use a generally donut shaped combustion chamber void on the top of the piston  thermal efficiency losses are significantly lower in di engines which facilitates a much lower compression ratio generally between 14 1 and 20 1 but most di engines are closer to 17 1  the direct injected process is significantly more internally violent and thus requires careful design  and more robust construction  the lower compression ratio also creates challenges for emissions due to partial burn  turbocharging is particularly suited to di engines since the low compression ratio facilitates meaningful forced induction  and the increase in airflow allows capturing additional fuel efficiency not only from more complete combustion  but also from lowering parasitic efficiency losses when properly operated  by widening both power and efficiency curves  the violent combustion process of direct injection also creates more noise  but modern designs using  split shot  injectors or similar multi shot processes have dramatically amended this issue by firing a small charge of fuel before the main delivery which pre-charges the combustion chamber for a less abrupt and in most cases slightly cleaner burn  citation needed 
+a vital component of all diesel engines is a mechanical or electronic
+which regulates the idling speed and maximum speed of the engine by controlling the rate of fuel delivery  unlike otto-cycle engines  incoming air is not throttled and a diesel engine without a governor cannot have a stable idling speed and can easily overspeed  resulting in its destruction  mechanically governed fuel injection systems are driven by the engine s   these systems use a combination of springs and weights to control fuel delivery relative to both load and speed  modern electronically controlled diesel engines control fuel delivery by use of an electronic control module  ecm  or electronic control unit     the ecm ecu receives an engine speed signal  as well as other operating parameters such as intake manifold pressure and fuel temperature  from a sensor and controls the amount of fuel and start of injection timing through
+to maximise power and efficiency and minimise emissions  controlling the timing of the start of injection of fuel into the cylinder is a key to minimizing emissions  and maximizing
+ efficiency   of the engine  the timing is measured in degrees of crank angle of the
+before top dead centre  for example  if the ecm ecu initiates fuel injection when the piston is 10 before   the start of injection  or timing  is said to be 10   optimal timing will depend on the engine design as well as its speed and load  and is usually 4 btdc in 1,3506,000 hp  net   medium speed  locomotive  marine and stationary diesel engines 
+advancing the start of injection  injecting before the piston reaches to its soi-tdc  results in higher in-cylinder pressure and temperature  and higher efficiency  but also results in increased engine noise due to faster cylinder pressure rise and increased
+ nox  formation due to higher combustion temperatures  delaying start of injection causes incomplete combustion  reduced fuel efficiency and an increase in exhaust smoke  containing a considerable amount of particulate matter and unburned    citation needed 
+mechanical and electronic injection  
+many configurations of fuel injection have been used over the course of the 20th century 
+most present-day diesel engines use a mechanical single plunger high-pressure
+driven by the engine crankshaft  for each engine cylinder  the corresponding plunger in the fuel pump measures out the correct amount of fuel and determines the timing of each injection  these engines use
+that are very precise spring-loaded valves that open and close at a specific fuel pressure  separate high-pressure fuel lines connect the fuel pump with each cylinder  fuel volume for each single combustion is controlled by a slanted
+in the plunger which rotates only a few degrees releasing the pressure and is controlled by a mechanical governor  consisting of weights rotating at engine speed constrained by springs and a lever  the injectors are held open by the fuel pressure  on high-speed engines the plunger pumps are together in one unit  the length of fuel lines from the pump to each injector is normally the same for each cylinder in order to obtain the same pressure delay 
+a cheaper configuration on high-speed engines with fewer than six cylinders is to use an axial-piston distributor pump  consisting of one rotating pump plunger delivering fuel to a valve and line for each cylinder  functionally analogous to points and distributor cap on an   
+many modern systems have a single fuel pump which supplies fuel constantly at high pressure with a
+ single fuel line common  to each injector  each injector has a
+operated by an electronic control unit  resulting in more accurate control of injector opening times that depend on other control conditions  such as engine speed and loading  and providing better engine performance and fuel economy   
+both mechanical and electronic injection systems can be used in either
+or
+configurations   
+diesel engines with mechanical injection pumps can be inadvertently run in reverse  albeit in a very inefficient manner  possibly damaging the engine  large ship
+diesels are designed to run in either direction  obviating the need for a gearbox   
+indirect injection  
+ricardo comet indirect injection chamber
+main article 
+an indirect diesel injection system  idi  engine delivers fuel into a small chamber called a swirl chamber  pre combustion chamber  pre chamber or ante-chamber  which is connected to the cylinder by a narrow air passage  generally the goal of the pre camber is to create increased
+for better air   fuel mixing  this system also allows for a smoother  quieter running engine  and because fuel mixing is assisted by turbulence 
+pressures can be lower  most idi systems tend to use a single orifice injector  the pre-chamber has the disadvantage of lowering efficiency due to increased heat loss to the engine s cooling system  restricting the combustion burn  thus reducing the efficiency by 510    idi engines are also more difficult to start and usually require the use of glow plugs  idi engines may be cheaper to build but generally require a higher compression ratio than the di counterpart  idi also makes it easier to produce smooth  quieter running engines with a simple mechanical injection system since exact injection timing is not as critical  most modern automotive engines are di which have the benefits of greater efficiency  easier starting  however idi engines can still be found in the many atv and small diesel applications 
+direct injection  
+ttes de piston
+diesel engines inject fuel directly into the cylinder  usually there is a combustion cup in the top of the piston where the fuel is sprayed  many different methods of injection can be used 
+electronic control of the fuel injection transformed the direct injection engine by allowing much greater control over the combustion 
+unit direct injection  
+main article 
+unit direct injection also injects fuel directly into the cylinder of the engine  in this system the injector and the pump are combined into one unit positioned over each cylinder controlled by the camshaft  each cylinder has its own unit eliminating the high-pressure fuel lines  achieving a more consistent injection  this type of injection system  also developed by bosch  is used by
+ag in cars  where it is called a -systemliterally pump-nozzle system  and by mercedes-benz   pld   and most major diesel engine manufacturers in large commercial engines               with recent advancements  the pump pressure has been raised to 2,400 bars  240mpa  35,000psi   allowing injection parameters similar to common rail systems 
+common rail direct injection  
+main article 
+ common rail  injection was first used in production by atlas imperial diesel in the 1920s  the rail pressure was kept at a steady 2,000 - 4,000 psi  in the injectors a needle was mechanically lifted off of the seat to create the injection event  modern common rail systems use very high-pressures  in these systems an engine driven pump pressurizes fuel at up to 2,500bar  250mpa  36,000psi     in a  common rail   the common rail is a tube that supplies each computer-controlled injector containing a precision-machined nozzle and a plunger driven by a
+or
+actuator 
+cold weather problems  
+starting  
+in cold weather  high speed diesel engines can be difficult to start because the mass of the cylinder block and cylinder head absorb the heat of compression  preventing ignition due to the higher surface-to-volume ratio  pre-chambered engines make use of small electric heaters inside the pre-chambers called   while direct-injected engines have these glowplugs in the combustion chamber   
+many engines use resistive heaters in the
+to warm the inlet air for starting  or until the engine reaches  
+ electric resistive heaters in the engine block  connected to the utility grid are used in cold climates when an engine is turned off for extended periods  more than an hour   to reduce startup time and engine wear  block heaters are also used for emergency power
+which must rapidly pick up load on a power failure  in the past  a wider variety of cold-start methods were used  some engines  such as
+engines used   a system to introduce small amounts of
+into the inlet manifold to start combustion  others used a mixed system  with a resistive heater burning   an impromptu method  particularly on out-of-tune engines  is to manually spray an aerosol can of ether-based engine starter fluid into the intake air stream  usually through the intake air filter assembly  
+gelling  
+diesel fuel is also prone to waxing or gelling in cold weather  both are terms for the solidification of diesel oil into a partially crystalline state  the crystals build up in the fuel line  especially in fuel filters   eventually starving the engine of fuel and causing it to stop running  low-output electric heaters in
+and around fuel lines are used to solve this problem  also  most engines have a spill return system  by which any excess fuel from the injector pump and injectors is returned to the fuel tank  once the engine has warmed  returning warm fuel prevents waxing in the tank 
+due to improvements in fuel technology with additives  waxing rarely occurs in all but the coldest weather when a mix of diesel and
+may be used to run a vehicle  gas stations in regions with a cold climate are required to offer
+in the cold seasons that allow operation below a specific   in europe these diesel characteristics are described in the
+standard 
+supercharging and turbocharging  
+many diesels are now
+and some are both turbo charged and   a turbocharged engine can produce more power than a naturally aspirated engine of the same configuration  a supercharger is powered mechanically by the engine s   while a turbocharger is powered by the engine exhaust  turbocharging can improve the fuel economy of diesel engines by recovering waste heat from the exhaust  increasing the excess air factor  and increasing the ratio of engine output to friction losses 
+a
+does not have a discrete exhaust and intake stroke and thus is incapable of self-aspiration  therefore  all two-stroke engines must be fitted with a
+or some form of compressor to charge the cylinders with air and assist in dispersing exhaust gases  a process referred to as   in some cases  the engine may also be fitted with a turbocharger  whose output is directed into the blower inlet 
+a few designs employ a hybrid blower   turbocharger  a turbo-compressor system  for scavenging and charging the cylinders  which device is mechanically driven at cranking and low speeds to act as a blower  but which acts as a true turbocharger at higher speeds and loads  a hybrid turbocharger can revert to compressor mode during commands for large increases in engine output power 
+as turbocharged or supercharged engines produce more power for a given engine size as compared to naturally aspirated engines  attention must be paid to the mechanical design of components  lubrication  and cooling to handle the power  pistons are usually cooled with lubrication oil sprayed on the bottom of the piston  large  low speed  engines may use water  sea water  or oil supplied through
+pipes attached to the crosshead to cool the pistons 
+types  
+size groups  
+two cycle diesel engine with   typical of
+and some
+engines
+there are three size groups of diesel engines
+smallunder 188kw  252hp  output
+medium
+large
+basic types  
+there are two basic types of diesel engines
+four stroke cycle
+two stroke cycle
+early engines  
+in 1897  when the first diesel engine was completed
+traveled to cologne and negotiated exclusive right to produce the diesel engine in the us and canada  in his examination of the engine  it was noted that the diesel at that time operated at thermodynamic efficiencies of 27   while a typical expansion steam engine would operate at about 7-10  
+in the early decades of the 20th century  when large diesel engines were first being used  the engines took a form similar to the compound steam engines common at the time  with the piston being connected to the connecting rod by a   following steam engine practice some manufacturers made double-acting two-stroke and four-stroke diesel engines to increase power output  with combustion taking place on both sides of the piston  with two sets of valve gear and fuel injection  while it produced large amounts of power  the double-acting diesel engine s main problem was producing a good seal where the piston rod passed through the bottom of the lower combustion chamber to the crosshead bearing  and no more were built  by the 1930s turbochargers were fitted to some engines  crosshead bearings are still used to reduce the wear on the cylinders in large long-stroke main marine engines 
+modern high and medium-speed engines  
+a
+marine diesel engine  installed in a
+as with petrol engines  there are two classes of diesel engines in current use  two-stroke and four-stroke  the four-stroke type is the  classic  version  tracing its lineage back to rudolf diesel s   it is also the most commonly used form  being the preferred power source for many motor vehicles  especially buses and trucks  much larger engines  such as used for
+and   are often two-stroke units  offering a more favourable   as well as better fuel economy  the most powerful engines in the world are two-stroke diesels of mammoth dimensions 
+operation is similar to that of petrol counterparts  except that fuel is not mixed with air before induction  and the crankcase does not take an active role in the cycle  the traditional two-stroke design relies upon a mechanically driven
+to charge the cylinders with air before compression and ignition  the charging process also assists in expelling  scavenging 
+gases remaining from the previous power stroke 
+the
+of the modern form of the two-stroke diesel is the  high-speed 
+engine  designed by
+and his colleagues at
+in 1938  in which the blower pressurizes a chamber in the engine block that is often referred to as the  air box   the  very much larger medium-speed 
+engine is used as the
+in emd   marine and stationary applications  and was designed by the same team  and is built to the same principle  however  a significant improvement built into most later emd engines is the mechanically assisted turbo-compressor  which provides charge air using mechanical assistance during starting  thereby obviating the necessity for
+scavenging   and provides charge air using an exhaust gas-driven turbine during normal operationsthereby providing true turbocharging and additionally increasing the engine s power output by at least fifty percent 
+three english electric 7srl diesel-alternator sets being installed at the saateni power station 
+1955
+in a two-stroke diesel engine  as the cylinder s
+approaches the bottom dead centre exhaust ports or valves are opened relieving most of the excess pressure after which a passage between the air box and the cylinder is opened  permitting air flow into the cylinder  the air flow blows the remaining combustion gases from the cylinderthis is the scavenging process  as the piston passes through bottom centre and starts upward  the passage is closed and compression commences  culminating in fuel injection and ignition  refer to
+for more detailed coverage of aspiration types and supercharging of two-stroke diesel engines 
+normally  the number of cylinders are used in multiples of two  although any number of cylinders can be used as long as the load on the crankshaft is counterbalanced to prevent excessive   the inline-six-cylinder design is the most prolific in light- to medium-duty engines  though small v8 and larger inline-four displacement engines are also common  small-capacity engines  generally considered to be those below five litres in capacity  are generally four- or six-cylinder types  with the four-cylinder being the most common type found in automotive uses  five-cylinder diesel engines have also been produced  being a compromise between the smooth running of the six-cylinder and the space-efficient dimensions of the four-cylinder  diesel engines for smaller plant machinery  boats  tractors  generators and pumps may be four  three or two-cylinder types  with the single-cylinder diesel engine remaining for light stationary work  direct reversible two-stroke marine diesels need at least three cylinders for reliable restarting forwards and reverse  while four-stroke diesels need at least six cylinders 
+the desire to improve the diesel engine s
+ratio produced several novel cylinder arrangements to extract more power from a given capacity  the uniflow
+uses two pistons in one cylinder with the combustion cavity in the middle and gas in- and outlets at the ends  this makes a comparatively light  powerful  swiftly running and economic engine suitable for use in aviation  an example is the   the
+engine  with three cylinders arranged in a triangular formation  each containing two opposed pistons  the whole engine having three crankshafts  is one of the better known 
+gas generator  
+main article 
+before 1950 
+started experimenting with two-stroke engines with boost pressures as high as 6   in which all the output power was taken from an exhaust   the two-stroke pistons directly drove air compressor pistons to make a positive displacement gas generator  opposed pistons were connected by linkages instead of crankshafts  several of these units could be connected to provide power gas to one large output turbine  the overall thermal efficiency was roughly twice that of a simple gas turbine  this system was derived from  s work on free-piston engines in the 1930s 
+advantages and disadvantages versus spark-ignition engines  
+this section needs additional citations for   please help
+by   unsourced material may be challenged and removed   february 2011    
+fuel economy  
+the
+s80me-c7 low speed diesel engines use 155 grams  5.5oz  of fuel per
+for an overall energy conversion efficiency of 54.4   which is the highest conversion of fuel into power by any single-cycle
+or
+engine  the efficiency of a
+system can exceed 60    diesel engines are more efficient than gasoline  petrol  engines of the same power rating  resulting in lower fuel consumption  a common margin is 40  more
+for an efficient   for example  the current model   using
+engines  has a combined euro rating of 6.2l 100km  46mpg-imp  38mpg-us  for the 102  76kw  petrol engine and 4.4l 100km  64mpg-imp  53mpg-us  for the 105bhp  78kw  diesel engine 
+however  such a comparison does not take into account that diesel fuel is denser and contains about 15  more energy by volume  although the
+of the fuel is slightly lower at 45.3mj kg   per kilogram  than petrol at 45.8mj kg  liquid diesel fuel is significantly denser than liquid petrol  this is significant because volume of fuel  in addition to mass  is an important consideration in mobile applications 
+adjusting the numbers to account for the energy density of diesel fuel  the overall energy efficiency is still about 20  greater for the diesel version 
+while a higher compression ratio is helpful in raising efficiency  diesel engines are much more efficient than gasoline  petrol  engines when at low power and at engine idle  unlike the petrol engine  diesels lack a butterfly valve  throttle  in the inlet system  which closes at idle  this creates parasitic loss and destruction of availability of the incoming air  reducing the efficiency of petrol engines at idle  in many applications  such as marine  agriculture  and railways  diesels are left idling and unattended for many hours  sometimes even days  these advantages are especially attractive in locomotives  see   
+even though diesel engines have a theoretical fuel efficiency of 75     in practice it is lower  engines in large diesel trucks  buses  and newer diesel cars can achieve peak efficiencies around 45   and could reach 55  efficiency in the near future  however  average efficiency over a driving cycle is lower than peak efficiency  for example  it might be 37  for an engine with a peak efficiency of 44  
+torque  
+diesel engines produce more torque than petrol engines for a given displacement due to their higher compression ratio  higher pressure in the cylinder and higher forces on the connecting rods and crankshaft require stronger  heavier components  heavier rotating components prevent diesel engines from revving as high as petrol engines for a given displacement  diesel engines generally have similar power and inferior power to weight ratios as compared to petrol engines  petrol engines must be geared lower to get the same torque as a comparable diesel but since petrol engines rev higher both will have similar acceleration  an arbitrary amount of torque at the wheels can be gained by gearing any power source down sufficiently  including a hand crank   for example  a theoretical engine with a constant 200ft lbs of torque and a 3000 rpm rev limit has just as much
+ a little over 114hp  as another theoretical engine with a constant maximum 100ft lbs of torque and a 6000 rpm rev limit  a  lossless  2 to 1 reduction gear on the second engine will output a constant maximum 200ft lbs of torque at a maximum of 3000 rpm  with no change in power  comparing engines based on  maximum  torque is just as useful as comparing them based on  maximum  rpm 
+power  
+conditions in the diesel engine differ from the spark-ignition engine due to the different thermodynamic cycle  in addition the power and engine speed are directly controlled by the fuel supply  rather than by controlling the air supply as in an  
+the average diesel engine has a poorer power-to-weight ratio than the   this is because the diesel must operate at lower engine speeds due to the need for heavier  stronger parts to resist the operating pressure caused by the high compression ratio of the engine  which increases the forces on the parts due to inertial forces  in addition  diesels are often built with stronger parts to give them longer lives and better reliability  important considerations in industrial applications 
+diesel engines usually have longer stroke lengths chiefly to facilitate achieving the necessary compression ratios  as a result  piston and connecting rods are heavier and more force must be transmitted through the connecting rods and crankshaft to change the momentum of the piston  this is another reason that a diesel engine must be stronger for the same power output as a petrol engine 
+yet it is this characteristic that has allowed some enthusiasts to acquire significant power increases with
+engines by making fairly simple and inexpensive modifications  a petrol engine of similar size cannot put out a comparable power increase without extensive alterations because the stock components cannot withstand the higher stresses placed upon them  since a diesel engine is already built to withstand higher levels of stress  it makes an ideal candidate for
+at little expense  however  it should be said that any modification that raises the amount of fuel and air put through a diesel engine will increase its operating temperature  which will reduce its life and increase service requirements  these are issues with newer  lighter  high-performance diesel engines which are not  overbuilt  to the degree of older engines and they are being pushed to provide greater power in smaller engines   
+emissions  
+main article 
+since the diesel engine uses less fuel than the petrol engine per unit distance  the diesel produces less
+ co2  per unit distance  recent advances in production and changes in the political climate have increased the availability and awareness of   an alternative to petroleum-derived diesel fuel with a much lower net-sum emission of co2  due to the absorption of co2 by plants used to produce the fuel  however  the use of waste vegetable oil  sawmill waste from managed forests in finland  and advances in the production of vegetable oil from algae demonstrate great promise in providing feed stocks for sustainable biodiesel that are not in competition with food production 
+when a diesel engine runs at low power  there is enough oxygen present to burn the fueldiesel engines only make significant amounts of
+when running under a load   
+diesel fuel is injected just before the power stroke  as a result  the fuel cannot burn completely unless it has a sufficient amount of oxygen  this can result in incomplete combustion and black smoke in the exhaust if more fuel is injected than there is air available for the combustion process  modern engines with electronic fuel delivery can adjust the timing and amount of fuel delivered  and so operate with less waste of fuel  in a mechanical system fuel timing system  the injection and duration must be set to be efficient at the anticipated operating rpm and load  and so the settings are less than ideal when the engine is running at any other rpm  the electronic injection can  sense  engine revs  load  even boost and temperature  and continuously alter the timing to match the given situation  in the petrol engine  air and fuel are mixed for the entire compression stroke  ensuring complete mixing even at higher engine speeds 
+diesel exhaust is well known for its characteristic smell  but this smell in recent years has become much less due to use of low
+fuel 
+diesel
+has been found to contain a   among these pollutants 
+is an important as a cause of   however  when diesel engines burn their fuel with high oxygen levels  this results in high combustion temperatures and higher efficiency  and these particles tend to burn  but the amount of nox pollution tends to increase 
+nox pollution can be reduced with   which is injected into the exhaust stream  and catalytically destroys the nox chemical species 
+which works by recirculating a portion of an engine s exhaust gas back to the engine cylinders also has very positive effects on nox emissions 
+noise  
+the distinctive noise of a diesel engine is variably called diesel clatter  diesel nailing  or diesel knock  diesel clatter is caused largely by the diesel combustion process  the sudden ignition of the diesel fuel when injected into the combustion chamber causes a pressure wave  engine designers can reduce diesel clatter through  indirect injection  pilot or pre-injection  injection timing  injection rate  compression ratio  turbo boost  and exhaust gas recirculation  egr   common rail diesel injection systems permit multiple injection events as an aid to noise reduction  diesel fuels with a higher octane rating modify the combustion process and reduce diesel clatter  cn    can be raised by distilling higher quality crude oil  by catalyzing a higher quality product or by using a cetane improving additive   
+a combination of improved mechanical technology such as multi-stage injectors which fire a short  pilot charge  of fuel into the cylinder to initiate combustion before delivering the main fuel charge  higher injection pressures that have improved the atomisation of fuel into smaller droplets  and electronic control  which can adjust the timing and length of the injection process to optimise it for all speeds and temperatures   have partially mitigated these problems in the latest generation of common-rail designs  while improving engine efficiency   
+reliability  
+for most industrial or nautical applications  reliability is considered more important than light weight and high power 
+the lack of an electrical
+greatly improves the reliability  the high durability of a diesel engine is also due to its overbuilt nature  see above   diesel fuel is a better lubricant than petrol and thus  it is less harmful to the oil film on
+and
+bores as occurs in petro powered engines  it is routine for diesel engines to cover 400,000km  250,000mi  or more without a rebuild 
+due to the greater compression ratio and the increased weight of the stronger components  starting a diesel engine is harder than starting a gasoline engine of similar design and displacement  more
+from the starter motor is required to push the engine through the compression cycle when starting compared to a petrol engine  this can cause difficulty when starting in winter time if using conventional automotive batteries because of the lower current available 
+either an electrical
+or an
+is used to start the engine turning  on large engines  pre- and slow turning of an engine  as well as heating  are required to minimise the amount of engine damage during initial start-up and running  some smaller military diesels can be started with an explosive cartridge  called a   which provides the extra power required to get the machine turning  in the past 
+and
+used a small petrol pony engine in their tractors to start the primary diesel engine  the pony engine heated the diesel to aid in ignition and used a small clutch and transmission to spin up the diesel engine  even more unusual was an
+design in which the diesel engine had its own carburetor and ignition system  and started on petrol  once warmed  the operator moved two levers to switch the engine to diesel operation  and work could begin  these engines had very complex cylinder heads  with their own petrol combustion chambers  and were vulnerable to expensive damage if special care was not taken  especially in letting the engine cool before turning it off    
+cylinder cavitation and erosion damage  
+one phenomenon that can affect water-cooled diesel engines is cylinder cavitation and erosion  this is due to a phenomenon in high-compression engines where the ignition of the fuel in the cylinder causes a high-frequency vibration that causes bubbles to form in the coolant in contact with the cylinder  when these tiny bubbles collapse  coolant impacts the cylinder wall  over time causing small holes to form in the cylinder wall  this damage is mitigated in some engines with coatings  or with a coolant additive specifically designed to prevent cavitation and erosion damage  engines damaged in this way will require the affected cylinder to be repaired  where possible  or will be rendered unusable 
+quality and variety of fuels  
+petrol gasoline engines are limited in the variety and quality of the fuels they can burn  older petrol engines fitted with a
+required a volatile fuel that would vaporise easily to create the necessary
+for combustion  because both air and fuel are admitted to the cylinder  if the
+of the engine is too high or the fuel too volatile  with too low an
+rating   the fuel will ignite under compression  as in a diesel engine  before the piston reaches the top of its stroke  this pre-ignition causes a power loss and over time major damage to the piston and cylinder  the need for a fuel that is volatile enough to vaporise but not too volatile  to avoid pre-ignition  means that petrol engines will only run on a narrow range of fuels  there has been some success at dual-fuel engines that use petrol and   petrol and   and petrol and  
+in diesel engines  a mechanical injector system vaporizes the fuel directly into the combustion chamber or a pre-combustion chamber  as opposed to a
+in a carburetor  or a
+in a fuel injection system vaporising fuel into the intake manifold or intake runners as in a petrol engine   this forced vaporisation means that less-volatile fuels can be used  more crucially  because only air is inducted into the cylinder in a diesel engine  the compression ratio can be much higher as there is no risk of pre-ignition provided the injection process is accurately timed  this means that cylinder temperatures are much higher in a diesel engine than a petrol engine  allowing less volatile fuels to be used 
+diesel fuel is a form of light fuel oil  very similar to
+ paraffin   but diesel engines  especially older or simple designs that lack precision electronic injection systems  can run on a wide variety of other fuels  some of the most common alternatives are jet a-1 type
+or
+from a very wide variety of plants  some engines can be run on vegetable oil without modification  and most others require fairly basic alterations 
+is a pure diesel-like fuel refined from vegetable oil and can be used in nearly all diesel engines  requirements for fuels to be used in diesel engines are the ability of the fuel to flow along the fuel lines  the ability of the fuel to lubricate the injector pump and injectors adequately  and its ignition qualities  ignition delay     inline mechanical injector pumps generally tolerate poor-quality or bio-fuels better than distributor-type pumps  also  indirect injection engines generally run more satisfactorily on bio-fuels than direct injection engines  this is partly because an indirect injection engine has a much greater  swirl  effect  improving vaporisation and combustion of fuel  and because  in the case of vegetable oil-type fuels 
+depositions can condense on the cylinder walls of a direct-injection engine if combustion temperatures are too low  such as starting the engine from cold  
+it is often reported that diesel designed his engine to run on   but this is false  patent number 608845 describes his engine as being designed to run on pulverulent solid fuel     diesel stated in his published papers   at the paris exhibition in 1900    there was shown by the otto company a small diesel engine  which  at the request of the french government ran on
+ earth-nut or peanut  oil  see    and worked so smoothly that only a few people were aware of it  the engine was constructed for using   and was then worked on vegetable oil without any alterations being made  the french government at the time thought of testing the applicability to power production of the arachide  or earth-nut  which grows in considerable quantities in their african colonies  and can easily be cultivated there   diesel himself later conducted related tests and appeared supportive of the idea 
+most large marine diesels run on heavy
+ sometimes called  bunker oil    which is a thick  viscous and almost flameproof fuel which is very safe to store and cheap to buy in bulk as it is a waste product from the petroleum refining industry  the fuel must not only be pre-heated  but must be kept heated during handling and storage in order to maintain its pumpability  this is usually accomplished by steam tracing on fuel lines and steam coils in fuel oil tanks  the fuel is then preheated to over 100c before entering the engine in order to attain the proper viscosity for atomisation 
+fuel and fluid characteristics  
+main article 
+diesel engines can operate on a variety of different fuels  depending on configuration  though the eponymous
+derived from
+is most common  the engines can work with the full spectrum of crude oil distillates  from natural gas  alcohols  petrol 
+to the fuel oils from diesel oil to residual fuels  many automotive diesel engines would run on 100  biodiesel without any modifications 
+the type of fuel used is selected to meet a combination of service requirements  and fuel costs  good-quality diesel fuel can be synthesised from
+and alcohol  diesel fuel can be made from coal or other carbon base using the  
+is growing in popularity since it can frequently be used in unmodified engines  though production remains limited  recently  biodiesel from coconut  which can produce a very promising coco methyl ester  cme   has characteristics which enhance lubricity and combustion giving a regular diesel engine without any modification more power  less particulate matter or black smoke  and smoother engine performance  the philippines pioneers in the research on coconut based cme with the help of german and american scientists  petroleum-derived diesel is often called petrodiesel if there is need to distinguish the source of the fuel 
+are increasingly being used as a fuel for cars  trucks and remote
+generation especially in germany where hundreds of decentralised small- and medium-sized oil presses cold press oilseed  mainly   for fuel  there is a
+fuel standard for rapeseed oil fuel 
+residual fuels are the  dregs  of the distillation process and are a thicker  heavier oil  or oil with higher   which are so thick that they are not readily pumpable unless heated  residual fuel oils are cheaper than clean  refined diesel oil  although they are dirtier  their main considerations are for use in ships and very large generation sets  due to the cost of the large volume of fuel consumed  frequently amounting to many tonnes per hour  the poorly refined
+ svo  and
+ wvo  can fall into this category  but can be viable fuels on non-common rail or tdi pd diesels with the simple conversion of fuel heating to 80 to 100 degrees celsius to reduce viscosity  and adequate filtration to oem standards  engines using these heavy oils have to start and shut down on standard diesel fuel  as these fuels will not flow through fuel lines at low temperatures  moving beyond that  use of low-grade fuels can lead to serious maintenance problems because of their high sulphur and lower lubrication properties  most diesel engines that power ships like supertankers are built so that the engine can safely use low-grade fuels due to their separate cylinder and crankcase lubrication 
+normal diesel fuel is more difficult to ignite and slower in developing fire than petrol because of its higher   but once burning  a diesel fire can be fierce 
+fuel contaminants such as dirt and water are often more problematic in diesel engines than in petrol engines  water can cause serious damage  due to corrosion  to the injection pump and injectors  and dirt  even very fine particulate matter  can damage the injection pumps due to the close tolerances that the pumps are machined to  all diesel engines will have a fuel filter  usually much finer than a filter on a petrol engine   and a water trap  the water trap  which is sometimes part of the fuel filter  often has a float connected to a warning light  which warns when there is too much water in the trap  and must be drained before damage to the engine can result  the fuel filter must be replaced much more often on a diesel engine than on a petrol engine  changing the fuel filter every 24 oil changes is not uncommon for some vehicles 
+safety  
+fuel flammability  
+diesel fuel is less
+than petrol  leading to a lower risk of fire caused by fuel in a vehicle equipped with a diesel engine 
+in   diesel engines are often used because the petrol  gasoline  that fuels spark-ignition engines releases combustible vapors which can lead to an explosion if it accumulates in a confined space such as the bottom of a vessel  ventilation systems are mandatory on petrol-powered vessels 
+the
+and
+use only diesel engines and turbines because of fire hazard  although neither gasoline nor diesel is explosive in liquid form  both can create an explosive air vapor mix under the right conditions  however  diesel fuel is less prone due to its lower   which is an indication of evaporation rate  the material safety data sheet for ultra-low sulfur diesel fuel indicates a vapor explosion hazard for diesel indoors  outdoors  or in sewers 
+us army gasoline-engined tanks during
+were nicknamed   because of their greater likelihood of catching fire when damaged by enemy fire  although tank fires were usually caused by detonation of the ammunition rather than fuel  while diesel tanks such as the soviet
+were less prone to catching fire 
+maintenance hazards  
+fuel injection introduces potential hazards in engine maintenance due to the high fuel pressures used  residual pressure can remain in the fuel lines long after an injection-equipped engine has been shut down  this residual pressure must be relieved  and if it is done so by external bleed-off  the fuel must be safely contained  if a high-pressure diesel fuel injector is removed from its seat and operated in open air  there is a risk to the operator of injury by   even with only 100 pounds per square inch  690kpa  pressure  the first known such injury occurred in 1937 during a diesel engine maintenance operation 
+cancer  
+has been classified as an   it causes
+and is associated with an increased risk for  
+applications  
+the characteristics of diesel have different advantages for different applications 
+passenger cars  
+diesel engines have long been popular in bigger cars and have been used in smaller cars such as
+in europe since the 1980s  they were popular in larger cars earlier  as the weight and cost penalties were less noticeable  diesel engines tend to be more economical at regular driving speeds and are much better at city speeds  their reliability and life-span tend to be better  as detailed   some 40 percent or more of all cars sold in europe are diesel-powered where they are considered a low co2 option 
+in conjunction with
+produced diesel-powered passenger cars starting in 1936 and very large numbers are used all over the world  often as  grande taxis  in the    diesel-powered passenger cars are very popular in
+too  since the price of diesel fuel there is lower as compared to petrol  as a result  predominantly petrol-powered car manufacturers including the
+produce and market diesel-powered cars in india  diesel-powered cars also dominate the indian taxi industry 
+railroad rolling stock  
+this section does not
+any    september 2016    
+diesel engines have eclipsed
+as the prime mover on all non-electrified railroads in the industrialized world  the first
+appeared in the early 20th century  and
+soon after  while
+have replaced the
+for some passenger traffic in europe and asia  diesel is still today very popular for cargo-hauling
+and on tracks where electrification is not feasible  most modern diesel locomotives are actually   the diesel engine is used to power an electric generator that in turn powers electric traction motors with no mechanical connection between diesel engine and traction  after 2000  environmental requirements has caused higher development cost for engines  and it has become common for passenger
+to use engines and automatic mechanical gearboxes made for trucks  up to four such combinations might be used to achieve enough power in a train 
+other transport uses  
+this section does not
+any    september 2016    
+larger transport applications      etc   also benefit from the diesel s reliability and high torque output  diesel displaced paraffin  or   tvo  in most parts of the world by the end of the 1950s with the us following some 20 years later 
+in merchant ships and boats  the same advantages apply with the relative safety of diesel fuel an additional benefit  the german
+were the largest diesel warships  but the german torpedo-boats known as
+ schnellboot  of the second world war were also diesel craft  conventional
+have used them since before world war i  relying on the almost total absence of carbon monoxide in the exhaust  american world war ii diesel-electric submarines operated on two-stroke cycle  as opposed to the four-stroke cycle that other navies used 
+non-road diesel engines  
+this section does not
+any    september 2016    
+include mobile equipment and vehicles that are not used on the public roadways such as
+and agricultural  
+military fuel standardisation  
+this section does not
+any    september 2016    
+has a single vehicle fuel policy and has selected diesel for this purpose  the use of a single fuel simplifies wartime logistics  nato and the united states marine corps have even been developing a diesel military motorcycle based on a
+off road motorcycle the klr 650  with a purpose designed naturally aspirated direct injection diesel at
+in england  to be produced in the us  because motorcycles were the last remaining gasoline-powered vehicle in their inventory  before this  a few civilian
+had been built using adapted stationary diesel engines  but the weight and cost disadvantages generally outweighed the efficiency gains 
+non-transport uses  
+a 1944 v12 2,300kw power plant undergoing testing   restoration
+diesel engines are also used to power   portable  and backup   irrigation pumps  corn grinders  and coffee de-pulpers 
+engine speeds  
+within the diesel engine industry  engines are often categorized by their rotational speeds into three unofficial groups 
+high-speed engines    1,000 rpm  
+medium-speed engines  3001,000 rpm   and
+slow-speed engines    300 rpm  
+high- and medium-speed engines are predominantly four-stroke engines  except for the
+two-stroke range  medium-speed engines are physically larger than high-speed engines and can burn lower-grade  slower-burning  fuel than high-speed engines  slow-speed engines are predominantly large two-stroke crosshead engines  hence very different from high- and medium-speed engines  due to the lower rotational speed of slow- and medium-speed engines  there is more time for combustion during the power stroke of the cycle  allowing the use of slower-burning fuels than high-speed engines 
+high-speed engines  
+high-speed  approximately 1,000rpm and greater  engines are used to power
+ lorries            
+and small   as of 2008  most high-speed engines have   many modern engines  particularly in on-highway applications  have
+  which is cleaner burning 
+medium-speed engines  
+medium-speed engines are used in large electrical generators  ship propulsion and mechanical drive applications such as large compressors or pumps  medium speed diesel engines operate on either diesel fuel or heavy fuel oil by direct injection in the same manner as low-speed engines 
+engines used in electrical generators run at approximately 300 to 1000rpm and are optimized to run at a set
+depending on the generation frequency  50 or 60  and provide a rapid response to load changes  typical synchronous speeds for modern medium-speed engines are 500/514rpm  50/60hz   600rpm  both 50 and 60hz   720/750rpm  and 900/1000rpm 
+as of 2009  the largest medium-speed engines in current production have outputs up to approximately 20mw  27,000hp  and are supplied by companies like     and
+ who acquired ulstein bergen diesel in 1999   most medium-speed engines produced are four-stroke machines  however there are some two-stroke medium-speed engines such as by emd     and the fairbanks morse op    type 
+typical cylinder bore size for medium-speed engines ranges from 20cm to 50cm  and engine configurations typically are offered ranging from in-line 4-cylinder units to v-configuration 20-cylinder units  most larger medium-speed engines are started with compressed air direct on pistons  using an air distributor  as opposed to a pneumatic starting motor acting on the flywheel  which tends to be used for smaller engines  there is no definitive engine size cut-off point for this 
+it should also be noted that most major manufacturers of medium-speed engines make -fueled versions of their diesel engines  which in fact operate on the   and require spark ignition  typically provided with a spark plug  there are also dual  diesel natural gas coal gas  fuel versions of medium and low speed diesel engines using a lean fuel air mixture and a small injection of diesel fuel  so-called  pilot fuel   for ignition  in case of a gas supply failure or maximum power demand these engines will instantly switch back to full diesel fuel operation 
+low-speed engines  
+the man b w 5s50mc 5-cylinder  2-stroke  low-speed marine diesel engine  this particular engine is found aboard a 29,000 tonne chemical carrier 
+also known as slow-speed  or traditionally oil engines  the largest diesel engines are primarily used to power   although there are a few land-based power generation units as well  these extremely large two-stroke engines have power outputs up to approximately 85mw  114,000hp   operate in the range from approximately 60 to 200rpm and are up to 15m  50ft  tall  and can weigh over 2,000 short tons  1,800t   they typically use direct injection running on cheap low-grade heavy fuel  also known as
+fuel  which requires heating in the ship for tanking and before injection due to the fuel s high   often  the waste heat recovery steam boilers attached to the engine exhaust ducting generate the heat required for fuel heating  provided the heavy fuel system is kept warm and circulating  engines can be started and stopped on heavy fuel 
+large and medium marine engines are started with compressed air directly applied to the pistons  air is applied to cylinders to start the engine forwards or backwards because they are normally directly connected to the
+without clutch or gearbox  and to provide reverse propulsion either the engine must be run backwards or the ship will use an adjustable propeller  at least three cylinders are required with
+engines and at least six cylinders with
+engines to provide
+every 120 degrees 
+companies such as   and
+design such large low-speed engines  they are unusually narrow and tall due to the addition of a   as of 2007  the
+turbocharged two-stroke diesel engine built by
+licensee
+in korea is the most powerful diesel engine put into service  with a cylinder bore of 960mm  37.8in  delivering 114,800hp  85.6mw   it was put into service in september 2006  aboard what was then the world s largest container ship
+which belongs to the   typical bore size for low-speed engines ranges from approximately 35 to 98cm  14 to 39in   as of 2008  all produced low-speed engines with
+are in-line configurations  no vee versions have been produced 
+low-speed diesel engines  as used in ships and other applications where overall engine weight is relatively unimportant  often have a thermal efficiency which exceeds 50  
+current and future developments  
+see also 
+as of 2008  many
+and unit injection systems already employ new injectors using stacked
+wafers in lieu of a solenoid  giving finer control of the injection event 
+have flexible vanes  which move and let more air into the engine depending on load  this technology increases both performance and fuel economy  boost lag is reduced as turbo impeller inertia is compensated for 
+accelerometer pilot control  apc  uses an
+to provide feedback on the engine s level of noise and vibration and thus instruct the ecu to inject the minimum amount of fuel that will produce quiet combustion and still provide the required power  especially while idling  
+the next generation of common rail diesels is expected to use variable injection geometry  which allows the amount of fuel injected to be varied over a wider range  and variable valve timing  see mitsubishi s
+diesel engine  similar to that of   particularly in the united states  coming tougher emissions regulations present a considerable challenge to diesel engine manufacturers  ford s
+has developed a system which starts the ignition in 400 ms  saving a significant amount of fuel on city routes  and there are other methods to achieve even more efficient combustion  such as   being studied 
+japanese and swedish vehicle manufacturers are also developing diesel engines that run on
+ dme  
+some recent diesel engine models utilize a
+technology    to take advantage of benefits in terms of thermal performance  heat transfer efficiency  strength durability  corrosion resistance  and reduced emissions from higher operating temperatures 
+low heat rejection engines  
+a special class of experimental prototype internal combustion piston engines has been developed over several decades with the goal of improving efficiency by reducing heat loss  these engines are variously called adiabatic engines  due to better approximation of adiabatic expansion  low heat rejection engines  or high temperature engines  they are generally piston engines with combustion chamber parts lined with ceramic thermal barrier coatings  some make use of pistons and other parts made of titanium which has a low thermal conductivity and density  some designs are able to eliminate the use of a cooling system and associated parasitic losses altogether  developing lubricants able to withstand the higher temperatures involved has been a major barrier to commercialization 
+see also  
+the more successful of the first series of production diesel aircraft engines 
+a high-speed  lightweight diesel engine used in fast naval craft and some diesel locomotives 
+  petrol
+40  improved efficiency over
+by using wasted heat to generate steam 
+svoalternative fuel for diesel engines 
+world s most powerful  most efficient and largest diesel engine 
+waste vegetable oilfiltered  alternative fuel for diesel engines 
+notes  
+in the 16-cylinder variant of emd s 645f series  a roots-blown engine could produce a maximum of 2,000 horsepower  1,500kw   a turbocharged engine could produce up to 3,500 horsepower  2,600kw a 75  increasealthough the engine was not particularly reliable at this rating  however a 50  increase to 3,000 horsepower  2,200kw  proved to be exceptionally reliable and most such examples are still operating today  some forty years after these were built 
+references  
+ 
+  man diesel
+ 
+ pdf  
+ pdf  from the original on october 4  2010  retrieved october 3  2010 
+  techincom ru  in russian   2007-03-26  retrieved 2013-09-27 
+  common rail diesel rt96c 
+  claverton-energy com  june 19  2009 
+from the original on november 18  2010  retrieved april 3  2010 
+us patent  granted in 1895 
+us patent
+filed 1895   granted 1898
+by rudolph diesel
+  rudolph diesel  download 
+the mechanical engineer sept 9 1905 p374-376
+  ray hooley sruston-hornsbyengine pages  retrieved 2007-07-29 
+    scotland on sunday  2003-01-16  retrieved 2007-07-29 
+ransome-wallis  patrick  2001   illustrated encyclopedia of world railway locomotives  courier dover publications  p 28   
+mcneil  ian  1990   an encyclopaedia of the history of technology  taylor   francis  pp 310311   
+wrangham  d a   1956   the theory   practice of heat engines  cambridge university press  p 664 
+  abc-clio  20    retrieved 2013-02-07  check date values in   date    
+  united states patent no  542,846  filed aug 26 1892  issued july 16  1895  inventor rudolf diesel of berlin germany
+  u  s  patent number 608845  filed jul 15 1895  issued aug 9 1898  inventor rudolf diesel  assigned to the diesel motor company of america  new york 
+moon  john f   1974   rudolf diesel and the diesel engine  london  priory press   
+ 
+a brief biography of rudolph diesel authored by martin leduc  1999  updated 2008  2013
+ 
+  buschsulzer bros -diesel engine company  st  louis busch  1913 
+ 
+ 
+  vulcanus oli tudelft nl  november 4  1911  archived from
+on november 18  2010  retrieved october 3  2010 
+ the diesel odyssey of clessie cummins   by lyle cummins  1998  chapter 6 
+  oldengine org 
+from the original on november 18  2010  retrieved april 3  2010 
+ 
+  the 260d diesel car 
+us patent  2,408,298  filed april 1943  awarded sept 24  1946
+  19541959    w120  180 d     180 d   
+   dieselvariante des 180  ab 1958 ausstellfenster  leistung  43ps 
+us patent  3,220,392  filed june 4  1962  granted nov 30  1965 
+  17 may 1982 
+  fiat com  retrieved june 20  2007   
+zhao  hua  2010     woodhead publishing limited  p 8   
+  autonews com  archived from
+on september 27  2011  retrieved december 11  2011 
+may 23  2012  at the  
+  robert bosch llc  - media center  15 september 2003  retrieved 4 may 2016 
+  the engineer  6 november 2003  retrieved 4 may 2016  at the recent frankfurt motor show  siemens  bosch and delphi all launched piezoelectric fuel injection systems 
+  audiworld  27 february 2004  retrieved 4 may 2016  the 3.0 tdi is the first production diesel model in the world to have the pioneering common rail fuel injection concept with piezo inline injectors  this permits up to five injection processes per operating stroke and an injection pressure of 1,600 bar 
+  lincah com  january 9  2009 
+from the original on november 18  2010  retrieved may 11  2009 
+  autoguide com
+mitsubishi motors uk geneva motor show 2010 presskit
+ 
+from the original on november 18  2010 
+  automotive world  28 november 2013  retrieved 4 may 2016 
+freedom car   vehicle technologies program  us department of energy  aug  2003  web 
+  thedieselpage com 
+from the original on november 18  2010  retrieved october 3  2010 
+belzowski  bruce  march 2013  
+ pdf   university of michigan  retrieved april 10  2016 
+  centralmainediesel com 
+from the original on november 18  2010  retrieved may 11  2009 
+  dieselserviceandsupply com 
+from the original on november 18  2010  retrieved may 11  2009 
+ransome-wallis  patrick  2001   illustrated encyclopedia of world railway locomotives  courier dover publications  p  32 fg  5
+  abe iastate edu  archived from
+on september 7  2008  retrieved october 3  2010 
+needs citation 
+ 
+  fig 34  35 
+  firstdiesel com 
+from the original on november 18  2010  retrieved may 11  2009 
+diesel hub
+  diesel power  june 2007  retrieved november 24  2012 
+  retrieved may 17  2009 
+  archived from
+on march 31  2009  retrieved september 30  2008 
+hannu jskelinen  magdi k  khair
+  audi uk  19 september 2006  archived from
+on february 10  2007  retrieved 4 may 2016 
+the free library
+ detroit diesel introduces ddec ether start  march 13  1995  accessed march 14  2011 
+heywood internal combustion engine fundamentals figure 1540 shows better  and much bigger  efficiency of turbo engine versus na version
+  machinery spaces  retrieved november 21  2012 
+ 
+  encyclopdia britannica
+  amusing planet  march 21  2013 
+from the original on march 29  2014  retrieved march 29  2014 
+incredible as it may seem  the archetype high-speed two-stroke diesel engine had  in 1938  a per-cylinder displacement of 71 cubic inches  yet by 1985  less than fifty years later  the medium-speed diesel engine had a per cylinder displacement which was ten times as large     710 cubic inches per cylinder 
+  bath ac uk 
+from the original on november 18  2010  retrieved april 3  2010 
+charge air induction is necessarily symmetrical about bottom dead center  in the electro-motive diesel examples  this is 45 degrees before bottom dead center to 45 degrees after bottom dead center  the only remaining variables are the timing of the opening and closing of the four poppet valves in the head  and these are timed to maximize both scavenging and compression 
+electro-motive diesel  a medium-speed engine  initiates injection at 4 degrees before top dead center  a high-speed engine may initiate injection at another point in the cycle 
+modern high-speed oil engines  volume ii by c  w  chapman  published by the caxton publishing co  ltd  reprinted in july 1949
+    may 26  2011  archived from
+on march 18  2012 
+ pdf   us epa  2004 
+ pdf   us department of energy  2006  archived from
+ pdf  on march 27  2009   
+michael soimar  april 2000     diesel progress north american edition   
+  perkins engines company limited  2006 
+ 
+  slide 37  retrieved november 1  2008   
+  retrieved november 1  2008 
+  retrieved july 28  2015 
+the biodiesel handbook  chapter 2the history of vegetable oil based diesel fuels  by gerhard knothe 
+the yacht safety bureau  inc in the state of new york
+ pdf  
+ pdf  from the original on november 21  2010  retrieved december 21  2010 
+agha  f p   1978    high-pressure paint gun injuries of hand  clinical and roentgen aspects   ny state journal of medicine  78  19551956 
+rees  c e   1937    penetration of tissue by fuel oil under high pressure from a diesel engine   journal of the american medical association  109  11   866867    
+ press release   international agency for research on cancer  iarc  
+ pdf  from the original on september 13  2012  retrieved june 12  2012  june 12  2012  after a week-long meeting of international experts  the international agency for research on cancer  iarc   which is part of the world health organization  who   today classified diesel engine exhaust as carcinogenic to humans  group 1   based on sufficient evidence that exposure is associated with an increased risk for bladder cancer
+pirotte  marcel  1984-07-05    gedetailleerde test  citron bx19 trd   detailed test   de autogids  in flemish   brussels  belgium  uitgeverij auto-magazine  5  125   6  cs1 maint  unrecognized language   
+ pdf   nsw department of primary industries 
+ pdf  from the original on july 20  2011  retrieved july 12  2011 
+  phillip landmeier  2009  retrieved november 26  2012 
+ pdf   practical action  the schumacher center for technology   development  retrieved july 12  2011 
+ pdf   retrieved october 3  2010   
+ 
+ pdf   archived from
+ pdf  on november 18  2010 
+payne  f  william  user s guide to natural gas technologies   
+  manbw com  november 19  2008 
+from the original on november 18  2010  retrieved may 11  2009 
+  archived from
+on september 23  2008  retrieved september 30  2008 
+ 
+from the original on november 18  2010 
+  archived from
+on january 7  2010 
+craig goodfellow  cited in neil beasley  2004   engineering at the cutting edge  documentary television series    
+ 
+from the original on november 18  2010 
+  retrieved august 8  2012 
+  retrieved august 8  2012 
+external links recommended videos  
+wikimedia commons has media related to  
+wikimedia commons has media related to  
+has the text of the 1921
+article  
+on
+on
+on
+patents  
+gas engine  151468 filed 1874
+direct injection oil engine sep 15  1887
+petroleum engine or motor  filed 1889 
+hydrocarbon engine  432260 jan 16 1890
+method of and apparatus for converting heat into work    542846 filed 1892
+engine operated by the explosion of mixtures of gas or hydrocarbon vapor and air  dated august 8  1893 
+internal combustion engine  608845 filed 1895
+combustion engine  dated february 26  1907 
+part of the
+series
+basic terminology
+diesel engine
+main components
+aspiration
+fuel system
+electrics and engine
+management
+  
+  
+other components
+design
+  
+body styles
+specialized vehicles
+diesel
+ 
+ 
+  
+  
+  
+ engine  drive 
+  
+ 
+ 
+retrieved from   
+  hidden categories 

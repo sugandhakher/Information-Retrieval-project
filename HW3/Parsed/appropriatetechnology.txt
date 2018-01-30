@@ -1,0 +1,487 @@
+appropriatetechnology
+from wikipedia  the free encyclopedia
+jump to 					 
+appropriate technology is an
+movement  and its manifestations  encompassing
+choice and application that is small-scale          and   it was originally articulated as intermediate technology by the economist
+in his work   both schumacher and many modern-day proponents of appropriate technology also emphasize the technology as people-centered 
+appropriate technology has been used to address issues in a wide range of fields  well-known examples of appropriate technology applications include  bike- and hand-powered water pumps  and other    the   self-contained
+and   and   today appropriate technology is often developed using
+principles  which have led to
+ osat  and thus many of the plans of the technology can be freely found on the   osat has been proposed as a new model of enabling
+for  
+appropriate technology is most commonly discussed in its relationship to
+and as an alternative to
+of more -intensive technology from
+to   however  appropriate technology movements can be found in both developing and developed countries  in developed countries  the appropriate technology movement grew out of the
+and focuses mainly on environmental and
+issues  today the idea is multifaceted  in some contexts  appropriate technology can be described as the simplest level of technology that can achieve the intended purpose  whereas in others  it can refer to engineering that takes adequate consideration of social and environmental ramifications  the facets are connected through
+and  
+contents
+background  
+history  
+history of technology  the development over time of systematic techniques for making and doing things  the term technology  a combination of the greek techn   art  craft   with logos   word  speech   meant in greece a discourse on the arts  both fine and   when it first appeared in english in the 17th century  it was used to mean a discussion of the applied arts only  and gradually these  arts  themselves came to be the object of the designation  by the early 20th century  the term embraced a growing range of means  processes  and ideas in addition to tools and machines  by mid-century  technology was defined by such phrases as  the means or activity by which man seeks to change or manipulate his environment   even such broad definitions have been criticized by observers who point out the increasing difficulty of distinguishing between scientific inquiry and technological activity 
+a highly compressed account of the history of technology such as this one must adopt a rigorous methodological pattern if it is to do justice to the subject without grossly distorting it one way or another  the plan followed in the present article is primarily chronological  tracing the development of technology through phases that succeed each other in time  obviously  the division between phases is to a large extent arbitrary  one factor in the weighting has been the enormous acceleration of western technological development in recent centuries  eastern technology is considered in this article in the main only as it relates to the development of modern technology 
+predecessors  
+indian ideological leader
+is often cited as the  father  of the appropriate technology movement  though the concept had not been given a name  gandhi advocated for small  local and predominantly village-based technology to help india s villages become self-reliant  he disagreed with the idea of technology that benefited a minority of people at the expense of the majority or that put people out of work to increase profit  in 1925 gandhi founded the all-india spinners association and in 1935 he retired from politics to form the all-india village industries association  both organizations focused on village-based technology similar to the future appropriate technology movement 
+china also implemented policies similar to appropriate technology during the reign of
+and the following   during the cultural revolution  development policies based on the idea of  walking on two legs  advocated the development of both large-scale factories and small-scale village industries 
+e  f  schumacher  
+despite these early examples 
+is credited as the founder of the appropriate technology movement  a well-known economist  schumacher worked for the british national coal board for more than 20 years  where he blamed the size of the industry s operations for its uncaring response to the harm
+inflicted on the miners  however it was his work with developing countries  such as
+and   which helped schumacher form the underlying principles of appropriate technology 
+schumacher first articulated the idea of  intermediate technology   now known as appropriate technology  in a 1962 report to the indian planning commission in which he described india as long in labor and short in capital  calling for an  intermediate industrial technology  that harnessed india s labor surplus  schumacher had been developing the idea of intermediate technology for several years prior to the planning commission report  in 1955  following a stint as an economic advisor to the government of burma  he published the short paper  economics in a buddhist country   his first known critique of the effects of western economics on developing countries  in addition to buddhism  schumacher also credited his ideas to gandhi 
+initially  schumacher s ideas were rejected by both the indian government and leading development economists  spurred to action over concern the idea of intermediate technology would languish  schumacher  george mcrobie 
+and julia porter brought together a group of approximately 20 people to form the
+ itdg  in may 1965  later that year  a schumacher article published in the
+garnered significant attention and support for the group  in 1967  the group published the tools for progress  a guide to small-scale equipment for rural development and sold 7,000 copies  itdg also formed panels of experts and practitioners around specific technological needs  such as building construction  energy and water  to develop intermediate technologies to address those needs  at a conference hosted by the itdg in 1968 the term  intermediate technology  was discarded in favor of the term  appropriate technology  used today  intermediate technology had been criticized as suggesting the technology was inferior to advanced  or high  technology and not including the social and political factors included in the concept put forth by the proponents  in 1973  schumacher described the concept of appropriate technology to a mass audience in his influential work  small is beautiful  economics as if people mattered 
+growing trend  
+the
+in use in uganda  an example of appropriate technology
+between 1966 and 1975 the number of new appropriate technology organizations founded each year was three times greater than the previous nine years  there was also an increase in organizations focusing on applying appropriate technology to the problems of industrialized nations  particularly issues related to energy and the environment  in 1977  the oecd identified in its appropriate technology directory 680 organizations involved in the development and promotion of appropriate technology  by 1980  this number had grown to more than 1,000  international agencies and government departments were also emerging as major innovators in appropriate technology  indicating its progression from a small movement fighting against the established norms to a legitimate technological choice supported by the establishment  for example  the
+created a committee for the application of intermediate technology in 1976 and the
+established the appropriate technology for health program in 1977 
+appropriate technology was also increasingly applied in developed countries  for example  the energy crisis of the mid-1970s led to the creation of the
+ ncat  in 1977 with an initial appropriation of 3 million dollars from the u s  congress  the center sponsored appropriate technology demonstrations to  help low-income communities find better ways to do things that will improve the quality of life  and that will be doable with the skills and resources at hand   however  by 1981 the ncat s funding agency  community services administration  had been abolished  for several decades ncat worked with the us departments of energy and agriculture on contract to develop appropriate technology programs  since 2005  ncat s informational web site is no longer funded by the us government 
+decline  
+in more recent years  the appropriate technology movement has continued to decline in prominence  germany s german appropriate technology exchange  gate  and holland s technology transfer for development  tool  are examples of organizations no longer in operation  recently  a study looked at the continued barriers to at deployment despite the relatively low cost of transferring information in the internet age  the barriers have been identified as  at seen as inferior or  poor person s  technology  technical transferability and robustness of at  insufficient funding  weak institutional support  and the challenges of distance and time in tackling rural poverty 
+a more -centric view has also begun to dominate the field  for example    founder of
+ an organization that designs and manufactures products that follow the ideals of appropriate technology   declared appropriate technology dead in a 2010 blog post 
+polak argues the    movement has replaced appropriate technology  growing out of the appropriate technology movement  designing for the other 90 percent advocates the creation of low-cost solutions for the 5.8 billion of the world s 6.8 billion population  who have little or no access to most of the products and services many of us take for granted  
+many of the ideas integral to appropriate technology can now be found in the increasingly popular    movement  which among many tenets advocates technological choice that meets human needs while preserving the environment for future   in 1983  the oecd published the results of an extensive survey of appropriate technology organizations titled  the world of appropriate technology  in which it defined appropriate technology as characterized by  low investment cost per work-place  low capital investment per unit of output  organizational simplicity  high adaptability to a particular social or cultural environment  sparing use of natural resources  low cost of final product or high potential for employment   today  the oecd web site redirects from the  glossary of statistical terms  entry on  appropriate technology  to  environmentally sound technologies   the united nations   index to economic and social development  also redirects from the  appropriate technology  entry to  sustainable development  
+potential resurgence  
+despite the decline  several appropriate technology organizations are still in existence  including the itdg which became
+after a name change in 2005 
+ schwierzerische kontaktstelle fr angepasste technology  adapted by becoming a private consultancy in 1998  though some intermediate technology activities are continued by
+through the   another actor still very active is the charity   pioneer in food transformation and solar heaters  it offers vocational training in west africa and madagascar  there is also currently a notable resurgence as viewed by the number of groups adopting
+ osat  because of the enabling technology of the internet  these osat groups include            center for development alternatives        and   most recently   engineers without borders usa  and the
+have joined together to produce   which facilitates the development of affordable  locally appropriate and sustainable solutions to the most pressing humanitarian challenges 
+terminology  
+appropriate technology frequently serves as an umbrella term for a variety names for this type of technology  frequently these terms are used interchangeably  however  the use of one term over another can indicate the specific focus  bias or agenda of the technological choice in question  though the original name for the concept now known as appropriate technology   intermediate technology  is now often considered a subset of appropriate technology that focuses on technology that is more productive than  inefficient  traditional technologies  but less costly than the technology of industrialized societies  other types of technology under the appropriate technology umbrella include 
+capital-saving technology
+labor-intensive technology
+alternate technology
+self-help technology
+village-level technology
+community technology
+progressive technology
+indigenous technology
+peoples technology
+light-engineering technology
+adaptive technology
+light-capital technology
+soft technology
+a variety of competing definitions exist in academic literature and organization and government policy papers for each of these terms  however  the general consensus is appropriate technology encompasses the ideas represented by the above list  furthermore  the use of one term over another in referring to an appropriate technology can indicate ideological bias or emphasis on particular economic or social variables  some terms inherently emphasize the importance of increased employment and labor utilization  such as labor-intensive or capital-saving technology   while others may emphasize the importance of human development  such as self-help and people s technology  
+it is also possible to distinguish between hard and soft technologies  according to dr 
+and audrey faulkner  appropriate hard technology is  engineering techniques  physical structures  and machinery that meet a need defined by a community  and utilize the material at hand or readily available  it can be built  operated and maintained by the local people with very limited outside assistance  e g   technical  material  or financial   it is usually related to an economic goal  
+albertson and faulkner consider appropriate soft technology as technology that deals with  the social structures  human interactive processes  and motivation techniques  it is the structure and process for social participation and action by individuals and groups in analyzing situations  making choices and engaging in choice-implementing behaviors that bring about change  
+practitioners  
+some of the well known practitioners of the appropriate technology-sector include     
+ 19332002          
+ 19302008    
+ 19122009  and    
+development  
+schumacher s initial concept of intermediate technology was created as a critique of the currently prevailing development strategies which focused on maximizing aggregate economic growth through increases to overall measurements of a country s economy  such as
+ gdp   developed countries became aware of the situation of developing countries during and in the years following   based on the continuing rise in income levels in western countries since the industrial revolution  developed countries embarked on a campaign of massive transfers of capital and technology to developing countries in order to force a rapid industrialization intended to result in an economic  take-off  in the developing countries 
+however  by the late 1960s it was becoming clear this development method had not worked as expected and a growing number of development experts and national policy makers were recognizing it as a potential cause of increasing poverty and income inequality in developing countries  in many countries  this influx of technology had increased the overall economic capacity of the country  however  it had created a dual or two-tiered economy with pronounced division between the classes  the foreign technology imports were only benefiting a small minority of urban elites  this was also increasing urbanization with the rural poor moving to urban cities in hope of more financial opportunities  the increased strain on urban infrastructures and public services led to  increasing squalor  severe impacts on public health and distortions in the social structure  
+appropriate technology was meant to address four problems  extreme poverty  starvation  unemployment and urban migration  schumacher saw the main purpose for economic development programs was the eradication of extreme poverty and he saw a clear connection between mass unemployment and extreme poverty  schumacher sought to shift development efforts from a bias towards urban areas and on increasing the output per laborer to focusing on rural areas  where a majority of the population still lived  and on increasing employment 
+in developed countries  
+the term appropriate technology is also used in developed nations to describe the use of technology and engineering that result in less negative impacts on the environment and society  i e   technology should be both environmentally sustainable and socially appropriate 
+asserts that such technology  described in the book
+tends to promote values such as  
+and permanence  in that order 
+often the type of appropriate technology that is used in developed countries is  appropriate and sustainable technology   ast   appropriate technology that  besides being functional and relatively cheap  though often more expensive than true at   is durable and employs   at does not include this  see   
+applications  
+building and construction  
+in order to increase the efficiency of a great number of city services  efficient water provisioning  efficient electricity provisioning  easy traffic flow  water drainage  decreased spread of disease with         the city itself must first be built correctly  in the developing world  many cities are expanding rapidly and new ones are being built  looking into the
+in advance is a must for every developing nation 
+further information      and
+ including the variation called   
+ 
+ 
+products 
+and or other
+could be considered appropriate earth building technology for much of the developing world  as they make use of materials which are widely available locally and are thus relatively inexpensive 
+the local context must be considered as  for example 
+may not be durable in a high rainfall area  although a large roof overhang and
+stabilisation can be used to correct for this   and  if the materials are not readily available  the method may be inappropriate  other forms of
+may be considered appropriate technology  though in many cases the emphasis is on
+and self-sufficiency rather than affordability or suitability  as such  many buildings are also built to function as
+ e g          one example of an organisation that applies appropriate earthbuilding techniques would be  
+the building structure must also be considered  cost-effectiveness is an important issue in projects based around appropriate technology  and one of the most efficient designs herein is the
+approach  this approach lets everyone have their own   yet incorporate communal spaces e g      public showers     
+in addition  to decrease costs of operation  heating  cooling       techniques as         are often incorporated 
+organizations as
+also follows principles consistent with appropriate technology  aiming to serve the needs of poor and disaster-affected people 
+  naturally ventilated sheds for drying
+in
+can be created by providing vents in the upper level of a building to allow warm air to rise by
+and escape to the outside  while cooler air is drawn in through vents at the lower level 
+electrical powered fans  e g    allow efficient cooling  at a far lower electricity consumption as airconditioning systems 
+a
+often referred to as thermal chimney improves this natural
+by using
+of
+heated by   to further maximize the cooling effect  the incoming air may be led through
+before it is allowed to enter the building 
+a
+ badgir    is a traditional
+used for many centuries to create natural ventilation in buildings  it is not known who first invented the windcatcher  but it still can be seen in many countries today  windcatchers come in various designs  such as the uni-directional  bi-directional  and multi-directional 
+a
+may be used in a hot  arid climate to provide a sustainable way to provide   water is allowed to evaporate at the top of a tower  either by using evaporative cooling pads or by spraying water 
+cools the incoming air  causing a
+of cool air that will bring down the temperature inside the building 
+agriculture  
+appropriate technology has been applied extensively to improve agricultural production in developing countries 
+water and sanitation  
+water  
+further information 
+hand-operated  reciprocating  positive displacement  water pump in - 
+ walking beam pump  
+as of 2006  waterborne diseases are estimated to cause 1.8 million deaths each year while about 1.1 billion people lack proper drinking water 
+water generally needs treatment before use  depending on the source and the intended use  with high standards required for drinking water   the quality of water from household connections and community water points in low-income countries is not reliably safe for direct human consumption  water extracted directly from surface waters and open hand-dug shallow wells nearly always requires treatment 
+appropriate technology options in water treatment include both community-scale and household-scale point-of-use  pou  designs 
+the most reliable way to kill microbial pathogenic agents is to heat water to a rolling boil  other techniques  such as varying forms of filtration  chemical disinfection  and exposure to ultraviolet radiation  including solar uv  have been demonstrated in an array of randomized control trials to significantly reduce levels of waterborne disease among users in low-income countries 
+over the past decade  an increasing number of field-based studies have been undertaken to determine the success of pou measures in reducing waterborne disease  the ability of pou options to reduce disease is a function of both their ability to remove microbial pathogens if properly applied and such social factors as ease of use and cultural appropriateness  technologies may generate more  or less  health benefit than their lab-based microbial removal performance would suggest 
+the current priority of the proponents of pou treatment is to reach large numbers of low-income households on a sustainable basis  few pou measures have reached significant scale thus far  but efforts to promote and commercially distribute these products to the world s poor have only been under way for a few years 
+on the other hand  small-scale water treatment is reaching increasing fractions of the population in low-income countries  particularly in south and southeast asia  in the form of water treatment kiosks  also known as water refill stations or packaged water producers   while quality control and quality assurance in such locations may be variable  sophisticated technology  such as multi-stage particle filtration  uv irradiation  ozonation  and membrane filtration  is applied with increasing frequency  such microenterprises are able to vend water at extremely low prices  with increasing government regulation  initial assessments of vended water quality are encouraging 
+whether applied at the household or community level  some examples of specific treatment processes include 
+  using either clay or   and oriented as either cylinder  pot  or disk  with gravity-fed or siphon-driven delivery systems  silver is frequently added to provide antimicrobial enhancement
+intermittently operated   also known as biosand filtration
+  employing calcium hypochlorite powder  sodium hypochlorite solution  or sodium dichloroisocyanurate  nadcc  tablets
+  using either commercially produced iron or aluminum salts or the crushed seeds of certain plants  such as   recent work has shown even table salt  nacl  is effective at removing high-activity clays for solar water disinfection 
+  whether using electric-powered lamps or direct solar exposure such as with the
+method
+mixed flocculation disinfection using commercially produced powdered mixtures
+membrane filtration  employing
+or
+filter elements preceded by pretreatment
+some appropriate technology water supply measures include 
+in areas where the groundwater  aquifers  are located at depths  10 m 
+with lined walls and covers 
+systems with an appropriate method of storage  especially in areas with significant dry seasons 
+  which is suitable for areas which experience fog even when there is little rain 
+  a structure or device designed to promote the condensation of atmospheric moisture 
+handpumps and treadle pumps are generally only an option in areas is located at a relatively shallow depth  e g  10 m   the
+is a notable exception to this  up to 25 meter   for deeper aquifers   10 m  
+are used  treadle pumps for household irrigation are now being distributed on a widespread basis in developing countries  the principle of
+is important with handpumps  but may be difficult in application 
+condensation bags and condensation pits can be an appropriate technology to get water  yet yields are low and are  for the amount of water obtained   labour-intensive  still  it may be a good  very cheap  solution for certain desperate communities 
+the
+and q-drum allow more water to be carried  with less effort and could thus be a good alternative for ethnic communities who do not wish to give up water gathering from remote locations  assuming low topographic relief 
+the   developed and used in southern   harnesses the energy of children at play to pump water 
+sanitation  
+main article 
+poor sanitation is a major issue for a large proportion of the human population  with about 2.5 billion people lacking even the most basic forms of sanitation and more than a billion people worldwide practising
+in 2015 according to the
+of the  
+the ideas of appropriate technology influenced the provision of sanitation systems for many years  however  since about the early 2000s there has been a departure from a focus on simplistic  one-size-fits-all  sanitation systems  as conditions vary  sanitation systems also need to vary to meet the needs of the users and other  
+technologies for sanitation provision  such as   are important but only one piece of the puzzle  sanitation needs to be regarded as a system that includes technical and non-technical aspects  such as
+and management as well as political aspects - the enabling environment  the overall aim should be to achieve a
+system  one option of achieving that aim can be the
+approach which focuses on safe  
+it is impossible to name all possible sanitation technologies that may fall under the category of  appropriate technologies  but some common systems which might be considered to be  appropriate  include 
+as they save on flushing water and may allow the nutrients of the excreta to be reused in agriculture  e g  for fertilising crops   two examples of dry toilets are
+and  
+which can treat
+and
+and require only little electrical power 
+the sanplat is a simple plate that can be used to cover the hole in the ground of
+making them potentially more easy to clean and maintain 
+the
+which is a very simple low-cost type of composting toilet suitable for rural areas 
+energy generation and uses  
+further information 
+and
+the term
+was coined by
+to describe  appropriate  renewable energy   appropriate  energy technologies are especially suitable for isolated and or small scale energy needs  electricity can be provided from 
+  and  large 
+plants  pv solar panels made from
+or pv-cells which have first been concentrated by a -panel are also a good option  especially companies as
+make appropriate technology csp plants which can be made from waste plastics polluting the surroundings  see above  
+ home do-it yourself turbines and larger-scale 
+  and
+human-powered handwheel generators
+other
+some intermediate technologies include 
+bioalcohols as bioethanol  biomethanol and   the first two require minor modifications to allow them to be used in conventional gasoline engines  the third requires no modifications at all 
+v which can be used only in internal combustion  diesel  engines 
+are locally available in many developing countries and can be cheaper than  
+power plants
+is another potential source of energy  particularly where there is an abundant supply of
+  a generator  running on biofuels  can be run more efficiently if combined with batteries and an   this adds significantly to
+but reduces running cost  and can potentially make this a much cheaper option than the solar  wind and micro-hydro options 
+can also be used 
+is another similar energy source which can be obtained through charring of certain types of organic material  e g  hazelnut shells  bamboo  chicken manure       in a pyrolysis unit  a similar energy source is  
+finally 
+can also be used as a basis to generate hydrogen  which is an energy carrier   using urine 
+is 332  more energy efficient than using water 
+electricity distribution could be improved so to make use of a more
+and universal
+ e g  the cee 7/7 plug   in addition  a universal system of electricity provisioning  e g  universal voltage  frequency  ampre  e g  230v with 50hz   as well as perhaps a better
+ e g  through the use of special systems as perfected   e g  tunisia s malt-system  which features low costs and easy placement 
+electricity storage  which is required for autonomous energy systems  can be provided through appropriate technology solutions as deep-cycle and car-  intermediate technology   long duration flywheels  electrochemical capacitors  compressed air energy storage  caes   liquid nitrogen and pumped hydro  many solutions for the developing world are sold as a single package  containing a  micro  electricity generation power plant and energy storage  such packages are called remote-area power supply
+led lamp with gu10 twist lock fitting  intended to replace
+reflector lamps 
+white
+and a source of
+ such as   are used by the
+to provide lighting to poor people in remote areas  and provide significant benefits compared to the
+which they replace  certain other companies as
+also have  
+made by
+are another source of cheap light that will be commercially available at low cost by 2015 
+ as well as regular
+and   can also be used as appropriate technology  although they are less environmentally friendly then led-lights  they are cheaper and still feature relative high efficiency  compared to incandescent lamps  
+the
+is a safer
+designed in sri lanka  lamps as these allow relative long  mobile  lighting  the safety comes from a secure screw-on metal lid  and two flat sides which prevent it from rolling if knocked over  an alternative to fuel or oil-based lanterns is the uday lantern  developed by philips as part of its
+project  sponsored by the world bank group  
+the
+is a led flashlight which operates on a capacitor  recharging can be done by manual winching or by shaking  hereby avoiding the need of any supplementary electrical system 
+finally can be used for lighting operations where regular led-lighting or other lamps will not suffice  examples are car headlights  due to their high efficiency  they are quite environmental  yet costly  and they still require polluting materials in their production process 
+transportation  
+a man uses a bicycle to cargo goods in   burkina faso  2007 
+include the
+ and the future    which provides general-purpose transportation at lower costs compared to motorized vehicles  and many advantages over walking  and the   which provides mobility for disabled people who cannot afford the expensive wheelchairs used in developed countries 
+may also be another appropriate technology  certain
+may be considered appropriate transportation technology  including  
+and
+vehicles  also  vehicles with internal combustion engines may be converted to hydrogen or oxyhydrogen combustion 
+bicycles can also be applied to commercial transport of goods to and from remote areas  an example of this is karaba  a free-trade coffee co-op in rwanda  which uses 400 modified bicycles to carry hundreds of pounds of coffee beans for processing  other projects for developing countries include the redesign of cycle rickshaws to convert them to electric power  however recent reports suggest that these rickshaws are not plying on the roads 
+health care  
+according to the   rather than the use of professionally schooled doctors  the training of villagers to remedy most maladies in towns in the developing world is most appropriate  trained villagers are able to eliminate 80  of the health problems  small  low-cost  hospitals based on the model of the jamkhed hospital can remedy another 15   while only 5  will need to go to a larger  more expensive  hospital 
+before being able to determine the cause of the disease or malady  accurate diagnosis is required  this may be done manually  through observation  inquiries  and by specialized tools 
+a   developed in the late 1990s  is a low cost way for health workers to incubate microbial samples 
+is also seen as an appropriate technology  especially now  because of increasing population numbers  overpopulating certain areas   increasing food prices and poverty  it has been proposed to a certain degree by path  program for appropriate technology in health  
+was developed by dr  p  k  sethi and masterji ram chander in 1968 as an inexpensive prosthetic leg for victims of landmine explosions 
+the
+is a low-cost wheelchair designed specifically for rough terrain
+natural cleaning products can be used for personal hygiene and cleaning of clothing and eating utensils  in order to decrease illnesses maladies  as they eliminate a great amount of pathogens  
+note that many appropriate technologies benefit   in particular by providing
+and safe drinking water  refrigeration may also provide a health benefit   these are discussed in the following paragraphs   this was too found at the
+and the women health volunteers projects in countries as iran  iraq and nepal 
+food preparation and storage  
+further information 
+some proven intensive  low-effort food-production systems include
+ indoors and outdoors    
+may be set up using
+with   while outdoor cultivation may be done using         etc  in order to better control the
+outdoors  special irrigation systems may be created as well  although this increases costs  and may again open the door to cultivating non-indigenous plants  something which is best avoided     one such system for the developing world is discussed here 
+crop production tools are best kept simple  reduces operating difficulty  cost  replacement difficulties and pollution  when compared to motorized equipment   tools can include   animal-pulled
+ although no-till farming should be preferred     wheeled
+ for planting large trees          
+are also sometimes included  see earthship biotincture     sometimes they are also fitted with irrigation systems  and or -systems which can respectively irrigate the plants or help to store energy from the sun and redistribute it at night  when the greenhouse starts to cool down  
+according to proponents  appropriate technologies can greatly reduce the labor required to prepare food  compared to traditional methods  while being much simpler and cheaper than the processing used in western countries  this reflects  s concept of  intermediate technology   i e  technology which is significantly more effective and expensive than traditional methods  but still an order of magnitude  10 times  cheaper than developed world technology  key examples are 
+the
+the
+the
+the
+the
+all other types of electrical or hand-operated
+equipment  grinders  cutters       special multifunctional kitchen robots that are able to perform several functions  e g  grinding  cutting  and even vacuum cleaning and polishing  are able to reduce costs even more  examples of these devices were e g  the  now discontinued 
+household appliance from hammelmann werke  previously based in bad kissingen   it was equipped with a flexible axis  allowing a variety of aids to be screwed on 
+in ghana  zouzugu villagers use solar cookers for preparing their meals
+are appropriate to some settings  depending on climate and cooking style  they are emission-less and very low-cost  hybrid variants also exist that incorporate a second heating source such as electrical heating or wood-based 
+are 100  electrical  fairly low cost  around 20  and are mobile  they do however require an electrical system to be present in the area of operation 
+and certain other woodstoves  e g  philips woodstove  improve fuel efficiency  and reduce harmful indoor air pollution  the stoves however still make use of wood  however 
+makers can now   saving money and or collection time  and preserving forests 
+  special
+and thermal mass
+reduce the amount of electricity required  also  solar and special einstein refrigerators do not use haloalkanes  which play a key role in ozone depletion   but use heat pumps or mirrors instead  solar refrigerators have been built for developing nations by sopology 
+the
+is an african invention which keeps things cool without electricity  it provides a way to keep food and produce fresh for much longer than would otherwise be possible  this can be a great benefit to the families who use the device  for example  it is claimed that girls who had to regularly sell fresh produce in the market can now go to school instead  as there is less urgency to sell the produce before it loses freshness 
+information and communication technologies  
+see also 
+such as the
+accommodate low-cost information sharing and communication
+the       and other low cost computers are computers aimed at developing countries  besides the low price  other characteristics include resistance to dust  reliability and use of the target language 
+eldis ondisc and
+are projects that use
+and
+to give access to development information in areas without reliable and affordable internet access 
+the
+and the computer and communication system planned by the
+are independent from power supply 
+there is also   which fused mobile telephony with  s microfinance program to give bangladeshi villagers access to communication 
+is appropriate technology for many developing countries  as it greatly reduces the
+required to achieve widespread coverage  however 
+network may not always be available  it depends on the location  and may not always provide both voice and data services 
+  a website developed by   strips all the photographic and other bandwidth-intensive content from webpages and renders them as simple text  while otherwise allowing one to
+them normally  the site greatly increasing the speed of browsing  and is appropriate for use on low bandwidth connections as generally available in much of the developing world 
+an increasing number of activists provide free or very inexpensive
+and
+services using cooperative computer networks that run wireless   network service is provided by a cooperative of neighbors  each operating a router as a household appliance  these minimize wired infrastructure  and its costs and vulnerabilities  private
+networks set up in this way can operate without the use of a commercial provider 
+rural electrical grids can be wired with  optical phase cable   in which one or more of the
+wires are replaced with steel tubes containing  
+can provide high speed connectivity to remote locations  however these are significantly more expensive than wire-based or terrestrial wireless systems 
+and forms of
+can also be used  depending on the speed and latency of these networks they may be capable of relaying
+traffic  negating the need for separate telephony services  finally  the
+provides potential for blending older  cheap  local radio broadcasting with the increased range of the internet 
+-based telephone systems can also be used  as either fixed installations or portable handsets and can be integrated into a
+or local ip-based network 
+finance  
+through financial systems envisioned especially for the poor developed world  many companies have been able to get started with only limited capital  often banks lend the money to people wishing to start a business  such as with    in other systems  people for a
+or rosca to purchase costly material together  such as
+and    organisations  communities  cities or individuals can provide loans to other communities cities  such as with the approach followed by  
+and    finally  in certain communities  usually isolated communities such as small islands or oases  everything of value is shared  this is called  
+determining a sustainable approach  
+features such as low cost  low usage of
+and use of locally available resources can give some advantages in terms of   for that reason  these technologies are sometimes used and promoted by advocates of sustainability and  
+besides using natural  locally available resources  e g  wood or adobe   waste materials imported from cities using conventional  and inefficient  waste management may be gathered and re-used to build a sustainable living environment  use of these cities  waste material allows the gathering of a huge amount of building material at a low cost  when obtained  the materials may be recycled over and over in the own city community  using the
+method  locations where waste can be found include     on water surfaces and anywhere around towns or near highways  organic waste that can be reused to fertilise plants can be found in sewages  also  town districts and other places  e g    that are subject of undergoing renovation or removal can be used for gathering materials as stone  concrete  or potassium 
+related social movements  
+ charity formerly known as intermediate technology 
+see also  
+references  
+hazeltine  b   bull  c   1999     new york  academic press  pp 3  270   
+ 
+akubue  anthony  winterspring 2000     the journal of technology studies  26  1   3343  retrieved march 2011  check date values in   access-date    
+a  j  buitenhuis  i  zelenika and j  m  pearce   open design-based strategies to enhance appropriate technology development   proceedings of the 14th annual national collegiate inventors and innovators alliance conference  open  march 2527th 2010  pp  112 
+pearce  joshua m   2012    the case for open source appropriate technology   environment  development and sustainability  14  3   425431    
+pearce j   albritton s   grant g   steed g     zelenika i  2012    sustainability  science  practice    policy 8 2   pp  42-53  2012 
+i  zelenika and j m  pearce    environment  development and sustainability 16 6   1299-1316  2014    
+todaro  m   smith  s   2003     boston  addison wesley  pp 252254   
+the national center for appropriate technology    retrieved march 2011  check date values in   access-date    
+bombay sarvodaya mandal gandhi book centre and gandhi research foundation    retrieved 23 april 2011  cs1 maint  uses authors parameter   
+ 
+mcrobie  george  1981   small is possible  new york  harper   row  p 19   
+ 
+ 
+obituary  5 march 2001 
+ 
+jequier  n   blanc  g   1983   the world of appropriate technology  paris  development center of the oecd  p 9 
+national center for appropriate technology   
+from the original on 14 may 2011  retrieved 24 april 2011 
+i  zelenika and j m  pearce   barriers to appropriate technology growth in sustainable development   journal of sustainable development 4 6   1222  2011    
+polak  paul    out of poverty  retrieved 24 april 2011 
+cooperhewitt museum    retrieved 24 april 2011 
+world bank   
+from the original on 6 may 2011  retrieved 24 april 2011 
+oecd    glossary of statistical terms  retrieved 24 april 2011 
+united nations    index to economic and social development  retrieved 24 april 2011 
+practical action    retrieved 24 april 2011 
+ 
+ 1984   ghosh  p  k   ed  appropriate technology in third world development  london  greenwood press  p 40   
+ 
+ 1984   ghosh  p k   ed  appropriate technology in third world development  london  greenwood press  p 76   
+pearce  joshua m   2007     the physics teacher  45  164167    
+faulkner  a  o   albertson  m  l   1986    tandem use of hard and soft technology  an evolving model for third world village development   international journal of applied engineering education  2  2   127137 
+see
+and
+bv doshi as at founder
+baron  c   1984   ghosh  p k   ed  appropriate technology in third world development  westport  connecticut  greenwood press  p 117   
+jequier  nicolas  1976   appropriate technology  problems and promises  paris    p 16 
+willoughby  k w   1990   technology choice  a critique of the appropriate technology movement  london  intermediate technology publications  p 72   
+huesemann  m h   and j a  huesemann  2011     chapter 13   the design of environmentally sustainable and appropriate technologies   new society publishers  gabriola island  british columbia  canada  464 pp 
+schneider  keith 
+26 march 2008 
+  small is beautiful  economics as if people mattered  25 years later   with commentaries 
+  mcedc colorado edu  2012  retrieved december 2  2012 
+us
+fact sheet  june 2006 
+who s guidelines for drinking water quality
+b  dawney and j m  pearce  optimizing solar water disinfection  sodis  method by decreasing turbidity with nacl   the journal of water  sanitation  and hygiene for development 2 2  pp  87-94  2012  
+  un - water for life decade  retrieved 21 may 2015 
+who and unicef   who  geneva and unicef  new york  page 2
+murphy  heather m   mcbean  edward a   farahbakhsh  khosrow  2009    appropriate technology  a comprehensive approach for water and sanitation in the developing world   technology in society  31  2   158167      
+ 
+susana  2008     sustainable sanitation alliance  susana 
+tilley  e   ulrich  l   lthi  c   reymond  ph   zurbrgg  c    swiss federal institute of aquatic science and technology  eawag   duebendorf  switzerland   
+the sanplat system    retrieved 19 july 2011 
+usaid-hip 
+ pdf   retrieved 19 july 2011 
+soft energy paths  toward a durable peace  san francisco  friends of the earth international  cambridge  mass  ballinger pub  co   1977
+  tve org  retrieved 2012-07-28 
+  tinytechindia com  retrieved 2012-07-28 
+  biomassauthority com  2008-09-24  retrieved 2012-07-28 
+  physorg com  retrieved 2012-07-28 
+  ruralpower org  retrieved 2012-07-28 
+  practicalaction org  retrieved 2012-07-28 
+february 26  2009  at the  the
+is being  
+  powerplus nl  retrieved 2012-07-28 
+pennwell corporation  2008-07-08     ledsmagazine com  retrieved 2012-07-28 
+sherwood stranieri  24 july 2008     using bicycles  retrieved 1 january 2009 
+demerjian  dave  2008-10-21     wired magazine  retrieved 29 november 2009 
+press information bureau  2008-10-02     ministry of science and technology  india   retrieved 29 november 2009 
+  retrieved 7 august 2011 
+  ngm nationalgeographic com  2012-05-15  retrieved 2012-07-28 
+  physiciansforlife org  retrieved 2012-07-28 
+  thewelltimedperiod blogspot com  2007-03-04  retrieved 2012-07-28 
+  gogrit org  2012-06-11  retrieved 2012-07-28 
+  ngm nationalgeographic com  2012-05-15  retrieved 2012-07-28 
+ pdf   retrieved 2012-07-28 
+  isf-iai be  retrieved 2012-07-28 
+october 3  2008  at the  the
+is being  
+  isf-iai be  retrieved 2012-07-28 
+august 3  2008  at the  the
+is being  
+  users skynet be  retrieved 2012-07-28 
+  rotomec com  retrieved 2012-07-28 
+february 15  2009  at the  the
+is being  
+  liveauctioneers com  2006-09-18  retrieved 2012-07-28 
+  research philips com  retrieved 2012-07-28 
+martin lamonica    news cnet com  retrieved 2012-07-28 
+  greenoptimistic com  2008-09-21  retrieved 2012-07-28 
+  itdg food chain journal  29 november 2001 
+northern economics inc  and electric power systems inc  april 2001 
+february 16  2008  at the  the
+is being    report published on government website   alaska department of commerce  community  and economic development  via dced state ak us  retrieved on 16 september 2007 
+sianipar  c p m   dowaki  k   yudoko  g   adhiutama  a   2013  
+ pdf   european journal of sustainable development  2  4   118 
+sianipar  c p m   yudoko  g   dowaki  k   adhiutama  a   2013     sustainability  5  8   33823425    
+further reading  
+huesemann  michael h   and joyce a  huesemann  2011     chapter 13  the design of environmentally sustainable and appropriate technologies    gabriola island  british columbia  canada    464 pp 
+by dr  mohammad omar farooq 
+ 
+edward tenner  why things bite back  vantage books  1997 
+zehner  ozzie      2012 
+external links  
+wikimedia commons has media related to  
+wikiversity has learning materials about
+wikiversity has learning materials about
+wikiversity has learning materials about
+ world wide wiki of sustainable technology   
+ an environmental education center with a focus on living with appropriate technologies 
+ an appropriate technology design and dissemination nonprofit 
+ innovation guide to tackle poverty    available in french  german and portuguese  this guide features 100 innovations designed to improve the living conditions of the poor 
+practices
+religious and spiritual
+secular movements
+notable writers
+modern-day adherents
+media
+  
+related topics
+appropriate technology
+technology
+appropriate
+energy
+food
+water
+accountability
+applications
+management
+agreements
+ rio 10  johannesburg 
+ rio 20  2012 
+fields
+and
+others
+  
+components
+scales
+and
+concepts
+appropriate technology
+other
+retrieved from   
+  hidden categories 

@@ -1,0 +1,160 @@
+internationalnetworkforsustainableenergy
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text">
+<div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><span class="mbox-text-span"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=International_Network_for_Sustainable_Energy&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:International_Network_for_Sustainable_Energy" title="Talk:International Network for Sustainable Energy">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small></span>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="plainlinks metadata ambox ambox-content" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="Unbalanced scales." data-file-height="354" data-file-width="400" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/45px-Unbalanced_scales.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/68px-Unbalanced_scales.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/90px-Unbalanced_scales.svg.png 2x" width="45"/></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>reads like <a href="/wiki/Wikipedia:What_Wikipedia_is_not#SOAPBOX" title="Wikipedia:What Wikipedia is not">a press release</a></b>, or is otherwise written in a promotional tone. <span class="hide-when-compact">Please help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=International_Network_for_Sustainable_Energy&amp;action=edit">rewriting this article</a> from a <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>. When appropriate, <a href="/wiki/Wikipedia:Criteria_for_speedy_deletion#G11" title="Wikipedia:Criteria for speedy deletion">blatant advertising</a> may be marked for <a href="/wiki/Wikipedia:Criteria_for_speedy_deletion" title="Wikipedia:Criteria for speedy deletion">speedy deletion</a> with {{<a class="mw-redirect" href="/wiki/Template:Db-spam" title="Template:Db-spam">db-spam</a>}}.</span> <small><i>(March 2015)</i></small></span></td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-content ambox-Advert" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>contains content that is written like <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_soapbox_or_means_of_promotion" title="Wikipedia:What Wikipedia is not">an advertisement</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=International_Network_for_Sustainable_Energy&amp;action=edit">improve it</a> by removing <a href="/wiki/Wikipedia:Spam" title="Wikipedia:Spam">promotional content</a> and inappropriate <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, and by adding encyclopedic content written from a <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>.</span> <small><i>(March 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+</div>
+</div>
+<small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org">International Network for Sustainable Energy (INFORSE)</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:INFORSE-logo.png"><img alt="INFORSE-logo.png" data-file-height="56" data-file-width="170" height="56" src="//upload.wikimedia.org/wikipedia/en/a/a1/INFORSE-logo.png" width="170"/></a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Founded</th>
+<td class="note">1992</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Founder</th>
+<td>NGOs</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Type</th>
+<td>Network of NGOs, grassroot organisations</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Focus</th>
+<td><a href="/wiki/Sustainable_energy" title="Sustainable energy">sustainable energy</a> <a href="/wiki/Environmentalism" title="Environmentalism">environmentalism</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Location</th>
+<td class="label">
+<div class="plainlist">
+<ul>
+<li>Denmark</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Area served</div>
+</th>
+<td>World wide</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Method</th>
+<td>newsletter, education, research, lobbying</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Members</div>
+</th>
+<td>160 NGOs worldwide</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Key people</div>
+</th>
+<td>Regional coordinators</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Website</th>
+<td><a class="external free" href="http://www.inforse.org" rel="nofollow">http://www.inforse.org</a></td>
+</tr>
+</table>
+<p>The <b>International Network for Sustainable Energy</b> (<b>INFORSE</b>) is an <a href="/wiki/International" title="International">international</a>, <a class="mw-redirect" href="/wiki/Non-profit_organisation" title="Non-profit organisation">non-profit organisation</a> (NGO) network of <a href="/wiki/Environmental_organization" title="Environmental organization">environmental organizations</a> promoting <a href="/wiki/Sustainable_energy" title="Sustainable energy">sustainable energy</a> to protect <a href="/wiki/Environment_(biophysical)" title="Environment (biophysical)">the environment</a> and to decrease <a href="/wiki/Poverty" title="Poverty">poverty</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Activities"><span class="tocnumber">1</span> <span class="toctext">Activities</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Activities">Activities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Network_for_Sustainable_Energy&amp;action=edit&amp;section=1" title="Edit section: Activities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Develops scenarios for a transition to a 100% renewables energy supply with factor four <a href="/wiki/Efficient_energy_use" title="Efficient energy use">energy efficiency</a> by 2050. A global, EU-27 and European national scenarios are developed. The name of the sustainable energy model is <i>INFORSE Vision 2050</i>.,<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></li>
+<li>World-wide database of about 1000 contacts,<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> web based resources on EU policy,<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> school materials,<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> successes<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></li>
+<li>Online course material (DIERET)<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></li>
+<li>Quarterly newsletter: Sustainable Energy News (SEN) published since 1992<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></li>
+<li>Participation on UN Conferences as NGO observer as INFORSE has <a class="mw-redirect" href="/wiki/Consultative_Status" title="Consultative Status">Consultative Status</a> at UN <a class="mw-redirect" href="/wiki/ECOSOC" title="ECOSOC">ECOSOC</a> and <a class="mw-redirect" href="/wiki/UNFCCC" title="UNFCCC">UNFCCC</a>. Participation at e.g.,:
+<ul>
+<li><a class="mw-redirect" href="/wiki/UN" title="UN">UN</a> <a href="/wiki/Commission_on_Sustainable_Development" title="Commission on Sustainable Development">Commission on Sustainable Development</a> (CSD) (CSD9, CSD14 and CSD15 in New York)<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></li>
+<li><a class="mw-redirect" href="/wiki/UNFCCC" title="UNFCCC">UNFCCC</a> (e.g., Exhibition and side event at COP 14, Poznan, 2008;<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> and COP 15 Copenhagen<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></li>
+<li>Beijing International Renewable Energy Conference (BIREC 2005), Beijing, China<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></li>
+<li>Renewables'04, Bonn <a href="/wiki/International_Renewable_Energy_Conference" title="International Renewable Energy Conference">International Renewable Energy Conference</a>, Bonn 2004<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup></li>
+<li>WSSD, <a class="mw-redirect" href="/wiki/World_Summit_on_Sustainable_Development" title="World Summit on Sustainable Development">World Summit on Sustainable Development</a> (Earth Summit 2002) in Johannesburg in 2002.</li>
+</ul>
+</li>
+<li>Participation on <a href="/wiki/European_Union" title="European Union">EU</a> Consultations, Press Releases.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></li>
+<li>Organising European NGO Policy Seminars.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup></li>
+<li>Exhibition, participation at EU events, e.g., EU Green Week, Sustainable Energy Week. See more at <a href="/wiki/INFORSE-Europe" title="INFORSE-Europe">INFORSE-Europe</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Network_for_Sustainable_Energy&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>INFORSE was established in 1992 at the Global Forum, which was a parallel forum to the <a class="mw-redirect" href="/wiki/UNCED" title="UNCED">UNCED</a> Conference so called <a href="/wiki/Earth_Summit" title="Earth Summit">Earth Summit</a>. In 1998, INFORSE got consultative status to United Nation's <a class="mw-redirect" href="/wiki/ECOSOC" title="ECOSOC">ECOSOC</a>.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> INFORSE is working through Regional Coordinators in Asia, Africa, Europe, Americas. The INFORSE Secretariat is in Denmark. In 2002, <a href="/wiki/INFORSE-Europe" title="INFORSE-Europe">INFORSE-Europe</a> was registered in Denmark as an NGO network working on European level.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Network_for_Sustainable_Energy&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.inforse.org/presentation.php3" rel="nofollow">INFORSE's Presentation, Charter</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.inforse.org/europe/Vision2050.htm" rel="nofollow">INFORSE's Vision 2050 - 100% Renewables</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.inforse.org/regions.php3" rel="nofollow">INFORSE Contact Database</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.inforse.org/europe/eupolicy.htm" rel="nofollow">INFORSE's EU Policy overview</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.inforse.org/europe/schools.htm" rel="nofollow">School resources</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.inforse.org/europe/success/SU_About.htm" rel="nofollow">European Success database</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.inforse.org/europe/dieret/" rel="nofollow">DIERET</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.inforse.org/s_e_news.php3" rel="nofollow">Sustainable Energy News (SEN)</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.inforse.org/europe/UN_CSD.htm" rel="nofollow">INFORSE at CSD</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.inforse.org/europe/conf08_Poznan.htm" rel="nofollow">INFORSE at UNFCCC COP14</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.inforse.org/europe/conf09_COP15.htm" rel="nofollow">INFORSE at UNFCCC COP15</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.inforse.org/europe/Conf_Beijing05.htm" rel="nofollow">INFORSE at BIREC</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.inforse.org/europe/bonn.htm" rel="nofollow">INFORSE at Renewables'04</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.inforse.org/europe/eu_policy_press.htm" rel="nofollow">INFORSE Press releases</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.inforse.org/europe/seminar.htm" rel="nofollow">INFORSE Seminars</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.un.org/esa/coordination/ngo/" rel="nofollow">UN Database of NGOs with Consultative status</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Network_for_Sustainable_Energy&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.inforse.org" rel="nofollow">INFORSE</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18177547-0!*!0!!en!4!* and timestamp 20161110225319 and revision id 728469223
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=International_Network_for_Sustainable_Energy&amp;oldid=728469223">https://en.wikipedia.org/w/index.php?title=International_Network_for_Sustainable_Energy&amp;oldid=728469223</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Environmental_organizations" title="Category:Environmental organizations">Environmental organizations</a></li><li><a href="/wiki/Category:Climate_change_organizations" title="Category:Climate change organizations">Climate change organizations</a></li><li><a href="/wiki/Category:International_environmental_organizations" title="Category:International environmental organizations">International environmental organizations</a></li><li><a href="/wiki/Category:Anti-nuclear_organizations" title="Category:Anti-nuclear organizations">Anti-nuclear organizations</a></li><li><a href="/wiki/Category:International_renewable_energy_organizations" title="Category:International renewable energy organizations">International renewable energy organizations</a></li><li><a href="/wiki/Category:Conservation_organisations" title="Category:Conservation organisations">Conservation organisations</a></li><li><a href="/wiki/Category:Sustainability_organisations" title="Category:Sustainability organisations">Sustainability organisations</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_a_promotional_tone_from_March_2015" title="Category:Articles with a promotional tone from March 2015">Articles with a promotional tone from March 2015</a></li><li><a href="/wiki/Category:All_articles_with_a_promotional_tone" title="Category:All articles with a promotional tone">All articles with a promotional tone</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Pages_using_infobox_organization_with_unsupported_parameters" title="Category:Pages using infobox organization with unsupported parameters">Pages using infobox organization with unsupported parameters</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

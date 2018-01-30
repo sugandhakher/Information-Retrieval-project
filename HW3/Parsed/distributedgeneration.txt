@@ -1,0 +1,261 @@
+distributedgeneration
+from wikipedia  the free encyclopedia
+jump to 					 
+distributed generation  also distributed energy  on-site generation  osg  or district decentralized energy is
+or
+by a variety of small  -connected devices referred to as distributed energy resources  der  or distributed energy resource systems 
+conventional   such as -fired 
+and
+plants  as well as
+dams and large-scale   are centralized and often require
+to be
+over long distances  by contrast  der systems are decentralized  modular and more flexible technologies  that are located close to the load they serve  albeit having capacities of only 10
+ mw  or less  these systems can comprise multiple generation and storage components  in this instance they are referred to as
+systems 
+der systems typically use
+sources  including           and   and increasingly play an important role for the
+system  a grid-connected device for
+can also be classified as a der system  and is often called a distributed energy storage system  dess   by means of an interface  der systems can be managed and coordinated within a   distributed generation and storage enables collection of energy from many sources and may lower environmental impacts and improve security of supply 
+are modern  localized  small-scale grids  contrary to the traditional  centralized
+ macrogrid   microgrids can disconnect from the centralized grid and operate autonomously  strengthen grid resilience and help mitigate grid disturbances  they are typically low-voltage ac grids  often use   and are installed by the community they serve  microgrids increasingly employ a mixture of different distributed energy resources  such as   which reduce the amount of emitted carbon significantly 
+contents
+overview  
+historically  central plants have been an integral part of the electric grid  in which large generating facilities are specifically located either close to resources or otherwise located far from populated load centers  these  in turn  supply the traditional transmission and distribution  t d  grid that distributes bulk power to load centers and from there to consumers  these were developed when the costs of transporting fuel and integrating generating technologies into populated areas far exceeded the cost of developing t d facilities and tariffs  central plants are usually designed to take advantage of available economies of scale in a site-specific manner  and are built as  one-off   custom projects 
+these
+began to fail in the late 1960s and  by the start of the 21st century  central plants could arguably no longer deliver competitively cheap and reliable electricity to more remote customers through the grid  because the plants had come to cost less than the grid and had become so reliable that nearly all power failures originated in the grid    thus  the grid had become the main driver of remote customers power costs and power quality problems  which became more acute as digital equipment required extremely reliable electricity  efficiency gains no longer come from increasing generating capacity  but from smaller units located closer to sites of demand 
+for example  coal power plants are built away from cities to prevent their heavy air pollution from affecting the populace  in addition  such plants are often built near
+to minimize the cost of transporting coal 
+plants are by their nature limited to operating at sites with sufficient water flow 
+low pollution is a crucial advantage of combined cycle plants that burn   the low pollution permits the plants to be near enough to a city to provide
+and cooling 
+distributed energy resources are mass-produced  small  and less site-specific  their development arose out of 
+concerns over perceived externalized costs of central plant generation  particularly environmental concerns 
+the increasing age  deterioration  and capacity constraints upon t d for bulk power 
+the increasing relative economy of mass production of smaller appliances over heavy manufacturing of larger units and on-site construction 
+along with higher relative prices for energy  higher overall complexity and total costs for regulatory oversight  tariff administration  and metering and billing 
+capital markets have come to realize that right-sized resources  for individual customers  distribution substations  or microgrids  are able to offer important but little-known economic advantages over central plants  smaller units offered greater economies from mass-production than big ones could gain through unit size  these increased valuedue to improvements in financial risk  engineering flexibility  security  and environmental qualityof these resources can often more than offset their apparent cost disadvantages  dg  vis--vis central plants  must be justified on a life-cycle basis  unfortunately  many of the direct  and virtually all of the indirect  benefits of dg are not captured within traditional utility cash-flow accounting 
+while the
+of distributed generation  dg  is typically more expensive than conventional  centralized sources on a kilowatt-hour basis  this does not consider negative aspects of conventional fuels  the additional premium for dg is rapidly declining as demand increases and technology progresses    and sufficient and reliable demand may bring economies of scale  innovation  competition  and more flexible financing  that could make dg clean energy part of a more diversified future   
+distributed generation reduces the amount of energy lost in transmitting electricity because the electricity is generated very near where it is used  perhaps even in the same building  this also reduces the size and number of power lines that must be constructed 
+typical der systems in a
+ fit  scheme have low maintenance  low pollution and high efficiencies  in the past  these traits required dedicated operating engineers and large complex plants to reduce pollution  however  modern
+can provide these traits with automated operation and   such as sunlight  wind and   this reduces the size of power plant that can show a profit 
+grid parity  
+occurs when an
+source can generate electricity at a levelized cost    that is less than or equal to the end consumer s retail price  reaching grid parity is considered to be the point at which an energy source becomes a contender for widespread development without
+or government support  since the 2010s  grid parity for solar and wind has become a reality in a growing number of markets  including australia  several european countries  and some states in the u s 
+technologies  
+distributed energy resource  der  systems are small-scale power generation or storage technologies  typically in the range of 1kw to 10,000kw  used to provide an alternative to or an enhancement of the traditional electric power system  der systems typically are characterized by high initial
+per kilowatt  der systems also serve as storage device and are often called distributed energy storage systems  dess  
+der systems may include the following devices technologies 
+ chp   also known as cogeneration or trigeneration
+  and
+systems 
+ microchp 
+ typically  
+small
+systems
+or a combination of the above  for example  hybrid   chp and
+systems can provide full electric power for single family residences without extreme storage expenses 
+cogeneration  
+distributed
+sources use steam turbines  natural gas-fired  
+or
+to turn generators  the hot exhaust is then used for space or water heating  or to drive an
+for cooling such as   in addition to natural gas-based schemes  distributed energy projects can also include other renewable or low carbon fuels including biofuels         
+and  
+delta-ee consultants stated in 2013 that with 64  of global sales the fuel cell
+passed the conventional systems in sales in 2012  20.000 units were sold in
+in 2012 overall within the ene farm project  with a
+of around 60,000 hours  for
+units  which shut down at night  this equates to an estimated lifetime of between ten and fifteen years  for a price of  22,600 before installation  for 2013 a state subsidy for 50,000 units is in place 
+in addition 
+and
+using natural gas  such as the ones from
+and the   or waste-to-energy processes such as the gate 5 energy system are used as a distributed energy resource 
+solar power  
+further information 
+  by far the most important solar technology for distributed generation of   uses
+assembled into
+to convert sunlight into electricity  it is a
+technology doubling its worldwide installed capacity every couple of years 
+range from distributed  residential  and commercial
+or
+installations  to large  centralized utility-scale  
+the predominant pv technology is   while
+technology accounts for about 10 percent of global photovoltaic deployment  18,19 in recent years  pv technology has improved its sunlight to electricity   reduced the installation
+as well as its
+ epbt  and
+ lcoe   and has reached
+in at least 19 different markets in 2014 
+as most
+sources and unlike coal and nuclear  solar pv is variable and non-  but has no fuel costs  operating pollution as well as greatly reduced mining-safety and operating-safety issues  it produces peak power around local noon each day and its
+is around 20 percent 
+wind power  
+main article 
+can be distributed energy resources or they can be built at utility scale  these have low maintenance and low pollution  but distributed wind unlike utility-scale wind has much higher costs than other sources of energy  as with solar  wind energy is variable and non-dispatchable  wind towers and generators have substantial insurable liabilities caused by high winds  but good operating safety  distributed generation from
+combines wind power with other der systems  one such example is the integration of wind turbines into   as wind tends to complement solar because the peak operating times for each system occur at different times of the day and year 
+hydro power  
+main articles 
+and
+hydroelectricity is the most widely used form of renewable energy and its potential has already been explored to a large extent or is compromised due to issues such as environmental impacts on fisheries  and increased demand for recreational access  however  using modern 21st century technology  such as   can make large amounts of new hydropower capacity available  with minor environmental impact 
+modular and scalable next generation kinetic energy turbines can be deployed in arrays to serve the needs on a residential  commercial  industrial  municipal or even regional scale  microhydro kinetic generators neither require dams nor impoundments  as they utilize the kinetic energy of water motion  either waves or flow  no construction is needed on the shoreline or sea bed  which minimizes environmental impacts to habitats and simplifies the permitting process  such power generation also has minimal environmental impact and non-traditional microhydro applications can be tethered to existing construction such as docks  piers  bridge abutments  or similar structures 
+waste-to-energy  
+main articles 
+and
+municipal solid waste  msw  and natural waste  such as sewage sludge  food waste and animal manure will decompose and discharge methane-containing gas that can be collected and used as fuel in gas turbines or micro turbines to produce electricity as a distributed energy resource  additionally  a california-based company  gate 5 energy partners  inc  has developed a process that transforms natural waste materials  such as sewage sludge  into biofuel that can be combusted to power a steam turbine that produces power  this power can be used in lieu of grid-power at the waste source  such as a treatment plant  farm or dairy  
+energy storage  
+main article 
+a distributed energy resource is not limited to the generation of electricity but may also include a device to store distributed energy  de   distributed energy storage systems  dess  applications include several types of battery      and   42 access to energy storage for commercial applications is easily accessible through programs such as  
+pv storage  
+common
+technologies used in today s pv systems include  the
+   
+and   compared to the other types  lead-acid batteries have a shorter lifetime and lower energy density  however  due to their high reliability  low
+ 46  per year  as well as low investment and maintenance costs  they are currently the predominant technology used in small-scale  residential pv systems  as lithium-ion batteries are still being developed and about 3.5 times as expensive as lead-acid batteries  furthermore  as storage devices for pv systems are stationary  the lower energy and power density and therefore higher weight of lead-acid batteries are not as critical as for   4,9
+however  lithium-ion batteries  such as the   have the potential to replace lead-acid batteries in the near future  as they are being intensively developed and lower prices are expected due to
+provided by large production facilities such as the   in addition  the li-ion batteries of plug-in
+may serve as a future storage devices  since most vehicles are parked an average of 95 percent of the time  their batteries could be used to let electricity flow from the car to the power lines and back  other rechargeable batteries that are considered for distributed pv systems include 
+and
+batteries  two prominent types of a
+and a
+battery  respectively  4
+vehicle-to-grid  
+future generations of electric vehicles may have the ability to deliver power from the battery in a
+into the grid when needed  an
+has the potential to serve as a dess  44
+flywheels  
+an advanced
+ fes  stores the electricity generated from distributed resources in the form of angular
+by accelerating a rotor    to a very high speed of about 20,000 to over 50,000 rpm in a vacuum enclosure  flywheels can respond quickly as they store and feed back electricity into the grid in a matter of seconds 
+integration with the grid  
+for reasons of reliability  distributed generation resources would be interconnected to the same transmission grid as central stations  various technical and economic issues occur in the integration of these resources into a grid  technical problems arise in the areas of   voltage stability  harmonics  reliability  protection  and control  behavior of protective devices on the grid must be examined for all combinations of distributed and central station generation  a large scale deployment of distributed generation may affect grid-wide functions such as frequency control and allocation of reserves  as a result 
+functions 
+and
+such as
+stations are added to the grid 
+each distributed generation resource has its own integration issues  solar pv and wind power both have intermittent and unpredictable generation  so they create many stability issues for voltage and frequency  these voltage issues affect mechanical grid equipment  such as load tap changers  which respond too often and wear out much more quickly than utilities anticipated  also  without any form of energy storage during times of high solar generation  companies must rapidly increase generation around the time of sunset to compensate for the loss of solar generation  this high ramp rate produces what the industry terms the
+   that is a major concern for grid operators in the future  storage can fix these issues if it can be implemented  flywheels have shown to provide excellent frequency regulation  short term use batteries  at a large enough scale of use  can help to flatten the duck curve and prevent generator use fluctuation and can help to maintain voltage profile  however  cost is a major limiting factor for energy storage as each technique is prohibitively expensive to produce at scale and comparatively not energy dense compared to liquid fossil fuels  finally  another necessary method of aiding in integration of photovoltaics for proper distributed generation is in the use of  
+another approach does not demand grid integration  stand alone hybrid systems 
+stand alone hybrid systems  
+it is now possible to combine technologies such as  
+and
+to make stand alone distributed generation systems 
+recent work has shown that such systems have a low  
+many authors now think that these technologies may enable a mass-scale
+because consumers can produce electricity using
+systems primarily made up of
+technology  for example  the rocky mountain institute has proposed that there may wide scale   this is backed up by studies in the midwest 
+cost factors  
+cogenerators are also more expensive per watt than central generators    they find favor because most buildings already burn fuels  and the cogeneration can extract more value from the fuel   local production has no
+on long distance
+or energy losses from the
+in transformers where in general 8-15  of the energy is lost  see also   
+some larger installations utilize combined cycle generation  usually this consists of a
+whose exhaust boils
+for a
+in a   the condenser of the steam cycle provides the heat for space heating or an absorptive   combined cycle plants with cogeneration have the highest known thermal efficiencies  often exceeding 85  
+in countries with high pressure gas distribution  small turbines can be used to bring the gas pressure to domestic levels whilst extracting useful energy  if the uk were to implement this countrywide an additional 2-4gwe would become available   note that the energy is already being generated elsewhere to provide the high initial gas pressure - this method simply distributes the energy via a different route  
+microgrid  
+picture of a local microgrid  the sendai microgrid  located on the campus of tohoku fukushi university in sendai city in the tohoku district in japan
+a microgrid is a localized grouping of electricity generation  energy storage  and loads that normally operates connected to a traditional centralized grid     this single point of common coupling with the macrogrid can be disconnected  the microgrid can then function autonomously  generation and loads in a microgrid are usually interconnected at low voltage and it can operate in dc  ac or the combination of both  according to the recent developments in renewable energy systems  storage systems  and the nature of newly emerging loads  there have been some researches for comparing the efficiency and performance of ac and dc microgrids  from the point of view of the grid operator  a connected microgrid can be controlled as if it were one entity 
+microgrid generation resources can include stationary batteries  fuel cells  solar  wind  or other energy sources  the multiple dispersed generation sources and ability to isolate the microgrid from a larger network would provide highly reliable electric power  produced heat from generation sources such as microturbines could be used for local process heating or space heating  allowing flexible trade off between the needs for heat and electric power 
+micro-grids were proposed in the wake of the  
+small micro-grids covering 3050km radius
+small power stations of 510mw to serve the micro-grids
+generate power locally to reduce dependence on long distance transmission lines and cut transmission losses 
+gtm research forecasts microgrid capacity in the united states will exceed 1.8 gigawatts by 2018 
+communication in der systems  
+-7-420 is under development as a part of iec 61850 standards  which deals with the complete object models as required for der systems  it uses communication services mapped to
+as per iec 61850-8-1 standard 
+is also used for the communication between different entities of der system 
+legal requirements for distributed generation  
+in 2010 colorado enacted a law requiring that by 2020 that 3  of the power generated in colorado utilize distributed generation of some sort 
+see also  
+ standard for interconnecting distributed
+resources with electric power systems 
+references  
+  e on se  retrieved 17 december 2015 
+    2007  retrieved july 2015  check date values in   access-date    
+ 
+doe  the potential benefits of distributed generation and rate-related issues that may impede their expansion  2007 
+lovins  small is profitable  the hidden economic benefits of making electrical resources the right size  rocky mountain institute  2002 
+takahashi  et al  policy options to support distributed resources  u  of del   ctr  for energy   env  policy  2005 
+hirsch  1989  cited in doe  2007 
+lovins  small is profitable  the hidden economic benefits of making electrical resources the right size  rocky mountain institute  2002
+michigan  citation pending 
+mcfarland  matt  25 march 2014       washingtonpost com  archived from
+on 14 september 2014  retrieved 14 september 2014  external link in  website    
+    nrel  2002  p 1  archived from
+ pdf  on 8 september 2014  retrieved 8 september 2014  external link in  website    
+  2002
+ 
+kunal k  shah  aishwarya s  mundada  joshua m  pearce 
+energy conversion and management 105  pp  7180  2015  
+  www clarke-energy com  retrieved 9.12.2013
+  retrieved 15 may 2015 
+  www clarke-energy com  retrieved 9.12.2013
+  www clarke-energy com  retrieved 9th december 2013
+ 
+  retrieved 15 may 2015 
+  retrieved 15 may 2015 
+ pdf   fraunhofer ise  28 july 2014 
+from the original on 31 august 2014  retrieved 31 august 2014 
+parkinson  giles  7 january 2014     reneweconomy  archived from
+on 14 september 2014  retrieved 14 september 2014 
+  janet marsdon
+  www nrel gov  retrieved 2015-10-31 
+  janet marsdon   pp  8  9
+ 
+ 
+joern hoppmann  jonas volland  tobias s  schmidt  volker h  hoffmann  july 2014     eth zrich  harvard university  retrieved june 2015  check date values in   access-date    
+  retrieved 15 may 2015 
+castelvecchi  davide  may 19  2007     science news  171  20   312313    
+willis  ben  23 july 2014       pv-tech org  archived from
+on 12 september 2014  retrieved 12 september 2014  external link in  website    
+tomoiag  b   chindri  m   sumper  a   sudria-andreu  a   villafafila-robles  r 
+energies 2013  6  1439-1455 
+p  mazidi  g  n  sreenivas  reliability assessment of a distributed generation connected distribution system  international journal of power system operation and energy management ijpsoem   nov  2011
+math h  bollen  fainan hassan integration of distributed generation in the power system  john wiley   sons  2011   pages v-x
+agalgaonkar  y p   et  al  16 september 2013     power systems  ieee transactions on  29  1   182192     retrieved 29 april 2015 
+ pdf   caiso com  california iso  retrieved 29 april 2015 
+lazarewicz  matthew  rojas  alex  10 june 2004     power engineering society general meeting  20382042  retrieved 29 april 2015 
+lazar  jim 
+ pdf   rap  retrieved 29 april 2015 
+shah  kunal k   mundada  aishwarya s   pearce  joshua m   2015     energy conversion and management  105  7180    
+mundada  aishwarya  shah  kunal  pearce  joshua m   2016     renewable and sustainable energy reviews  57  692703    
+kumagai  j   2014  the rise of the personal power plant  ieee spectrum 51 6   pp 54-59 
+abhilash kantamneni  richelle winkler  lucia gauchia  joshua m  pearce    energy policy 95  378389  2016   doi  10.1016 j enpol 2016.05.013
+khalilpour  r  and vassallo  a   2015  leaving the grid  an ambition or a real choice   energy policy  82  pp 207-221 
+the economics of grid defection - rocky mountain institute
+andy balaskovitz
+- midwest energy news
+  schneider electric blog  retrieved 15 may 2015 
+stan mark kaplan  fred sissine   ed   smart grid  modernizing electric power transmission and distribution    the capitol net inc  2009    page 217
+seyedmahmoudian  m   arrisoy  h   kavalchuk  i   oo  a  maung  stojcevski  a    energy and sustainability v  special contributions    
+ 
+  retrieved 15 may 2015 
+  retrieved 15 may 2015 
+article by kirk johnson in
+june 3  2010
+blog by kate galbraith on nytimes com march 22  2010
+further reading  
+brass  j  n   carley  s   maclean  l  m   baldwin  e   2012    power for development  a review of distributed generation projects in the developing world   annual review of environment and resources  37  107    
+gies  erica      november 29  2010  discusses distributed generation and the u s   
+pahl  greg  2012   power from the people  how to organize  finance  and launch local energy projects  santa rosa  calif  post carbon institute   
+external links  
+concepts
+sources
+and
+  
+distributed generation
+ tso 
+protective
+devices
+ gfi 
+economics
+and policies
+categories
+portals
+retrieved from   
+  hidden categories 

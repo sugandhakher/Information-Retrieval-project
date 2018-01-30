@@ -1,0 +1,906 @@
+plutonium
+from wikipedia  the free encyclopedia
+jump to 					 
+this article is about the radioactive element  for other uses  see  
+plutonium 94pu
+general properties
+name 
+plutonium  pu
+pronunciation
+appearance
+silvery white  tarnishing to dark gray in air
+plutonium in the
+
+pu
+
+ uqo 
+ plutonium 
+ z 
+94
+ 
+ 
+ ar 
+ 244 
+   5f6 7s2
+per shell
+2  8  18  32  24  8  2
+physical properties
+912.5  639.4c  1182.9f 
+3505k  3228c  5842f 
+near
+19.816g cm3
+whenliquid  atm p 
+16.63g cm3
+2.82
+333.5kj mol
+35.5j  molk 
+p pa 
+1
+10
+100
+1k
+10k
+100k
+att k 
+1756
+1953
+2198
+2511
+2926
+3499
+atomic properties
+8  7  6  5  4  3  2  1  an
+oxide 
+paulingscale  1.28
+1st 584.7kj mol
+empirical  159
+1871pm
+miscellanea
+
+2260
+46.7m  mk   at25c 
+6.74w  mk 
+1.460m  at0c 
+96gpa
+43gpa
+0.21
+7440-07-5
+history
+naming
+after
+  itself named after
+god of the underworld
+     
+ 19401 
+most stable
+  
+204.66
+
+5.5
+trace
+sf
+207.06
+
+
+5.157
+sf
+205.66
+
+
+5.256
+syn
+0.02078
+sf
+210.83
+
+syn
+sf
+209.47
+
+
+4.984
+syn
+
+4.666
+sf
+
+ 
+plutonium is a
+with
+pu and
+94  it is an
+of silvery-gray appearance that
+when exposed to air  and forms a dull coating when   the element normally exhibits six
+and four   it reacts with      
+and   when exposed to moist air  it forms
+and
+that can expand the sample up to 70  in volume  which in turn flake off as a powder that is   it is
+and can accumulate in   which makes the handling of plutonium dangerous 
+plutonium was first produced and isolated on december 14  1940 by dr        and
+by deuteron bombardment of
+in the 60-inch
+at the   they first synthesized
+  2.1 days  which subsequently beta-decayed to form a new heavier element with atomic number 94 and atomic weight 238  half-life 87.7 years   uranium had been named after the planet uranus and neptunium after the planet neptune  and so element 94 was named after pluto  wartime secrecy prevented them from announcing the discovery until 1948  plutonium is the heaviest element to occur in nature as trace quantities arising similarly from the neutron capture of natural uranium-238  plutonium is much more common on earth since 1945 as a product of
+and   where some of the
+released by the
+process convert uranium-238 nuclei into plutonium-239 
+both
+and
+are   meaning that they can sustain a   leading to applications in
+and  
+exhibits a high rate of   raising the
+of any sample containing it  the presence of plutonium-240 limits a plutonium sample s usability for weapons or its quality as reactor fuel  and the percentage of plutonium-240 determines its
+   fuel-grade  or reactor-grade  
+has a half-life of 88 years and emits   it is a heat source in   which are used to power some   plutonium isotopes are expensive and inconvenient to separate  so particular isotopes are usually manufactured in specialized reactors 
+producing plutonium in useful quantities for the first time was a major part of the
+during
+that developed the first atomic bombs  the
+bombs used in the
+in july 1945  and in the
+in august 1945  had plutonium  
+studying plutonium were conducted without   and several   some lethal  occurred after the war  disposal of
+from
+and
+built during the
+is a
+and environmental concern  other sources of
+are
+from numerous above-ground nuclear tests  now  
+contents
+characteristics
+physical properties
+plutonium  like most metals  has a bright silvery appearance at first  much like   but it
+very quickly to a dull gray  although yellow and olive green are also reported  at room temperature plutonium is in its   this  the most common structural form of the element     is about as hard and brittle as
+unless it is
+with other metals to make it soft and ductile  unlike most metals  it is not a good conductor of
+or   it has a low
+ 640c  and an unusually high
+ 3,228c  
+  the release of a high-energy
+nucleus  is the most common form of
+for plutonium  a 5kg mass of 239pu contains about 702512500000000000012.51024 atoms  with a half-life of 24,100 years  about 701311500000000000011.51012 of its atoms decay each second by emitting a 5.157 alpha particle  this amounts to 9.68 watts of power  heat produced by the deceleration of these alpha particles makes it warm to the touch 
+is a measure of how strongly a material opposes the flow of   the resistivity of plutonium at room temperature is very high for a metal  and it gets even higher with lower temperatures  which is unusual for metals  this trend continues down to 100  below which resistivity rapidly decreases for fresh samples  resistivity then begins to increase with time at around 20k due to radiation damage  with the rate dictated by the isotopic composition of the sample 
+because of self-irradiation  a sample of plutonium fatigues throughout its crystal structure  meaning the ordered arrangement of its atoms becomes disrupted by radiation with time  self-irradiation can also lead to
+which counteracts some of the fatigue effects as temperature increases above 100k 
+unlike most materials  plutonium increases in density when it melts  by 2.5   but the liquid metal exhibits a linear decrease in density with temperature  near the melting point  the liquid plutonium has also very high
+and
+as compared to other metals 
+allotropes
+main article 
+plutonium has six allotropes at ambient pressure  alpha    beta    gamma    delta    deltaprime       epsilon  
+plutonium normally has six allotropes and forms a seventh  zeta    at high temperature within a limited pressure range  these allotropes  which are different structural modifications or forms of an element  have very similar
+but significantly varying
+and   this makes plutonium very sensitive to changes in temperature  pressure  or chemistry  and allows for dramatic volume changes following
+from one allotropic form to another  the densities of the different allotropes vary from 16.00g cm3 to 19.86g cm3 
+the presence of these many allotropes makes machining plutonium very difficult  as it changes state very readily  for example  the  form exists at room temperature in unalloyed plutonium  it has machining characteristics similar to
+but changes to the plastic and malleable   beta  form at slightly higher temperatures  the reasons for the complicated phase diagram are not entirely understood  the  form has a low-symmetry
+structure  hence its brittleness  strength  compressibility  and poor thermal conductivity 
+plutonium in the   delta  form normally exists in the 310c to 452c range but is stable at room temperature when alloyed with a small percentage of     or   enhancing workability and allowing it to be   the  form has more typical metallic character  and is roughly as strong and malleable as aluminium  in fission weapons  the explosive
+used to compress a plutonium core will also cause a transition from the usual  phase plutonium to the denser  form  significantly helping to achieve   the  phase  the highest temperature solid allotrope  exhibits anomalously high atomic
+compared to other elements 
+nuclear fission
+a ring of
+99.96  pure electrorefined plutonium  enough for one   the ring weighs 5.3kg  is ca  11cm in diameter and its shape helps with  
+plutonium is a radioactive
+metal whose     is one of the three primary
+isotopes   and
+are the other two  
+is also highly fissile  to be considered fissile  an isotope s
+must be able to break apart or
+when struck by a
+and to release enough additional neutrons to sustain the
+by splitting further nuclei 
+pure plutonium-239 may have a
+ keff  larger than one  which means that if the metal is present in sufficient quantity and with an appropriate geometry  e g   a sphere of sufficient size   it can form a   during fission  a fraction of the   which holds a nucleus together  is released as a large amount of electromagnetic and kinetic energy  much of the latter being quickly converted to thermal energy   fission of a kilogram of plutonium-239 can produce an explosion equivalent to 21,000
+ 88,000   it is this energy that makes plutonium-239 useful in
+and  
+the presence of the isotope
+in a sample limits its nuclear bomb potential  as plutonium-240 has a relatively high
+rate   440 fissions per second per gramover 1,000 neutrons per second per gram   raising the background neutron levels and thus increasing the risk of   plutonium is identified as either   fuel-grade  or reactor-grade based on the percentage of plutonium-240 that it contains  weapons-grade plutonium contains less than 7  plutonium-240 
+contains from 7  to less than 19   and power reactor-grade contains 19  or more plutonium-240    with less than 4  of plutonium-240  is used in
+weapons stored in proximity to ship and submarine crews  due to its lower radioactivity  the isotope
+is not
+easily with
+as well as alpha decay 
+isotopes and synthesis
+uranium-plutonium and thorium-uranium chains
+main article 
+twenty
+of plutonium have been characterized  the longest-lived are plutonium-244  with a half-life of 80.8million years  plutonium-242  with a half-life of 373,300years  and plutonium-239  with a half-life of 24,110years  all of the remaining radioactive isotopes have half-lives that are less than 7,000years  this element also has eight   though all have half-lives less than one second 
+the isotopes of plutonium range in
+from 228 to 247  the primary decay modes of isotopes with mass numbers lower than the most stable isotope  plutonium-244  are spontaneous fission and   mostly forming uranium  92   and
+ 93 protons  isotopes as
+ neglecting the wide range of daughter nuclei created by fission processes   the primary decay mode for isotopes with mass numbers higher than plutonium-244 is   mostly forming
+ 95 protons  isotopes as decay products  plutonium-241 is the
+of the   decaying to americium-241 via beta or electron emission 
+plutonium-238 and 239 are the most widely synthesized isotopes  plutonium-239 is synthesized via the following reaction using uranium  u  and neutrons  n  via beta decay    with neptunium  np  as an intermediate 
+238
+92
+u
+ 
+1
+0
+n
+
+239
+92
+u
+
+23.5
+min
+
+
+239
+93
+np
+
+2.3565
+d
+
+
+239
+94
+pu
+  displaystyle   begin matrix       ce     238   92 u    0   1 n-   92   239 u-   beta   -   23.5    ce  min     93   239 np-   beta   -   2.3565    ce  d     94   239 pu       end matrix   
+neutrons from the fission of uranium-235 are
+by uranium-238 nuclei to form uranium-239  a
+converts a neutron into a proton to form np-239  half-life 2.36days  and another beta decay forms plutonium-239 
+working on the british
+project predicted this reaction theoretically in 1940 
+plutonium-238 is synthesized by bombarding uranium-238 with
+ d  the nuclei of heavy   in the following reaction 
+238
+92
+u
+ 
+2
+1
+d
+
+238
+93
+np
+ 
+2
+1
+0
+n
+238
+93
+np
+
+2.117
+d
+
+
+238
+94
+pu
+  displaystyle   begin aligned   ce     238   92 u    1   2 d-      ce     238   93 np  2  0   1 n       ce    238   93 np-   beta   -   2.117    ce  d     94   238 pu   end aligned   
+in this process  a deuteron hitting uranium-238 produces two neutrons and neptunium-238  which spontaneously decays by emitting negative beta particles to form plutonium-238 
+decay heat and fission properties
+plutonium isotopes undergo radioactive decay  which produces   different isotopes produce different amounts of heat per mass  the decay heat is usually listed as watt kilogram  or milliwatt gram  in larger pieces of plutonium  e g  a weapon pit  and inadequate heat removal the resulting self-heating may be significant  all isotopes produce weak gamma on decay 
+decay heat of plutonium isotopes
+isotope
+ years 
+ w kg 
+neutrons  1  gs  
+comment
+alpha to
+87.74
+560
+2600
+very high decay heat  even in small amounts can cause significant self-heating  used on its own in  
+alpha to
+24100
+1.9
+0.022
+the principal fissile isotope in use 
+alpha to   spontaneous fission
+6560
+6.8
+910
+the principal impurity in samples of the 239pu isotope  the plutonium grade is usually listed as percentage of 240pu  high spontaneous fission hinders use in nuclear weapons 
+beta-minus  to
+14.4
+4.2
+0.049
+decays to americium-241  its buildup presents a radiation hazard in older samples 
+alpha to
+376000
+0.1
+1700
+compounds and chemistry
+various oxidation states of plutonium in solution
+at room temperature  pure plutonium is silvery in color but gains a tarnish when oxidized  the element displays four common ionic
+in
+and one rare one 
+pu iii   as pu3   blue lavender 
+pu iv   as pu4   yellow brown 
+pu v   as puo 
+2  light pink 
+pu vi   as puo2 
+2  pink orange 
+pu vii   as puo3
+5  green the heptavalent ion is rare 
+the color shown by plutonium solutions depends on both the oxidation state and the nature of the acid   it is the acid anion that influences the degree of how atoms connect to a central atomof the plutonium species 
+metallic plutonium is produced by reacting
+with  
+or
+at 1200c  it is attacked by     and steam but not by
+and dissolves easily in concentrated  
+and   molten metal must be kept in a
+or an
+to avoid reaction with air  at 135c the metal will ignite in air and will explode if placed in  
+plutonium
+can cause it to look like a glowing ember under certain conditions 
+twenty micrograms of pure plutonium hydroxide
+plutonium is a reactive metal  in moist air or moist   the metal oxidizes rapidly  producing a mixture of
+and   if the metal is exposed long enough to a limited amount of water vapor  a powdery surface coating of puo2 is formed  also formed is
+but an excess of water vapor forms only puo2 
+plutonium shows enormous  and reversible  reaction rates with pure hydrogen  forming   it also reacts readily with oxygen  forming puo and puo2 as well as intermediate oxides  plutonium oxide fills 40  more volume than plutonium metal  the metal reacts with the   giving rise to
+with the general formula pux3 where x can be     br or i and puf4 is also seen  the following oxyhalides are observed  puocl  puobr and puoi  it will react with carbon to form puc  nitrogen to form pun and
+to form pusi2 
+powders of plutonium  its hydrides and certain oxides like pu2o3 are   meaning they can ignite spontaneously at ambient temperature and are therefore handled in an inert  dry atmosphere of nitrogen or argon  bulk plutonium ignites only when heated above 400c  pu2o3 spontaneously heats up and transforms into puo2  which is stable in dry air  but reacts with water vapor when heated 
+used to contain plutonium need to be able to withstand its strongly
+properties 
+such as
+and
+along with the more stable oxides     
+and
+can tolerate this  melting in an
+can be used to produce small ingots of the metal without the need for a crucible 
+is used as a chemical simulant of plutonium for development of containment  extraction  and other technologies 
+electronic structure
+plutonium is an element in which the
+are the transition border between delocalized and localized  it is therefore considered one of the most complex elements  the anomalous behavior of plutonium is caused by its electronic structure  the energy difference between the 6d and 5f subshells is very low  the size of the 5f shell is just enough to allow the electrons to form bonds within the lattice  on the very boundary between localized and bonding behavior  the proximity of energy levels leads to multiple low-energy electron configurations with near equal energy levels  this leads to competing 5fn7s2 and 5fn16d17s2 configurations  which causes the complexity of its chemical behavior  the highly directional nature of 5f orbitals is responsible for directional covalent bonds in molecules and complexes of plutonium 
+alloys
+plutonium can form alloys and intermediate compounds with most other metals  exceptions include lithium     
+and
+of the   and   calcium    and barium of the   and
+and
+of the   partial exceptions include the refractory metals       tantalum  and tungsten  which are soluble in liquid plutonium  but insoluble or only slightly soluble in solid plutonium  gallium  aluminium  americium 
+and cerium can stabilize the  phase of plutonium for room temperature     
+and
+allow formation of metastable  state when rapidly cooled  high amounts of  
+and
+also allows some retention of the  phase at room temperature  neptunium is the only element that can stabilize the  phase at higher temperatures 
+plutonium alloys can be produced by adding a metal to molten plutonium  if the alloying metal is sufficiently reductive  plutonium can be added in the form of oxides or halides  the  phase plutoniumgallium and plutoniumaluminium alloys are produced by adding plutonium iii  fluoride to molten gallium or aluminium  which has the advantage of avoiding dealing directly with the highly reactive plutonium metal 
+is used for stabilizing the  phase of plutonium  avoiding the -phase and  related issues  its main use is in
+of  
+plutoniumaluminium is an alternative to the puga alloy  it was the original element considered for  phase stabilization  but its tendency to react with the alpha particles and release neutrons reduces its usability for nuclear weapon pits  plutoniumaluminium alloy can be also used as a component of  
+plutoniumgalliumcobalt alloy  pucoga5  is an   showing superconductivity below 18.5k  an order of magnitude higher than the highest between
+systems  and has large critical current 
+plutoniumzirconium alloy can be used as  
+plutoniumcerium and plutoniumceriumcobalt alloys are used as nuclear fuels 
+plutoniumuranium  with about 1530mol   plutonium  can be used as a nuclear fuel for fast breeder reactors  its
+nature and high susceptibility to corrosion to the point of self-igniting or disintegrating after exposure to air require alloying with other components  addition of aluminium  carbon or copper does not improve disintegration rates markedly  zirconium and iron alloys have better corrosion resistance but they disintegrate in several months in air as well  addition of titanium and or zirconium significantly increases the melting point of the alloy 
+plutoniumuraniumtitanium and plutoniumuraniumzirconium were investigated for use as nuclear fuels  the addition of the third element increases corrosion resistance  reduces flammability  and improves ductility  fabricability  strength  and thermal expansion  plutoniumuraniummolybdenum has the best corrosion resistance  forming a protective film of oxides  but titanium and zirconium are preferred for physics reasons 
+thoriumuraniumplutonium was investigated as a nuclear fuel for fast breeder reactors 
+occurrence
+trace amounts of plutonium-238 and plutonium-239 can be found in nature  small traces of plutonium-239  a few   and its decay products are naturally found in some concentrated ores of uranium  such as the
+in     the ratio of plutonium-239 to uranium at the
+uranium deposit ranges from 69882400000000000002.41012 to 6989440000000000000441012  due to its relatively long half-life of about 80million years  it was suggested that
+occurs naturally as a   but early reports of its detection could not be confirmed  these trace amounts of 239pu originate in the following fashion  on rare occasions  238u undergoes spontaneous fission  and in the process  the nucleus emits one or two free neutrons with some kinetic energy  when one of these neutrons strikes the nucleus of another 238u atom  it is absorbed by the atom  which becomes 239u  with a relatively short half-life  239u decays to 239np  which decays into 239pu  finally  exceedingly small amounts of plutonium-238  attributed to the extremely rare
+of uranium-238  have been found in natural uranium samples 
+minute traces of plutonium are usually found in the human body due to the 550 atmospheric and underwater
+that have been carried out  and to a small number of major   most atmospheric and underwater nuclear testing was stopped by the
+in 1963  which was signed and ratified by the united states  the united kingdom  the   and other nations  continued atmospheric nuclear weapons testing since 1963 by non-treaty nations included those by
+  test above the
+in 1964 
+test in 1967  and follow-on tests   and france  tests as recently as the 1990s   because it is deliberately manufactured for nuclear weapons and nuclear reactors  plutonium-239 is the most abundant isotope of plutonium by far 
+history
+discovery
+and a team of scientists at the
+reported that they had discovered element 94 in 1934  fermi called the element
+and mentioned it in his nobel lecture in 1938  the sample was actually a mixture of barium    and other elements  but this was not known at the time 
+was discovered in germany in 1939 by
+and   the mechanism of fission was then theoretically explained by
+and  
+and his team at berkeley were the first to produce plutonium 
+plutonium  specifically  plutonium-238  was first produced and isolated on december 14  1940  and chemically identified on february 23  1941  by       and
+by deuteron bombardment of uranium in the 60-inch  150cm 
+at the
+at the   in the 1940 experiment  neptunium-238 was created directly by the bombardment but decayed by beta emission with a half-life of a little over two days  which indicated the formation of element 94 
+a paper documenting the discovery was prepared by the team and sent to the journal
+in march 1941  but publication was delayed until a year after the end of
+due to security concerns  at the
+in   egon bretscher and
+realized that a slow neutron reactor fuelled with uranium would theoretically produce substantial amounts of plutonium-239 as a by-product  they calculated that element 94 would be fissile  and had the added advantage of being chemically different from uranium  and could easily be separated from it 
+mcmillan had recently named the first transuranic element neptunium after the planet   and suggested that element 94  being the next element in the series  be named for what was then considered the next planet   
+of the cambridge team independently proposed the same name  based on the same reasoning as the berkeley team  seaborg originally considered the name  plutium   but later thought that it did not sound as good as  plutonium   he chose the letters  pu  as a joke  which passed without notice into the periodic table  alternative names considered by seaborg and others were  ultimium  or  extremium  because of the erroneous belief that they had found the last possible
+on the  
+early research
+the dwarf planet   which plutonium is named after
+the basic chemistry of plutonium was found to resemble uranium after a few months of initial study  early research was continued at the secret
+of the   on august 20  1942  a trace quantity of this element was isolated and measured for the first time  about 50micrograms of plutonium-239 combined with uranium and fission products was produced and only about 1microgram was isolated  this procedure enabled chemists to determine the new element s atomic weight  on december 2  1942  on a racket court under the west grandstand at the university of chicago s stagg field  researchers headed by
+achieved the first self-sustaining chain reaction in a graphite and uranium pile known as cp-1  using theoretical information garnered from the operation of cp-1  dupont constructed an air-cooled experimental production reactor  known as x-10  and a pilot chemical separation facility at oak ridge  the separation facility  using methods developed by glenn t  seaborg and a team of researchers at the met lab  removed plutonium from uranium irradiated in the x-10 reactor  information from cp-1 was also useful to met lab scientists designing the water-cooled plutonium production reactors for hanford  construction at the site began in mid-1943 
+in november 1943 some
+was reduced to create the first sample of plutonium metal  a few micrograms of metallic beads  enough plutonium was produced to make it the first synthetically made element to be visible with the unaided eye 
+the nuclear properties of plutonium-239 were also studied  researchers found that when it is hit by a neutron it breaks apart  fissions  by releasing more neutrons and energy  these neutrons can hit other atoms of plutonium-239 and so on in an exponentially fast chain reaction  this can result in an explosion large enough to destroy a city if enough of the isotope is concentrated to form a  
+during the early stages of research  animals were used to study the effects of radioactive substances on health  these studies began in 1944 at the university of california at berkeleys radiation laboratory and were conducted by joseph g  hamilton  hamilton was looking to answer questions about how plutonium would vary in the body depending on exposure mode  oral ingestion  inhalation  absorption through skin   retention rates  and how plutonium would be fixed in tissues and distributed among the various organs  hamilton started administering soluble microgram portions of plutonium-239 compounds to rats using different valence states and different methods of introducing the plutonium  oral  intravenous  etc    eventually  the lab at chicago also conducted its own plutonium injection experiments using different animals such as mice  rabbits  fish  and even dogs  the results of the studies at berkeley and chicago showed that plutonium s physiological behavior differed significantly from that of radium  the most alarming result was that there was significant deposition of plutonium in the liver and in the  actively metabolizing  portion of bone  furthermore  the rate of plutonium elimination in the excreta differed between species of animals by as much as a factor of five  such variation made it extremely difficult to estimate what the rate would be for human beings 
+production during the manhattan project
+during world war ii the u s  government established the   which was tasked with developing an atomic bomb  the three primary research and production sites of the project were the plutonium production facility at what is now the   the
+facilities at   and the weapons research and design laboratory  now known as  
+the hanford
+face under constructionthe first plutonium-production reactor
+the
+represents two-thirds of the nation s high-level radioactive waste by volume  nuclear reactors line the riverbank at the hanford site along the
+in january 1960 
+the first production reactor that made plutonium-239 was the   it went online in 1943 and was built at a facility in oak ridge that later became the  
+in january 1944  workers laid the foundations for the first chemical separation building  t plant located in 200-west  both the t plant and its sister facility in 200-west  the u plant  were completed by october   u plant was used only for training during the manhattan project   the separation building in 200-east  b plant  was completed in february 1945  the second facility planned for 200-east was canceled  nicknamed queen marys by the workers who built them  the separation buildings were awesome canyon-like structures 800 feet long  65 feet wide  and 80 feet high containing forty process pools  the interior had an eerie quality as operators behind seven feet of concrete shielding manipulated remote control equipment by looking through television monitors and periscopes from an upper gallery  even with massive concrete lids on the process pools  precautions against radiation exposure were necessary and influenced all aspects of plant design 
+on april 5  1944 
+at los alamos received the first sample of reactor-produced plutonium from oak ridge  within ten days  he discovered that reactor-bred plutonium had a higher concentration of the isotope plutonium-240 than cyclotron-produced plutonium  plutonium-240 has a high spontaneous fission rate  raising the overall background neutron level of the plutonium sample  the original
+plutonium weapon  code-named     had to be abandoned as a resultthe increased number of spontaneous neutrons meant that nuclear pre-detonation    was likely 
+the entire plutonium weapon design effort at los alamos was soon changed to the more complicated implosion device  code-named     with an implosion weapon  plutonium is compressed to a high density with a technically more daunting task than the simple gun-type design  but necessary to use plutonium for weapons purposes    by contrast  can be used with either method 
+construction of the hanford   the first industrial-sized nuclear reactor for the purposes of material production  was completed in march 1945  b reactor produced the fissile material for the plutonium weapons used during world war ii  b  d and f were the initial reactors built at hanford  and six additional plutonium-producing reactors were built later at the site 
+by the end of january 1945  the highly purified plutonium underwent further concentration in the completed chemical isolation building  where remaining impurities were removed successfully  los alamos received its first plutonium from hanford on february 2  while it was still by no means clear that enough plutonium could be produced for use in bombs by the war s end  hanford was by early 1945 in operation  only two years had passed since col 
+first set up his temporary headquarters on the banks of the columbia river 
+according to   the plutonium production plants at hanford and
+in russia  over a period of four decades   both released more than 200 million curies of radioactive isotopes into the surrounding environment  twice the amount expelled in the
+in each instance   most of this
+over the years were part of normal operations  but unforeseen accidents did occur and plant management kept this secret  as the pollution continued unabated 
+in 2004  a safe was discovered during excavations of a burial trench at the   inside the safe were various items  including a large glass bottle containing a whitish slurry which was subsequently identified as the oldest sample of weapons-grade plutonium known to exist  isotope analysis by
+indicated that the plutonium in the bottle was manufactured in the x-10 graphite reactor at oak ridge during 1944 
+trinity and fat man atomic bombs
+because of the presence of plutonium-240 in reactor-bred plutonium  the implosion design was developed for the    and    weapons
+the first atomic bomb test  codenamed
+and detonated on july 16  1945  near   used plutonium as its fissile material  the implosion design of     as the trinity device was code-named  used conventional explosive lenses to compress a sphere of plutonium into a supercritical mass  which was simultaneously showered with neutrons from the   an initiator made of
+and
+      together  these ensured a runaway chain reaction and explosion  the overall weapon weighed over 4   although it used just 6.2kg of plutonium in its core  about 20  of the plutonium used in the trinity weapon underwent fission  resulting in an explosion with an energy equivalent to approximately 20,000 tons of tnt 
+an identical design was used in the  fat man  atomic bomb dropped on     on august 9  1945  killing 35,00040,000 people  most of whom were industrial workers  and destroying 68 80  of war production at nagasaki  only after the announcement of the first atomic bombs was the existence and name of plutonium made known to the public by the manhattan project s  
+cold war use and waste
+see also 
+large stockpiles of
+were built up by both the soviet union and the united states during the   the u s  reactors at hanford and the
+in south carolina produced 103tonnes  and an estimated 170tonnes of military-grade plutonium was produced in the ussr  each year about 20tonnes of the element is still produced as a by-product of the
+industry  as much as 1000tonnes of plutonium may be in storage with more than 200tonnes of that either inside or extracted from nuclear weapons 
+estimated the world plutonium
+in 2007 as about 500 tonnes  divided equally between weapon and civilian stocks 
+radioactive contamination at the
+primarily resulted from two major plutonium fires in 1957 and 1969  much lower concentrations of radioactive isotopes were released throughout the operational life of the plant from 1952 to 1992  prevailing winds from the plant carried airborne contamination south and east  into populated areas northwest of denver  the contamination of the denver area by plutonium from the fires and other sources was not publicly reported until the 1970s  according to a 1972 study coauthored by    in the more densely populated areas of denver  the pu contamination level in surface soils is several times fallout   and the plutonium contamination  just east of the rocky flats plant ranges up to hundreds of times that from nuclear tests   as noted by
+in    exposures of a large population in the denver area to plutonium and other radionuclides in the exhaust plumes from the plant date back to 1953   weapons production at the rocky flats plant was halted after a combined
+and
+raid in 1989 and years of protests  the plant has since been shut down  with its buildings demolished and completely removed from the site 
+in the u s   some plutonium extracted from dismantled nuclear weapons is melted to form glass logs of
+that weigh twotonnes  the glass is made of
+mixed with
+and   these logs are planned to be encased in
+and stored as much as 4km  2mi  underground in bore holes that will be back-filled with   the u s  planned to store plutonium in this way at the   which is about 100 miles  160km  north-east of  
+on march 5  2009 
+told a senate hearing  the yucca mountain site no longer was viewed as an option for storing reactor waste   starting in 1999  military-generated nuclear waste is being entombed at the
+in new mexico 
+in a presidential memorandum dated january 29  2010  president obama established the   in their final report the commission put forth recommendations for developing a comprehensive strategy to pursue  including 
+ recommendation  1  the united states should undertake an integrated nuclear waste management program that leads to the timely development of one or more permanent deep geological facilities for the safe disposal of spent fuel and high-level nuclear waste  
+medical experimentation
+see also 
+and
+during and after the end of world war ii  scientists working on the manhattan project and other nuclear weapons research projects conducted studies of the effects of plutonium on laboratory animals and human subjects  animal studies found that a few milligrams of plutonium per kilogram of tissue is a lethal dose 
+in the case of human subjects  this involved injecting solutions containing  typically  five micrograms of plutonium into hospital patients thought to be either terminally ill  or to have a life expectancy of less than ten years either due to age or chronic disease condition  this was reduced to one microgram in july 1945 after animal studies found that the way plutonium distributed itself in bones was more dangerous than   most of the subjects 
+says  were poor  powerless  and sick 
+from 1945 to 1947  eighteen human test subjects were injected with plutonium without   the tests were used to create diagnostic tools to determine the uptake of plutonium in the body in order to develop safety standards for working with plutonium 
+was an unwilling participant in medical experiments that involved injection of 4.7 micrograms of plutonium on 10 april 1945 at   this experiment was under the supervision of   other experiments directed by the
+and the manhattan project continued into the 1970s 
+chronicles the lives of the subjects of the secret program by naming each person involved and discussing the ethical and medical research conducted in secret by the scientists and doctors  the episode is now considered to be a serious breach of
+and of the  
+the government covered up most of these radiation mishaps until 1993  when president
+ordered a change of policy and federal agencies then made available relevant records  the resulting investigation was undertaken by the presidents   and it uncovered much of the material about plutonium research on humans  the committee issued a controversial 1995 report which said that  wrongs were committed  but it did not condemn those who perpetrated them 
+applications
+explosives
+the
+in 1945 had a plutonium core 
+the isotope plutonium-239 is a key fissile component in nuclear weapons  due to its ease of fission and availability  encasing the bomb s
+in a
+ an optional layer of dense material  decreases the amount of plutonium needed to reach
+by
+back into the plutonium core  this reduces the amount of plutonium needed to reach criticality from 16kg to 10kg  which is a sphere with a diameter of about 10 centimeters  4in   this critical mass is about a third of that for uranium-235 
+the fat man plutonium bombs used explosive compression of plutonium to obtain significantly higher densities than normal  combined with a central neutron source to begin the reaction and increase efficiency  thus only 6.2kg of plutonium was needed for an
+equivalent to 20 kilotons of tnt  hypothetically  as little as 4kg of plutoniumand maybe even lesscould be used to make a single atomic bomb using very sophisticated assembly designs 
+mixed oxide fuel
+main article 
+from normal
+contains plutonium  but it is a mixture of   240  239 and 238  the mixture is not sufficiently enriched for efficient nuclear weapons  but can be used once as   accidental neutron capture causes the amount of plutonium-242 and 240 to grow each time the plutonium is irradiated in a reactor with low-speed  thermal  neutrons  so that after the second cycle  the plutonium can only be consumed by   if fast neutron reactors are not available  the normal case   excess plutonium is usually discarded  and forms the longest-lived component of nuclear waste  the desire to consume this plutonium and other
+fuels and reduce the radiotoxicity of the waste is the usual reason nuclear engineers give to make fast neutron reactors 
+the most common chemical process 
+ plutoniumuranium extraction 
+spent nuclear fuel to extract plutonium and uranium which can be used to form a mixed oxide  mox  fuel for reuse in nuclear reactors  weapons-grade plutonium can be added to the fuel mix  mox fuel is used in
+and consists of 60kg of plutonium per tonne of fuel  after four years  three-quarters of the plutonium is burned  turned into other elements  
+are specifically designed to create more fissionable material than they consume 
+mox fuel has been in use since the 1980s  and is widely used in europe  in september 2000  the united states and the
+signed a
+by which each agreed to dispose of 34tonnes of weapons-grade plutonium  the
+plans to dispose of 34tonnes of weapons-grade plutonium in the united states before the end of 2019 by converting the plutonium to a mox fuel to be used in commercial nuclear power reactors 
+mox fuel improves total burnup  a fuel rod is reprocessed after three years of use to remove waste products  which by then account for 3  of the total weight of the rods  any uranium or plutonium isotopes produced during those three years are left and the rod goes back into production  the presence of up to 1  gallium per mass in weapons-grade
+has the potential to interfere with long-term operation of a light water reactor 
+plutonium recovered from spent reactor fuel poses little proliferation hazard  because of excessive contamination with non-fissile plutonium-240 and plutonium-242  separation of the isotopes is not feasible  a dedicated reactor operating on very low
+ hence minimal exposure of newly formed plutonium-239 to additional neutrons which causes it to be transformed to heavier isotopes of plutonium  is generally required to produce material suitable for use in efficient   while  weapons-grade  plutonium is defined to contain at least 92  plutonium-239  of the total plutonium   the united states have managed to detonate an
+using plutonium believed to contain only about 85  plutonium-239  so called   fuel-grade  plutonium  the  reactor-grade  plutonium produced by a regular lwr burnup cycle typically contains less than 60  pu-239  with up to 30  parasitic pu-240 pu-242  and 1015  fissile pu-241  it is unknown if a device using plutonium obtained from reprocessed civil nuclear waste can be detonated  however such a device could hypothetically fizzle and spread radioactive materials over a large urban area  the
+conservatively classifies plutonium of all isotopic vectors as  direct-use  material  that is   nuclear material that can be used for the manufacture of nuclear explosives components without transmutation or further enrichment  
+power and heat source
+a glowing cylinder of 238puo2
+the 238puo2 radioisotope thermoelectric generator of the
+the isotope plutonium-238 has a half-life of 87.74years  it emits a large amount of
+with low levels of both  particles and spontaneous neutron rays particles  being an alpha emitter  it combines high energy radiation with low penetration and thereby requires minimal shielding  a sheet of paper can be used to shield against the alpha particles emitted by plutonium-238  one
+of the isotope can generate about 570 watts of heat 
+these characteristics make it well-suited for electrical power generation for devices that must function without direct maintenance for timescales approximating a human lifetime  it is therefore used in
+and
+such as those in the    
+and
+space probes  and the
+ 
+the twin voyager spacecraft were launched in 1977  each containing a 500 watt plutonium power source  over 30 years later  each source is still producing about 300 watts which allows limited operation of each spacecraft  an earlier version of the same technology powered five   starting with
+in 1969 
+plutonium-238 has also been used successfully to power artificial heart   to reduce the risk of repeated surgery  it has been largely replaced by lithium-based   but as of 2003 there were somewhere between 50 and 100 plutonium-powered pacemakers still implanted and functioning in living patients  plutonium-238 was studied as a way to provide supplemental heat to   plutonium-238 mixed with beryllium is used to generate neutrons for research purposes 
+precautions
+see also 
+toxicity
+there are two aspects to the harmful effects of plutonium  the radioactivity and the
+effects  isotopes and compounds of plutonium are radioactive and accumulate in   contamination by plutonium oxide has resulted from   including military nuclear accidents where nuclear weapons have burned  studies of the effects of these smaller releases  as well as of the widespread radiation poisoning sickness and death following the   have provided considerable information regarding the dangers  symptoms and prognosis of   which in the case of the japanese  survivors was largely unrelated to direct plutonium exposure 
+during the decay of plutonium  three types of radiation are releasedalpha  beta  and gamma  alpha  beta  and gamma radiation are all forms of   either acute or longer-term exposure carries a danger of
+including       and death  the danger increases with the amount of exposure  alpha radiation can travel only a short distance and cannot travel through the outer  dead layer of human skin  beta radiation can penetrate human skin  but cannot go all the way through the body  gamma radiation can go all the way through the body  even though alpha radiation cannot penetrate the skin  ingested or inhaled plutonium does irradiate internal organs  the   where plutonium accumulates  and the   where it collects and becomes concentrated  are at risk  plutonium is not absorbed into the body efficiently when ingested  only 0.04  of plutonium oxide is absorbed after ingestion  plutonium absorbed by the body is excreted very slowly  with a
+of 200 years  plutonium passes only slowly through cell membranes and intestinal boundaries  so absorption by ingestion and incorporation into bone structure proceeds very slowly 
+plutonium is more dangerous when inhaled than when ingested  the risk of
+increases once the total radiation
+of inhaled plutonium exceeds 400   the u s  department of energy estimates that the lifetime cancer risk from inhaling 5,000 plutonium particles  each about 3 wide  to be 1  over the background u s  average  ingestion or inhalation of large amounts may cause acute radiation poisoning and possibly death  however no human being is known to have died because of inhaling or ingesting plutonium  and many people have measurable amounts of plutonium in their bodies 
+the    theory in which a particle of plutonium dust irradiates a localized spot of lung tissue is not supported by mainstream researchsuch particles are more mobile than originally thought and toxicity is not measurably increased due to particulate form  when inhaled  plutonium can pass into the bloodstream  once in the bloodstream  plutonium moves throughout the body and into the bones  liver  or other body organs  plutonium that reaches body organs generally stays in the body for decades and continues to expose the surrounding tissue to radiation and thus may cause cancer 
+a commonly cited quote by
+states that a pound of plutonium dust spread into the atmosphere would be enough to kill 8 billion people  however  calculations show that one pound of plutonium could kill no more than 2 million people by inhalation  this makes the toxicity of plutonium roughly equivalent with that of   nader s views were challenged in 1976 by   as described in the book nuclear power  both sides  the best arguments for and against the most controversial technology  cohen s own estimate is that a dose of 200micrograms would likely be necessary to cause cancer 
+several populations of people who have been exposed to plutonium dust  e g  people living down-wind of nevada test sites  nagasaki survivors  nuclear facility workers  and  terminally ill  patients injected with pu in 194546 to study pu metabolism  have been carefully followed and analyzed  these studies generally do not show especially high plutonium toxicity or plutonium-induced cancer results  such as
+who survived into old age after being injected with plutonium   there were about 25 workers from los alamos national laboratory who inhaled a considerable amount of plutonium dust during 1940s  according to the hot-particle theory  each of them has a 99.5  chance of being dead from lung cancer by now  but there has not been a single lung cancer among them  
+plutonium has a metallic taste 
+criticality potential
+a sphere of simulated plutonium surrounded by neutron-reflecting
+blocks in a re-enactment of harry daghlian s 1945 experiment
+care must be taken to avoid the accumulation of amounts of plutonium which approach critical mass  particularly because plutonium s critical mass is only a third of that of uranium-235  a critical mass of plutonium emits lethal amounts of neutrons and   plutonium in solution is more likely to form a critical mass than the solid form due to
+by the hydrogen in water 
+have occurred in the past  some of them with lethal consequences  careless handling of
+bricks around a 6.2kg plutonium sphere resulted in a fatal dose of radiation at los alamos on august 21  1945  when scientist
+received a dose estimated to be 5.1sievert  510  and died 25days later  nine months later  another los alamos scientist    died from a similar accident involving a beryllium reflector and the same plutonium core  the so-called     that had previously claimed the life of daghlian 
+in december 1958  during a process of purifying plutonium at los alamos  a critical mass was formed in a mixing vessel  which resulted in the death of a chemical operator named   other
+have occurred in the soviet union  japan  the united states  and many other countries 
+flammability
+metallic plutonium is a fire hazard  especially if the material is finely divided  in a moist environment  plutonium forms hydrides on its surface  which are pyrophoric and may ignite in air at room temperature  plutonium expands up to 70  in volume as it oxidizes and thus may break its container  the radioactivity of the burning material is an additional hazard 
+sand is probably the most effective material for extinguishing a plutonium fire  it cools the burning material  acting as a   and also blocks off oxygen  special precautions are necessary to store or handle plutonium in any form  generally a dry
+atmosphere is required 
+transportation
+around 11 metric tons of plutonium may be possessed by japan alone  with 36 tons pending return after reprocessing in britain and france  this is probably enough to make 6,000 atomic bombs 
+land and sea
+the usual transportation of plutonium is through the more stable plutonium oxide in a sealed package  a typical transport consists of one truck carrying one protected shipping container  holding a number of packages with a total weight varying from 80 to 200kg of plutonium oxide  a sea shipment may consist of several containers  each of them holding a sealed package  the united states
+dictates that it must be solid instead of powder if the contents surpass 0.74  20  of radioactive activity  in a recent example  the
+and
+of pacific nuclear transport ltd  are taking 331kg  730lbs  of plutonium to a united states government facility in    
+air
+the u s  government air transport regulations permit the transport of plutonium by air  subject to restrictions on other dangerous materials carried on the same flight  packaging requirements  and stowage in the rearmost part of the aircraft 
+in 2012 media revealed that plutonium has been flown out of norway on commercial around every other yearincluding one time in 2011  regulations permit an airplane to transport 15 grams of fissionable material  such plutonium transportation is without problems  according to a senior advisor  seniorrdgiver  at  
+notes
+footnotes
+the puo 
+2 ion is unstable in solution and will disproportionate into pu4  and puo2 
+2  the pu4  will then oxidize the remaining puo 
+2 to puo2 
+2  being reduced in turn to pu3   thus  aqueous solutions of puo 
+2 tend over time towards a mixture of pu3  and puo2 
+2 
+is unstable for the same reason 
+this was not the first time somebody suggested that an element be named  plutonium   a decade after barium was discovered  a cambridge university professor suggested it be renamed to  plutonium  because the element was not  as suggested by the
+root  barys  it was named for  heavy  he reasoned that  since it was produced by the relatively new technique of   its name should refer to   thus he suggested it be named for the roman god of the underworld   
+as one article puts it  referring to information seaborg gave in a talk   the obvious choice for the symbol would have been pl  but facetiously  seaborg suggested pu  like the words a child would exclaim   pee-yoo   when smelling something bad  seaborg thought that he would receive a great deal of flak over that suggestion  but the naming committee accepted the symbol without a word  
+room 405 of the   where the first isolation of plutonium took place  was named a
+in may 1967 
+during the manhattan project  plutonium was also often referred to as simply  49   the number 4 was for the last digit in 94  atomic number of plutonium   and 9 was for the last digit in plutonium-239  the weapons-grade fissile isotope used in nuclear bombs 
+the american society of mechanical engineers  asme  established b reactor as a national historic mechanical engineering landmark in september 1976  in august 2008  b reactor was designated a u s   
+the efficiency calculation is based on the fact that 1kg of plutonium-239  or uranium-235  fissioning results in an energy release of approximately 17   leading to a rounded estimate of 1.2kg plutonium actually fissioned to produce the 20 kt yield 
+much of this plutonium was used to make the fissionable cores of a type of thermonuclear weapon employing the   these so-called  hydrogen bombs  are a variety of nuclear weapon that use a fission bomb to trigger the
+of heavy
+isotopes  their destructive yield is commonly in the millions of tons of tnt equivalent compared with the thousands of tons of tnt equivalent of fission-only devices 
+ gd
+2zr
+2o
+7  has been studied because it could hold plutonium for up to 30million years 
+breakdown of plutonium in a spent nuclear fuel rod  plutonium-239   58    240  24    241  11    242  5    and 238  2   
+there was a major plutonium-initiated fire at the
+near
+in 1969 
+citations
+  pp 835 ff 
+ 
+  wireless information system for emergency responders  wiser   bethesda  md   u s  national library of medicine  national institutes of health  retrieved november 23  2008   public domain text 
+  actinide research quarterly  los alamos  nm   los alamos national laboratory  3rd quarter   2008  retrieved february 9  2010  while plutonium dioxide is normally olive green  samples can be various colors  it is generally believed that the color is a function of chemical purity  stoichiometry  particle size  and method of preparation  although the color resulting from a given preparation method is not always reproducible 
+ 
+sonzogni  alejandro a   2008     upton  national nuclear data center    retrieved september 13  2008 
+ 
+  p 338
+  pp 659660    when you hold a lump of it in your hand  it feels warm  like a live rabbit 
+ 
+  p 544
+ 
+hecker  siegfried s   2000  
+ pdf   los alamos science  26  290335  retrieved february 15  2009 
+hecker  siegfried s   martz  joseph c   2000  
+ pdf   los alamos science  los alamos  new mexico  los alamos national laboratory  26   242  retrieved february 15  2009 
+ 
+baker  richard d   hecker  siegfried s   harbur  delbert r   1983  
+ pdf   los alamos science  los alamos national laboratory  148  150151  retrieved february 15  2009 
+ 
+  pp 427
+ 
+  p 542
+  globalsecurity org 
+    november 20  2014  retrieved february 5  2015 
+  p 905
+glasstone  samuel  redman  leslie m   june 1972  
+ pdf   atomic energy commission division of military applications  p 12  wash-1038  archived from
+ pdf  on august 27  2009 
+  p 40
+ pdf   u s  department of energy  1996  doe dp-1037  archived from
+ pdf  on february 18  2013 
+  p 340
+kennedy  j  w   seaborg  g  t   segr  e   wahl  a  c   1946    properties of element 94   physical review  70  78   555556       
+  p 1259
+ 
+  pp 124125 
+seaborg  glenn t   mcmillan  e   kennedy  j  w   wahl  a  c   1946    radioactive element 94 from deuterons on uranium   physical review  69  78   366       
+  pp 7677 
+  council for nuclear fuel cycle institute for energy economics  japan  may 2001 
+  p 339
+crooks  william j   2002  
+ pdf   retrieved february 15  2006 
+matlack  george  2002   a plutonium primer  an introduction to plutonium chemistry and its radioactivity  los alamos national laboratory  la-ur-02-6594 
+  p 840
+ 
+  p 545
+ 
+  pp 324329
+ 
+  washington  dc   u s  department of energy  office of nuclear safety  quality assurance and environment  1994  archived from
+on april 28  2007 
+crooks  w  j   et al   2002     solvent extraction and ion exchange  20  45   543559    
+ 
+dum  belle  november 20  2002     physicsweb org 
+  p 169
+kolman  d  g    colletti  l  p   2009     ecs transactions  electrochemical society  16  52   71   
+curro  n  j   spring 2006  
+ pdf   los alamos national laboratory 
+mccuaig  franklin d   puzr alloy for high-temperature foil-type fuel    issued on november 22  1977
+  p 73
+ 
+  p 456
+ 
+  p 541
+  u s  department of energy  office of civilian radioactive waste management  2004  archived from
+on october 20  2008  retrieved november 16  2008 
+curtis  david  fabryka-martin  june  paul  dixon  cramer  jan  1999    nature s uncommon elements  plutonium and technetium   geochimica et cosmochimica acta  63  2   275285       
+hoffman  d  c   lawrence  f  o   mewherter  j  l   rourke  f  m   1971    detection of plutonium-244 in nature   nature  234  5325   132134        nr  34 
+  pp 7577 
+hoffman  d  c   lawrence  f  o   mewherter  j  l   rourke  f  m   1971     nature  234  5325   132134       
+peterson  ivars  december 7  1991         140  23   373       retrieved june 29  2015 
+holden  norman e   2001     51st meeting of the usdoe cross section evaluation working group  upton  ny   national nuclear data center  brookhaven national laboratory  retrieved january 3  2009 
+fermi  enrico  december 12  1938  
+ pdf   royal swedish academy of sciences 
+darden  lindley  1998     college park  department of philosophy  university of maryland  retrieved january 3  2008 
+  pp 4452 
+seaborg  glenn t    advanced computing for science department  lawrence berkeley national laboratory  retrieved september 17  2008 
+glenn t  seaborg    lawrence berkeley laboratory  university of california  lbl-13492  de82 004551 
+  pp 7172 
+  p 338 
+clark  david l   hobart  david e   2000  
+ pdf   los alamos science  26  5661  on 57  retrieved february 15  2009 
+clark  david l   hobart  david e   2000  
+ pdf   los alamos science  26  5661  on 57  retrieved february 15  2009 
+  frontline  public broadcasting service  1997  retrieved december 7  2008 
+glenn t  seaborg   history of met lab section c-i  april 1942  april 1943   california univ   berkeley  usa   lawrence berkeley lab    
+  national park service  retrieved december 14  2008 
+ 
+  los alamos national laboratory  retrieved september 15  2015 
+  p 540
+  atomic heritage foundation  retrieved september 15  2015 
+  lanl history  los alamos  new mexico  los alamos national laboratory  retrieved december 23  2008 
+hammel  e f   2000  
+ pdf   los alamos science  26  1   29  retrieved february 15  2009 
+hecker  s s   2000     los alamos science  26  1   12  retrieved february 15  2009 
+sublette  carey    washington  dc   atomic heritage foundation  retrieved december 22  2008 
+  pp 235239 
+ 
+  pp 240242 
+  p 1 
+  national park service  august 29  2008  retrieved august 30  2008 
+  p iv  1
+ 
+lindley  robert  2013     history news network 
+rincon  paul  march 2  2009     bbc news  retrieved march 2  2009 
+gebel  erika  2009    old plutonium  new tricks   analytical chemistry  81  5   1724    
+schwantes  jon m   matthew douglas  steven e  bonde  james d  briggs  et al   2009    nuclear archeology in a bottle  evidence of pre-trinity u s  weapons activities from a waste burial site   analytical chemistry  81  4   12971306      
+sublette  carey  july 3  2007     nuclear weapons frequently asked questions  edition 2.18  the nuclear weapon archive  retrieved january 4  2008 
+ 
+malik  john  september 1985  
+ pdf   los alamos  p table vi  la-8819  retrieved february 15  2009 
+on the figure of 1kg   17 kt  see
+ october 4  2002  
+ pdf   university of michigan symposium  federation of american scientists  retrieved january 4  2009 
+  pp 2229 
+  p 70 
+  richland  u s  department of energy  2001  p 110  doe rl-2001-16  retrieved december 24  2008 
+cochran  thomas b   1997  
+ pdf   international forum on illegal nuclear traffic  washington  dc   natural resources defense council  inc  archived from
+ pdf  on july 5  2013  retrieved december 21  2008 
+ 
+ 
+  p 567 
+poet  se  martell  ea  october 1972     health physics  23  4   53748       retrieved 12 june 2013 
+johnson  cj  october 1981    cancer incidence in an area contaminated with radionuclides near a nuclear installation   ambio  10  4   176182    reprinted in  cancer incidence in an area contaminated with radionuclides near a nuclear installation    colo med  78  38592  oct 1981   
+  u s  fish   wildlife service  retrieved 2 july 2013 
+press secretary  july 23  2002     washington  dc   office of the press secretary  white house  archived from
+on march 6  2008  retrieved february 9  2015 
+hebert  h  josef  2009   nuclear waste won t be going to nevada s yucca mountain  obama official says   chicago tribune  march 6  2009  4 
+accessed 3-6-09 
+ 
+ 
+blue ribbon commission on americas nuclear future 
+ pdf  
+ 
+moss  william  eckhardt  roger  1995  
+ pdf   los alamos science  los alamos national laboratory  23  188  205  208  214  retrieved june 6  2006 
+ 
+voelz  george l   2000    plutonium and health  how great is the risk    los alamos science  los alamos  nm   los alamos national laboratory  26   7879 
+ 
+longworth  r c   novemberdecember 1999  
+ pdf     55  6   5861 
+moss  william  and roger eckhardt   1995    the human plutonium injection experiments   los alamos science  23  177-233 
+openness  doe   june 1998   human radiation experiments  achre report  chapter 5  the manhattan district experiments  the first injection  washington  dc  superintendent of documents us government printing office 
+aec no  ur-38  1948 quarterly technical report
+yesley  michael s   1995  
+ pdf   los alamos science  23  280283  retrieved february 15  2009 
+  p 532 
+ 
+    1998  retrieved december 7  2008 
+ 
+  london  uk   world nuclear association  2006  retrieved december 14  2008 
+  pp 254256 
+  p 15 
+ 
+ pdf   defense nuclear facilities safety board  2004  pp a1  retrieved february 15  2009 
+besmann  theodore m   2005    thermochemical behavior of gallium in weapons-material-derived mixed-oxide light water reactor  lwr  fuel   journal of the american ceramic society  81  12   30713076    
+ 
+  world nuclear association  march 2009  retrieved february 28  2010 
+  institute for energy and environmental research 
+ 
+  actinide research quarterly  los alamos  los alamos national laboratory  1   2005  retrieved february 15  2009 
+ pdf   nasa jpl  december 6  1996  retrieved march 21  2014 
+st  fleur  nicholas    new york times  august 7  2015  the  craft s 125-pound generator  is  called the general purpose heat source-radioisotope thermoelectric generator   it  was stocked with 24 pounds of plutonium that produced about 240 watts of electricity when it left earth in 2006  according to ryan bechtel  an engineer from the department of energy who works on space nuclear power  during the pluto flyby the battery produced 202 watts  mr  bechtel said  the power will continue to decrease as the metal decays  but there is enough of it to command the probe for another 20 years  according to curt niebur  a nasa program scientist on the new horizons mission   retrieved 2015-08-10 
+mosher  dave  september 19  2013       retrieved february 5  2015 
+    june 11  2014  retrieved february 5  2015 
+venkateswara sarma mallela  v  ilankumaran   n srinivasa rao  2004     indian pacing electrophysiol  4  4   201212     
+  oak ridge associated universities  retrieved february 6  2015 
+  oak ridge  orau org  2011  retrieved february 1  2015 
+bayles  john j   taylor  douglas  1970     port hueneme  naval civil engineering lab  ad0708680 
+ pdf   u s  department of health and human services 
+ atsdr   november 2010  retrieved february 9  2015 
+little  m p  june 2009    cancer and non-cancer effects in japanese atomic bomb survivors   j radiol prot  29  2a   a4359         
+ 
+ cdc    retrieved february 5  2015 
+ pdf   u s  department of energy  archived from
+ pdf  on june 30  2007  retrieved december 14  2008 
+ 
+  archived from
+on august 26  2011 
+cohen  bernard l   may 1977    hazards from plutonium toxicity   the radiation safety journal  health physics  32  5   359379    
+brown  shannon c   margaret f  schonbeck  david mcclure  et al   july 2004     american journal of epidemiology  oxford journals  160  2   163172       retrieved february 15  2009 
+ pdf   argonne national laboratory  2001  archived from
+ pdf  on february 16  2013  retrieved june 16  2007 
+  u s  environmental protection agency  retrieved march 15  2011 
+  retrieved january 3  2013 
+ 
+bernard l  cohen    retrieved march 28  2011   online version of cohen s book the nuclear energy option  plenum press  1990    
+  p 77 
+voelz  g  l   1975     the radiation safety journal health physics  29 
+  p 17 
+  p 546
+roark  kevin n   2000     los alamos  nm   los alamos national laboratory  archived from
+on october 8  2008  retrieved november 16  2008 
+  p 85 
+  staff biographies  los alamos  los alamos national laboratory  archived from
+on january 3  2013  retrieved november 16  2008 
+  p 17 
+albright  david  o neill  kevin  1999     isis issue brief  institute for science and international security  isis   archived from
+on july 8  2008  retrieved december 7  2008 
+  world nuclear association  retrieved february 6  2015 
+    retrieved february 6  2015 
+  retrieved 22 march 2016 
+yamaguchi  mari    retrieved 22 march 2016 
+  retrieved 22 march 2016 
+  code of federal regulations 49  transportation  retrieved august 1  2012 
+ 
+av ida sraunet wangberg og anne kari hinna    klassekampen no  retrieved august 13  2012 
+references
+ 1988    nuclear reactors   understanding physics  new york  barnes   noble publishing   
+bernstein  jeremy  2007   plutonium  a history of the world s most dangerous element  washington  d c   joseph henry press     
+ 1961   the birth of the bomb  the untold story of britain s part in the weapon that changed the world  london  phoenix house   
+eagleson  mary  1994   concise encyclopedia chemistry  berlin  walter de gruyter   
+emsley  john  2001    plutonium   nature s building blocks  an az guide to the elements  oxford  uk   oxford university press   
+gosling  f g   1999  
+ pdf   oak ridge  united states department of energy    doe ma-0001-01/99  retrieved february 15  2009 
+greenwood  n  n   earnshaw  a   1997   chemistry of the elements  2nd ed    oxford  uk   butterworth-heinemann   
+heiserman  david l   1992    element 94  plutonium   exploring chemical elements and their compounds  new york  ny   tab books  pp 337340   
+hoddeson  lillian  henriksen  paul w   meade  roger a   westfall  catherine l   1993   critical assembly  a technical history of los alamos during the oppenheimer years  19431945  new york  cambridge university press     
+hunner  jon  2004   inventing los alamos   
+hurst  d  g   ward  a  g   1956  
+ pdf   ottawa  atomic energy of canada limited    retrieved february 6  2015 
+jha  d k   2004     discovery publishing house   
+kaku  michio  trainer  jennifer  1983     w  w  norton   company  retrieved december 8  2013 
+kay  a  e   1965     taylor   francis 
+lide  david r   ed   2006   handbook of chemistry and physics  87th ed    boca raton  crc press  taylor   francis group   
+magurno  b a   pearlstein  s   eds   1981  
+ pdf   ii  upton    retrieved august 6  2014 
+martin  james e   2000   physics for radiation protection  wiley-interscience   
+mclaughlin  thomas p   monahan  shean p   pruvost  norman l   2000  
+ pdf   los alamos  los alamos national laboratory  la-13638  retrieved february 6  2015 
+miner  william n   schonfeld  fred w   1968    plutonium   in clifford a  hampel  the encyclopedia of the chemical elements  new york  ny   reinhold book corporation  pp 540546   
+moody  kenton james  hutcheon  ian d   grant  patrick m   2005     crc press   
+ 1986     new york  simon   schuster   
+seaborg  g  t   seaborg  e   2001   adventures in the atomic age  from watts to washington  farrar  straus and giroux   
+sklar  morty  1984   nuke-rebuke  writers   artists against nuclear energy   weapons  the contemporary anthology series  the spirit that moves us press 
+ 2007     oxford university press     
+till  c e   chang  y i   2011   plentiful energy  the story of the integral fast reactor  the complex history of a simple reactor technology  with emphasis on its scientific basis for non-specialists  charles e  till and yoon il chang   
+wahlen  r k   1989  
+ pdf   richland  washington  westinghouse hanford company  whc-ep-0273  archived from
+ pdf  on march 27  2009  retrieved february 15  2009 
+welsome  eileen  2000   the plutonium files  america s secret medical experiments in the cold war  new york  random house   
+external links
+sutcliffe  w g   et al   1995       archived from
+on september 29  2006 
+johnson  c m   davis  z s   1997     crs report for congress   97-564 enr  retrieved february 15  2009 
+    2005  retrieved february 15  2009 
+bhadeshia  h   
+samuels  d   2005     discover magazine  26  11  
+pike  j   sherman  r   2000       retrieved february 15  2009 
+  nuclearweaponarchive org 
+ong  c   1999     nuclear files org  archived from
+on august 5  2014  retrieved february 15  2009 
+  los alamos science  i   ii  26   2000  retrieved february 15  2009 
+    retrieved february 6  2015 
+    university of nottingham  retrieved february 6  2015 
+view or order collections of articles
+access related topics
+find out more on wikipedia s
+from commons
+from wiktionary
+listen to this page on spoken wikipedia
+science
+plutonium
+therapy
+targeted alpha-particle
+topics
+lists
+products
+disposal
+debate
+by primary
+by
+water
+  
+none
+  
+others
+by
+other
+pu
+unknown
+chemical
+properties
+plutonium compounds
+plutonium ii 
+plutonium iii 
+plutonium iv 
+plutonium vi 
+sites
+administrators
+scientists
+operations
+weapons
+related topics
+plutonium
+ 
+ 
+ 
+retrieved from   
+  hidden categories 

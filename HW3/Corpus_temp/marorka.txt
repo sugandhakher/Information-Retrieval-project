@@ -1,0 +1,91 @@
+marorka
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="infobox vcard" style="width:22em">
+<caption class="fn org">Marorka Ltd.</caption>
+<tr>
+<td class="logo" colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Marorka_logo.gif"><img alt="Marorka logo.gif" data-file-height="402" data-file-width="1916" height="46" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Marorka_logo.gif/220px-Marorka_logo.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Marorka_logo.gif/330px-Marorka_logo.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Marorka_logo.gif/440px-Marorka_logo.gif 2x" width="220"/></a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Types_of_business_entity" title="Types of business entity">Type</a></div>
+</th>
+<td class="category" style="line-height:1.35em;">private limited company</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Industry</th>
+<td class="category" style="line-height:1.35em;"><a href="/wiki/Marine_energy_management" title="Marine energy management">marine energy management</a>, <a class="mw-redirect" href="/wiki/Energy_research" title="Energy research">energy research</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Founded</th>
+<td style="line-height:1.35em;">2002</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Headquarters</th>
+<td class="label" style="line-height:1.35em;"><a href="/wiki/Reykjav%C3%ADk" title="Reykjavík">Reykjavík</a>, <a href="/wiki/Iceland" title="Iceland">Iceland</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Key people</div>
+</th>
+<td class="agent" style="line-height:1.35em;">Jón Ágúst Thorsteinsson, <a class="mw-redirect" href="/wiki/Entrepreneur" title="Entrepreneur">founder</a><br/>
+Kristinn A. Aspelund, Co-founder<br/>
+Juergen Kudritzki, CEO</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Products</th>
+<td style="line-height:1.35em;">Marorka Onboard (energy management system), Marorka Online (energy management dashboard)</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Website</th>
+<td style="line-height:1.35em;"><span class="url"><a class="external text" href="http://www.marorka.com" rel="nofollow">www<wbr></wbr>.marorka<wbr></wbr>.com</a></span></td>
+</tr>
+</table>
+<p><b>Marorka</b> is a company which specializes in <a href="/wiki/Marine_energy_management" title="Marine energy management">marine energy management</a>. Marorka’s head office is in <a class="mw-redirect" href="/wiki/Reykjavik" title="Reykjavik">Reykjavik</a>, <a href="/wiki/Iceland" title="Iceland">Iceland</a> along with its <a href="/wiki/Server_(computing)" title="Server (computing)">servers</a> and data storage infrastructure are supplied with electricity generated using <a href="/wiki/100%25_renewable_energy" title="100% renewable energy">100% renewable energy</a> resources – <a class="mw-redirect" href="/wiki/Geothermal" title="Geothermal">geothermal</a> and <a class="mw-redirect" href="/wiki/Hydroelectric" title="Hydroelectric">hydroelectric</a>. Marorka has international offices in <a href="/wiki/Copenhagen" title="Copenhagen">Copenhagen</a>, DK, <a href="/wiki/Singapore" title="Singapore">Singapore</a>, SG, <a href="/wiki/Athens" title="Athens">Athens</a>, GR and <a href="/wiki/Dubai" title="Dubai">Dubai</a>, AE. Marorka's mission is to deliver products and services to vessel owners and operators to save fuel, increase profitability and reduce harmful emissions.<sup class="reference" id="cite_ref-mar_1-0"><a href="#cite_note-mar-1">[1]</a></sup> The company was founded in June 2002 and resulted from the PhD thesis of Jón Ágúst Thorsteinsson, Entrepreneur and founder.</p>
+<p><b>Marorka</b> has developed reliable, automated, on-board and online <a href="/wiki/Energy_management" title="Energy management">energy management</a> systems for the international <a class="mw-redirect" href="/wiki/Shipping_industry" title="Shipping industry">shipping industry</a>. Marorka’s products and services enable vessel operators to optimize fuel consumption by maximizing the <a href="/wiki/Energy_efficiency_in_transportation" title="Energy efficiency in transportation">energy efficiency</a> of their vessels through the implementation of real-time monitoring and decision support, which are essential components of any operational optimization process. Marorka’s commitment towards energy efficiency goes beyond the technological dimension – ships’ officers play a significant role in increasing energy efficiency and reducing emissions.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Jon_Agust_fran_Marorka-_vinnare_av_Nordiska_radets_miljopris_ar_2008_Vid_prisutdelningen_i_Helsingfors_2008-10-72.jpg"><img alt="" class="thumbimage" data-file-height="2832" data-file-width="4256" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Jon_Agust_fran_Marorka-_vinnare_av_Nordiska_radets_miljopris_ar_2008_Vid_prisutdelningen_i_Helsingfors_2008-10-72.jpg/220px-Jon_Agust_fran_Marorka-_vinnare_av_Nordiska_radets_miljopris_ar_2008_Vid_prisutdelningen_i_Helsingfors_2008-10-72.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Jon_Agust_fran_Marorka-_vinnare_av_Nordiska_radets_miljopris_ar_2008_Vid_prisutdelningen_i_Helsingfors_2008-10-72.jpg/330px-Jon_Agust_fran_Marorka-_vinnare_av_Nordiska_radets_miljopris_ar_2008_Vid_prisutdelningen_i_Helsingfors_2008-10-72.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Jon_Agust_fran_Marorka-_vinnare_av_Nordiska_radets_miljopris_ar_2008_Vid_prisutdelningen_i_Helsingfors_2008-10-72.jpg/440px-Jon_Agust_fran_Marorka-_vinnare_av_Nordiska_radets_miljopris_ar_2008_Vid_prisutdelningen_i_Helsingfors_2008-10-72.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Jon_Agust_fran_Marorka-_vinnare_av_Nordiska_radets_miljopris_ar_2008_Vid_prisutdelningen_i_Helsingfors_2008-10-72.jpg" title="Enlarge"></a></div>
+Jón Ágúst Thorsteinsson at the award ceremony in Helsinki, October 2008.</div>
+</div>
+</div>
+<p>Marorka's field of work:</p>
+<ul>
+<li>consultancy for vessel building</li>
+<li>operational analysis of ocean vessels</li>
+<li>development of Marorka Onboard (energy management system), the <a href="/wiki/Marine_energy_management" title="Marine energy management">marine energy management system</a></li>
+<li>development of Marorka Online and Marorka Online SEEMP</li>
+</ul>
+<p>Marorka’s systems have been installed on board vessels of various types and sizes; <a href="/wiki/Fishing_vessel" title="Fishing vessel">Fishing vessels</a>, <a href="/wiki/Cargo_ship" title="Cargo ship">Cargo vessels</a>, <a href="/wiki/Bulk_carrier" title="Bulk carrier">Bulk carriers</a>, <a href="/wiki/LNG_carrier" title="LNG carrier">LNG carriers</a>, <a href="/wiki/Cruise_ship" title="Cruise ship">Cruise ships</a> and <a class="mw-redirect" href="/wiki/Research_Vessel" title="Research Vessel">Research vessels</a>.</p>
+<p>In 2008, Marorka received the <a href="/wiki/Nordic_Council_Environment_Prize" title="Nordic Council Environment Prize">Nordic Council Environment Prize</a>. 37 companies were nominated for the award.<sup class="reference" id="cite_ref-mar_1-1"><a href="#cite_note-mar-1">[1]</a></sup></p>
+<p>Marorka has implemented a <a href="/wiki/Quality_management_system" title="Quality management system">quality management system</a> built on the <a class="mw-redirect" href="/wiki/ISO_9001:2008" title="ISO 9001:2008">ISO 9001:2008</a> standard, certified by <a class="mw-redirect" href="/wiki/Det_Norske_Veritas" title="Det Norske Veritas">Det Norske Veritas</a>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marorka&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Marine_energy_management" title="Marine energy management">Marine Energy Management</a></li>
+<li><a href="/wiki/Fuel_efficiency" title="Fuel efficiency">Fuel efficiency</a></li>
+<li><a class="mw-redirect" href="/wiki/Energy_Engineering" title="Energy Engineering">Energy Engineering</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marorka&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-mar-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-mar_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mar_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.icelandreview.com/icelandreview/search/news/Default.asp?ew_0_a_id=314506" rel="nofollow">Icelandic Company Earns Nordic Environmental Prize</a></span></li>
+</ol>
+<ul>
+<li>Villemes, Katinka. <a class="external text" href="http://www.norden.org/en/nordic-council/the-nordic-council-prizes/the-nature-and-environment-prize/the-nature-and-environment-prize-2008-goes-to-iceland/?searchterm=Nature%20and%20Environment%20Prize%202008%20goes%20to%20Iceland" rel="nofollow">Nature and Environment Prize 2008 goes to Iceland</a>, <i>norden.org</i>, October 10, 2008</li>
+<li>Wilson-Roberts, Guy. <a class="external text" href="http://sustainableshipping.com/news/i73809/Green_award_for_emissions-reducing_technology" rel="nofollow">Green award for emissions-reducing technology</a>, <i>Sustainable Shipping News</i>, October 28, 2008</li>
+<li><a class="external text" href="http://www.worldfishing.net/product_library/product_library.ehtml?o=804" rel="nofollow">World Fishing</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marorka&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.marorka.com/" rel="nofollow">Marorka's website</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18986312-0!*!0!!*!4!* and timestamp 20161030040848 and revision id 746166362
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Marorka&amp;oldid=746166362">https://en.wikipedia.org/w/index.php?title=Marorka&amp;oldid=746166362</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Companies_of_Iceland" title="Category:Companies of Iceland">Companies of Iceland</a></li><li><a href="/wiki/Category:Energy_conservation" title="Category:Energy conservation">Energy conservation</a></li><li><a href="/wiki/Category:Software_companies_of_Iceland" title="Category:Software companies of Iceland">Software companies of Iceland</a></li><li><a href="/wiki/Category:Companies_established_in_2002" title="Category:Companies established in 2002">Companies established in 2002</a></li><li><a href="/wiki/Category:2002_establishments_in_Iceland" title="Category:2002 establishments in Iceland">2002 establishments in Iceland</a></li><li><a href="/wiki/Category:Companies_based_in_Reykjav%C3%ADk" title="Category:Companies based in Reykjavík">Companies based in Reykjavík</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_infobox_company_with_unsupported_parameters" title="Category:Pages using infobox company with unsupported parameters">Pages using infobox company with unsupported parameters</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

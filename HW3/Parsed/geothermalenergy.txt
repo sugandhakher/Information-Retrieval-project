@@ -1,0 +1,429 @@
+geothermalenergy
+from wikipedia  the free encyclopedia
+jump to 					 
+ geothermal engineering  redirects here  for the british company specializing in the development of geothermal resources  see
+part of a series on
+geothermal
+steam rising from the
+in  
+geothermal energy is
+generated and stored in the earth  thermal energy is the energy that determines the
+of matter  the geothermal energy of the earth s
+originates from the original formation of the planet and from
+of materials  in currently uncertain but possibly roughly equal proportions   the   which is the difference in temperature between the core of the planet and its surface  drives a continuous
+in the form of
+from the core to the surface  the adjective geothermal originates from the greek roots   ge   meaning earth  and   thermos   meaning hot 
+is thermal energy generated from radioactive decay and continual heat loss from earth s formation  temperatures at the
+may reach over 4000c  7,200f   the high temperature and pressure in earth s interior cause some rock to melt and solid
+to behave plastically  resulting in portions of
+upward since it is lighter than the surrounding rock  rock and water is heated in the crust  sometimes up to 370c  700f  
+from   geothermal energy has been used for bathing since
+times and for
+since ancient roman times  but it is now better known for   worldwide  11,700
+ mw  of geothermal power is online in 2013  an additional 28 gigawatts of direct
+capacity is installed for district heating  space heating  spas  industrial processes  desalination and agricultural applications in 2010 
+geothermal power is cost-effective  reliable  sustainable  and environmentally friendly  but has historically been limited to areas near   recent technological advances have dramatically expanded the range and size of viable resources  especially for applications such as home heating  opening a potential for widespread exploitation  geothermal wells release greenhouse gases trapped deep within the earth  but these emissions are much lower per energy unit than those of fossil fuels  as a result  geothermal power has the potential to help mitigate
+if widely deployed in place of fossil fuels 
+the earth s geothermal resources are theoretically more than adequate to supply humanity s energy needs  but only a very small fraction may be profitably exploited  drilling and exploration for deep resources is very expensive  forecasts for the future of geothermal power depend on assumptions about technology  energy prices  subsidies  and interest rates  pilot programs like eweb s customer opt in green power program show that customers would be willing to pay a little more for a renewable energy source like geothermal  but as a result of government assisted research and industry experience  the cost of generating geothermal power has decreased by 25  over the past two decades  in 2001  geothermal energy costs between two and ten us cents per kwh 
+contents
+history
+the oldest known pool fed by a hot spring  built in the
+in the 3rd century bce 
+have been used for bathing at least since
+times  the oldest known spa is a stone pool on china s lisan mountain built in the
+in the 3rd century bc  at the same site where the huaqing chi palace was later built  in the first century ad  romans conquered   now   england  and used the hot springs there to feed
+and   the admission fees for these baths probably represent the first commercial use of geothermal power  the world s oldest geothermal district heating system in   france  has been operating since the 14th century  the earliest industrial exploitation began in 1827 with the use of geyser steam to extract
+from
+in   italy 
+in 1892  america s first
+system in
+was powered directly by geothermal energy  and was copied in
+in 1900  a deep geothermal well was used to heat greenhouses in boise in 1926  and geysers were used to heat greenhouses in iceland and
+at about the same time  charlie lieb developed the first
+in 1930 to heat his house  steam and hot water from geysers began heating homes in iceland starting in 1943 
+global geothermal electric capacity  upper red line is installed capacity  lower green line is realized production 
+in the 20th century  demand for electricity led to the consideration of geothermal power as a generating source  prince
+tested the first geothermal power generator on 4 july 1904  at the same larderello dry steam field where geothermal acid extraction began  it successfully lit four light bulbs  later  in 1911  the world s first commercial geothermal power plant was built there  it was the world s only industrial producer of geothermal electricity until new zealand built a plant in 1958  in 2012  it produced some 594 megawatts 
+invented the
+in 1852  and
+had patented the idea of using it to draw heat from the ground in 1912  but it was not until the late 1940s that the geothermal heat pump was successfully implemented  the earliest one was probably robert c  webber s home-made 2.2kw direct-exchange system  but sources disagree as to the exact timeline of his invention  j  donald kroeker designed the first commercial geothermal heat pump to heat the
+and demonstrated it in 1946  professor carl nielsen of
+built the first residential open loop version in his home in 1948  the technology became popular in sweden as a result of the   and has been growing slowly in worldwide acceptance since then  the 1979 development of
+pipe greatly augmented the heat pumps economic viability 
+in 1960 
+began operation of the first successful geothermal electric power plant in the united states at the geysers in california  the original turbine lasted for more than 30years and produced 11 net power 
+the
+was first demonstrated in 1967 in the
+and later introduced to the us in 1981  this technology allows the generation of electricity from much lower temperature resources than previously  in 2006  a binary cycle plant in   came on-line  producing electricity from a record low fluid temperature of 57c  135f  
+direct usage
+this section contains
+that may be better presented using   you can help by converting the list or lists to prose  if  
+is available   march 2016    
+direct use data 2015
+country
+usage  mwt  2015
+17,415.91
+3.30
+2.30
+155.82
+1,014.00
+487.45
+2,040.00
+2,186.17
+81.50
+3.36
+22.40
+1.00
+308.20
+2,886.30
+0.10
+2.31
+35.20
+17,870.00
+2,346.90
+2.20
+2,848.60
+903.40
+16.09
+128.51
+electricity
+main article 
+the international geothermal association  iga  has reported that 10,715
+ mw  of geothermal power in 24 countries is online  which was expected to generate 67,246 gwh of electricity in 2010  this represents a 20  increase in online capacity since 2005  iga projects growth to 18,500 mw by 2015  due to the projects presently under consideration  often in areas previously assumed to have little exploitable resource 
+in 2010  the
+led the world in geothermal electricity production with 3,086 mw of installed capacity from 77 power plants  the largest group of geothermal
+in the world is located at   a geothermal field in   the
+is the second highest producer  with 1,904 mw of capacity online  geothermal power makes up approximately 27  of philippine electricity generation 
+installed geothermal electric capacity
+country
+capacity  mw 
+2007
+capacity  mw 
+2010
+percentage of national
+electricity production
+percentage of global
+geothermal production
+2687
+3086
+0.3
+29
+1969.7
+1904
+27
+18
+992
+1197
+3.7
+11
+953
+958
+3
+9
+810.5
+843
+1.5
+8
+471.6
+628
+10
+6
+421.2
+575
+30
+5
+535.2
+536
+0.1
+5
+250
+250
+204.2
+204
+25
+128.8
+167
+11.2
+162.5
+166
+14
+87.4
+88
+10
+79
+82
+38
+82
+56
+56
+53
+52
+23
+29
+27.8
+24
+14.7
+16
+7.3
+7.3
+8.4
+6.6
+1.1
+1.4
+0.2
+1.1
+0.3
+0.3
+total
+9,981.9
+10,959.7
+geothermal electric plants were traditionally built exclusively on the edges of tectonic plates where high temperature geothermal resources are available near the surface  the development of
+and improvements in drilling and extraction technology enable
+over a much greater geographical range  demonstration projects are operational in   germany  and   france  while an earlier effort in   switzerland was shut down   other demonstration projects are under construction in   the   and the  
+the
+of geothermal electric plants is low  around 1023   because geothermal fluids do not reach the high temperatures of steam from boilers  the laws of
+limits the efficiency of
+in extracting useful energy  exhaust heat is wasted  unless it can be used directly and locally  for example in greenhouses  timber mills  and district heating  system efficiency does not materially affect operational costs as it would for plants that use fuel  but it does affect return on the capital used to build the plant  in order to produce more energy than the pumps consume  electricity generation requires relatively hot fields and specialized heat cycles    because geothermal power does not rely on variable sources of energy  unlike  for example  wind or solar  its
+can be quite large  up to 96  has been demonstrated  the global average was 73  in 2005 
+types
+geothermal energy comes in either vapor-dominated or liquid-dominated forms 
+and
+are vapor-dominated  vapor-dominated sites offer temperatures from 240 to 300c that produce superheated steam 
+liquid-dominated plants
+liquid-dominated reservoirs  ldrs  were more common with temperatures greater than 200c  392f  and are found near young volcanoes surrounding the pacific ocean and in rift zones and hot spots  flash plants are the common way to generate electricity from these sources  pumps are generally not required  powered instead when the water turns to steam  most wells generate 2-10mwe  steam is separated from liquid via cyclone separators  while the liquid is returned to the reservoir for reheating reuse  as of 2013  the largest liquid system is
+in mexico  which generates 750 mwe from temperatures reaching 350c  662f   the
+field in southern california offers the potential of generating 2000 mwe 
+lower temperature ldrs  120200c  require pumping  they are common in extensional terrains  where heating takes place via deep circulation along faults  such as in the western us and turkey  water passes through a
+in a
+binary plant  the water vaporizes an organic working fluid that drives a   these binary plants originated in the soviet union in the late 1960s and predominate in new us plants  binary plants have no emissions 
+thermal energy
+main articles 
+and
+lower temperature sources produce the energy equivalent of 100m bbl per year  sources with temperatures of 30150c are used without conversion to electricity as       mineral recovery  industrial process heating and bathing in 75 countries  heat pumps extract energy from shallow sources at 1020c in 43 countries for use in space heating and cooling  home heating is the fastest-growing means of exploiting geothermal energy  with global annual growth rate of 30  in 2005 and 20  in 2012 
+approximately 270petajoules pj  of geothermal heating was used in 2004  more than half went for space heating  and another third for heated pools  the remainder supported industrial and agricultural applications  global installed capacity was 28gw  but capacity factors tend to be low  30  on average  since heat is mostly needed in winter  some 88pj for space heating was extracted by an estimated 1.3million
+with a total capacity of 15 gw 
+heat for these purposes may also be extracted from co-generation at a  
+heating is cost-effective at many more sites than electricity generation  at natural hot springs or   water can be piped directly into   in hot  dry ground 
+or
+can collect the heat  however  even in areas where the ground is colder than room temperature  heat can often be extracted with a geothermal heat pump more cost-effectively and cleanly than by conventional furnaces  these devices draw on much shallower and colder resources than traditional geothermal techniques  they frequently combine functions  including    
+collection  and electric heating  heat pumps can be used for space heating essentially anywhere 
+iceland is the world leader in direct applications  some 92.5  of its homes are heated with geothermal energy  saving iceland over  100 million annually in avoided oil imports   
+has the world s biggest district heating system  once known as the most polluted city in the world  it is now one of the cleanest 
+enhanced geothermal
+main article 
+enhanced geothermal systems  egs  actively inject water into wells to be heated and pumped back out  the water is injected under high pressure to expand existing rock fissures to enable the water to freely flow in and out  the technique was adapted from oil and gas extraction techniques  however  the geologic formations are deeper and no toxic chemicals are used  reducing the possibility of environmental damage  drillers can employ
+to expand the size of the reservoir 
+small-scale egs have been installed in the
+at soultz-sous-forts in france and at landau and insheim in germany 
+economics
+geothermal power requires no fuel  except for pumps   and is therefore immune to fuel cost fluctuations  however  capital costs are significant  drilling accounts for over half the costs  and exploration of deep resources entails significant risks  a typical well doublet  extraction and injection wells  in
+can support 4.5
+ mw  and costs about  10million to drill  with a 20  failure rate 
+a power plant at the geysers
+in total  electrical plant construction and well drilling cost about 25million permw of electrical capacity  while the
+price is 0.040.10 perkwh  enhanced geothermal systems tend to be on the high side of these ranges  with capital costs above  4million permw and breakeven above  0.054 perkwh in 2007  direct heating applications can use much shallower wells with lower temperatures  so smaller systems with lower costs and risks are feasible  residential geothermal heat pumps with a capacity of 10kilowatt  kw  are routinely installed for around  13,000 perkilowatt  district heating systems may benefit from economies of scale if demand is geographically dense  as in cities and greenhouses  but otherwise piping installation dominates capital costs  the capital cost of one such district heating system in
+was estimated at somewhat over 1million permw  direct systems of any size are much simpler than electric generators and have lower maintenance costs perkwh  but they must consume electricity to run pumps and compressors  some governments subsidize geothermal projects 
+geothermal power is highly scalable  from a rural village to an entire city 
+the most developed geothermal field in the united states is
+in northern california 
+geothermal projects have several stages of development  each phase has associated risks  at the early stages of reconnaissance and geophysical surveys  many projects are cancelled  making that phase unsuitable for traditional lending  projects moving forward from the identification  exploration and exploratory drilling often trade equity for financing 
+resources
+enhanced geothermal system 1 reservoir 2 pumphouse 3 heatexchanger 4 turbinehall 5 productionwell 6 injectionwell 7 hot water to district heating 8 poroussediments 9 observationwell 10 crystallinebedrock
+the earth s internal thermal energy flows to the surface by conduction at a rate of 44.2
+ tw   and is replenished by radioactive decay of minerals at a rate of 30tw  these power rates are more than double humanitys current energy consumption from all primary sources  but most of this energy flow is not recoverable  in addition to the internal heat flows  the top layer of the surface to a depth of 10 meters  33ft  is heated by solar energy during the summer  and releases that energy and cools during the winter 
+outside of the seasonal variations  the
+of temperatures through the crust is 2530c  7786f  per kilometer of depth in most of the world  the conductive heat
+averages 0.1mw km2  these values are much higher near tectonic plate boundaries where the crust is thinner  they may be further augmented by fluid circulation  either through    
+or a combination of these 
+a geothermal heat pump can extract enough heat from shallow ground anywhere in the world to provide home heating  but industrial applications need the higher temperatures of deep resources  the thermal efficiency and profitability of electricity generation is particularly sensitive to temperature  the most demanding applications receive the greatest benefit from a high natural heat flux  ideally from using a   the next best option is to drill a well into a hot   if no adequate aquifer is available  an artificial one may be built by injecting water to
+the bedrock  this last approach is called
+in europe  or
+in north america  much greater potential may be available from this approach than from conventional tapping of natural aquifers 
+estimates of the potential for electricity generation from geothermal energy vary sixfold  from  035to2tw depending on the scale of investments  upper estimates of geothermal resources assume enhanced geothermal wells as deep as 10 kilometres  6mi   whereas existing geothermal wells are rarely more than 3 kilometres  2mi  deep  wells of this depth are now common in the petroleum industry  the deepest research well in the world  the   is 12 kilometres  7mi  deep 
+production
+according to the geothermal energy association  gea  installed geothermal capacity in the united states grew by 5   or 147.05 mw  ce the last annual survey in march 2012  this increase came from seven geothermal projects that began production in 2012  gea also revised its 2011 estimate of installed capacity upward by 128 mw  bringing current installed u s  geothermal capacity to 3,386 mw 
+has identified at least 39 locations capable of geothermal power production and some of these hydrothermal reservoirs lie quite close to
+which is a significant underutilized resource 
+renewability and sustainability
+geothermal power is considered to be renewable because any projected heat extraction is small compared to the earth s heat content  the earth has an internal heat content of
+ 31015twhr   approximately 100 billion times current  2010  worldwide annual energy consumption  about 20  of this is residual heat from   and the remainder is attributed to higher radioactive decay rates that existed in the past  natural heat flows are not in equilibrium  and the planet is slowly cooling down on geologic timescales  human extraction taps a minute fraction of the natural outflow  often without accelerating it   
+geothermal power is also considered to be sustainable thanks to its power to sustain the earths intricate ecosystems  by using geothermal sources of energy present generations of humans will not endanger the capability of future generations to use their own resources to the same amount that those energy sources are presently used  further  due to its low emissions geothermal energy is considered to have excellent potential for mitigation of global warming 
+even though geothermal power is globally sustainable  extraction must still be monitored to avoid local depletion  over the course of decades  individual wells draw down local temperatures and water levels until a new equilibrium is reached with natural flows  the three oldest sites  at     and the geysers have experienced reduced output because of local depletion  heat and water  in uncertain proportions  were extracted faster than they were replenished  if production is reduced and water is reinjected  these wells could theoretically recover their full potential  such mitigation strategies have already been implemented at some sites  the long-term sustainability of geothermal energy has been demonstrated at the lardarello field in
+since 1913  at the wairakei field in
+since 1958  and at the geysers field in california since 1960 
+electricity generation at poihipi  new zealand 
+electricity generation at ohaaki  new zealand 
+electricity generation at wairakei  new zealand 
+falling electricity production may be boosted through drilling additional supply boreholes  as at
+and   the
+power station has been running much longer  with its first unit commissioned in november 1958  and it attained its peak generation of 173mw in 1965  but already the supply of high-pressure steam was faltering  in 1982 being derated to intermediate pressure and the station managing 157mw  around the start of the 21st century it was managing about 150mw  then in 2005 two 8mw isopentane systems were added  boosting the station s output by about 14mw  detailed data are unavailable  being lost due to re-organisations  one such re-organisation in 1996 causes the absence of early data for poihipi  started 1996   and the gap in 1996/7 for wairakei and ohaaki  half-hourly data for ohaaki s first few months of operation are also missing  as well as for most of wairakei s history 
+environmental effects
+geothermal power station in the philippines
+krafla geothermal station in northeast iceland
+fluids drawn from the deep earth carry a mixture of gases  notably
+ co
+2  
+ h
+2s  
+ ch
+4  and
+ nh
+3   these pollutants contribute to     and noxious smells if released  existing geothermal electric plants emit an average of 122 kilograms  269lb  of co
+2 per megawatt-hour  mwh  of electricity  a small fraction of the
+of conventional fossil fuel plants  plants that experience high levels of acids and volatile chemicals are usually equipped with emission-control systems to reduce the exhaust 
+in addition to dissolved gases  hot water from geothermal sources may hold in solution trace amounts of toxic elements such as       and   these chemicals precipitate as the water cools  and can cause environmental damage if released  the modern practice of injecting cooled geothermal fluids back into the earth to stimulate production has the side benefit of reducing this environmental risk 
+direct geothermal heating systems contain pumps and compressors  which may consume energy from a polluting source  this
+is normally a fraction of the heat output  so it is always less polluting than electric heating  however  if the electricity is produced by burning fossil fuels  then the net emissions of geothermal heating may be comparable to directly burning the fuel for heat  for example  a geothermal heat pump powered by electricity from a
+plant would produce about as much pollution as a natural gas
+of the same size  therefore  the environmental value of direct geothermal heating applications is highly dependent on the emissions intensity of the neighboring electric grid 
+plant construction can adversely affect land stability 
+has occurred in the
+in new zealand  in   germany 
+occurred instead  due to a previously isolated
+layer coming in contact with water and turning into gypsum  doubling its volume 
+can trigger
+as part of   the project in  
+was suspended because more than 10,000 seismic events measuring up to 3.4 on the
+occurred over the first 6 days of water injection 
+geothermal has minimal land and freshwater requirements  geothermal plants use 3.5 square kilometres  1.4sqmi  pergigawatt of electrical production  not capacity  versus 32 square kilometres  12sqmi  and 12 square kilometres  4.6sqmi  for
+facilities and
+respectively  they use 20 litres  5.3usgal  of freshwater per mwh versus over 1,000 litres  260usgal  permwh for nuclear  coal  or oil 
+legal frameworks
+some of the legal issues raised by geothermal energy resources include questions of ownership and allocation of the resource  the grant of exploration permits  exploitation rights  royalties  and the extent to which geothermal energy issues have been recognized in existing planning and environmental laws  other questions concern overlap between geothermal and mineral or petroleum tenements  broader issues concern the extent to which the legal framework for encouragement of renewable energy assists in encouraging geothermal industry innovation and development 
+see also
+references
+this article uses
+that   please
+or discuss this issue on the  
+on using footnotes is available   june 2016    
+dye  s  t   2012    geoneutrinos and the radioactive power of the earth   reviews of geophysics  50  3           
+gando  a   dwyer  d  a   mckeown  r  d   zhang  c   2011    partial radiogenic heat model for earth revealed by geoneutrino measurements   nature geoscience  4  9   647       
+ 
+turcotte  d  l   schubert  g   2002   geodynamics  2 ed    cambridge  england  uk  cambridge university press  pp 136137 
+lay  thorne  hernlund  john  buffett  bruce a   2008    coremantle boundary heat flow   nature geoscience  1  25      
+nemzer  j   
+  bp com  retrieved 2014-11-15
+ 
+fridleifsson  ingvar b   bertani  ruggero  huenges  ernst  lund  john w   ragnarsson  arni  rybach  ladislaus  2008-02-11   o  hohmeyer and t  trittin  ed  
+ pdf   luebeck  germany  pp 5980  archived from
+ pdf  on march 8  2010  retrieved 2009-04-06
+glassley  william e   2010   geothermal energy  renewable energy and the environment  crc press     
+  eweb org
+cothran  helen  2002   energy alternatives  greenhaven press    
+fridleifsson  ingvar b  2001    geothermal energy for the benefit of the people   renewable and sustainable energy reviews  5  3   299   
+cataldi  raffaele  august 1992  
+ pdf   geo-heat centre quarterly bulletin  klamath falls  oregon  oregon institute of technology  18  1   pp 1316  retrieved 2009-11-01
+ 
+lund  john w   june 2007  
+ pdf   geo-heat centre quarterly bulletin  klamath falls  oregon  oregon institute of technology  28  2   pp 19  retrieved 2009-04-16
+dickson  mary h   fanelli  mario  february 2004     pisa  italy  istituto di geoscienze e georisorse  retrieved 2010-01-17
+ 
+bertani  ruggero  september 2007  
+ pdf   geo-heat centre quarterly bulletin  klamath falls  oregon  oregon institute of technology  28  3   pp 819  retrieved 2009-04-12
+tiwari  g  n   ghosal  m  k   2005   renewable energy resources  basic principles and applications  alpha science    
+ 
+moore  j  n   simmons  s  f   2013    more power from below   science  340  6135   933       
+ 
+zogg  m   2022 may 2008  
+ pdf   9th international iea heat pump conference  zrich  switzerland
+ 
+bloomquist  r  gordon  december 1999  
+ pdf   geo-heat centre quarterly bulletin  klamath falls  oregon  oregon institute of technology  20  4   pp 1318  retrieved 2009-03-21
+kroeker  j  donald  chewning  ray c   february 1948    a heat pump in an office building   ashve transactions  54  221238
+gannon  robert  february 1978     popular science  bonnier corporation  212  2   pp 7882  retrieved 2009-11-01
+ 
+lund  j   september 2004  
+ pdf   geo-heat centre quarterly bulletin  klamath falls  oregon  oregon institute of technology  25  3   pp 1119  retrieved 2009-04-13
+mclarty  lynn  reed  marshall j   1992  
+ pdf   energy sources  part a  14  4   443455   
+erkan  k   holdmann  g   benoit  w   blackwell  d   2008    understanding the chena hot flop springs  alaska  geothermal system using temperature and pressure data   geothermics  37  6   565585   
+lund and  john w   boyd  tonya l   april 2015  
+ pdf   proceedings world geothermal congress 2015  retrieved 2015-04-27
+ 
+  p 4
+ 
+  pp 46
+khan  m  ali  2007  
+ pdf   annual forum of the groundwater protection council  archived from
+ pdf  on 2011-07-26  retrieved 2010-01-25
+holm  alison  may 2010  
+ pdf   geothermal energy association  p 7  retrieved 2010-05-24
+ 
+tester  jefferson w   et al   2006  
+ pdf   impact of enhanced geothermal systems  egs  on the united states in the 21st century  an assessment  idaho falls  idaho national laboratory    pp 18 to 133  executive summary     retrieved 2007-02-07
+bertani  ruggero  2009  
+ pdf   proceedings of the international conference on national development of geothermal energy use  slovakia
+lund  john w   2003    the usa geothermal country update   geothermics  32  46   409418   
+ 
+  u s  department of energy 
+lund  john w   freeston  derek h   boyd  tonya l   2429 april 2005  
+ pdf   proceedings world geothermal congress  antalya  turkey  
+ 
+hanova  j  dowlatabadi  h  9 november 2007    strategic ghg reduction through the use of ground source heat pump technology   environmental research letters  2  4   044001      
+pahl  greg  2007   the citizen-powered energy handbook  community solutions to a global crisis  vermont  chelsea green publishing
+  new york  glacier partners  october 2009  retrieved 2009-10-17
+sanyal  subir k   morrow  james w   butler  steven j   robertson-tait  ann  january 2224  2007  
+ pdf   proc  thirty-second workshop on geothermal reservoir engineering  stanford  california
+in the netherlands the number of greenhouses heated by geothermal energy is increasing fast  reif  thomas  january 2008  
+ pdf   geo-heat centre quarterly bulletin  klamath falls  oregon  oregon institute of technology  28  4   pp 14  retrieved 2009-10-16
+lund  john w   boyd  tonya  june 1999  
+ pdf   geo-heat centre quarterly bulletin  klamath falls  oregon  oregon institute of technology  20  2   pp 926  retrieved 2009-06-02
+geothermal energy association    geothermal energy association  retrieved 24 april 2014 
+deloitte  department of energy  february 15  2008    geothermal risk mitigation strategies report   office of energy efficiency and renewable energy geothermal program 
+pollack  h n   s  j  hurter  j  r  johnson  1993    heat flow from the earth s interior  analysis of the global data set   rev  geophys  30  3   267280       
+ 
+rybach  ladislaus  september 2007  
+ pdf   geo-heat centre quarterly bulletin  28  klamath falls  oregon  oregon institute of technology  pp 27  retrieved 2009-05-09 
+cassino  adam  2003     the physics factbook  glenn elert  retrieved 2009-04-09
+  geo-energy org  2013-02-26  retrieved 2013-10-09
+dubyne  david  november 2015  
+ pdf   myanmar business today magazine  68
+  energy auditor  your headquarters for smart sustainable living   retrieved 9 august 2012
+thain  ian a   september 1998  
+ pdf   geo-heat centre quarterly bulletin  klamath falls  oregon  oregon institute of technology  19  3   pp 14  retrieved 2009-06-02
+axelsson  gudni  stefnsson  valgardur  bjrnsson  grmur  liu  jiurong  april 2005  
+ pdf   proceedings world geothermal congress 2005  international geothermal association  retrieved 2010-01-17
+bertani  ruggero  thain  ian  july 2002     iga news 
+ 49   13  archived from
+on 2011-07-26  retrieved 2010-01-17
+bargagli1  r   catenil  d   nellil  l   olmastronil  s   zagarese  b   1997    environmental impact of trace element emissions from geothermal power plants   environmental contamination toxicology  33  2   172181    
+  badische-zeitung de  retrieved on 2013-04-24 
+  dlr de  2009-10-21   retrieved on 2013-04-24 
+  wechselwirkung eu  retrieved on 2013-04-24 
+deichmann  n   mai  bethmann  ernst  evans  fh  giardini  hring  husen  et al   2007    seismicity induced by water injection for geothermal reservoir stimulation 5km below the city of basel  switzerland   american geophysical union    53  08   
+bibliography
+gea  may 2010  
+ pdf     pp 46
+external links
+look up
+in wiktionary  the free dictionary 
+wikimedia commons has media related to  
+by the  s
+geothermal energy
+geothermal energy
+technologies
+energy concepts
+portals 
+concepts
+sources
+and
+  
+ tso 
+protective
+devices
+ gfi 
+economics
+and policies
+categories
+portals
+emissions
+  
+geothermal
+types  location
+aspects
+related
+ 
+ 
+ 
+retrieved from   
+  hidden categories 

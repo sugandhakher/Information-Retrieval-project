@@ -1,0 +1,135 @@
+philosophicaltransactionsoftheroyalsocietya
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="infobox hproduct" style="width:22em">
+<caption style="font-size:130%;"><i><span class="fn">Philosophical Transactions of the Royal Society A</span></i> <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.stitle=Phil.+Trans.+R.+Soc.+A&amp;rft.issn=1364-503X&amp;rft_id=http%3A%2F%2Frsta.royalsocietypublishing.org"> </span></caption>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Cover_of_Philosophical_Transactions_A_issue_2061.tif"><img alt="Cover of Philosophical Transactions A issue 2061.tif" data-file-height="276" data-file-width="184" height="276" src="//upload.wikimedia.org/wikipedia/en/thumb/d/dd/Cover_of_Philosophical_Transactions_A_issue_2061.tif/lossless-page1-184px-Cover_of_Philosophical_Transactions_A_issue_2061.tif.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/dd/Cover_of_Philosophical_Transactions_A_issue_2061.tif/lossless-page1-276px-Cover_of_Philosophical_Transactions_A_issue_2061.tif.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/dd/Cover_of_Philosophical_Transactions_A_issue_2061.tif/lossless-page1-368px-Cover_of_Philosophical_Transactions_A_issue_2061.tif.png 2x" width="184"/></a></td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Abbreviated title (<a href="/wiki/ISO_4" title="ISO 4">ISO 4</a>)</div>
+</th>
+<td class="identifier" style="text-align:left;"><i>Phil. Trans. R. Soc. A</i></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Outline_of_academic_disciplines" title="Outline of academic disciplines">Discipline</a></th>
+<td class="category" style="text-align:left;"><a href="/wiki/Physics" title="Physics">Physics</a>, <a href="/wiki/Chemistry" title="Chemistry">chemistry</a>, <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, <a href="/wiki/Engineering" title="Engineering">engineering</a>, <a class="mw-redirect" href="/wiki/Earth_sciences" title="Earth sciences">earth sciences</a></td>
+</tr>
+<tr>
+<th scope="row">Language</th>
+<td style="text-align:left;">English</td>
+</tr>
+<tr>
+<th scope="row">Edited by</th>
+<td style="text-align:left;"><a href="/wiki/David_Garner" title="David Garner">David Garner</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#dfc;">Publication details</th>
+</tr>
+<tr>
+<th scope="row">Publisher</th>
+<td style="text-align:left;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Royal_Society" title="Royal Society">Royal Society</a> <span style="font-size:90%;">(United Kingdom)</span></div>
+</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Publication history</div>
+</th>
+<td style="text-align:left;">1665-present</td>
+</tr>
+<tr>
+<th scope="row">Frequency</th>
+<td style="text-align:left;">Fortnightly</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Open_access_journal" title="Open access journal"><span class="wrap">Open access</span></a></div>
+</th>
+<td style="text-align:left;">Hybrid and delayed, after 24 months</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Impact_factor" title="Impact factor"><span class="wrap">Impact factor</span></a><br/>
+<span style="font-weight:normal">(2014)</span></div>
+</th>
+<td style="text-align:left;">2.147</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#dfc;">Indexing</th>
+</tr>
+<tr>
+<th scope="row"><span class="type"><a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a></span></th>
+<td style="text-align:left;"><span class="value"><a class="external text" href="//www.worldcat.org/issn/1364-503X" rel="nofollow">1364-503X</a></span> (print)<br/>
+<a class="external text" href="//www.worldcat.org/issn/1471-2962" rel="nofollow">1471-2962</a> (web)<br/></td>
+</tr>
+<tr>
+<th scope="row"><span class="type"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a></span></th>
+<td style="text-align:left;"><a class="external text" href="//lccn.loc.gov/97655039" rel="nofollow">97655039</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="type"><a href="/wiki/CODEN" title="CODEN">CODEN</a></span></th>
+<td style="text-align:left;">PTMSFB</td>
+</tr>
+<tr>
+<th scope="row"><span class="type"><a href="/wiki/OCLC" title="OCLC">OCLC</a> no.</span></th>
+<td style="text-align:left;"><a class="external text" href="//www.worldcat.org/oclc/34435526" rel="nofollow">34435526</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#dfc;">Links</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;text-align:left;">
+<ul>
+<li><a class="external text" href="http://rsta.royalsocietypublishing.org" rel="nofollow">Journal homepage</a></li>
+<li><a class="external text" href="http://rsta.royalsocietypublishing.org/content/current" rel="nofollow">Online access</a></li>
+<li><a class="external text" href="http://rsta.royalsocietypublishing.org/content" rel="nofollow">Online archive</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<p><i><b>Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences</b></i> is a fortnightly <a href="/wiki/Peer_review" title="Peer review">peer-reviewed</a> <a href="/wiki/Scientific_journal" title="Scientific journal">scientific journal</a> published by the <a href="/wiki/Royal_Society" title="Royal Society">Royal Society</a>. It publishes original research and review content in a wide range of physical scientific disciplines. Articles can be accessed online a few months prior to the printed journal. All articles become freely accessible two years after their publication date. The current <a href="/wiki/Editor-in-chief" title="Editor-in-chief">editor-in-chief</a> is <a href="/wiki/David_Garner" title="David Garner">Dave Garner</a> (<a href="/wiki/University_of_Nottingham" title="University of Nottingham">University of Nottingham</a>).</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Impact"><span class="tocnumber">3</span> <span class="toctext">Impact</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Philosophical_Transactions_of_the_Royal_Society_A&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Philosophical Transactions of the Royal Society A</i> publishes themed journal issues on topics of current scientific importance and general interest within the <a href="/wiki/Outline_of_physical_science" title="Outline of physical science">physical</a>, <a href="/wiki/Mathematics" title="Mathematics">mathematical</a> and <a href="/wiki/Engineering_physics" title="Engineering physics">engineering sciences</a>, edited by leading authorities and comprising original research, reviews and opinions from prominent researchers. Past issue titles include "Supercritical fluids - green solvents for green chemistry?", "Tsunamis: Bridging science, engineering and society", "Spatial transformations: from fundamentals to applications", and "Before, behind and beyond the discovery of the Higgs boson".</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Philosophical_Transactions_of_the_Royal_Society_A&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i><a href="/wiki/Philosophical_Transactions_of_the_Royal_Society" title="Philosophical Transactions of the Royal Society">Philosophical Transactions of the Royal Society</a></i> was established in 1665 by the <a href="/wiki/Royal_Society" title="Royal Society">Royal Society</a> and is the oldest scientific journal in the English-speaking world.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> <a href="/wiki/Henry_Oldenburg" title="Henry Oldenburg">Henry Oldenburg</a> was appointed as the first (joint) secretary to the society and he was also the first editor of the society's journal. In 1887 the journal expanded to become two separate publications, one serving the <a class="mw-redirect" href="/wiki/Physical_sciences" title="Physical sciences">physical sciences</a>, <i>Philosophical Transactions of the Royal Society A: Physical, Mathematical and Engineering Sciences</i>, and the other focusing on the <a class="mw-redirect" href="/wiki/Life_sciences" title="Life sciences">life sciences</a>, <i><a class="mw-redirect" href="/wiki/Philosophical_Transactions_of_the_Royal_Society_B:_Biological_Sciences" title="Philosophical Transactions of the Royal Society B: Biological Sciences">Philosophical Transactions of the Royal Society B: Biological Sciences</a></i>. Nowadays, both journals publish themed issues and discussion meeting issues, while individual <a href="/wiki/Research" title="Research">research articles</a> are published in the sister journal <i><a href="/wiki/Proceedings_of_the_Royal_Society" title="Proceedings of the Royal Society">Proceedings of the Royal Society</a></i>.</p>
+<p>The journal celebrated its 350th anniversary in 2015. To commemorate this event it published a special collection<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> of commentaries on landmark papers from the archive by scientists such as <a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a>, <a href="/wiki/Humphry_Davy" title="Humphry Davy">Humphry Davy</a> and <a href="/wiki/Michael_Faraday" title="Michael Faraday">Michael Faraday</a>.</p>
+<h2><span class="mw-headline" id="Impact">Impact</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Philosophical_Transactions_of_the_Royal_Society_A&amp;action=edit&amp;section=3" title="Edit section: Impact">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to the <i><a href="/wiki/Journal_Citation_Reports" title="Journal Citation Reports">Journal Citation Reports</a></i>, the journal has a 2014 <a href="/wiki/Impact_factor" title="Impact factor">impact factor</a> of 2.147, ranking it 11th out of 56 journals in the category "Multidisciplinary Sciences".<sup class="reference" id="cite_ref-WoS_3-0"><a href="#cite_note-WoS-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Philosophical_Transactions_of_the_Royal_Society_A&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book"><a class="external text" href="https://royalsociety.org/~/media/publishing350/publishing350-exhibition-catalogue.pdf" rel="nofollow"><i>Philosophical Transactions: 350 years of publishing at the Royal Society (1665 – 2015)</i></a> <span style="font-size:85%;">(PDF)</span>. The Royal Society.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhilosophical+Transactions+of+the+Royal+Society+A&amp;rft.btitle=Philosophical+Transactions%3A+350+years+of+publishing+at+the+Royal+Society+%281665+%93+2015%29&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Froyalsociety.org%2F~%2Fmedia%2Fpublishing350%2Fpublishing350-exhibition-catalogue.pdf&amp;rft.pub=The+Royal+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a class="external text" href="http://rsta.royalsocietypublishing.org/content/373/2039" rel="nofollow">"Celebrating 350 years of Philosophical Transactions: physical sciences papers"</a>. <i>Phil. Trans. R. Soc. A</i>. <b>373</b> (2039). 6 March 2015.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhilosophical+Transactions+of+the+Royal+Society+A&amp;rft.atitle=Celebrating+350+years+of+Philosophical+Transactions%3A+physical+sciences+papers&amp;rft.date=2015-03-06&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Frsta.royalsocietypublishing.org%2Fcontent%2F373%2F2039&amp;rft.issue=2039&amp;rft.jtitle=Phil.+Trans.+R.+Soc.+A&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=373"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-WoS-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-WoS_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">"Journals Ranked by Impact: Multidisciplinary Sciences". <i>2014 <a href="/wiki/Journal_Citation_Reports" title="Journal Citation Reports">Journal Citation Reports</a></i>. Web of Science (Science ed.). <a href="/wiki/Thomson_Reuters" title="Thomson Reuters">Thomson Reuters</a>. 2015.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhilosophical+Transactions+of+the+Royal+Society+A&amp;rft.atitle=Journals+Ranked+by+Impact%3A+Multidisciplinary+Sciences&amp;rft.btitle=2014+Journal+Citation+Reports&amp;rft.date=2015&amp;rft.edition=Science&amp;rft.genre=bookitem&amp;rft.pub=Thomson+Reuters&amp;rft.series=Web+of+Science&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> <span class="error citation-comment" style="display:none;font-size:100%"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Philosophical_Transactions_of_the_Royal_Society_A&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a class="external text" href="http://rsta.royalsocietypublishing.org" rel="nofollow">Official website</a></span></span></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:10619007-0!*!0!!en!4!* and timestamp 20161107120414 and revision id 710672380
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Philosophical_Transactions_of_the_Royal_Society_A&amp;oldid=710672380">https://en.wikipedia.org/w/index.php?title=Philosophical_Transactions_of_the_Royal_Society_A&amp;oldid=710672380</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Multidisciplinary_scientific_journals" title="Category:Multidisciplinary scientific journals">Multidisciplinary scientific journals</a></li><li><a href="/wiki/Category:Publications_established_in_1887" title="Category:Publications established in 1887">Publications established in 1887</a></li><li><a href="/wiki/Category:Biweekly_journals" title="Category:Biweekly journals">Biweekly journals</a></li><li><a href="/wiki/Category:English-language_journals" title="Category:English-language journals">English-language journals</a></li><li><a href="/wiki/Category:Royal_Society_academic_journals" title="Category:Royal Society academic journals">Royal Society academic journals</a></li><li><a href="/wiki/Category:1887_establishments_in_the_United_Kingdom" title="Category:1887 establishments in the United Kingdom">1887 establishments in the United Kingdom</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">Pages using citations with accessdate and no URL</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_with_outdated_impact_factors_from_2014" title="Category:Articles with outdated impact factors from 2014">Articles with outdated impact factors from 2014</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

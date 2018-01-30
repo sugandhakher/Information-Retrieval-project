@@ -1,0 +1,34 @@
+urbandensity
+from wikipedia  the free encyclopedia
+jump to 					 
+urban density is a term used in
+and
+to refer to the number of people inhabiting a given   as such it is to be distinguished from other measures of   urban density is considered an important factor in understanding how cities function  research related to urban density occurs across diverse areas  including economics  health  innovation  psychology and geography as well as  
+contents
+sustainability  
+a graph showing the relationship between urban density and petrol use 
+it is commonly asserted that higher density cities are more sustainable than low density cities  much urban   particularly in north america  the uk  australia and new zealand has been developed premised on raising urban densities  such as     and    
+however  the link between urban density and aspects of
+remains a contested area of planning theory      prominent urban designer and expert on   argues that low-density  dispersed cities are unsustainable as they are   a minority  such as randy o toole of the libertarian   counter that raising densities results in more expensive real estate  greater road congestion and more localized air pollution  others counter that traffic congestion is a result not of population density but of parking capacity  at a broader level  there is evidence to indicate a strong negative correlation between the total energy consumption of a city and its overall urban density  i e  the lower the density  the more energy consumed 
+measurement  
+urban density is a very specific measurement of the population of an urbanized area  excluding non-urban land-uses  non-urban uses include regional open space  agriculture and water-bodies 
+there are a variety of other ways of measuring the density of urban areas 
+- the total floor area of buildings divided by land area of the lot upon which the buildings are built
+residential density - the number of dwelling units in any given area
+- the number of human persons in any given area
+employment density - the number of jobs in any given area
+gross density - any density figure for a given area of land that includes uses not necessarily directly relevant to the figure  usually roads and other transport infrastructure 
+net density - a density figure for a given area of land that excludes land not directly related to the figure 
+weighted density - a density metric which measures the density at which the average citizen lives  it is determined by calculating the standard density of each census tract  assigning each a weight equal to its share of the total population  and then adding the segments 
+see also  
+references  
+jones  christopher  energy and resources group  goldman school of public policy  and department of nuclear engineering  university of california  berkeley  california 94720  united states environ  sci  technol   2014  48  2   pp 895902     environmental science and technology     retrieved december 13  2013  line feed character in  date  at position 170     check date values in   date    
+jacobsen  shaun  2014-01-14     transitized     tall buildings dont create traffic  cars create traffic  if we want less  automobile  traffic on the streets  we need to build less capacity for them  including parking 
+newman  peter  jeffrey r  kenworthy  1999   sustainability and cities  overcoming automobile dependence  island press   
+further reading  
+and kenworthy  j  1999  cities and sustainability  overcoming automobile dependence  washington  d  c   island press
+pont  meta y  berghauser and haupt  per  2010  spacematrix  space  density and urban form  nai publishers 
+and pafka  elek  2014   the urban density assemblage  modelling multiple measures  in urban design international  vol 19  nr  1  pg 66-76
+external links  
+retrieved from   
+  hidden categories 

@@ -1,0 +1,268 @@
+fisheriesmanagement
+from wikipedia  the free encyclopedia
+jump to 					 
+fisheries management draws on
+in order to find ways to protect
+resources so
+is possible  modern fisheries management is often referred to as a governmental system of appropriate management rules based on defined objectives and a mix of management means to implement the rules  which are put in place by a system of   according to the
+ fao   there are  no clear and generally accepted definitions of fisheries management   however  the working definition used by the fao and much cited elsewhere is 
+the integrated process of information gathering  analysis  planning  consultation  decision-making  allocation of resources and formulation and implementation  with enforcement as necessary  of regulations or rules which govern fisheries activities in order to ensure the continued productivity of the resources and the accomplishment of other fisheries objectives 
+contents
+history  
+fisheries have been explicitly managed in some places for hundreds of years  more than 80 percent of the worlds commercial exploitation of fish and shellfish are harvest from natural occurring populations in the oceans and freshwater areas  for example  the   new zealand residents for about 700 years  had prohibitions against taking more than what could be eaten and about giving back the first fish caught as an offering to sea god   starting in the 18th century attempts were made to regulate fishing in the
+fishery  this resulted in the enactment of a law in 1816 on the
+fishery  which established in some measure what has come to be known as territorial use rights 
+ the fishing banks were divided into areas belonging to the nearest fishing base on land and further subdivided into fields where the boats were allowed to fish  the allocation of the fishing fields was in the hands of local governing committees  usually headed by the owner of the onshore facilities which the fishermen had to rent for accommodation and for drying the fish  
+governmental resource protection-based fisheries management is a relatively new idea  first developed for north european fisheries after the first
+conference held in london in 1936  in 1957 british fisheries researchers
+and
+published a seminal work on
+commercial fisheries dynamics  in the 1960s the work became the theoretical platform for north european management schemes 
+after some years away from the field of fisheries management  beverton criticized his earlier work in a paper given at the first world fisheries congress in athens in 1992   the dynamics of exploited fish populations  expressed his concerns  including the way his and sidney holt s work had been misinterpreted and misused by fishery biologists and managers during the previous 30 years  nevertheless  the institutional foundation for modern fishery management had been laid 
+in 1996  the
+was founded to set standards for   in 2010  the
+was created to do the same for  
+a report by   international sustainability unit  the new york-based
+and 50in10 published in july 2014 estimated global fisheries were adding  270 billion a year to global gdp  but by full implementation of sustainable fishing  that figure could rise by an extra amount of as much as  50 billion 
+political objectives  
+according to the   fisheries management should be based explicitly on political objectives  ideally with transparent priorities  typical political objectives when exploiting a fish resource are to 
+secure and increase employment
+secure protein production and food supplies
+increase export income
+such political goals can also be a weak part of fisheries management  since the objectives can conflict with each other 
+international objectives  
+fisheries objectives need to be expressed in concrete management rules  in most countries fisheries management rules should be based on the internationally agreed  though non-binding  code of conduct for responsible fisheries  agreed at a meeting of the u n  s food and agriculture organization
+session in 1995  the
+it prescribes is typically implemented in concrete management rules as minimum
+  maximum fishing mortality rates  etc  in 2005 the
+at the
+comprehensively reviewed the performance of the world s major fishing nations against the code 
+international agreements are required in order to regulate fisheries in international waters  the desire for agreement on this and other maritime issues led to three conferences on the law of the sea  and ultimately to the treaty known as the
+ unclos   concepts such as
+ eez  extending 200 nautical miles  370km  from a nation s coasts  allocate certain sovereign rights and responsibilities for resource management to individual countries 
+other situations need additional intergovernmental coordination  for example  in the mediterranean sea and other relatively narrow bodies of water  eez of 200 nautical miles  370km  are irrelevant  international waters beyond 12-nautical-mile  22km  from shore require explicit agreements 
+  which
+through more than one eez also present challenges  here sovereign responsibility must be agreed with neighbouring
+and fishing entities  usually this is done through the medium of a regional organisation set up for the purpose of
+of that stock 
+unclos does not prescribe precisely how fisheries confined only to international waters should be managed  several new fisheries  such as high seas
+fisheries  are not  yet  subject to international agreement across their entire range  in november 2004 the
+issued a resolution on fisheries that prepared for further development of international fisheries management law 
+management mechanisms  
+many countries have set up ministries government departments  named    or similar  controlling aspects of fisheries within their   four categories of management means have been devised  regulating either input investment  or output  and operating either directly or indirectly 
+inputs
+outputs
+indirect
+vessel licensing
+catching techniques
+direct
+limited entry
+and technical regulation
+technical means may include 
+prohibiting devices such as bows and arrows  and spears  or firearms
+prohibiting nets
+setting minimum mesh sizes
+limiting the average potential catch of a vessel in the fleet  vessel and crew size  gear  electronic gear and other physical  inputs  
+prohibiting bait
+snagging
+limits on fish traps
+limiting the number of poles or lines per fisherman
+restricting the number of simultaneous fishing vessels
+limiting a vessel s average operational intensity per unit time at sea
+limiting average time at sea
+catch quotas  
+main article 
+systems that use individual transferable quotas  itq   also called individual fishing quota limit the total catch and allocate shares of that quota among the fishers who work that fishery  fishers can buy sell trade shares as they choose 
+a large scale study in 2008 provided strong evidence that itq s can help to prevent fishery collapse and even restore fisheries that appear to be in decline  other studies have shown negative socio-economic consequences of itqs  especially on small-sclale fisheries  these consequences include concentration of quota in that hands of few fishers  increased number of inactive fishers leasing their quotas to others  a phenomenon known as armchair fishermen   and detrimental effects on coastal communities 
+precautionary principle  
+the fishery manager s guidebook issued in 2009 by the
+of the united nations  advises that the precautionary approach or principle should be applied when  ecosystem resilience and human impact  including reversibility  are difficult to forecast and hard to distinguish from natural changes   130 the
+suggests that when an action risks harm  it should not be proceeded with until it can be scientifically proven to be safe  historically fishery managers have applied this principle the other way round  fishing activities have not been curtailed until it has been proven that they have already damaged existing ecosystems  in a paper published in 2007  shertzer and prager suggested that there can be significant benefits to
+and fishery yield if management is stricter and more prompt 
+fisheries law  
+main article 
+is an emerging and specialized area of law which includes the study and analysis of different fisheries management approaches  including seafood safety regulations and aquaculture regulations  despite its importance  this area is rarely taught at law schools around the world  which leaves a vacuum of advocacy and research 
+climate change  
+main article 
+in the past  changing
+has affected inland and offshore fisheries and such changes are likely to continue  from a fisheries perspective  the specific driving factors of climate change include rising water temperature  alterations in the   changes in nutrient fluxes  and relocation of
+and nursery habitat  further  changes in such factors would affect resources at all levels of biological organization  including the genetic  organism  population  and
+levels 
+population dynamics  
+main article 
+describes the growth and decline of a given fishery
+over time  as controlled by birth  death and migration  it is the basis for understanding changing fishery patterns and issues such as habitat destruction  predation and optimal harvesting rates  the population dynamics of fisheries has been traditionally used by
+to determine  
+the basic accounting relation for population dynamics is the
+model 
+n1   n0   b  d   i  e
+where n1 is the number of individuals at time 1  n0 is the number of individuals at time 0  b is the number of individuals born  d the number that died  i the number that immigrated  and e the number that emigrated between time 0 and time 1  while immigration and emigration can be present in   they are usually not measured 
+care is needed when applying population dynamics to real world fisheries  in the past  over-simplistic modelling  such as ignoring the size  age and reproductive status of the fish  focusing solely on a single species  ignoring
+and
+to the ecosystem  has accelerated the collapse of key  
+ecosystem based fisheries  
+
+we propose that rebuilding ecosystems  and not sustainability per se  should be the goal of fishery management  sustainability is a deceptive goal because human harvesting of fish leads to a progressive simplification of ecosystems in favour of smaller  high turnover  lower trophic level fish species that are adapted to withstand disturbance and habitat degradation 
+
+ and  
+see also 
+according to
+chris frid  the
+points to pollution and global warming as the causes of unprecedentedly low fish stocks in recent years  writing   everybody would like to see the rebuilding of fish stocks and this can only be achieved if we understand all of the influences  human and natural  on fish dynamics  
+has also had an effect  frid adds  fish communities can be altered in a number of ways  for example they can decrease if particular sized individuals of a species are targeted  as this affects   fishing  however  is not the sole perpetrator of changes to marine life -
+is another example       no one factor operates in isolation and components of the ecosystem respond differently to each individual factor  
+in contrast to the traditional approach of focusing on a single species  the
+is organized in terms of   ecosystem-based fishery concepts have been implemented in some regions  in 2007 a group of scientists offered the following ten commandments
+
+keep a perspective that is holistic  risk-adverse and adaptive 
+maintain an old growth structure in fish populations  since big  old and fat female fish have been shown to be the best spawners  but are also susceptible to overfishing 
+characterize and maintain the natural spatial structure of fish stocks  so that management boundaries match natural boundaries in the sea 
+monitor and maintain seafloor habitats to make sure fish have food and shelter 
+maintain resilient ecosystems that are able to withstand occasional shocks 
+identify and maintain critical food-web connections  including predators and forage species 
+adapt to ecosystem changes through time  both short-term and on longer cycles of decades or centuries  including global climate change 
+account for evolutionary changes caused by fishing  which tends to remove large  older fish 
+include the actions of humans and their social and economic systems in all ecological equations 
+
+report to congress  2009  
+national marine fisheries service  noaa technical memorandum nmfs-f spo-96 
+elderly maternal fish  
+old fat female rockfish are the best producers
+traditional management practices aim to reduce the number of old  slow-growing fish  leaving more room and resources for younger  faster-growing fish  most marine fish produce huge numbers of eggs  the assumption was that younger spawners would produce plenty of viable  
+however  2005 research on
+shows that large  elderly females are far more important than younger fish in maintaining productive fisheries  the larvae produced by these older maternal fish grow faster  survive starvation better  and are much more likely to survive than the offspring of younger fish  failure to account for the role of older fish may help explain recent collapses of some major us west coast fisheries  recovery of some stocks is expected to take decades  one way to prevent such collapses is to establish marine reserves  where fishing is not allowed and fish populations age naturally 
+data quality  
+according to fisheries scientist milo adkison  the primary limitation in fisheries management decisions is the absence of quality data  fisheries management decisions are often based on population models  but the models need quality data to be effective  he asserts that scientists and fishery managers would be better served with simpler models and improved data 
+the most reliable source for summary statistics is the
+fisheries department 
+ecopath  
+  with
+ ewe   is an
+modelling   it was initially a
+initiative led by jeffrey polovina  later primarily developed at the
+of the   in 2007  it was named as one of the ten biggest scientific breakthroughs in noaas 200-year history  the citation states that ecopath  revolutionized scientists ability worldwide to understand complex marine ecosystems   behind this lies two decades of development work by       and other   as of 2010 there are 6000 registered users in 155 countries  ecopath is widely used in fisheries management as a tool for modelling and visualising the complex relationships that exist in real world marine ecosystems 
+human factors  
+managing fisheries is about managing people and businesses  and not about managing fish  fish populations are managed by regulating the actions of people  if fisheries management is to be successful  then associated human factors  such as the reactions of fishermen  are of key importance  and need to be understood 
+management regulations must also consider the implications for stakeholders  commercial fishermen rely on catches to provide for their families just as farmers rely on crops  commercial fishing can be a traditional trade passed down from generation to generation  most commercial fishing is based in towns built around the fishing industry  regulation changes can impact an entire towns economy  cuts in harvest quotas can have adverse effects on the ability of fishermen to compete with the tourism industry 
+performance  
+the
+of global
+has been allowed to run down  this biomass is now diminished to the point where it is no longer possible to
+catch the amount of fish that could be caught  according to a 2008 un report  titled   the world s
+incur a   us 50 billion annual economic loss  through depleted stocks and poor fisheries management  the report  produced jointly by the
+and the un
+ fao   asserts that half the world s
+could be scrapped with no change in catch 
+ by improving governance of marine fisheries  society could capture a substantial part of this  50 billion annual economic loss  through comprehensive reform  the fisheries sector could become a basis for economic growth and the creation of alternative livelihoods in many countries  at the same time  a nations natural capital in the form of fish stocks could be greatly increased and the negative impacts of the fisheries on the marine environment reduced  
+the most prominent failure of fisheries management in recent times has perhaps been the events that lead to the collapse of the   more recently  the
+produced a series of journalistic investigations called   these detail investigations into the black market for   the subsidies propping up the spanish fishing industry  and the overfishing of the  
+see also  
+this    section may contain an excessive number of suggestions  please ensure that only the most relevant links are given  that they are not   and that any links are not already in this article   october 2015    
+ documentary
+notes  
+ 
+fao  1997 
+section 1.2  technical guidelines for responsible fisheries  fao  rome 
+elements of ecology - thomas m  smith  robert leo smith
+meredith p  2009 
+te ara - the encyclopedia of new zealand  updated 2 march 2009  retrieved 22 february 2011 
+christy ft  1983 
+fao fisheries  technical paper no  227  rome   
+hannesson r  salvanes jg and squires a  2008 
+institutt for samfunnskonomi  discussion paper sam 5 2008 
+  london mercury  retrieved 13 july 2014 
+ 
+  rome  2009 
+eds  cochrane kl and garcia s 
+ 
+duzgunes  e  erdogan  n  2008  
+ pdf   turkish journal of fisheries and aquatic sciences  8  181192 
+sustainable fishery system  charles  a   ed   2001   oxford  blackwell science  p  95 
+costello  christopher  gaines  steven d   lynham  john  2008    
+debora mackenzie
+the economist  18 sept  2008 
+eureka alert 
+soliman  adam  2014   using individual transferable quotas  itqs  to achieve social policy objectives  a proposed intervention   marine policy  45c  7681 
+soliman  adam  2014 
+ocean and coastal management journal  87  102113 
+ 2003 
+annex 2  principles of relevance to an ecosystem approach to fisheries  eaf    page 85  rome   
+dayton pk  1998 
+science  279 5352   821 822 
+shertzer kw and prager mh  2007 
+ices j  mar  sci  64  149159 
+gucinski  lackey  and spence  1990 
+hlohowskyj  brody  and lackey   1996 
+wilderbuera  thomas k and zhang  chang ik  1999 
+fisheries research  volume 41  issue 2 
+richard w zabel  chris j harvey  steven l katz  thomas p good  phillip s levin  2003 
+american scientist  marchapril 
+caswell  h  2001  matrix population models  construction  analysis and interpretation  2nd edition  sinauer associates  sunderland  massachusetts   
+larkin  pa  1977  
+ pdf   transactions of the american fisheries society  106  111    
+  maguire  j  1996    lessons for stock assessment from the northern cod collapse   reviews in fish biology and fisheries  6  125137    
+pitcher tj and pauly d  1998 
+pages 311-325 in t pitcher  d pauly and p hart  reinventing fisheries management  chapman   hall 
+university of liverpool  2006  
+sciencedaily 
+  fisheries governance 
+rome  updated 27 may 2005  accessed 27 november 2009 
+francis rc  hixon ma  clarke me  murawski sa  and ralston s  2007 
+proceedings of coastal zone 07  portland  oregon 
+ 
+ 2005 
+    2007 
+hilborn  r  2007     fish and fisheries  8  4   285296    
+iwatch news  17 march 2012 
+references  
+arnason  r  kelleher  k  willmann  r  2008    
+and    
+beverton  r  j  h   holt  s  j   1957   on the dynamics of exploited fish populations  fishery investigations series ii volume xix  chapman and hall  blackburn press  2004    
+beverton  r  j  h   1992   voigtlander  c w  ed    the state of the world s fisheries resources  proceedings of the world fisheries congress  plenary sessions  athens 
+caddy jf and mahon r  1995 
+fisheries technical paper 347  rome 
+duffy  j  emmett  2008 
+encyclopedia of earth  updated 25 july 2008 
+elder  d   2006     dept  of geography  ww ccsu edu central connecticut university  
+froese  r and k kesner-reyes  2002    ices cm 2002 l 12 
+gucinski  hermann  robert t  lackey  and brian c  spence  1990  global climate change  policy implications for fisheries  fisheries  15 6  33-38 
+hilborn  ray  2011 
+natural resource modeling  25  1   122144 
+hlohowskyj  ihor  michael s  brody  and robert t  lackey  1996  methods for assessing the vulnerability of african fisheries resources to climate change  climate research  6 2   97-106 
+mahon  r   mcconney  p   2004     ocean and coastal management  47  910   529535    
+in  water encyclopedia  surface and agricultural water  jay h  lehr and jack keeley  editors  john wiley and sons  inc   publishers  new york  781 pp 
+mcgoodwin jr  2001 
+fao fisheries  technical paper 401   
+morgan  gary  staples  derek and funge-smith  simon  2007 
+rap publication  2007/17 
+pitcher t  d pauly and p hart  1999  reinventing fisheries management  kluwer academic publishers 
+pitcher  tj  kalikoski  d  pramod  g  2006  
+ pdf   14  2  
+townsend  r  shotton  ross and uchida  h  2008 
+fisheries technical paper  no 504 
+voigtlander  c  w   ed   1994  the state of the world s fisheries resources  proceedings of the world fisheries congress  athens  1992   plenary sessions   oxford   ibh publishing co  pvt  ltd   66 janpath  n delhi 110 001  india   204 p 
+and steven j  d  martell  2004 
+princeton university press   
+unep  2007     south china sea knowledge document no  4  unep gef scs inf 4
+in  sustaining marine fisheries  1999  commission on geosciences  environment and resources  ocean studies board 
+ 
+rome 
+and
+fisheries management 
+and
+management
+fisheries management
+quotas
+sustainability
+conservation
+organisations
+related issues
+emissions
+  
+management
+types  location
+aspects
+related
+ 
+retrieved from   
+  hidden categories 

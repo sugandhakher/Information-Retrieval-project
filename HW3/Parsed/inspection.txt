@@ -1,0 +1,98 @@
+inspection
+from wikipedia  the free encyclopedia
+jump to 					 
+this article needs additional citations for   please help
+by   unsourced material may be challenged and removed   june 2007    
+for the usage of the phrase  by inspection  in mathematics  see  
+maintenance check of electronic equipment on a u s  navy aircraft 
+an inspection is  most generally  an organized
+or formal evaluation exercise  in engineering activities inspection involves the     and
+applied to certain characteristics in regard to an object or activity  the results are usually compared to specified
+and standards for determining whether the item or activity is in line with these targets  often with a
+in place to ensure consistent checking  inspections are usually non-destructive 
+inspections may be a
+or involve sensing technologies such as   accomplished with a direct physical presence or remotely such as a   and manually or automatically such as an  
+and
+have become common
+methods for inspection of manufactured components and design optimisation 
+a 2007 scottish government review of scrutiny of public services  the crear review  2007  defined inspection of public services as      periodic  targeted scrutiny of specific services  to check whether they are meeting national and local performance standards  legislative and professional requirements  and the needs of service users  
+a surprise inspection tends to have different results than an announced inspection  leaders wanting to know how others in their organization perform can drop in without warning  to see directly what happens  if an inspection is made known in advance  it can give people a chance to cover up or to fix mistakes  this could lead to distorted and inaccurate findings  a surprise inspection  therefore  gives inspectors a better picture of the typical state of the inspected object or process than an announced inspection  it also enhances external confidence in the inspection process  see section 4.12 of the crear report 
+contents
+specific inspection  
+manufacturing  
+inspection and measurement of the thickness of the different layers of an electronic chip using thz and x-ray radiation  thz has the privilege of being non-ionizing  non-destructive  but the resolution of x-ray is higher 
+quality related in-process inspection verification is an essential part of quality control in manufacturing 
+inspection in manufacturing includes measuring  examining  testing  or gauging one or more characteristics of a product or process and comparing the results with specified requirements to determine whether is the requirements are met for each characteristic  common examples of inspection by measurement or
+include using a
+or
+to determine if a dimension of a manufactured part is within the
+specified in a drawing for that part  and is thus acceptable for use 
+ dfi  is a concept that should complement and work in collaboration with
+ dfm  and
+ dma  to reduce product manufacturing cost and increase manufacturing practicality 
+is a modern way of visual inspection  delivering high accuracy and traceability for various industries  the portable 3d system is a versatile optical coordinate measuring machine  cmm  with a wide range of capabilities  highly accurate point measurements can be taken with inspection carried out directly to cad models  geometry or drawings  dfi 
+fire equipment  
+most fire equipment needs to be inspected to make sure in the event of a fire  every effort has been taken to make sure it doesn t get out of control  extinguishers are to be inspected every month by law and inspected by a servicing company at least once a year 
+business  
+in
+several destination countries require   the importer instructs the shipper which inspection company should be used  the inspector makes pictures and a report to certify that the goods that are being shipped and produced are in accordance with the accompanying documents 
+commodity inspection is other term that is used between buyers and sellers  the scope of work for commodity inspection depends to the buyers  some buyers hire the inspection agencies only for pre-shipment inspections i e  visual quality  quantity  packing  marking and loading inspections and some others request for higher level inspections and ask inspection agencies to attend in the vendor shops and inspect commodities during manufacturing processes  normally inspection is done based on an agreed inspection and test plan  itp  
+government  
+in government and politics  an inspection is the act of a monitoring authority administering an official review of various criteria  such as   facilities  records  and any other assets  that are deemed by the authority to be related to the inspection  inspections are used for the purpose of determining if a body is complying with regulations  the inspector examines the criteria and talks with involved individuals  a report and evaluation follows such visits 
+the
+is charged with ensuring that all meat and egg products in the united states are safe to consume and accurately labeled  the
+of 1906 authorized the secretary of agriculture to order meat inspections and condemn any found unfit for human consumption  the
+is a regulatory body that inspects for   the
+regulates and inspects care services in scotland 
+an
+makes an inspection of a radio-tower
+road vehicles  
+a   e g   an annual inspection  is a necessary inspection required on vehicles to conform with laws regarding safety  emissions  or both  it consists of an examination of a vehicle s components  usually done by a certified mechanic  vehicles pass a pre-warranty inspection  if  and only if  a mechanic provide evidence for the proper working condition of the vehicle systems specified in the type of inspection 
+engineering  mechanics  
+a mechanical inspection is usually undertaken to ensure the safety or reliability of structures or machinery 
+in europe bodies involved in engineering inspection may be assessed by accreditation bodies according to iso 17020  general criteria for the operation of various types of bodies performing inspection   this standard defines inspection as  examination of a product  process  service  or installation or their design and determination of its conformity with specific requirements or  on the basis of professional judgment  with general requirements  
+main article 
+non-destructive examination  nde  or
+ ndt  is a family of technologies used during inspection to analyze materials  components and products for either inherent defects  such as
+or cracks   or service induced defects  damage from use   some common methods are visual         
+or         and   in addition  many non-destructive inspections can be performed by a precision scale  or when in motion  a  
+are often used for examining small products like
+for product defects 
+inspection and technical assistance during turnarounds helps to decrease costly downtime as well as ensures restart of operations quickly and safely 
+medical  
+a
+is the thorough and unhurried visualization of a patient  this requires the use of the naked eye 
+military  
+an
+is a craft used to inspect ships entering or leaving a port during wartime 
+railroad  
+the railroad s
+were special types of
+designed to carry railroad officials on inspection tours of the railroad property 
+real estate  
+a
+is the examination for purposes of evaluating a commercial or business property s condition often as a part of a
+investigation for a company to know what it is buying  building code officials do a
+to determine code compliance in new or altered buildings before issuing a certificate of occupancy  residential inspections not for code compliance are called a   there are numerous types of more specific real estate and infrastructure inspections such as     and  
+software engineering  
+main article 
+  in software engineering  refers to peer review of any work product by trained individuals who look for defects using a well defined process 
+see also  
+ uspis   law enforcement arm of the united states postal service 
+  writings that discuss opinion on something  usually art or entertainment 
+  a business complying with iso 17020 
+  a soviet government organization 
+references  
+ 
+crerar  professor lorne d  september 2007 the crerar review  the report of the independent review of regulation  audit  inspection and complaints handling of public services in scotland 
+ahi  kiarash  2015-05-13     spie sensing technology  applications  94830k-94830k-15    
+  american society for quality  asq   retrieved 2015-02-20 
+revision c  clause 7.6 control of monitoring and measurement equipment
+ltd  digital parent company    www physicaldigital com  retrieved 2016-05-09 
+  inspection-for-industry com  retrieved february 18  2013 
+antaki  george  2005   fitness-for-service evaluations for piping and pressure vessels  asme code simplified  mcgraw-hill   
+bs en iso iec 17020   conformity assessment - requirements for the operation of various types of bodies performing inspection   pp  1  2012 
+ben-gal i   herer y  and raz t   2003  
+ pdf   iie transactions on quality and reliability  34 6   pp  529-540 
+retrieved from   
+  hidden categories 

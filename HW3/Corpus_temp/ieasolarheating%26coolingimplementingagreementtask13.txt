@@ -1,0 +1,91 @@
+ieasolarheating%26coolingimplementingagreementtask13
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="plainlinks metadata ambox ambox-move" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="20" data-file-width="50" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Merge-arrow.svg/50px-Merge-arrow.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Merge-arrow.svg/75px-Merge-arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Merge-arrow.svg/100px-Merge-arrow.svg.png 2x" width="50"/></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">It has been suggested that this article be <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">merged</a> into <i><a href="/wiki/IEA_Solar_Heating_and_Cooling_Programme" title="IEA Solar Heating and Cooling Programme">IEA Solar Heating and Cooling Programme</a></i>. (<a href="/wiki/Talk:IEA_Solar_Heating_and_Cooling_Programme" title="Talk:IEA Solar Heating and Cooling Programme">Discuss</a>) <small><i>Proposed since September 2013.</i></small></span></td>
+</tr>
+</table>
+<p><b>IEA Solar Heating &amp; Cooling Implementing Agreement - Task 13</b> (Solar Low Energy Buildings) was an international effort organised by one of the <a href="/wiki/International_Energy_Agency" title="International Energy Agency">International Energy Agency</a>'s Implementing Agreements to build several solar <a href="/wiki/Low-energy_house" title="Low-energy house">low-energy houses</a>. This took place between 1989 and 1993(?). The Implementing Agreement for a Programme to Develop and Test Solar Heating and Cooling Systems is one of 40 research and development and deployment programmes, which are at the core of the IEA's International Energy Technology Co-operation Programme.</p>
+<p>The idea behind Task 13 was to push <a href="/wiki/Construction" title="Construction">construction</a> technology towards its limits to achieve the lowest possible total purchased <a href="/wiki/List_of_energy_resources" title="List of energy resources">energy</a> consumption. Task 13 was part of the <a href="/wiki/International_Energy_Agency" title="International Energy Agency">IEA</a> <i>Solar Heating and Cooling Programme</i>, to test the designs and techniques, and to monitor their performance.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Design"><span class="tocnumber">1</span> <span class="toctext">Design</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#The_buildings"><span class="tocnumber">2</span> <span class="toctext">The buildings</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Lessons_learned"><span class="tocnumber">3</span> <span class="toctext">Lessons learned</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Design">Design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEA_Solar_Heating_%26_Cooling_Implementing_Agreement_Task_13&amp;action=edit&amp;section=1" title="Edit section: Design">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On average, the houses were designed to required 44 <a class="mw-redirect" href="/wiki/KWh" title="KWh">kWh</a>/m², 75% lower than the average 172 kWh/m² that would have been required had the houses been built to normal standards. (Analysis of 11 of the houses in use indicated that total savings made in practice was actually 60% <a class="external autonumber" href="http://www.forskningsdatabasen.dk/cgi-bin/egwddf2/6969/screen.tcl/host=ddfcat&amp;host=ddf&amp;gattr1=parseOp&amp;v=1&amp;fe=10&amp;e11=indoor&amp;f11=all&amp;l11=and&amp;s1=sortkey&amp;page=28&amp;name=show_record&amp;norec=1&amp;ppage=30&amp;lposddfcat=7&amp;lposddf=24&amp;service=ddf%32&amp;context1=b&amp;lang=eng" rel="nofollow">[1]</a>).The 44 kWh/m² resulted from:</p>
+<ul>
+<li><a href="/wiki/Electricity" title="Electricity">Electricity</a> – 18 kWh/m²</li>
+<li><a class="mw-redirect" href="/wiki/Space_heating" title="Space heating">Space heating</a> – 14 kWh/m²</li>
+<li>Water heating – 11 kWh/m²</li>
+<li>Cooling – 1 kWh/m²</li>
+</ul>
+<p>In addition there was an average solar contribution designed to average 37 kWh/m², from a combination of <a class="mw-redirect" href="/wiki/Passive_solar" title="Passive solar">passive solar</a> gains, <a href="/wiki/Active_solar" title="Active solar">active solar</a>, and <a href="/wiki/Solar_cell" title="Solar cell">photovoltaics</a>.</p>
+<p>The buildings were constructed to be <a class="mw-redirect" href="/wiki/Airtight" title="Airtight">airtight</a>, be <a href="/wiki/Superinsulation" title="Superinsulation">superinsulated</a> to roughly double normal standards, and to minimise <a href="/wiki/Thermal_bridge" title="Thermal bridge">thermal bridges</a>. <a href="/wiki/Masonry" title="Masonry">Masonry</a> and several <a class="mw-redirect" href="/wiki/Timber_frame" title="Timber frame">timber framed</a> methods were represented, along with a novel <a href="/wiki/Steel" title="Steel">steel</a> strengthened <a href="/wiki/Polystyrene" title="Polystyrene">polystyrene</a> block walls were used. The Berlin "Zero Heating Energy House" included a 20m³ (700 cubic feet) <a href="/wiki/Seasonal_thermal_energy_storage" title="Seasonal thermal energy storage">seasonal thermal store</a>.<a class="external autonumber" href="http://wire.ises.org/wire/doclibs/EuroSun96.nsf/id/F7DE064B758101BDC12565E6003737C3/$File/paper.pdf" rel="nofollow">[2]</a></p>
+<h2><span class="mw-headline" id="The_buildings">The buildings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEA_Solar_Heating_%26_Cooling_Implementing_Agreement_Task_13&amp;action=edit&amp;section=2" title="Edit section: The buildings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The homes in the programme were:</p>
+<ul>
+<li>Pleiade Row House, Louvain-la-Neuve, Belgium</li>
+<li>Brampton Advanced House, Canada</li>
+<li>Waterloo Region Green Home, Canada <a class="external autonumber" href="http://wire0.ises.org/wire/doclibs/EuroSun96.nsf/5e0a56caccf2d7f8c1256927007e99bf/0a62da4514aed139c12565e600372fe6!OpenDocument" rel="nofollow">[3]</a></li>
+<li>Kolding Row House, Denmark</li>
+<li>IEA 5 House, Pietarsaari, <a href="/wiki/Finland" title="Finland">Finland</a></li>
+<li>Ultrahouse, Rottweil, Germany <a class="external autonumber" href="http://www.retscreen.net/download.php/ang/98/3/PSH05-C.pdf" rel="nofollow">[4]</a></li>
+<li>Zero Heating Energy House, Berlin, Germany <a class="external autonumber" href="http://www.stadtentwicklung.berlin.de/umwelt/klimaschutz/berlin_spart_energie/en/bauen_wohnen/nullheizenergiehaus.shtml" rel="nofollow">[5]</a></li>
+<li>Wish House 3, Iwaki, Japan <a class="external autonumber" href="http://wire.ises.org/wire/doclibs/EuroSun96.nsf/5e0a56caccf2d7f8c1256927007e99bf/e709bc2f0e842a82c12565e6003737a2!OpenDocument" rel="nofollow">[6]</a></li>
+<li>Urban Villa, Amstelveen, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a> <a class="external autonumber" href="http://wire.ises.org/wire/doclibs/EuroSun96.nsf/5e0a56caccf2d7f8c1256927007e99bf/3d3df9e54fb54c10c12565e600373dad!OpenDocument" rel="nofollow">[7]</a></li>
+<li>IEA Task 13 House, Hamar, Norway <a class="external autonumber" href="http://www.ntnu.no/arkitekt/Bygningsteknologi/Prosjekter/IEA_lavenergi.html" rel="nofollow">[8]</a></li>
+<li>Roskar Low Energy House, Sweden</li>
+<li>Duplex in Gelterkinden, Switzerland</li>
+<li>Exemplary House, Grand Canyon, United States</li>
+<li>Exemplary House, Yosemite, USA</li>
+</ul>
+<h2><span class="mw-headline" id="Lessons_learned">Lessons learned</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEA_Solar_Heating_%26_Cooling_Implementing_Agreement_Task_13&amp;action=edit&amp;section=3" title="Edit section: Lessons learned">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Among the lessons learned were that:</p>
+<ul>
+<li>Airtightness was difficult to achieve</li>
+<li>Ventilation systems could suffer from noise and draft problems</li>
+<li>Care was needed to design out summer overheating</li>
+<li>Simple installations and systems were easier for the residents to understand</li>
+</ul>
+<p>For a report on the Task 13 findings, see <i>Energy Design Update</i>, December 2003.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEA_Solar_Heating_%26_Cooling_Implementing_Agreement_Task_13&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_pioneering_solar_buildings" title="List of pioneering solar buildings">List of pioneering solar buildings</a></li>
+<li><a href="/wiki/Passive_house" title="Passive house">Passive house</a></li>
+<li><a href="/wiki/Low-energy_house" title="Low-energy house">Low-energy house</a></li>
+<li><a class="mw-redirect" href="/wiki/Zero_energy_building" title="Zero energy building">Zero energy building</a></li>
+<li><a href="/wiki/Energy-plus-house" title="Energy-plus-house">Energy-plus-house</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEA_Solar_Heating_%26_Cooling_Implementing_Agreement_Task_13&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.metabase.net/docs/ciena/07096.html" rel="nofollow">IEA SHC Implementing Agreement Task 13: Advanced Solar Low Energy Buildings</a></li>
+<li><a class="external text" href="http://wire0.ises.org/wire/doclibs/EuroSun96.nsf/4817e6fc4e8d8facc12565a000428ee7/71e9a9dbe695ba4fc12565e600372d89!OpenDocument" rel="nofollow">Reaching Extremely Low Levels of Energy Consumption: Strategies Used</a></li>
+<li><a class="external text" href="http://wire.ises.org/wire/doclibs/EuroSun96.nsf/id/8DAEF88C2EF8DEFBC12565E600373568/$File/paper.pdf" rel="nofollow">The Experiences of IEA SHC Implementing Agreement Task 13</a></li>
+<li><a class="external text" href="http://www.buildingsgroup.nrcan.gc.ca/docs/pdf/publications/R88/HighPerformanceBuildingConstruction_TheIEATask13Experience.pdf" rel="nofollow">Construction assemblies and details</a></li>
+<li><a class="external text" href="http://wire.ises.org/wire/doclibs/EuroSun96.nsf/id/F7DE064B758101BDC12565E6003737C3/$File/paper.pdf" rel="nofollow">1st Wooden Prefabricated Zero Energy House the German Market</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5225074-0!*!0!!en!4!* and timestamp 20161025022459 and revision id 730991598
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=IEA_Solar_Heating_%26_Cooling_Implementing_Agreement_Task_13&amp;oldid=730991598">https://en.wikipedia.org/w/index.php?title=IEA_Solar_Heating_%26_Cooling_Implementing_Agreement_Task_13&amp;oldid=730991598</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Building_engineering" title="Category:Building engineering">Building engineering</a></li><li><a href="/wiki/Category:Energy_conservation" title="Category:Energy conservation">Energy conservation</a></li><li><a href="/wiki/Category:Low-energy_building" title="Category:Low-energy building">Low-energy building</a></li><li><a href="/wiki/Category:International_Energy_Agency" title="Category:International Energy Agency">International Energy Agency</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_to_be_merged_from_September_2013" title="Category:Articles to be merged from September 2013">Articles to be merged from September 2013</a></li><li><a href="/wiki/Category:All_articles_to_be_merged" title="Category:All articles to be merged">All articles to be merged</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

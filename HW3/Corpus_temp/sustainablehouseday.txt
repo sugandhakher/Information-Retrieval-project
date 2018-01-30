@@ -1,0 +1,24 @@
+sustainablehouseday
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><p><b>Sustainable House Day</b> is a national event held annually across <a href="/wiki/Australia" title="Australia">Australia</a>, where <a href="/wiki/Household" title="Household">households</a> open their doors to the public to give interested people the chance to learn about the benefits of <a href="/wiki/Efficient_energy_use" title="Efficient energy use">energy efficiency</a> in their <a href="/wiki/Home" title="Home">homes</a>.<sup class="reference" id="cite_ref-weeklytimesnow.com.au_1-0"><a href="#cite_note-weeklytimesnow.com.au-1">[1]</a></sup> People have the opportunity to talk with sustainable home owners, <a href="/wiki/Architect" title="Architect">architects</a>, <a href="/wiki/Construction_worker" title="Construction worker">builders</a>, <a href="/wiki/Designer" title="Designer">designers</a> and energy auditors to learn about <a href="/wiki/Sustainable_living" title="Sustainable living">sustainable living</a>. The 2016 date is September 11.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p><br/></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainable_House_Day&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-weeklytimesnow.com.au-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-weeklytimesnow.com.au_1-0">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.weeklytimesnow.com.au/article/2009/07/07/89755_machine.html" rel="nofollow">http://www.weeklytimesnow.com.au/article/2009/07/07/89755_machine.html</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external free" href="http://sustainablehouseday.com/" rel="nofollow">http://sustainablehouseday.com/</a></span></li>
+</ol>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainable_House_Day&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.sustainablehouseday.com" rel="nofollow">Sustainable House Day</a> (official site)</li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23600007-0!*!0!!*!*!* and timestamp 20161019155958 and revision id 735390975
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sustainable_House_Day&amp;oldid=735390975">https://en.wikipedia.org/w/index.php?title=Sustainable_House_Day&amp;oldid=735390975</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Environmental_awareness_days" title="Category:Environmental awareness days">Environmental awareness days</a></li><li><a href="/wiki/Category:Annual_events_in_Australia" title="Category:Annual events in Australia">Annual events in Australia</a></li><li><a href="/wiki/Category:Movable_September_observances" title="Category:Movable September observances">Movable September observances</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

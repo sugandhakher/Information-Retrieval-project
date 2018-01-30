@@ -1,0 +1,72 @@
+buildingperformance
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><p>The <b>building performance</b> of a <a href="/wiki/Building" title="Building">building</a> or <a href="/wiki/Built_environment" title="Built environment">built environment</a> is the <a href="/wiki/Efficiency" title="Efficiency">efficiency</a> of functioning of buildings and the construction industry, its impact on <a href="/wiki/Natural_environment" title="Natural environment">natural environment</a>, <a href="/wiki/Urban_area" title="Urban area">urban environment</a> and its users. It is achieved through means such as <a href="/wiki/Architectural_design_values" title="Architectural design values">architectural design values</a>, <a href="/wiki/Building_science" title="Building science">building science</a>, <a href="/wiki/Architectural_engineering" title="Architectural engineering">architectural engineering</a>, <a href="/wiki/Efficient_energy_use" title="Efficient energy use">efficient energy use</a> and <a href="/wiki/Sustainability" title="Sustainability">sustainability</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Building_performance&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Crystal_Clear_app_kedit.svg"><img alt="Crystal Clear app kedit.svg" data-file-height="128" data-file-width="128" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/40px-Crystal_Clear_app_kedit.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/60px-Crystal_Clear_app_kedit.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/80px-Crystal_Clear_app_kedit.svg.png 2x" width="40"/></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article may need to be <b>rewritten entirely</b> to comply with Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a>. <span class="hide-when-compact"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Building_performance&amp;action=edit">You can help</a>. The <a href="/wiki/Talk:Building_performance" title="Talk:Building performance">discussion page</a> may contain suggestions.</span> <small><i>(October 2016)</i></small></span></td>
+</tr>
+</table>
+<p>Although many buildings in the U.S., Canada, U.K., and elsewhere claim to be “green,” “low energy,” or “high performance,” it is rarely clear on what evidence or data these claims are based. Such claims cannot be credible without standardized performance measurement protocols that are applied consistently. If claims of superior building performance are to be believed, it is essential that a common set of measurements be used and the results reported against meaningful benchmarks. Such protocols are also needed to give usable feedback to building designers and operators when measured performance does not match design intent. <sup class="reference" id="cite_ref-ASHRAE_1-0"><a href="#cite_note-ASHRAE-1">[1]</a></sup> This article describes ASHRAE’s Performance Measurement Protocols for Commercial Buildings (PMP), which provides a standardized, consistent set of protocols, for a range of cost/accuracy, to facilitate the appropriate comparison of measured energy, water, and indoor environmental quality (thermal comfort, indoor air quality [IAQ], lighting, and acoustics) performance of commercial buildings, while maintaining acceptable levels of building service for the occupants. Benchmarks are included in the protocols to facilitate comparison to peer buildings or for self-reference over time (often before and after retrofit). A recent article describing just the acoustic performance measurement protocols in the PMP has been published in the ASHRAE Journal. The PMP is a collaborative effort of ASHRAE, the U.S. Green Building Council (USGBC), and the Chartered Institution of Building Service Engineers (CIBSE). It began with a detailed evaluation of literature related to measured building performance that included databases, measurement techniques, M&amp;V protocols, and available instrumentation. A project committee representing several ASHRAE Technical Committees (TCs 7.6, 7.9, 4.7, and others) developed the content.</p>
+<p><b>Characteristics of the Protocols</b></p>
+<p>The protocols identify what to measure, how it is to be measured (instrumentation and spatial resolution), and how often it is to be measured for inclusion in the building’s operation and maintenance plan. For each of the six measure categories (energy, water, thermal comfort, IAQ, lighting, and acoustics), protocols are developed at three levels: low, medium and high cost and accuracy, providing a range of choices for levels of effort, detail, and rigor to characterize the building stock, and comparison to appropriate benchmarks.</p>
+<p>For each measure category and each level, the following characteristics are described:</p>
+<ul>
+<li>Objectives of the measurement.</li>
+<li>Metrics to be used, including instrumentation and units of measure.</li>
+<li>Performance evaluation and benchmarks. Estimates of initial and recurring costs are included.</li>
+</ul>
+<p>In the PMP, first the six measure categories are addressed at the basic level. This is followed by a presentation of the intermediate level protocols and then the advanced level protocols. However, here we will primarily discuss the basic level protocols, with only a brief description of higher levels; details of the intermediate and advanced levels are described in the PMP.</p>
+<p><b>Protocols for Energy, Water, and IEQ</b></p>
+<p>Representative measures at each level were tested by applying them to the newly renovated ASHRAE Headquarters Building in Atlanta (facing page). Measurements were taken by the commissioning authority for the renovation during 2009 and 2010, after the renovated building was reoccupied and was undergoing post-occupancy commissioning. Occupant surveys were taken before and after the renovation to evaluate indoor environmental quality.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Building_performance&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Building_energy_simulation" title="Building energy simulation">Building energy simulation</a></li>
+<li><a href="/wiki/Ecological_design" title="Ecological design">Ecological design</a></li>
+<li><a href="/wiki/Energy_audit" title="Energy audit">Energy audit</a></li>
+<li><a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">Environmental impact assessment</a></li>
+<li><a href="/wiki/Green_retrofit" title="Green retrofit">Green retrofit</a></li>
+<li><a href="/wiki/Sociology_of_architecture" title="Sociology of architecture">Sociology of architecture</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Sustainable architecture</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable design</a></li>
+<li><a href="/wiki/Weatherization" title="Weatherization">Weatherization</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Building_performance&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-ASHRAE-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-ASHRAE_1-0">^</a></b></span> <span class="reference-text"><a class="external free" href="https://www.ashrae.org/resources--publications/periodicals/ashrae-journal/features/measuring-commercial-building-performancel" rel="nofollow">https://www.ashrae.org/resources--publications/periodicals/ashrae-journal/features/measuring-commercial-building-performancel</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since November 2016">permanent dead link</span></a></i>]</span></sup></span></li>
+</ol>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Building_performance&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="https://www.ashrae.org/resources--publications/periodicals/ashrae-journal/features/measuring-commercial-building-performance" rel="nofollow">ASHRAE - measuring commercial building performance</a></li>
+<li><a class="external text" href="http://www.globalbuildings.org" rel="nofollow">Global Buildings Performance Network</a></li>
+<li><a class="external text" href="http://www.bpi.org" rel="nofollow">BPI Building Performance Institute</a> - U.S. organization setting home performance technical standards</li>
+<li><a class="external text" href="http://www.efficiencyfirst.org" rel="nofollow">Efficiency First</a> - U.S. trade association of home performance contractors and others promoting performance based energy retrofits.</li>
+<li><a class="external text" href="http://www.homeenergy.org/list/section/nav/homeperformance" rel="nofollow">Home Energy Magazine</a> - Home performance articles.</li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6234521-0!*!0!!en!4!* and timestamp 20161110123829 and revision id 748795012
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Building_performance&amp;oldid=748795012">https://en.wikipedia.org/w/index.php?title=Building_performance&amp;oldid=748795012</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Building_engineering" title="Category:Building engineering">Building engineering</a></li><li><a href="/wiki/Category:Energy_conservation" title="Category:Energy conservation">Energy conservation</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_November_2016" title="Category:Articles with dead external links from November 2016">Articles with dead external links from November 2016</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_rewrite_from_October_2016" title="Category:Wikipedia articles needing rewrite from October 2016">Wikipedia articles needing rewrite from October 2016</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

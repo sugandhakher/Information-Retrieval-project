@@ -1,0 +1,29 @@
+naturalmaterial
+from wikipedia  the free encyclopedia
+jump to 					navigation  					search
+function mftempopensection id  var block document getelementbyid  mf-section-  id  block classname    open-block  block previoussibling classname    open-block   
+this article does not cite any sources  please help improve this article by adding citations to reliable sources  unsourced material may be challenged and removed   december 2009   learn how and when to remove this template message 
+a natural material is any product or physical matter that comes from plants  animals  or the ground  minerals and the metals that can be extracted from them  without further modification  are also considered to belong into this category  natural materials are also often used in textiles  types include 
+biotic materials
+wood  rattan  bamboo  bark etc  
+natural fiber silk   wool  cotton  flax  hemp  jute  kapok  kenaf  moss  etc  
+inorganic material
+stone  flint  granite  obsidian  sandstone  sand  gems  glass  etc  
+native metal  copper  bronze  iron  gold  silver  etc  
+composites  clay  porcelain  plasticine  etc  
+other natural materials 
+soil
+see also edit 
+earth structure
+material science
+natural resources
+synthetic material
+metamaterials
+this material-related article is a stub  you can help wikipedia by expanding it 
+v
+t
+e
+natural materials come from plants  animals and rock 
+saved in parser cache with key enwiki pcache idhash 2629440-0   0     4   and timestamp 20161014182544 and revision id 713625879
+retrieved from  https   en wikipedia org w index php title natural material oldid 713625879 
+categories  natural materialsmaterials stubshidden categories  articles lacking sources from december 2009all articles lacking sourcesall stub articles

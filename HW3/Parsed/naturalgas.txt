@@ -1,0 +1,435 @@
+naturalgas
+from wikipedia  the free encyclopedia
+jump to 					 
+for the rock band  see  
+the global
+in 2013  numbers are in billion cubic meters per year 
+in cubic meters per year
+natural gas is a naturally occurring
+mixture consisting primarily of   but commonly including varying amounts of other higher   and sometimes a small percentage of       or   it is formed when layers of decomposing plant and animal matter are exposed to intense heat and pressure under the surface of the earth over millions of years  the energy that the plants originally obtained from the sun is stored in the form of chemical bonds in the gas 
+natural gas is a
+used as a source of energy for heating  cooking  and electricity generation  it is also used as fuel for vehicles and as a chemical feedstock in the manufacture of
+and other commercially important   it is a  
+natural gas is found in deep underground rock formations or associated with other hydrocarbon reservoirs in
+and as  
+is another resource and fossil fuel found in close proximity to and with natural gas  most natural gas was created over time by two mechanisms  biogenic and thermogenic  biogenic gas is created by
+organisms in       and shallow sediments  deeper in the earth  at greater temperature and pressure  thermogenic gas is created from buried organic material 
+when gas is associated with petroleum production it may be considered a byproduct and be burnt as   the
+estimates that over 150 cubic kilometers of natural gas are flared or vented annually  before natural gas can be used as a fuel  it must be
+to remove impurities  including water  to meet the specifications of marketable natural gas  the by-products of this processing include          and higher molecular weight hydrocarbons  hydrogen sulfide  which may be converted into pure        and sometimes
+and  
+natural gas is often informally referred to simply as  gas   especially when compared to other energy sources such as oil or coal  however  it is not to be confused with   especially in north america  where the term gasoline is often shortened in colloquial usage to gas 
+natural gas was used by the chinese in about 500 bce  possibly even 1000 bce   they discovered a way to transport gas seeping from the ground in crude pipelines of bamboo to where it was used to boil salt water to   in the
+of   the world s first industrial extraction of natural gas started at  
+in 1825  by 2009  66 000 km  or 8   had been used out of the total 850 000 km of estimated remaining recoverable reserves of natural gas  based on an estimated 2015 world consumption rate of about 3400 km of gas per year  the total estimated remaining economically recoverable reserves of natural gas would last 250 years at current consumption rates  an annual increase in usage of 23  could result in currently recoverable reserves lasting significantly less  perhaps as few as 80 to 100 years 
+natural gas coming out of the ground in taiwan 
+contents
+sources  
+see also      and
+natural gas  
+natural gas
+in texas 
+trends in the top five natural gas-producing countries  us eia data 
+in the 19th century  natural gas was usually obtained as a by-product of   since the small  light gas carbon chains came out of solution as the extracted fluids underwent pressure reduction from the
+to the surface  similar to uncapping a soft drink bottle where the carbon dioxide   unwanted natural gas was a disposal problem in the active oil fields  if there was not a market for natural gas near the
+it was prohibitively expensive to pipe to the end user 
+in the 19th century and early 20th century  unwanted gas was usually burned off at oil fields  today  unwanted gas  or
+without a market  associated with oil extraction often is returned to the reservoir with  injection  wells while awaiting a possible future market or to repressurize the formation  which can enhance extraction rates from other wells  in regions with a high natural gas demand  such as the us  
+are constructed when it is economically feasible to transport gas from a wellsite to an  
+in addition to transporting gas via pipelines for use in power generation  other end uses for natural gas include export as
+ lng  or conversion of natural gas into other liquid products via
+ gtl  technologies  gtl technologies can convert natural gas into liquids products such as gasoline  diesel or jet fuel  a variety of gtl technologies have been developed  including
+ ft   methanol to gasoline  mtg  and   ft produces a synthetic crude that can be further refined into finished products  while mtg can produce synthetic gasoline from natural gas  stg  can produce drop-in gasoline  diesel  jet fuel and aromatic chemicals directly from natural gas via a single-loop process  in 2011 
+140,000 barrel  16 dam  per day ft plant went into operation in  
+natural gas can be  associated   found in    or  non-associated   isolated in    and is also found in
+ as    it sometimes contains a significant amount of       and heavier hydrocarbons removed for commercial use prior to the
+being sold as a consumer fuel or chemical plant feedstock  non-hydrocarbons such as    
+ rarely   and
+must also be removed before the natural gas can be transported 
+natural gas extracted from oil wells is called casinghead gas  whether or not truly produced up the annulus and through a casinghead outlet  or associated gas  the
+is extracting an increasing quantity of gas from challenging         and  
+there is some disagreement on which country has the largest proven gas reserves  sources that consider that russia has by far the largest proven reserves include the us cia  47 600 km   the us energy information administration  47 800 km   and opec  48 700 km   however  bp credits russia with only 32 900 km  which would place it in second place  slightly behind iran  33 100 to 33 800 km  depending on the source   with   russia is frequently the world s largest natural gas extractor  major proven resources  in cubic kilometers  are world 187 300  2013   iran 33 600  2013   russia 32 900  2013   qatar 25 100  2013   turkmenistan 17 500  2013  and the united states 8500  2013  
+it is estimated that there are about 900 000 km of  unconventional  gas such as shale gas  of which 180 000 km may be recoverable  in turn  many studies from  
+and the
+predict that natural gas will account for a larger portion of electricity generation and heat in the future 
+the world s largest gas field is the offshore   shared between iran and qatar  it is estimated to have 51 000 cubic kilometers of natural gas and 50 billion barrels  6 km  of  
+because natural gas is not a pure product  as the reservoir pressure drops when non-associated gas is extracted from a field under
+ pressure temperature  conditions  the higher molecular weight components may partially condense upon isothermic depressurizingan effect called   the liquid thus formed may get trapped as the pores of the gas reservoir get depleted  one method to deal with this problem is to re-inject dried gas free of condensate to maintain the underground pressure and to allow re-evaporation and extraction of condensates  more frequently  the liquid condenses at the surface  and one of the tasks of the
+is to collect this condensate  the resulting liquid is called natural gas liquid  ngl  and has commercial value 
+shale gas  
+the examples and perspective in this article deal primarily with the united states and do not represent a
+of the subject  you may   discuss the issue on the   or   as appropriate   september 2013    
+the location of
+compared to other types of gas deposits 
+main article 
+shale gas is natural gas produced from   because shale has matrix permeability too low to allow gas to flow in economical quantities  shale gas wells depend on fractures to allow the gas to flow  early shale gas wells depended on natural fractures through which gas flowed  almost all shale gas wells today require fractures artificially created by   since 2000  shale gas has become a major source of natural gas in the united states and canada  following the success in the united states  shale gas exploration is beginning in countries such as poland  china  and south africa  because of this increase in shale production  the united states is now the number one natural gas producer in the world
+town gas  
+main article 
+is a flammable gaseous fuel made by the destructive distillation of   it contains a variety of calorific gases including       and other volatile   together with small quantities of non-calorific gases such as
+and   and is used in a similar way to natural gas  this is a historical technology and is not usually economically competitive with other sources of fuel gas today  still  it remains the best option in some specific cases and it may be so into the future 
+most town  gashouses  located in the eastern us in the late 19th and early 20th centuries were simple by-product
+ovens that heated bituminous coal in air-tight chambers  the gas driven off from the coal was collected and distributed through networks of pipes to residences and other buildings where it was used for cooking and lighting   gas heating did not come into widespread use until the last half of the 20th century   the
+ or   that collected in the bottoms of the gashouse ovens was often used for roofing and other waterproofing purposes  and when mixed with sand and gravel was used for paving streets 
+biogas  
+main article 
+are responsible for all biological sources of methane  some live in symbiotic relationships with other life forms  including     and cultivated crops  other sources of   the principal component of natural gas  include   biogas  and   when methane-rich gases are produced by the
+of non-fossil
+matter     these are referred to as biogas  or natural biogas   sources of biogas include     and
+ see    as well as
+materials such as
+and
+by way of   in addition to   particularly in  
+is created by decomposition of waste in
+sites  excluding   about half of landfill gas is methane and most of the rest is   with small amounts of     and   and variable trace amounts of
+and   if the gas is not removed  the pressure may get so high that it works its way to the surface  causing damage to the landfill structure  unpleasant odor  vegetation die-off  and an
+hazard  the gas can be vented to the atmosphere 
+or burned to produce
+or   biogas can also be produced by separating
+from waste that otherwise goes to landfills  this method is more efficient than just capturing the landfill gas it produces 
+produce biogas from manure  while biogas reactors can be used for manure or plant parts  like landfill gas  biogas is mostly methane and carbon dioxide  with small amounts of nitrogen  oxygen and hydrogen  however  with the exception of pesticides  there are usually lower levels of contaminants 
+landfill gas cannot be distributed through utility natural gas pipelines unless it is cleaned up to less than 3 per cent co2  and a few parts per million h
+2s  because co2 and h
+2s corrode the pipelines  the presence of co2 will lower the energy level of the gas below requirements for the pipeline    siloxanes in the gas will form deposits in gas burners and need to be removed prior to entry into any gas distribution or transmission system  consequently  it may be more economical to burn the gas on site or within a short distance of the landfill using a dedicated pipeline  water vapor is often removed  even if the gas is burned on site  if low temperatures condense water out of the gas 
+can be lowered as well because they tend to condense out with the water vapor  other non-methane components may also be removed to meet   to prevent fouling of the equipment or for environmental considerations  co-firing landfill gas with natural gas improves combustion  which lowers emissions 
+biogas  and especially landfill gas  are already used in some areas  but their use could be greatly expanded  experimental systems were being proposed   for use in parts of   uk  and
+in france    using materials that would otherwise generate no income  or even cost money to get rid of  improves the profitability and energy balance of biogas production  gas generated in
+plants is commonly used to generate electricity  for example  the hyperion sewage plant in los angeles burns 8million cubic feet  230,000m3  of gas per day to generate power new york city utilizes gas to run equipment in the sewage plants  to generate electricity  and in boilers  using sewage gas to make electricity is not limited to large cities  the city of   uses
+at its sewer plants  california has 242 sewage wastewater treatment plants  74 of which have installed anaerobic digesters  the total biopower generation from the 74 plants is about 66 mw 
+the mcmahon natural gas processing plant in    
+crystallized natural gas hydrates  
+huge quantities of natural gas  primarily methane  exist in the form of
+under sediment on offshore continental shelves and on land in arctic regions that experience   such as those in   hydrates require a combination of high pressure and low temperature to form 
+in 2010  the cost of extracting natural gas from crystallized natural gas was estimated to be as much as twice the cost of extracting natural gas from conventional sources  and even higher from offshore deposits 
+in 2013  japan oil  gas and metals national corporation  jogmec  announced that they had recovered commercially relevant quantities of natural gas from methane hydrate 
+natural gas processing  
+main article 
+the image below is a schematic
+of a typical natural gas processing plant  it shows the various unit processes used to convert raw natural gas into sales gas pipelined to the end user markets 
+the block flow diagram also shows how processing of the raw natural gas yields byproduct sulfur  byproduct ethane  and natural gas liquids  ngl  propane  butanes and natural gasoline  denoted as
+   
+schematic flow diagram of a typical natural gas processing plant 
+depletion  
+main article 
+natural gas production in the us reached a peak in 1973  and went over a second lower peak in 2001  but recently has peaked again and is continuing to rise 
+uses  
+natural gas is primarily used in the northern hemisphere  north america and europe are major consumers 
+mid-stream natural gas  
+natural gas flowing in the distribution lines and at the natural gas well head are often used to power natural gas powered engines  these engines rotate compressors to facilitate the natural gas transmission  these compressors are required in the mid-stream line to pressurize and to re-pressurize the natural gas in the transmission line as the gas travels  the natural gas transmission lines extend to the natural gas processing plant or unit which removes the higher molecular weighted natural gas hydrocarbons to produce a
+ btu  value between 950 and 1050btus  the processed natural gas may then be used for residential  commercial and industrial uses 
+often mid-stream and well head gases require removal of many of the various hydrocarbon species contained within the natural gas  some of these gases include    
+and other hydrocarbons with molecular weights above
+ ch4  to produce a natural gas fuel which is used to operate the natural gas engines for further pressurized transmission  typically  natural gas compressors require 950 to 1050btu per cubic foot to operate at the natural gas engines rotational name plate specifications 
+several methods are used to remove these higher molecular weighted gases for use at the natural gas engine  a few technologies are as follows 
+or
+system
+system
+power generation  
+natural gas is a major source of
+through the use of  
+and   natural gas is also well suited for a combined use in association with
+sources such as wind or
+and for alimenting
+power stations functioning in tandem with
+plants  most grid
+and some off-grid
+use natural gas  particularly high efficiencies can be achieved through combining gas turbines with a steam turbine in
+mode  natural gas burns more cleanly than other   such as oil and coal  and produces less carbon dioxide per unit of energy released  for transportation  burning natural gas produces about 30 percent less
+than burning   for an equivalent amount of heat  burning natural gas produces about 45 percent less carbon dioxide than burning
+for power  the us
+reports the following emissions in million
+of carbon dioxide in the world for 2012 
+natural gas  6,799
+petroleum  11,695
+coal  13,787
+coal-fired electric power generation emits around 2,000 pounds of carbon dioxide for every megawatt hour generated  which is almost double the carbon dioxide released by a natural gas-fired electric plant per megawatt hour generated  because of this higher carbon efficiency of natural gas generation  as the fuel mix in the united states has changed to reduce coal and increase natural gas generation  carbon dioxide emissions have unexpectedly fallen  those measured in the first quarter of 2012 were the lowest of any recorded for the first quarter of any year since 1992 
+combined cycle power generation using natural gas is currently the cleanest available source of power using hydrocarbon fuels  and this technology is widely and increasingly used as natural gas can be obtained at increasingly reasonable costs 
+technology may eventually provide cleaner options for converting natural gas into electricity  but as yet it is not   locally produced electricity and heat using natural gas powered combined heat and power plant  chp or
+plant  is considered energy efficient and a rapid way to cut carbon emissions  natural gas power plants are increasing in popularity and generate 22  of the worlds total electricity  approximately half as much as generated with coal 
+domestic use  
+natural gas dispensed in a residential setting can generate temperatures in excess of 1100c  2000f  making it a powerful domestic cooking and heating fuel  in much of the developed world it is supplied through pipes to homes  where it is used for many purposes including ranges and ovens  gas-heated      and   heaters in homes and other buildings may include boilers    and   both north america and europe are major consumers of natural gas  boilers use low pressure  usually 6 to 7
+ 6  to 7  wc   which is about 0.25 psig  the pressures in the supply lines under the streets vary  either utilization pressure  up  the aforementioned 6  to 7  wc  or elevated pressure  ep   which may be anywhere from 1 psig to 120 psig  systems using ep have a
+at the service entrance to step down the pressure to up 
+in the us
+ cng  is used in
+homes without connections to -in
+services  or with portable     natural gas is also supplied by independent natural gas suppliers through
+programs throughout the united states  however  as cng costs more than   lpg  propane  is the dominant source of rural gas 
+a
+  which runs on natural gas 
+transportation  
+cng is a cleaner and also cheaper alternative to other
+fuels such as
+ petrol  and   by the end of 2012 there were 17.25 million
+worldwide  led by
+ 3.3 million  
+ 3.1 million  
+ 2.18 million  
+ 1.73 million  
+ 1.5 million   and
+ 1.5 million   the energy efficiency is generally equal to that of gasoline engines  but lower compared with modern diesel engines  gasoline petrol vehicles converted to run on natural gas suffer because of the low
+of their engines  resulting in a cropping of delivered power while running on natural gas  10 15    cng-specific engines  however  use a higher compression ratio due to this fuel s higher
+of 120130 
+besides use in road vehicles  it is also used in aerial vehicles  compressed natural gas has been used in some aircraft like the
+husky 200 cng and the chromarat vx-1 kittyhawk
+lng is also being used in aircraft 
+aircraft manufacturer
+for instance is running a development program to produce lng- and -powered aircraft  the program has been running since the mid-1970s  and seeks to develop lng and hydrogen variants of the
+and
+passenger aircraft  and also the
+cargo aircraft  it claims that at current market prices  an lng-powered aircraft would cost 5,000
+   us 218  112  less to operate per ton  roughly equivalent to 60 per cent  with considerable reductions to  
+and
+emissions 
+the advantages of liquid methane as a jet engine fuel are that it has more specific energy than the standard
+mixes do and that its low temperature can help cool the air which the engine compresses for greater volumetric efficiency  in effect replacing an   alternatively  it can be used to lower the temperature of the exhaust 
+fertilizers  
+natural gas is a major feedstock for the production of   via the   for use in
+production 
+hydrogen  
+see also 
+natural gas can be used to produce   with one common method being the   hydrogen has many applications  it is a primary feedstock for the   a hydrogenating agent  an important commodity for oil refineries  and the fuel source in  
+other  
+natural gas is also used in the manufacture of           and other products   
+storage and transport  
+plastic
+being placed in a  
+because of its low density  it is not easy to store natural gas or to transport it by vehicle  natural gas
+are impractical across oceans  since the gas needs to be cooled down and compressed  as the friction in the pipeline causes the gas to heat up  many
+are close to reaching their capacity  prompting some politicians representing northern states to speak of potential shortages  the large trade cost implies that natural gas markets are globally much less integrated  causing significant price differences across countries  in   the gas pipeline network is already dense  new pipelines are planned or under construction in
+and between gas fields in  
+and
+and western europe  see also  
+transport liquefied natural gas  lng  across oceans  while
+can carry liquefied or compressed natural gas  cng  over shorter distances  sea transport using
+ships that are now under development may be competitive with lng transport in specific conditions 
+gas is turned into liquid at a
+plant  and is returned to gas form at
+plant at the   shipborne regasification equipment is also used  lng is the preferred form for long distance  high volume transportation of natural gas  whereas pipeline is preferred for transport for distances up to 4,000km  2,485mi  over land and approximately half that distance offshore 
+cng is transported at high pressure  typically above 200   compressors and decompression equipment are less capital intensive and may be economical in smaller unit sizes than liquefaction regasification plants  natural gas trucks and carriers may transport natural gas directly to end-users  or to distribution points such as pipelines 
+manlove field
+area in   in the foreground  left  is one of the numerous wells for the underground storage area  with an lng plant  and above ground storage tanks are in the background  right  
+in the past  the natural gas which was recovered in the course of recovering
+could not be profitably sold  and was simply burned at the oil field in a process known as   flaring is now illegal in many countries  additionally  higher demand in the last 2030 years has made production of gas associated with oil economically viable  as a further option  the gas is now sometimes re- into the formation for enhanced oil recovery by pressure maintenance as well as miscible or immiscible flooding  conservation  re-injection  or flaring of natural gas associated with oil is primarily dependent on proximity to markets  pipelines   and regulatory restrictions 
+natural gas can be indirectly exported through the absorption in other physical output  a recent study suggests that the expansion of shale gas production in the us has caused prices to drop relative to other countries  this has caused a boom in energy intensive manufacturing sector exports  whereby the average dollar unit of us manufacturing exports has almost tripled its energy content between 1996 and 2012 
+a  master gas system  was invented in
+in the late 1970s  ending any necessity for flaring  satellite observation  however  shows that flaring and venting are still practiced in some gas-extracting countries 
+natural gas is used to generate electricity and heat for   similarly  some landfills that also discharge methane gases have been set up to capture the methane and generate electricity 
+natural gas is often stored underground inside depleted gas reservoirs from previous gas wells    or in tanks as liquefied natural gas  the gas is injected in a time of low demand and extracted when demand picks up  storage nearby end users helps to meet volatile demands  but such storage may not always be practicable 
+with 15 countries accounting for 84 per cent of the worldwide extraction  access to natural gas has become an important issue in international politics  and countries vie for control of pipelines  in the first decade of the 21st century    the state-owned energy company in russia  engaged in disputes with
+and
+over the price of natural gas  which have created concerns that gas deliveries to parts of europe could be cut off for political reasons  the united states is preparing to export natural gas 
+ flng  is an innovative technology designed to enable the development of offshore gas resources that would otherwise remain untapped because due to environmental or economic factors it is nonviable to develop them via a land-based lng operation  flng technology also provides a number of environmental and economic advantages 
+environmental because all processing is done at the gas field  there is no requirement for long pipelines to shore  compression units to pump the gas to shore  dredging and jetty construction  and onshore construction of an lng processing plant  which significantly reduces the environmental footprint  avoiding construction also helps preserve marine and coastal environments  in addition  environmental disturbance will be minimised during decommissioning because the facility can easily be disconnected and removed before being refurbished and re-deployed elsewhere 
+economic where pumping gas to shore can be prohibitively expensive  flng makes development economically viable  as a result  it will open up new business opportunities for countries to develop offshore gas fields that would otherwise remain stranded  such as those offshore east africa 
+many gas and oil companies are considering the economic and environmental benefits of floating liquefied natural gas  flng   there are currently projects underway to construct five flng facilities 
+is close to completion on their flng-1 at
+and are underway on their flng-2 project at  
+is due to start production 2017 and the
+project has completed
+with final investment decisions expected in mid-2016 
+environmental effects  
+see also 
+effect of natural gas release  
+see also 
+natural gas is mainly composed of methane  after release to the atmosphere it is removed by gradual oxidation to carbon dioxide and water by hydroxyl radicals  oh  formed in the troposphere or stratosphere  giving the overall chemical reaction ch4   2o2 co2   2h2o  while the lifetime of atmospheric methane is relatively short when compared to carbon dioxide  with a half-life of about 7 years  it is more efficient at trapping heat in the atmosphere  so that a given quantity of methane has 84 times the global-warming potential of carbon dioxide over a 20-year period and 28 times over a 100-year period  natural gas is thus a more potent
+than carbon dioxide due to the greater
+of methane  but because when it is burned  it produces more water than carbon dioxide by mole  in contrast to coal which produces mainly carbon dioxide  it produces only about half the carbon dioxide per kilowatt-hour that coal does  current estimates by the
+place global emissions of methane at 85billion cubic metres  3.010 12cuft  annually  or 3.2 per cent of global production  direct emissions of methane represented 14.3 per cent by volume of all global anthropogenic greenhouse gas emissions in 2004 
+during extraction  storage  transportation  and distribution  natural gas is known to leak into the atmosphere  particularly during the extraction process  a
+study in 2011 demonstrated that the leak rate of methane may be high enough to jeopardize its global warming advantage over coal  this study was criticized later for its over-estimation of methane leakage values  preliminary results of some air sampling from airplanes done by the national oceanic and atmospheric administration indicated higher-than-estimated methane releases by gas wells in some areas  but the overall results showed methane emissions in line with previous epa estimates
+natural gas extraction also releases an isotope of   ranging in activity from 5 to 200,000
+per cubic meter of gas 
+co2 emissions  
+natural gas is often described as the cleanest fossil   it produces about 29  and 44  less carbon dioxide per
+delivered than oil and coal respectively  and potentially fewer pollutants than other hydrocarbon fuels  however  in absolute terms  it comprises a substantial percentage of human   and this contribution is projected to grow  according to the   in 2004  natural gas produced about 5.3 billion tons a year of co2 emissions  while coal and oil produced 10.6 and 10.2 billion tons respectively  according to an updated version of the
+by 2030  natural gas would be the source of 11 billion tons a year  with coal and oil now 8.4 and 17.2 billion respectively because demand is increasing 1.9 percent a year 
+other pollutants  
+natural gas produces far lower amounts of
+and
+than other fossil fuels  the other pollutants due to natural gas combustion are listed below in pounds per billion  
+ 40
+sulfur dioxide  1
+nitrogen oxide  92
+particulates  7
+safety concerns  
+a pipeline odorant injection station
+production  
+some gas fields yield
+containing
+ h2s   this untreated gas is     an industrial scale process which removes
+components  is often used to remove hydrogen sulfide from natural gas 
+extraction of natural gas  or oil  leads to decrease in pressure in the   such decrease in pressure in turn may result in   sinking of the ground above  subsidence may affect ecosystems  waterways  sewer and water supply systems  foundations  and so on   
+fracking  
+main article 
+releasing natural gas from subsurface porous rock formations may be accomplished by a process called
+or  fracking   it s estimated that hydraulic fracturing will eventually account for nearly 70  of natural gas development in north america  since the first commercial hydraulic fracturing operation in 1949  approximately one million wells have been hydraulically fractured in the united states  the production of natural gas from hydraulically fractured wells has utilized the technological developments of directional and horizontal drilling  which improved access to natural gas in tight rock formations  strong growth in the production of unconventional gas from hydraulically fractured wells occurred between 2000-2012 
+in hydraulic fracturing  well operators force water mixed with a variety of chemicals through the wellbore casing into the rock  the high pressure water breaks up or  fracks  the rock  which releases gas from the rock formation  sand and other particles are added to the water as a proppant to keep the fractures in the rock open  thus enabling the gas to flow into the casing and then to the surface  chemicals are added to the fluid to perform such functions as reducing friction and inhibiting corrosion  after the  frack   oil or gas is extracted and nearly 30 percent to 70 percent of the frack fluid  i e  the mixture of water  chemicals  sand  etc   flows back to the surface  many gas-bearing formations also contain water  which will flow up the wellbore to the surface along with the gas  in both hydraulically fractured and non-hydraulically fractured wells  this
+often has a high content of salt and other dissolved minerals that occur in the formation 
+the volume of water used to hydraulically fracture wells varies according to the hydraulic fracturing technique  in the united states  the average volume of water used per hydraulic fracture has been reported as nearly 7,375 gallons for vertical oil and gas wells prior to 1953  nearly 197,000 gallons for vertical oil and gas wells between 2000-2010  and nearly 3 million gallons for horizontal gas wells between 2000-2010 
+determining which fracking technique is appropriate for well productivity depends largely on the properties of the reservoir rock from which to extract oil or gas  if the rock is characterized by low-permeability  which refers to its ability to let substances  i e  gas  pass through it  then the rock may be considered a source of   fracking for shale gas  which is currently also known as a source of   involves drilling a borehole vertically until it reaches a lateral shale rock formation  at which point the drill turns to follow the rock for hundreds or thousands of feet horizontally  in contrast  conventional oil and gas sources are characterized by higher rock permeability  which naturally enables the flow of oil or gas into the wellbore with less intensive hydraulic fracturing techniques than the production of tight gas has required  the decades in development of drilling technology for conventional and unconventional oil and gas production has not only improved access to natural gas in low-permeability reservoir rocks  but also posed significant adverse impacts on environmental and public health 
+the us epa has acknowledged that toxic  carcinogenic chemicals  i e  benzene and ethylbenzene  have been used as gelling agents in water and chemical mixtures for high volume horizontal fracturing  hvhf   following the hydraulic fracture in hvhf  the water  chemicals  and frack fluid that return to the well s surface  called flowback or produced water  may contain radioactive materials  heavy metals  natural salts  and hydrocarbons which exist naturally in shale rock formations  fracking chemicals  radioactive materials  heavy metals  and salts that are removed from the hvhf well by well operators are so difficult to remove from the water they re mixed with  and would so heavily pollute the water cycle  that most of the flowback is either recycled into other fracking operations or injected into deep underground wells  eliminating the water that hvhf required from the hydrologic cycle 
+added odor  
+in order to assist in detecting   a minute amount of
+is added to the otherwise colorless and almost odorless gas used by consumers  the odor has been compared to the smell of rotten eggs  due to the added
+ t-butyl mercaptan   sometimes a related compound    may be used in the mixture  situations in which an odorant that is added to natural gas can be detected by analytical instrumentation  but cannot be properly detected by an observer with a normal sense of smell  have occurred in the natural gas industry  this is caused by odor masking  when one odorant overpowers the sensation of another  as of 2011  the industry is conducting research on the causes of odor masking 
+risk of explosion  
+gas network emergency vehicle responding to a major fire in  
+explosions caused by natural
+occur a few times each year  individual homes  small businesses and other structures are most frequently affected when an internal leak builds up gas inside the structure  frequently  the blast is powerful enough to significantly damage a building but leave it standing  in these cases  the people inside tend to have minor to moderate injuries  occasionally  the gas can collect in high enough quantities to cause a deadly explosion  disintegrating one or more buildings in the process  the gas usually dissipates readily outdoors  but can sometimes collect in dangerous quantities if flow rates are high enough  however  considering the tens of millions of structures that use the fuel  the individual risk of using natural gas is very low 
+risk of carbon monoxide inhalation  
+natural gas heating systems may cause
+poisoning if unvented or poorly vented  in 2011  natural gas furnaces  space heaters  water heaters and stoves were blamed for 11 carbon monoxide deaths in the us  another 22 deaths were attributed to appliances running on liquified petroleum gas  and 17 deaths on gas of unspecified type  improvements in natural gas furnace designs have greatly reduced co poisoning concerns 
+are also available that warn of carbon monoxide and or explosive gas  methane  propane  etc   
+energy content  statistics  and pricing  
+main article 
+see also 
+at the
+in us dollars per million btus    mmbtu  
+comparison of natural gas prices in japan  united kingdom  and united states  20072011
+quantities of natural gas are measured in
+ corresponding to 0c at 101.325   or in
+ corresponding to 60f  16c  and 14.73    the
+of 1m3 of commercial quality natural gas is around 39  10.8   but this can vary by several percent  this comes to about 49  13.5  for 1kg of natural gas  assuming a density of 0.8kg m3  an approximate value    
+the price of natural gas varies greatly depending on location and type of consumer  in 2007  a price of  7 per 1000 cubic feet  about 25 cents per m3  was typical in the united states  the typical caloric value of natural gas is roughly 1,000
+ btu  per cubic foot  depending on gas composition  this corresponds to around  7 per million btu  or around  7 per   in april 2008  the wholesale price was  10 per 1,000 cubic feet  28m3    10 mmbtu   the residential price varies from 50  to 300  more than the wholesale price  at the end of 2007  this was  12 16 per 1000 cubic feet  about 50 cents per m3   natural gas in the united states is traded as a
+on the   each contract is for 10,000mmbtu   10,550    or 10 billion btu  thus  if the price of gas is  10 per million btus on the nymex  the contract is worth  100,000 
+european union  
+gas prices for end users vary greatly across the   a single european energy market  one of the key objectives of the eu  should level the prices of gas in all eu member states  moreover  it would help to resolve supply and
+issues  as well as strengthen relations with other mediterranean countries and foster investments in the region 
+united states  
+us natural gas marketed production 1900 to 2012  source us eia
+in   one standard cubic foot 1 cubic foot  28l  of natural gas produces around 1,028
+ 1,085kj   the actual heating value when the water formed does not condense is the
+and can be as much as 10  less 
+in the united states  retail sales are often in units of
+ th   1 therm   100,000btu 
+measure the volume of gas used  and this is converted to therms by multiplying the volume by the energy content of the gas used during that period  which varies slightly over time  wholesale transactions are generally done in
+ dth   or in thousand decatherms  mdth   or in million decatherms  mmdth   a million decatherms is roughly a billion cubic feet of natural gas  gas sales to domestic consumers may be in units of 100 standard cubic feet     the typical annual consumption of a single family residence is 1,000 therms or one  
+canada  
+canada uses
+measure for internal trade of petrochemical products  consequently  natural gas is sold by the gigajoule  cubic metre  m3  or thousand cubic metres  e3m3   distribution infrastructure and meters almost always meter volume  cubic foot or cubic meter   some jurisdictions  such as saskatchewan  sell gas by volume only  other jurisdictions  such as alberta  gas is sold by the energy content  gj   in these areas  almost all meters for residential and small commercial customers measure volume  m3 or ft3   and billing statements include a multiplier to convert the volume to energy content of the local gas supply 
+a gigajoule  gj  is a measure approximately equal to half a barrel  250lbs  of oil  or 1 million btus  or 1000cu ft of gas  or 28m3 of gas  the energy content of gas supply in canada can vary from 37 to 43 mj per m3 depending on gas supply and processing between the wellhead and the customer 
+elsewhere  
+in the rest of the world  natural gas is sold in gigajoule retail units  lng  liquefied natural gas  and lpg    are traded in metric tons or mmbtu as spot deliveries  long term natural gas distribution contracts are signed in cubic metres  and lng contracts are in metric tonnes  1,000kg   the lng and lpg is transported by specialized   as the gas is liquified at
+temperatures  the specification of each lng lpg cargo will usually contain the energy content  but this information is in general not available to the public 
+in the russian federation 
+sold approximately 250 billion cubic metres of natural gas in 2008  in 2013 the group produced 487.4 billion cubic meters of natural and associated gas  gazprom supplied europe with 161.5 billion cubic meters of gas in 2013 
+in august 2015  possibly the largest natural gas discovery in history was made and notified by an italian gas company eni  the energy company indicated that it has unearthed a
+in the mediterranean sea covering about 40 square miles  it was also reported that the gas field could hold a potential 30 trillion cubic feet of natural gas  eni said that it is about the energy equivalent of 5.5 billion barrels of oil  the field was found in the deep waters off the northern coast of egypt and eni claims that it will be the largest ever in the mediterranean and even the world 
+natural gas as an asset class for institutional investors  
+research conducted by the    suggests that large us and canadian pension funds and asian and
+area
+investors have become particularly active in the fields of natural gas and natural gas infrastructure  a trend started in 2005 by the formation of
+in the uk by
+and    
+adsorbed natural gas  ang   
+another way to store natural gas is adsorbing it to the porous solids called sorbents  the best condition for methane storage is at room temperature and atmospheric pressure  the used pressure can be up to 4 mpa  about 40 times atmospheric pressure  for having more storage capacity  the most common sorbent used for ang is activated carbon  ac   three main types of activated carbons for ang are  activated carbon fiber  acf   powdered activated carbon  pac   activated carbon monolith 
+see also  
+general 
+references  
+  retrieved 11 june 2015 
+  naturalgas org  retrieved 2012-07-14 
+ 
+  retrieved 2013-11-10 
+us geological survey 
+  world bank group  14 december 2009  retrieved 17 march 2010 
+    1 jan 2011  external link in  publisher    
+  retrieved 11 june 2015 
+ 
+primus green energy  february 2013  retrieved  5 march 2013 
+  naturalgas org  retrieved 2011-02-06 
+  accessed 1 dec  2013 
+us energy information administration  international statistics  accessed 1 dec  2013 
+opec    accessed 1 dec 2013 
+bp   june 2013 
+by helen knight    12 june 2010  pp  447 
+michael kanellos  greentechmedia      9 june 2011 
+jad mouawad    new york times  17 june 2009  accessed 25 october 2009 
+financial times  2012     retrieved 2012-10-18 
+national geographic  2012     retrieved 2012-10-18 
+bloomberg  2012     retrieved 2012-10-18 
+ u s  now world s leading natural gas producer     external link in  website      missing or empty  url       access-date  requires  url    
+  manure umn edu  retrieved 2011-02-06 
+ pdf   retrieved 2011-02-06 
+  la sewers  retrieved 2011-02-06 
+ pdf   retrieved 2011-02-06 
+  parsons com  2009-12-05  retrieved 2011-02-06 
+on
+steve hargreaves  staff writer  2010-03-09     money cnn com  retrieved 2011-02-06 
+ pdf   retrieved 2011-02-06 
+  uop com  retrieved 2011-02-06 
+ pdf   retrieved 2011-02-06 
+onepetro    retrieved 11 june 2015 
+url 
+url 
+  retrieved 11 june 2015 
+april 10  2013 new york times
+ 
+  naturalgas org  retrieved 2011-02-06 
+us
+cite web  first rachel  last nuwer  title a 20-year low in u s  carbon emissions  url   date august 17  2012
+  alfagy com  retrieved 2012-11-02 
+data pg24
+zimmerman  barry e   zimmerman  david j   1995   nature s curiosity shop  lincolnwood  chicago   il  contemporary books  p 28   
+  measurement and control laboratory  retrieved 2015-01-23 
+  ngvjournal com  retrieved 2015-01-30 
+  tupolev ru  retrieved 2011-02-06 
+  retrieved 18 june  2009 
+hyne  norman j   1991   dictionary of petroleum exploration  drilling   production  pg  190  pennwell books  p 625   
+arezki  rabah  fetzer  thiemo 
+ pdf   journal of international economics 
+  retrieved 2011-02-06 
+satellite observation of
+  imi-online de  retrieved 2011-02-06 
+  npr org  retrieved 2011-02-06 
+hard assets investor  23 june 2014     retrieved 11 june 2015 
+  ntrw  retrieved 11 june 2015 
+  retrieved 11 june 2015 
+stanley manahan  2010   environmental chemistry  9th edition  crc press   
+  september 2004 national aeronautics and space administration  goddard institute for space studies  retrieved 11 june 2013 
+ 
+  ny times  october 14  2009  retrieved 11 june 2013 
+  retrieved 11 june 2015 
+  p 714  retrieved 22 august 2014 
+  wolframalpha com  retrieved 2011-02-06 
+  epa gov  2006-06-28  retrieved 2011-02-06 
+howarth  robert  renee santoro  anthony ingraffea  2011  
+ pdf   climate change  106  4   679690  retrieved 3 october 2014 
+ pdf   cornell  retrieved 11 june 2013 
+  business week   april 18  2012  retrieved 11 june 2013 
+noaa    18 feb  2015 
+   world nuclear association   retrieved 2012-01-31 
+ 
+  naturalgas org  retrieved 11 june 2013 
+by mikkal herberg  written for 2011 pacific energy summit 
+  global-greenhouse-warming com  retrieved 2011-02-06 
+  naturalgas org  retrieved 2011-02-06 
+national petroleum council  prudent development  realizing the potential of north americas abundant natural gas and oil resources  september 15  2011 
+fitzgerald  timothy   frackonomics  some economics of hydraulic fracturing   case western reserve law review 63.4  2013   web  1 sept  2015 
+chojna  j   losoncz  m     suni  p   2013  november   shale energy shapes global energy markets  national institute economic review 
+yeboah  n n n   and s  e  burns   geological disposal of energy-related waste   ksce journal of civil engineering 15.4  2011   701-02  web  3 sept  2015 
+gallegos  tanya j   and brian a  varela   trends in hydraulic fracturing distributions and treatment fluids  additives  proppants  and water volumes applied to wells drilled in the united states through 1947 through 2010   u s  geological survey scientific investigations report 2014.5131  2015   11  web  2 sept  2015     
+u s  environmental protection agency   quality assurance project plan for the chemical characterization of select constituents relevant to hydraulic fracturing   office of research and development  18 oct  2012 
+howarth  robert w   should fracking stop   nature  vol 477  p 272  15 sept  2011 
+  nancy rawson  ali quraishi  thomas j  bruno  journal of research of the national institute of standards and technology  vol  116  no  6  pp  839848  novdec 2011 
+us consumer product safety commission    september 2014 
+james l  williams  1998-10-02     wtrg com  retrieved 2011-02-06 
+  u s  energy information agency  retrieved 2012-08-21 
+  retrieved 11 june 2015 
+  energy  retrieved 11 june 2015 
+farah  paolo davide  2015     journal of world energy law and business  8  8   retrieved 30 november 2015 
+  wsu website  retrieved 2008-05-19 
+  scopewe - a virtual engineer  retrieved 11 june 2015 
+external links  
+by paolo farah and riccardo tremolada  this is a paper presented at the colloquium on environmental scholarship 2013 hosted by vermont law school  11 october 2013 
+ga mansoori  n enayati  lb agyarko  2016     world sci  pub  co  
+types
+manufactured fuel gas
+  
+natural gas
+infrastructure
+uses
+ 
+ 
+retrieved from   
+  hidden categories 

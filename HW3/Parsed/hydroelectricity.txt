@@ -1,0 +1,496 @@
+hydroelectricity
+from wikipedia  the free encyclopedia
+jump to 					 
+the
+in central china is the
+power producing facility of any kind 
+part of a series about
+hydroelectricity
+hydroelectricity is
+from   in 2015 hydropower generated 16.6  of the world s total electricity and 70  of all   and was expected to increase about 3.1  each year for the next 25 years 
+hydropower is produced in 150 countries  with the
+region generating 33 percent of global hydropower in 2013 
+is the largest hydroelectricity producer  with 920 twh of production in 2013  representing 16.9 percent of domestic electricity use 
+the cost of hydroelectricity is relatively low  making it a competitive source of renewable electricity  the hydro station consumes no water  unlike coal or gas plants  the average cost of electricity from a hydro station larger than 10
+is 3 to 5
+per   with a dam and reservoir it is also a flexible source of electricity since the amount produced by the station can be changed up or down very quickly to adapt to changing energy demands  once a hydroelectric complex is constructed  the project produces no direct waste  and has a considerably lower output level of
+than
+powered energy plants 
+contents
+history
+see also 
+museum hydroelectric power plant under the town in   built in 1900 
+hydropower has been used since ancient times to grind flour and perform other tasks  in the mid-1770s  french engineer
+published architecture hydraulique which described vertical- and horizontal-axis hydraulic machines  by the late 19th century  the
+was developed and could now be coupled with hydraulics  the growing demand for the
+would drive development as well  in 1878 the world s first hydroelectric power scheme was developed at
+in  
+by   it was used to power a single
+in his art gallery  the old
+near
+in the u s  side began to produce electricity in 1881  the first
+hydroelectric power station  the   began operating september 30  1882  in   with an output of about 12.5 kilowatts  by 1886 there were 45 hydroelectric power stations in the u s  and canada  by 1889 there were 200 in the u s  alone 
+at the beginning of the 20th century  many small hydroelectric power stations were being constructed by commercial companies in mountains near metropolitan areas    france held the
+with over one million visitors  by 1920 as 40  of the power produced in the united states was hydroelectric  the
+was enacted into law  the act created the
+to regulate hydroelectric power stations on federal land and water  as the power stations became larger  their associated dams developed additional purposes to include  
+and   federal funding became necessary for large-scale development and federally owned corporations  such as the
+ 1933  and the
+ 1937  were created  additionally  the
+which had begun a series of western u s  irrigation projects in the early 20th century was now constructing large hydroelectric projects such as the 1928   the
+was also involved in hydroelectric development  completing the
+in 1937 and being recognized by the
+as the premier federal flood control agency 
+hydroelectric power stations continued to become larger throughout the 20th century  hydropower was referred to as white coal for its power and plenty   s initial 1,345 mw power station was the world s largest hydroelectric power station in 1936  it was eclipsed by the 6809 mw
+in 1942  the
+opened in 1984 in south america as the largest  producing 14,000 mw but was surpassed in 2008 by the
+in china at 22,500 mw  hydroelectricity would eventually supply some countries  including    
+and   with over 85  of their electricity  the united states currently has over 2,000 hydroelectric power stations that supply 6.4  of its total electrical production output  which is 49  of its renewable electricity 
+generating methods
+turbine row at el nihuil ii power station in   argentina
+cross section of a conventional hydroelectric dam 
+a typical
+and
+conventional  dams 
+see also 
+most hydroelectric power comes from the
+of
+water driving a
+and   the power extracted from the water depends on the volume and on the difference in height between the source and the water s outflow  this height difference is called the   a large pipe  the     delivers water from the
+to the turbine 
+pumped-storage
+main article 
+see also 
+this method produces electricity to supply high peak demands by moving water between
+at different elevations  at times of low electrical demand  the excess generation capacity is used to pump water into the higher reservoir  when the demand becomes greater  water is released back into the lower reservoir through a turbine  pumped-storage schemes currently provide the most commercially important means of large-scale
+and improve the daily
+of the generation system  pumped storage is not an energy source  and appears as a negative number in listings 
+run-of-the-river
+main article 
+see also 
+run-of-the-river hydroelectric stations are those with small or no reservoir capacity  so that only the water coming from upstream is available for generation at that moment  and any oversupply must pass unused  a constant supply of water from a lake or existing reservoir upstream is a significant advantage in choosing sites for run-of-the-river  in the united states  run of the river hydropower could potentially provide 60,000 megawatts  80,000,000hp   about 13.7  of total use in 2011 if continuously available  
+tide
+main article 
+see also 
+a
+station makes use of the daily rise and fall of ocean water due to tides  such sources are highly predictable  and if conditions permit construction of reservoirs  can also be
+to generate power during high demand periods  less common types of hydro schemes use water s
+or undammed sources such as undershot   tidal power is viable in a relatively small number of locations around the world  in great britain  there are eight sites that could be developed  which have the potential to generate 20  of the electricity used in 2012 
+sizes  types and capacities of hydroelectric facilities
+large facilities
+see also 
+and
+large-scale hydroelectric power stations are more commonly seen as the largest power producing facilities in the world  with some hydroelectric facilities capable of generating more than double the installed capacities of the current  
+although no official definition exists for the capacity range of large hydroelectric power stations  facilities from over a few hundred
+are generally considered large hydroelectric facilities 
+currently  only four facilities over 10
+ 10,000   are in operation worldwide  see table below 
+rank
+station
+country
+capacity   
+1 
+22,500
+2 
+14,000
+3 
+13,860
+4 
+10,200
+panoramic view of the   with the spillways  closed at the time of the photo  on the left  in 1994  the
+elected the itaipu dam as one of the seven modern  
+small
+main article 
+small hydro is the development of
+on a scale serving a small community or industrial plant  the definition of a small hydro project varies but a generating capacity of up to 10
+ mw  is generally accepted as the upper limit of what can be termed small hydro  this may be stretched to 25 mw and 30 mw in
+and the   small-scale hydroelectricity production grew by 28  during 2008 from 2005  raising the total world small-hydro capacity to 85   over 70  of this was in
+ 65 gw   followed by
+ 3.5 gw   the united states  3 gw   and
+ 2 gw  
+a micro-hydro facility in
+pico hydroelectricity in  
+small hydro stations may be connected to conventional electrical distribution networks as a source of low-cost renewable energy  alternatively  small hydro projects may be built in isolated areas that would be uneconomic to serve from a network  or in areas where there is no national electrical distribution network  since small hydro projects usually have minimal reservoirs and civil construction work  they are seen as having a relatively low environmental impact compared to large hydro  this decreased environmental impact depends strongly on the balance between stream flow and power production 
+micro
+main article 
+micro hydro is a term used for
+installations that typically produce up to 100
+of power  these installations can provide power to an isolated home or small community  or are sometimes connected to electric power networks  there are many of these installations around the world  particularly in developing nations as they can provide an economical source of energy without purchase of fuel  micro hydro systems complement
+solar energy systems because in many areas  water flow  and thus available hydro power  is highest in the winter when solar energy is at a minimum 
+pico
+main article 
+pico hydro is a term used for
+generation of under 5   it is useful in small  remote communities that require only a small amount of electricity  for example  to power one or two fluorescent light bulbs and a tv or radio for a few homes  even smaller turbines of 200-300w may power a single home in a developing country with a drop of only 1m  3ft   a pico-hydro setup is typically   meaning that dams are not used  but rather pipes divert some of the flow  drop this down a gradient  and through the turbine before returning it to the stream 
+underground
+main article 
+an
+is generally used at large facilities and makes use of a large natural height difference between two waterways  such as a waterfall or mountain lake  an underground tunnel is constructed to take water from the high reservoir to the generating hall built in an underground cavern near the lowest point of the water tunnel and a horizontal tailrace taking water away to the lower outlet waterway 
+measurement of the tailrace and forebay rates at the
+in    
+calculating available power
+main article 
+a simple formula for approximating electric power production at a hydroelectric station is 
+p
+ 
+
+h
+r
+g
+k
+  displaystyle p  rho hrgk 
+  where
+p
+  displaystyle p 
+is power in watts 
+
+  displaystyle  rho  
+is the density of water   1000kg m3  
+h
+  displaystyle h 
+is height in meters 
+r
+  displaystyle r 
+is flow rate in cubic meters per second 
+g
+  displaystyle g 
+is acceleration due to
+of 9.8m s2 
+k
+  displaystyle k 
+is a coefficient of efficiency ranging from 0 to 1  efficiency is often higher  that is  closer to 1  with larger and more modern turbines 
+annual electric energy production depends on the available water supply  in some installations  the water flow rate can vary by a factor of 10 1 over the course of a year 
+properties
+advantages
+the
+can generate 360
+of electricity within 60 seconds of the demand arising 
+flexibility
+hydropower is a flexible source of electricity since stations can be ramped up and down very quickly to adapt to changing energy demands  hydro turbines have a start-up time of the order of a few minutes  it takes around 60 to 90 seconds to bring a unit from cold start-up to full load  this is much shorter than for gas turbines or steam plants  power generation can also be decreased quickly when there is a surplus power generation  hence the limited capacity of hydropower units is not generally used to produce base power except for vacating the flood pool or meeting downstream needs  instead  it serves as backup for non-hydro generators 
+low cost high value power
+the major advantage of conventional hydroelectric dams with reservoirs is their ability to store water at low cost for
+as high value clean electricity  the average cost of electricity from a hydro station larger than 10 megawatts is 3 to 5 u s  cents per kilowatt-hour  when used as peak power to meet demand  hydroelectricity has a higher value than base power and a much higher value compared to  
+hydroelectric stations have long economic lives  with some plants still in service after 50100 years  operating labor cost is also usually low  as plants are automated and have few personnel on site during normal operation 
+where a dam serves multiple purposes  a hydroelectric station may be added with relatively low construction cost  providing a useful revenue stream to offset the costs of dam operation  it has been calculated that the sale of electricity from the
+will cover the construction costs after 5 to 8 years of full generation  additionally  some data shows that in most countries large hydropower dams will be too costly and take too long to build to deliver a positive risk adjusted return  unless appropriate risk management measures are put in place 
+suitability for industrial applications
+while many hydroelectric projects supply public electricity networks  some are created to serve specific
+enterprises  dedicated hydroelectric projects are often built to provide the substantial amounts of electricity needed for
+electrolytic plants  for example  the
+switched to support
+aluminium in  
+for american
+airplanes before it was allowed to provide irrigation and power to citizens  in addition to aluminium power  after the war  in   the
+was constructed to provide electricity for the
+aluminium industry   s
+was constructed to supply electricity to the
+at  
+reduced co2 emissions
+since hydroelectric dams do not burn fossil fuels  they do not directly produce   while some carbon dioxide is produced during manufacture and construction of the project  this is a tiny fraction of the operating emissions of equivalent fossil-fuel electricity generation  one measurement of greenhouse gas related and other externality comparison between energy sources can be found in the externe project by the
+and the
+which was funded by the   according to that study  hydroelectricity produces the least amount of
+and
+of any energy source  coming in second place was   third was   and fourth was
+  the low
+impact of hydroelectricity is found especially in   the above study was for local energy in   presumably similar conditions prevail in north america and northern asia  which all see a regular  natural freeze thaw cycle  with associated seasonal plant decay and regrowth   greater greenhouse gas emission impacts are found in the tropical regions because the reservoirs of power stations in tropical regions produce a larger amount of
+than those in temperate areas 
+other uses of the reservoir
+reservoirs created by hydroelectric schemes often provide facilities for   and become tourist attractions themselves  in some countries 
+in reservoirs is common 
+installed for
+support
+with a relatively constant water supply  large hydro dams can control floods  which would otherwise affect people living downstream of the project 
+disadvantages
+see also 
+ecosystem damage and loss of land
+hydroelectric power stations that use
+would submerge large areas of land due to the requirement of a  
+in  
+large reservoirs associated with traditional hydroelectric power stations result in submersion of extensive areas upstream of the dams  sometimes destroying biologically rich and productive lowland and riverine valley forests  marshland and grasslands  damming interrupts the flow of rivers and can harm local ecosystems  and building large dams and reservoirs often involves displacing people and wildlife  the loss of land is often exacerbated by
+of surrounding areas caused by the reservoir 
+hydroelectric projects can be disruptive to surrounding aquatic
+both upstream and downstream of the plant site  generation of hydroelectric power changes the downstream river environment  water exiting a turbine usually contains very little suspended sediment  which can lead to scouring of river beds and loss of riverbanks  since turbine gates are often opened intermittently  rapid or even daily fluctuations in river flow are observed 
+siltation and flow shortage
+when water flows it has the ability to transport particles heavier than itself downstream  this has a negative effect on dams and subsequently their power stations  particularly those on rivers or within catchment areas with high siltation 
+can fill a reservoir and reduce its capacity to control floods along with causing additional horizontal pressure on the upstream portion of the dam  eventually  some reservoirs can become full of sediment and useless or over-top during a flood and fail 
+changes in the amount of river flow will correlate with the amount of energy produced by a dam  lower river flows will reduce the amount of live storage in a reservoir therefore reducing the amount of water that can be used for hydroelectricity  the result of diminished river flow can be power shortages in areas that depend heavily on hydroelectric power  the risk of flow shortage may increase as a result of   one study from the
+in the united states suggest that modest climate changes  such as an increase in temperature in 2 degree celsius resulting in a 10  decline in precipitation  might reduce river run-off by up to 40  
+in particular is vulnerable due to its heavy reliance on hydroelectricity  as increasing temperatures  lower water ow and alterations in the rainfall regime  could reduce total energy production by 7  annually by the end of the century 
+methane emissions  from reservoirs 
+the
+in the
+is a large conventional dammed-hydro facility  with an installed capacity of 2,080  
+see also 
+lower positive impacts are found in the tropical regions  as it has been noted that the reservoirs of power plants in tropical regions produce substantial amounts of   this is due to plant material in flooded areas decaying in an
+environment  and forming methane  a   according to the
+report  where the reservoir is large compared to the generating capacity  less than 100 watts per square metre of surface area  and no clearing of the forests in the area was undertaken prior to impoundment of the reservoir  greenhouse gas emissions from the reservoir may be higher than those of a conventional oil-fired thermal generation plant 
+in
+reservoirs of canada and northern europe  however 
+are typically only 2  to 8  of any kind of conventional fossil-fuel thermal generation  a new class of underwater logging operation that targets drowned forests can mitigate the effect of forest decay 
+relocation
+another disadvantage of hydroelectric dams is the need to relocate the people living where the reservoirs are planned  in 2000  the world commission on dams estimated that dams had physically displaced 40-80 million people worldwide 
+failure risks
+see also 
+and
+because large conventional dammed-hydro facilities hold back large volumes of water  a failure due to poor construction  natural disasters or sabotage can be catastrophic to downriver settlements and infrastructure 
+during typhoon nina in 1975
+failed in southern china when more than a year s worth of rain fell within 24 hours  the resulting flood resulted in the deaths of 26,000 people  and another 145,000 from epidemics  millions were left homeless 
+the creation of a dam in a geologically inappropriate location may cause disasters such as 1963 disaster at
+in italy  where almost 2,000 people died 
+the
+failure in
+on the
+ cte d azur   southern france  collapsed on december 2  1959  killing 423 people in the resulting flood 
+smaller dams and
+facilities create less risk  but can form continuing hazards even after being decommissioned  for example  the small
+failed in 1977  causing 39 deaths with the toccoa flood  twenty years after its power station was decommissioned the earthen embankment dam failed 
+comparison with other methods of power generation
+hydroelectricity eliminates the   including pollutants such as       dust  and
+in the   hydroelectricity also avoids the hazards of
+and the indirect health effects of coal emissions  compared to   hydroelectricity construction requires altering large areas of the environment while a nuclear power station has a small footprint  and hydro-powerstation failures have caused tens of thousands of more deaths than any nuclear station failure  the creation of   for example  required native american land to create lake sakakawea  which has a shoreline of 1,320 miles  and caused the inhabitants to sell 94  of their arable land for  7.5 million in 1949 
+compared to   hydroelectricity power stations have a more predictable load factor  if the project has a storage reservoir  it can generate power when needed  hydroelectric stations can be easily regulated to follow variations in power demand 
+world hydroelectric capacity
+world renewable energy share  2008 
+trends in the top five hydroelectricity-producing countries
+see also 
+and
+see also 
+the ranking of hydro-electric capacity is either by actual annual energy production or by installed capacity power rating  in 2015 hydropower generated 16.6  of the worlds total electricity and 70  of all renewable electricity  hydropower is produced in 150 countries  with the asia-pacific region generated 32 percent of global hydropower in 2010  china is the largest hydroelectricity producer  with 721 terawatt-hours of production in 2010  representing around 17 percent of domestic electricity use                and
+have a majority of the internal electric energy production from hydroelectric power 
+produces 100  of its electricity from hydroelectric dams  and exports 90  of its production to brazil and to argentina 
+produces 9899  of its electricity from hydroelectric sources 
+a hydro-electric station rarely operates at its full power rating over a full year  the ratio between annual average power and installed capacity rating is the   the installed capacity is the sum of all generator nameplate power ratings 
+ten of the largest hydroelectric producers as at 2014 
+country
+annual hydroelectric
+production   
+installed
+capacity   
+capacity
+factor
+  of total
+production
+1064
+311
+0.37
+18.7 
+383
+76
+0.59
+58.3 
+373
+89
+0.56
+63.2 
+282
+102
+0.42
+6.5 
+177
+51
+0.42
+16.7 
+132
+40
+0.43
+10.2 
+129
+31
+0.49
+96.0 
+87
+50
+0.37
+8.4 
+87
+15
+0.67
+68.3 
+69
+25
+0.46
+12.2 
+major projects under construction
+name
+maximum capacity
+country
+construction started
+scheduled completion
+comments
+11,181 mw
+march  2011
+2015
+preliminary construction underway 
+construction suspended 14 days by court order aug 2012
+11,000 mw
+april  2009
+2024
+multi-phase construction over a period of 15 years  construction was delayed due to dispute with china 
+7,110 mw
+march  2007
+2022
+controversial 228 meter tall dam with capacity to produce 35,446 gwh annually 
+6,400 mw
+november 26  2006
+2015
+the last generator was commissioned on july 9  2014
+6,000 mw
+2011
+2017
+located in the upper nile basin  drawing complaint from egypt
+5,850 mw
+2006
+2017
+4,800 mw
+january 30  2007
+2014
+to build this dam  23 families and 129 local residents need to be moved  it works with
+as a group 
+4,500 mw
+october 18  2011
+2023
+3,600 mw
+november 11  2005
+2014
+the sixth and final generator was commissioned on 15 july 2014
+3,300 mw
+2008
+2013
+construction halted in march 2011 due to worker riots 
+3,000 mw
+2008
+2015
+construction of the roads and spillway started 
+3,000 mw
+2014
+2023
+2,600 mw
+august 15  2008
+2016
+2,400 mw
+2008
+2013
+2,160 mw
+2004
+2014
+this power station would be the last development in the low caroni basin  bringing the total to six power stations on the same river  including the 10,000mw  
+2,100 mw
+2007
+2015
+brief construction halt in 2009 for environmental assessment 
+2,000 mw
+december  2007
+2018
+the dam will be 312 m high 
+2,000 mw
+july 27  2006
+2015
+1,820 mw
+2011
+2015
+1,100 mw
+2015
+2024
+first large dam in western canada since 1984
+2,000 mw
+2007
+2016
+see also
+references
+ 
+ 
+worldwatch institute  january 2012    
+    published 2011  accessed 2016-02-19 
+user  super   
+ 
+  u s  department of energy 
+ 
+  water encyclopedia 
+association for industrial archaeology  1987     oxford university press  p 187 
+  clara net 
+ pdf   december 21  1928 
+  1988
+the book of knowledge  vol  9  1945 ed    p 3220 
+  u s  bureau of reclamation 
+ 
+ 
+ 
+pope  gregory t   december 1995     popular mechanics  pp 4856
+july 18  2011  at the      published 2006
+  tve org  retrieved 2012-07-22 
+  t4cd org  retrieved 2010-07-16 
+robert a  huggins  1 september 2010     springer  p 60   
+herbert susskind  chad j  raseman  1970     brookhaven national laboratory  p 15 
+ 
+bent srensen  2004     academic press  pp 556   
+geological survey  u s    1980     u s  government printing office  p 10 
+28 may 2008 at the  
+  waterpowermagazine com  2007-01-10  archived from
+on 2011-06-14 
+    should we build more large dams  the actual costs of hydropower megaproject development  energy policy  march 2014  pp  1-14
+rabl a  et  al   august 2005  
+ pdf   externalities of energy  extension of accounting framework and policy applications  european commission  archived from
+ pdf  on march 7  2012 
+ 
+  externe-pol  technology assessment   gabe     2005  archived from
+on 1 november 2013 
+wehrli  bernhard  1 september 2011     nature geosci  4  9   585586     via www nature com 
+atkins  william  2003    hydroelectric power   water  science and issues  2  187191 
+ 
+robbins  paul  2007    hydropower   encyclopedia of environment and society  3 
+  internationalrivers org  retrieved 2010-07-16 
+patrick james  h chansen  1998  
+ pdf   great britain  tempus publications  pp 265275 
+entrk  fuat  1994   hydraulics of dams and reservoirs  reference  ed    highlands ranch  colo   water resources publications  p 375   
+ 
+frauke urban and tom mitchell 2011 
+september 20  2012  at the    london 
+and
+  dams org  2000-11-16 
+  newscientist com 
+  inhabitat  2006-11-16 
+  internationalrivers org  2008-02-29 
+ 
+references may be found in the list of  
+retrieved 02sep2015
+ 
+usgs historical site  retrieved 02sep2009
+lawson  michael l   1982   dammed indians  the pick-sloan plan and the missouri river sioux  19441980  norman  university of oklahoma press 
+ 
+    2009-01-22  retrieved 2009-01-30  98-99  of norways electricity comes from hydroelectric plants 
+  
+ pdf   report  international energy agency  iea   retrieved 1 june 2016 
+  chinese government  retrieved 18 july 2010 
+  guardian uk  10 march 2011  retrieved 2 april 2011 
+  guardian uk  16 august 2012  retrieved 24 august 2012 
+  thehindubusinessline com  2006-03-24  retrieved 2012-07-22 
+  wall street journal  18 march 2011  retrieved 2 april 2011 
+  ehdc com cn  2009-04-25  retrieved 2012-07-22 
+  zt xxgk yn gov cn  retrieved 2012-07-22 
+staff  2004  
+ pdf   inter-america development bank  archived from
+ pdf  on october 28  2008  retrieved 2008-10-25 
+june 29  2010  at the  
+external links
+wikimedia commons has media related to  
+at
+ international electrotechnical commission - technical committee 4  iec tc 4 portal with access to scope  documents and
+concepts
+sources
+hydro
+and
+  
+ tso 
+protective
+devices
+ gfi 
+economics
+and policies
+categories
+portals
+hydroelectricity generation
+hydroelectricity equipment
+by
+total energy
+ 
+retrieved from   
+  hidden categories 

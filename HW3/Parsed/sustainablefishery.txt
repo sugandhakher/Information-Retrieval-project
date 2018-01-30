@@ -1,0 +1,390 @@
+sustainablefishery
+from wikipedia  the free encyclopedia
+jump to 					 
+map showing the levels of
+in the world s oceans
+a conventional idea of a sustainable fishery is that it is one that is harvested at a sustainable rate  where the fish population does not decline over time because of fishing practices 
+in
+combines theoretical disciplines  such as the   with practical strategies  such as avoiding
+through techniques such as   curtailing
+and
+by lobbying for appropriate law and policy  setting up protected areas  restoring collapsed fisheries  incorporating all externalities involved in harvesting marine ecosystems into fishery economics  educating stakeholders and the wider public  and developing independent certification programs 
+some primary concerns around sustainability are that heavy fishing pressures  such as
+and
+or   will result in the loss of significant   that
+structure will erode to the point where it loses diversity and resilience to environmental fluctuations  that ecosystems and their economic infrastructures will cycle between collapse and recovery  with each cycle less productive than its predecessor  and that changes will occur in the
+balance    
+contents
+overview  
+
+sustainable management of fisheries cannot be achieved without an acceptance that the long-term goals of fisheries management are the same as those of environmental conservation
+
+ and dave preikshot 
+global
+are believed to have peaked and begun a decline  with valuable habitats  such as
+and   in critical condition  current
+or
+of
+fish  such as   does not solve the problem because farmed piscivores are fed products from wild fish  such as  
+also has major
+on wild salmon  fish that occupy the higher
+are less efficient sources of food energy 
+fishery ecosystems are an important subset of the wider marine environment  this article documents the views of
+and
+about innovative approaches towards sustainable fisheries 
+history  
+
+in the end  we will conserve only what we love  we will love only what we understand  and we will understand only what we are taught
+
+senegalese conservationist  
+in his 1883 inaugural address to the international fisheries exhibition in london 
+asserted that overfishing or  permanent exhaustion  was scientifically impossible  and stated that probably  all the great sea fisheries are inexhaustible   in reality  by 1883 marine fisheries were already collapsing  the
+was established 12 years earlier for the purpose of finding why fisheries in
+were declining  at the time of huxley s address  the atlantic
+fishery had already collapsed  and has never recovered  
+traditional management of fisheries  
+traditionally 
+and the science underpinning it was distorted by its  narrow focus on
+and the corresponding failure to account for ecosystem effects leading to declines of species abundance and diversity  and by perceiving the fishing industry as  the sole legitimate user  in effect the owner  of marine living resources   historically  stock assessment scientists usually worked in government laboratories and considered their work to be providing services to the fishing industry  these scientists dismissed conservation issues and distanced themselves from the scientists and the science that raised the issues  this happened even as commercial fish stocks deteriorated  and even though many governments were signatories to binding conservation agreements 
+defining sustainability  
+the notion of
+is sometimes regarded as an unattainable  even illogical notion because development inevitably depletes and degrades the environment 
+  of the   distinguishes three ways of defining a sustainable fishery 
+long term constant yield is the idea that undisturbed nature establishes a steady state that changes little over time  properly done  fishing at up to
+allows nature to adjust to a new steady state  without compromising future harvests  however  this view is naive  because constancy is not an attribute of marine ecosystems  which dooms this approach  stock abundance fluctuates naturally  changing the potential yield over short and long term periods 
+preserving intergenerational equity acknowledges natural fluctuations and regards as unsustainable only practices which damage the
+structure   or deplete
+to the point where rebuilding requires more than a single generation  providing rebuilding takes only one generation 
+may be economically foolish  but it is not unsustainable  this definition is widely accepted 
+maintaining a biological  social and economic system considers the health of the human ecosystem as well as the marine ecosystem  a fishery which rotates among multiple species can deplete individual stocks and still be sustainable so long as the ecosystem retains its intrinsic integrity  such a definition might consider as sustainable fishing practices that lead to the reduction and possible extinction of some species 
+social sustainability  
+fisheries and aquaculture are  directly or indirectly  a source of livelihood for over 500 million people  mostly in developing countries 
+social sustainability can conflict with biodiversity  a fishery is socially sustainable if the fishery ecosystem maintains the ability to deliver products the society can use  major species shifts within the ecosystem could be acceptable as long as the flow of such products continues  humans have been operating such regimes for thousands of years  transforming many ecosystems  depleting or driving to extinction many species 
+
+to a great extent  sustainability is like good art  it is hard to describe but we know it when we see it 
+
+ 
+according to hilborn  the  loss of some species  and indeed transformation of the ecosystem is not incompatible with sustainable harvests   for example  in recent years 
+have been caught as
+in the western atlantic  their numbers have severely declined and they will probably go extinct if these catch rates continue  even if the barndoor skate goes extinct  changing the ecosystem  there could still be sustainable fishing of other commercial species 
+reconciling fisheries with conservation  
+management goals might consider the
+on bear and river ecosystems
+at the fourth world fisheries congress in 2004 
+asked   how can fisheries science and conservation biology achieve a reconciliation    then answered his own question   by accepting each others essentials  that fishing should remain a viable occupation  and that aquatic ecosystems and their biodiversity are allowed to persist  
+a relatively new concept is relationship farming  this is a way of operating farms so they restore the
+in their area  re-establishing a healthy food chain can result in the farm automatically filtering out impurities from feed water and air  feeding its own food chain  and additionally producing high net yields for harvesting  an example is the large cattle ranch
+in southern spain  relationship farming was first made popular by
+who created a 220 hectare relationship farm featured prominently in
+book
+ 2006  and the documentary films 
+and   the basic concept of relationship farming is to put effort into building a healthy food chain  and then the food chain does the hard work 
+obstacles  
+large areas of the global continental shelf  highlighted in cyan  have had heavy bottom trawls repeatedly dragged over them
+overfishing  
+main article 
+overfishing can be sustainable  according to hilborn  overfishing can be  a misallocation of societies  resources   but it does not necessarily threaten conservation or sustainability  
+is traditionally defined as harvesting so many fish that the yield is less than it would be if fishing were reduced  for example 
+are usually managed by trying to determine how many spawning salmon  called the     are needed each generation to produce the maximum harvestable surplus  the optimum escapement is that needed to reach that surplus  if the escapement is half the optimum  then normal fishing looks like overfishing  but this is still sustainable fishing  which could continue indefinitely at its reduced stock numbers and yield  there is a wide range of escapement sizes that present no threat that the stock might collapse or that the stock structure might erode 
+on the other hand  overfishing can precede severe stock depletion and fishery collapse  hilborn points out that continuing to exert fishing pressure while production decreases  stock collapses and the fishery fails  is largely  the product of institutional failure  
+today over 70  of fish species are either fully exploited  overexploited  depleted  or recovering from depletion  if overfishing does not decrease  it is predicted that stocks of all species currently commercially fished for will collapse by 2048 
+a hubbert linearization    has been applied to the
+industry  as well as charting the price of   which depends on
+stocks  another example is
+  comparing fisheries and mineral extraction tells us that human pressure on the environment is causing a wide range of resources to go through a hubbert depletion cycle 
+fishing down the
+coastal fishing communities in bangladesh are vulnerable to flooding from sea-level rises 
+island with
+in the  
+are dying around the world 
+shrinking of the aral sea
+habitat modification  
+see also 
+and
+nearly all the worlds   and large areas of   underwater ridges  and   have had heavy
+and
+repeatedly dragged over their surfaces  for fifty years  governments and organizations  such as the   have encouraged the fishing industry to develop trawler fleets  repeated bottom trawling and dredging literally flattens diversity in the
+habitat  radically changing the associated communities 
+changing the ecosystem balance  
+main article 
+since 1950  90 percent of 25 species of big predator fish have gone 
+how we are emptying our seas  the sunday times  may 10  2009 
+ 2004 
+fourth world fisheries congress  vancouver  2004 
+climate change  
+main article 
+rising ocean temperatures and
+are radically altering  
+is modifying fish distribution and the productivity of marine and freshwater species  this reduces sustainable catch levels across many habitats  puts pressure on resources needed for   on the communities that depend on fisheries  and on the oceans  ability to capture and store carbon    
+puts coastal
+at risk  while changing rainfall patterns and water use impact on inland  freshwater  fisheries and aquaculture 
+ocean pollution  
+main article 
+a recent survey of global ocean health concluded that all parts of the ocean have been impacted by human development and that 41 percent has been fouled with human polluted runoff    and other abuses 
+is not easy to fix  because pollution sources are so dispersed  and are built into the economic systems we depend on 
+the
+ unep  mapped the impacts of stressors such as climate change  pollution    and
+of resources on the oceans  the report shows at least 75 percent of the world s key fishing grounds may be affected 
+diseases and toxins  
+see also      and
+large predator fish contain significant amounts of mercury  a neurotoxin which can affect   memory  mental focus  and produce tremors 
+irrigation  
+abandoned ship near  
+lakes are dependent on the inflow of water from its   in some areas  aggressive irrigation has caused this inflow to decrease significantly  causing water depletion and a shrinking of the lake  the most notable example is the   formerly among the four
+in the world  now only a tenth of its former surface area 
+remediation  
+fisheries management  
+main article 
+draws on
+to enable sustainable exploitation  modern fisheries management is often defined as mandatory rules based on concrete objectives and a mix of management techniques  enforced by a
+system 
+ideas and rules  economist
+believes sustainable growth is possible providing the right ideas  technology  are combined with the right rules  rather than simply hectoring fishers  there has been no lack of innovative ideas about how to harvest fish  he characterizes failures as primarily failures to apply appropriate rules 
+fishing subsidies  government subsidies influence many of the world fisheries  operating cost subsidies allow european and asian
+to fish in distant waters  such as west africa  many experts reject fishing subsidies and advocate restructuring incentives globally to help struggling fisheries recover 
+economics  another focus of conservationists is on curtailing detrimental human activities by improving fisheries  market structure with techniques such as salable   like those set up by the   or laws such as those listed below 
+  environmental economist  essam y mohammed  argues that by creating direct economic incentives  whereby people are able to receive payment for the services their property provides  will help to establish sustainable fisheries around the world as well as inspire conservation where it otherwise would not 
+sustainable fisheries certification  a promising direction is the independent certification programs for sustainable fisheries conducted by organizations such as the
+and   these programs work at raising consumer awareness and insight into the nature of their seafood purchases 
+ecosystem based fisheries  see next section
+ecosystem based fisheries  
+
+we propose that rebuilding ecosystems  and not sustainability per se  should be the goal of fishery management  sustainability is a deceptive goal because human harvesting of fish leads to a progressive simplification of ecosystems in favour of smaller  high turnover  lower trophic level fish species that are adapted to withstand disturbance and habitat degradation 
+
+ and  
+according to
+chris frid  the
+points to
+and
+as the causes of recent  unprecedented declines in fish populations  frid counters that
+has also altered the way the
+works   everybody would like to see the rebuilding of fish stocks and this can only be achieved if we understand all of the influences  human and natural  on fish dynamics  he adds  fish communities can be altered in a number of ways  for example they can decrease if particular-sized individuals of a species are targeted  as this affects   fishing  however  is not the sole cause of changes to marine life is another example    no one factor operates in isolation and components of the ecosystem respond differently to each individual factor  
+the traditional approach to fisheries science and management has been to focus on a single species  this can be contrasted with the   ecosystem-based fishery concepts have been implemented in some regions  in a 2007 effort to  stimulate much needed discussion  and  clarify the essential components  of ecosystem-based fisheries science  a group of scientists offered the following ten commandments for ecosystem-based fisheries scientists
+
+keep a perspective that is holistic  risk-adverse and adaptive 
+maintain an old growth structure in fish populations  since big  old and fat female fish have been shown to be the best spawners  but are also susceptible to overfishing 
+characterize and maintain the natural spatial structure of fish stocks  so that management boundaries match natural boundaries in the sea 
+monitor and maintain seafloor habitats to make sure fish have food and shelter 
+maintain resilient ecosystems that are able to withstand occasional shocks 
+identify and maintain critical food-web connections  including predators and forage species 
+adapt to ecosystem changes through time  both short-term and on longer cycles of decades or centuries  including global climate change 
+account for evolutionary changes caused by fishing  which tends to remove large  older fish 
+include the actions of humans and their social and economic systems in all ecological equations 
+
+marine protected areas  
+main article 
+strategies and techniques for marine conservation tend to combine theoretical disciplines  such as population biology  with practical conservation strategies  such as setting up protected areas  as with
+ mpas  or   each nation defines mpas independently  but they commonly involve increased protection for the area from fishing and other threats 
+marine life is not evenly distributed in the oceans  most of the really valuable ecosystems are in relatively shallow coastal waters  above or near the   where the sunlit waters are often nutrient rich from
+or
+at the continental edge  allowing photosynthesis  which energizes the lowest trophic levels  in the 1970s  for reasons more to do with
+than with fishing  the u s  extended its jurisdiction  then 12 miles from the coast  to 200 miles  this made huge shelf areas part of its territory  other nations followed  extending national control to what became known as the
+ eez   this move has had many implications for fisheries conservation  since it means that most of the most productive maritime ecosystems are now under national jurisdictions  opening possibilities for protecting these ecosystems by passing appropriate laws 
+characterises marine protected areas as  a conservation tool of revolutionary importance that is being incorporated into the fisheries mainstream  
+have funded various initiatives aimed at encouraging the development of mpas and other ocean conservation measures 
+fish farming  
+see also 
+there exists concerns that
+cannot produce necessary yields efficiently  for example  farmed salmon eat three pounds of wild fish to produce one pound of salmon 
+laws and treaties  
+international laws and treaties related to
+include the 1966  
+laws related to marine conservation include the 1972   as well as the 1972
+which established the
+program   
+awareness campaigns  
+see also 
+introducing the results of long term monitoring to a local fishermen in    
+various organizations promote sustainable fishing strategies  educate the public and stakeholders  and lobby for conservation law and policy  the list includes the marine conservation biology institute and
+in the u s   the u k  s
+and    
+ ices         and the       frozen at sea fillets association and  
+the united nations
+include  as goal  7  target 2  the intention to  reduce biodiversity loss  achieving  by 2010  a significant reduction in the rate of loss   including improving fisheries management to reduce depletion of fish stocks 
+some organizations certify fishing industry players for sustainable or good practices  such as the
+and  
+other organizations offer advice to members of the public who eat with an eye to sustainability  according to the marine conservation biologist   four criteria apply when choosing seafood 
+is the species in trouble in the wild where the animals were caught 
+does fishing for the species damage ocean habitats 
+is there a large amount of
+taken with the target species 
+does the fishery have a problem with discardsgenerally  undersized animals caught and thrown away because their market value is low 
+the following organizations have download links for wallet-sized cards  listing good and bad choices 
+  usa
+  usa
+  uk
+the southern african sustainable seafood initiative
+data issues  
+data quality  
+one of the major impediments to the rational control of marine resources is inadequate data  according to fisheries scientist milo adkison  2007   the primary limitation in fisheries management decisions is poor data  fisheries management decisions are often based on population models  but the models need quality data to be accurate  scientists and fishery managers would be better served with simpler models and improved data 
+unreported fishing  
+estimates of illegal catch losses range between  10 billion and  23 billion annually  representing between 11 and 26 million  
+shifting baselines  
+is a term which describes the way significant changes to a system are measured against previous baselines  which themselves may represent significant changes from the original state of the system  the term was first used by the
+in his paper  anecdotes and the shifting baseline syndrome of fisheries   pauly developed the term in reference to
+where fisheries scientists sometimes fail to identify the correct    population size  e g  how abundant a fish species population was before human exploitation  and thus work with a shifted baseline  he describes the way that radically depleted fisheries were evaluated by experts who used the state of the fishery at the start of their careers as the baseline  rather than the fishery in its untouched state  areas that swarmed with a particular species hundreds of years ago  may have experienced long term decline  but it is the level of decades previously that is considered the appropriate reference point for current populations  in this way large declines in ecosystems or species over long periods of time were  and are  masked  there is a loss of
+of change that occurs when each
+redefines what is  natural  
+looting the seas  
+looting the seas is the name given by the
+to a series of journalistic investigations into areas directly affecting the sustainability of fisheries  so far they have investigated three areas involving fraud  negligence and overfishing 
+the black market in
+subsidies propping up the spanish fishing industry
+overfishing of the
+see also  
+notes  
+ 
+ 2005 
+chapter 15  pp  247259  in norse and crowder  2005  
+ 
+preikshot  dave and
+ 2005 
+chapter 11  pp  185197  in norse and crowder  2005  
+tietenberg th  2006  environmental and natural resource economics  a contemporary approach  page 28  pearson addison wesley 
+knapp g  roheim ca and anderson jl  2007 
+ 
+washington post   
+norse   crowder 2005 
+huxley  thomas  1883  fisheries exhibition  london 
+goode gb and collins jw  1887   the fresh-halibut fishery   in  the fisheries and fishery industry of the united states  section v  history and methods of the fisheries  vol  i  part i  government printing office  washington  dc  p  389 
+redclift  m   2005    sustainable development  19872005   an oxymoron comes of age   sustainable development 13 4   212227 
+policy brief of the
+for the
+in   december 2009 
+johannes r  1981  words of the lagoon  fishing and marine lore in the palau district of micronesia  university of california press 
+casey jm and
+ 1998 
+science  280 690692 
+ 2004 
+fourth world fisheries congress  vancouver  2004 
+ludwig d  hilborn r and walter c  1993    science   230 1726 
+jacquet j  2009 
+journal environment  development and sustainability  11 2  255-263 
+sarwar g m   2005     masters thesis   
+  2 september 2009 
+watling  les  2005 
+chapter 12  pp  198210  in norse and crowder  2005  
+in  climate change 2007  the physical science basis  contribution of working group i to the fourth assessment report of the intergovernmental panel on climate change   15mb  
+doney  s  c   2006     scientific american  march 2006 
+cheung  w w l   et al   2009     pew ocean science series  oct 2009 
+benjamin s  halpern  shaun walbridge  kimberly a  selkoe  carrie v  kappel  fiorenza micheli  caterina d agrosa et al  15 february 2008 
+science  319 5865  948952 
+ the largest oceanographic project in history 
+nellemann  c   hain  s   and alder  j   eds   february 2008  in dead water  merging of climate change with pollution  over-harvest  and infestations in the worlds fishing grounds  united nations environment programme  grid-arendal  norway  available at
+off-site link
+the new york times  9 march 2008 available at 
+off-site link
+hilborn  r  2007 
+fish and fisheries  8 285296 
+pauly  d   2007  
+ambio  36 4   290-295 
+sumaila  u r   khan  a   watson  r   munro  g   zeller  d   baron  n  and pauly  d   2007  
+fisheries research  88  14 
+  29 july 2009 
+at
+2009 
+sumaila  u r  and pauly  d   2007  
+nature  450  945 
+clark c  munro g and
+ 2004 
+fourth world fisheries congress  vancouver  2004 
+ 2004 
+fourth world fisheries congress  vancouver  2004 
+pitcher tj and pauly d  1998 
+pages 311-325 in t pitcher  d pauly and p hart  reinventing fisheries management  chapman   hall 
+university of liverpool  2006  
+sciencedaily 
+ 2004 
+fourth world fisheries congress  vancouver  2004 
+francis rc  hixon ma  clarke me  murawski sa  and ralston s  2007 
+proceedings of coastal zone 07  portland  oregon 
+wood  l  j   2007  
+  unep-wcmc     available at www mpaglobal org  off-site link mpa news  march 2008
+  retrieved 11 october 2009 
+ 2007 
+island press 
+  retrieved 20 september 2009 
+ 
+globefish is the unit in the fisheries department of the
+responsible for information on international fish trade 
+mann  c  c   2004   the bluewater revolution  wired magazine  12 05  www wired com wired archive 12.05 fish html off-site link
+naylor  r  l   goldburg  r  j   primavera  j   kautsky  n   beveridge  m  c  m   clay  j   folke  c   lubchenco  j   mooney  h  and troel  m   2001    www esa org science resources issues fileenglish issue8 pdf  effects of aquaculture on world fish supplies    issues in ecology  8  114 
+national geographic magazine  april 2007 
+pauly  d 
+the new republic  september 28  2009 
+home page 
+sustainable fisheries partnership 
+  2009 
+sustainable fisheries partnership 
+september 28  2009 
+millennium development report 2008 
+united nations 
+united nations 
+  retrieved 20 september 2009 
+j  l  and d  pauly   2007 
+ 2007 
+ 2008 
+university of british columbia 
+pauly  1995 
+iwatch news  17 march 2012 
+references  
+and
+ eds    2005  marine conservation biology  the science of maintaining the sea s biodiversity   
+ray  g  carleton and mccormick-ray  jerry  eds    2004    coastal-marine conservation  science and policy   malden  ma  blackwell 
+ mcbi   bibliography of resources 
+mcleod  karen and leslie  heather  eds    2009 
+island press 
+berkes f  mahon r  mcconney p  pollnac r and pomeroy r  2001 
+idrc  
+mann  kenneth and lazier  john  3rd ed  2005 
+wiley-blackwell 
+norse ea and crowder lb  eds   2005 
+island press 
+duffy  j  emmett  2008 
+encyclopedia of earth  updated 25 july 2008 
+    baum jk  branch ta  collie js  costello c  fogarty mj  fulton ea  hutchings ja  jennings s  jensen op  lotze hk  mace pm  mcclanahan tr  minto c  palumbi sr  parma am  ricard d  rosenberg aa  watson r and zeller d  2009 
+science 325 578-585 
+grafton rq    ridgeway l  squires d  williams m  garcia s  groves t  joseph j  kelleher k  kompas t  libecap g  lundin cg  makino m  matthiasson t  mcloughlin r  parma a  san martin g  satia b  schmidt c-c  tait m and zhang lx  2008 
+marine policy  united kingdom   32 630-634 
+ 2008 
+pages 4556 in k tsukamoto  t kawamura  t takeuchi  td beard  jr  mj kaiser  eds   fisheries for global welfare and environment  5th world fisheries congress 2008 
+hughes tp  bellwooda dr  folkeb c  steneck rs and wilson j  2005 
+trends in ecology   evolution  20 7  380-386  
+gell fr and roberts cm  2003 
+trends in ecology   evolution  18 9  448-455  
+    gunette s        watson r and zeller d  2002 
+review article  nature  418  689-695  824 citations 
+devine1 ja  baker1 kd and haedrich rl  2006 
+nature  439  29 
+  september 8  2008 
+ 
+marinebio 
+ 
+recent references and imbroglio
+banobi ja  branch ta and hilbourn r  2011 
+ecosphere  2  3   article 37 
+branch  ta  watson  reg  fulton  elizabeth a   jennings  simon  mcgilliard  carey r   pablico  grace t   ricard  daniel  tracey  sean r   2010  
+ pdf   nature  468  7322   431435      
+hilborn r  2010 
+nature conservancy  science chronicles  november 2010  pp 59 
+pauly  daniel  2009 
+scientia marina  feature article  73  2   215224   
+pauly d and froese r  2012 
+marine policy  6  746752 
+sethi  sa  branch  ta  watson  r  2010     proceedings of the national academy of sciences  107  27   1216312167    
+taylor wa  aj lynch and m schechter  eds   2011  sustainable fisheries  multi-level approaches to a global problem  american fisheries society   
+watson r  zeller d and pauly d  2011 
+sea around us  report commissioned by wwf netherlands 
+worm  boris  hilbourbe  ray  and 19 others  2009 
+science  325 578585 
+and
+ 
+and
+management
+quotas
+sustainability
+conservation
+organisations
+related issues
+retrieved from   
+ 

@@ -1,0 +1,129 @@
+gastoliquids
+from wikipedia  the free encyclopedia
+jump to 					 
+this article needs additional citations for   please help
+by   unsourced material may be challenged and removed   december 2008    
+gas to liquids  gtl  is a
+process to convert
+or other gaseous
+into longer-chain hydrocarbons  such as gasoline or diesel fuel  -rich gases are converted into liquid
+either via direct conversionusing non-catalytic processes that convert methane to methanol in one stepor via
+as an intermediate  such as in the   mobil and
+processes 
+contents
+fischertropsch process  
+main article 
+gtl process using the
+method
+the fischertropsch process starts with partial oxidation of
+ natural gas  to    
+and water  the ratio of
+to hydrogen is adjusted using the   while the excess
+is removed with aqueous solutions of
+ or physical solvents   removing the water yields
+ syngas  which is chemically reacted over an iron or cobalt catalyst to produce liquid hydrocarbons and other byproducts 
+is provided from a
+unit 
+methane to methanol process  
+methanol is made from
+ natural gas  in a series of three reactions 
+ch4   h2o  co   3 h2  rh    206 kj mol1
+co   h2o  co2   h2  rh   -41 kj mol1
+synthesis
+2 h2   co  ch3oh  rh   -92 kj mol1
+the methanol thus formed may be converted to gasoline by the mobil process 
+methanol to gasoline process  mtg   
+in the early 1970s 
+developed an alternative procedure in which natural gas is converted to syngas  and then   the methanol polymerized over a
+catalyst to form  
+first methanol is
+to give  
+2 ch3oh  ch3och3   h2o
+this is then further dehydrated over a zeolite catalyst such as   which would theoretically yield  
+ch3och3  c2h4   h2o
+but which in practice is polymerized and hydrogenated to give a gasoline with hydrocarbons of five or more carbon atoms making up 80  of the fuel by weight 
+syngas to gasoline plus process  stg    
+main article 
+the stg  process
+a third gas-to-liquids process builds on the mtg technology by converting natural gas-derived syngas directly into drop-in gasoline and jet fuel via a thermochemical single-loop process 
+the stg  process follows four principal steps in one continuous process loop  this process consists of four
+in series in which a
+is converted to synthetic fuels  the steps for producing high-octane synthetic gasoline are as follows 
+  syngas is fed to reactor 1  the first of four reactors  which converts most of the syngas  co and h2  to methanol  ch3oh  when passing through the catalyst bed 
+ dme  synthesis  the methanol-rich gas from reactor 1 is next fed to reactor 2  the second stg  reactor  the methanol is exposed to a
+and much of it is converted to dme  which involves a dehydration from methanol to form dme  ch3och3  
+gasoline synthesis  the reactor 2 product gas is next fed to reactor 3  the third reactor containing the catalyst for conversion of dme to hydrocarbons including paraffins       naphthenes    and small amounts of olefins     mostly from c6  number of carbon atoms in the hydrocarbon molecule  to c10 
+gasoline treatment  the fourth reactor provides
+and
+treatment to the products coming from reactor 3  the treatment reduces
+ tetramethylbenzene  isodurene and trimethylbenzene components that have high freezing points and must be minimized in gasoline  as a result  the synthetic gasoline product has high octane and desirable viscometric properties 
+separator  finally  the mixture from reactor 4 is condensed to obtain gasoline  the non-condensed gas and gasoline are separated in a conventional condenser separator  most of the non-condensed gas from the product separator becomes recycled gas and is sent back to the feed stream to reactor 1  leaving the synthetic gasoline product composed of paraffins  aromatics and naphthenes 
+commercial uses  
+using gas-to-liquids processes  refineries can convert some of their gaseous waste products    into valuable   which can be sold as is or blended only with   the
+estimates that over 150billion cubic metres  5.310 12cuft  of natural gas are
+or vented annually  an amount worth approximately  30.6billion  equivalent to 25  of the united states  gas consumption or 30  of the european union s annual gas consumption  a resource that could be useful using gtl  gas-to-liquids processes may also be used for the economic extraction of gas deposits in locations where it is not economical to build a pipeline  this process will be increasingly significant as
+resources are  
+the use of   such as those developed by velocys  shows promise for the conversion of unconventional  remote and problem gas into valuable liquid fuels  gtl plants based on microchannel reactors are significantly smaller than those using conventional fixed bed or slurry bed reactors  enabling modular plants that can be deployed cost effectively in remote locations and on smaller fields than is possible with competing systems  construction is underway for one such plant  envia energy s oklahoma city gtl plant being built adjacent to waste management s east oak landfill site  the project is being financed by a joint venture between waste management  nrg energy  ventech and velocys  the feedstock for this plant will be a combination of landfill gas and pipeline natural gas 
+on august 1  2014  biofuels power corporation  bfls  signed a letter of intent with thyssenkrupp industrial solutions and liberty gtl  inc  to build a small scale gas-to-liquid demonstration facility in houston texas  the parties have established a non-binding target date to complete installation and commissioning of the gtl pilot plant on or before december 31  2014  the purpose of the gtl pilot plant is to commercially demonstrate converting stranded natural gas resources to synthetic crude oil  bfls will operate the gtl pilot plant for the 2-year demonstration  thyssenkrupp will provide technical services and contribute a previously operating auto-thermal reformer pilot plant of proven design  atr   which will be used to generate synthesis gas feedstock for the production of synthetic crude oil  liberty will provide intellectual property and operating know-how regarding crude oil synthesis along with the relevant catalyst supply  the liberty technical team is also credited for designing the ft  fischer tropsch  reactor which will convert the synthetic gas to synthetic crude oil  the gtl pilot plant will be assembled at the houston clean energy park  which is an industrial estate owned by bfls  the houston site is located between the eagle ford natural gas field and numerous refineries 
+one other proposed solution is to use a novel
+for offshore conversion of gas to liquids such as         and  
+two companies 
+and   have technology proven to work on a commercial scale 
+completed semi-commercial demonstrations of gas-to-liquids used by the company in 2011  royal dutch shell produces a diesel from natural gas in a factory in   malaysia  another shell gtl facility is the
+plant in qatar  the world s largest gtl facility and there are reports that shell is looking at the feasibility of a gtl facility in louisiana  us  sasol has recently built the
+facility in   qatar and together with
+and
+builds the
+plant    in a joint venture with the
+is commissioning the
+in   which uses sasol technology 
+on 1 february 2008  an
+flew a three-hour test flight between britain and france  with one of the a380 s four
+engines using a mix of 60  standard jet
+and 40  gas to liquids fuel supplied by shell  the aircraft engine needed no modification to use the gtl fuel  which was designed to be mixed with normal jet fuel  the fuel used was no cleaner in
+terms than standard fuel but it had local air quality benefits because the gtl portion contains no sulphur  on 12 october 2009  a
+airbus a340-600 conducted the world s first commercial passenger flight using a mixture of kerosene and synthetic gtl fuel in its flight from london s
+to doha 
+brazilian oil company
+has ordered two small experimental gtl production facilities intended to be posted at offshore oil fields too distant or deep to justify gas pipelines to onshore gtl plant  in january 2012 petrobras 
+research and development centre approved for commercial deployment the technology supplied by uk-based gas-to-liquids company compactgtl 
+has also completed its assessment of technology supplied by velocys 
+the stg  technology is currently operating at pre-commercial scale in hillsborough  new jersey at a plant owned by alternative fuels company primus green energy  the plant produces approximately 100,000 gallons of high-quality  drop-in gasoline per year directly from natural gas  further  the company announced the findings of an independent engineers report prepared by e3 consulting  which found that stg  system and catalyst performance exceeded expectations during plant operation  the pre-commercial demonstration plant has also achieved 720 hours of continuous operation 
+on march 2  2016 infra technology llc held a ground-breaking ceremony for the construction of its innovative modular 100 bpd gtl plant mark100 in wharton  texas  in close proximity to houston  the plant will be producing synthetic crude from natural gas  it will serve as a demonstration of infras proprietary technology which provides solution to one of the industrys most pressing problem  processing associated gas in an economically feasible manner 
+see also  
+references  
+lamonica  martin 
+mit technology review  27 june 2012  retrieved  7 march 2013 
+primus green energy  undated  retrieved  5 march 2013 
+  world bank 14 december 2009  retrieved 17 march 2010 
+roberts  ken 
+ pdf   petroleum technology quarterly  retrieved 2013  check date values in   access-date    
+neville hargreaves    gas processing  retrieved august 2015  check date values in   access-date    
+  bpp-tech  retrieved 2014-04-12 
+ 
+  retrieved 2009-06-22 
+  retrieved 2012-05-05 
+      2009-04-08   subscription required   retrieved 2009-07-18 
+    2009-05-14  retrieved 2009-07-18 
+      2010-03-08   subscription required   retrieved 2010-03-14 
+dunn  graham  1 february 2008     flight international 
+from the original on 2 february 2008  retrieved 1 february 2008 
+lalor  dan  1 february 2008     reuters  retrieved 2 july 2011 
+uiui   downstream today  2009-10-15  retrieved 2009-10-17 
+ 
+fairley  peter 
+mit technology review  15 march 2010  retrieved  17 march 2010 
+engineerlive com  undated  retrieved  17 march 2010 
+compactgtl  undated  retrieved  24 july 2012 
+upstream  20 january 2012  retrieved  24 july 2012 
+  primusge com  2013-11-07  retrieved 2014-04-12 
+  e3co com  retrieved 2014-04-12 
+wharton journal-spectator
+external links  
+this article s use of
+may not follow wikipedia s policies or guidelines  please
+by removing
+or
+external links  and converting useful links where appropriate into    april 2014    
+retrieved from   
+  hidden categories 

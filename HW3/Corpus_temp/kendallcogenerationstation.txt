@@ -1,0 +1,41 @@
+kendallcogenerationstation
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Mirant_Kendall_Cogeneration_Station.jpg"><img alt="" class="thumbimage" data-file-height="1974" data-file-width="2468" height="176" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mirant_Kendall_Cogeneration_Station.jpg/220px-Mirant_Kendall_Cogeneration_Station.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mirant_Kendall_Cogeneration_Station.jpg/330px-Mirant_Kendall_Cogeneration_Station.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mirant_Kendall_Cogeneration_Station.jpg/440px-Mirant_Kendall_Cogeneration_Station.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Mirant_Kendall_Cogeneration_Station.jpg" title="Enlarge"></a></div>
+The station in 2010</div>
+</div>
+</div>
+<p>The <b>Kendall Cogeneration Station</b> is a power station owned by <a class="new" href="/w/index.php?title=Veolia_Energy_North_America&amp;action=edit&amp;redlink=1" title="Veolia Energy North America (page does not exist)">Veolia Energy North America</a> that produces both steam and power for the cities of <a href="/wiki/Boston" title="Boston">Boston</a> and <a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge</a>.</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kendall_Cogeneration_Station&amp;action=edit&amp;section=1" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.wickedlocal.com/article/20131230/News/312309841" rel="nofollow">Information on the sale</a></li>
+</ul>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Kendall_Cogeneration_Station&amp;params=42.36313_N_-71.08011_E_type:landmark_region:US-MA"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°21′47″N</span> <span class="longitude">71°04′48″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.36313°N 71.08011°W</span><span style="display:none">﻿ / <span class="geo">42.36313; -71.08011</span></span></span></a></span></span></span></p>
+<p><br/></p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a class="image" href="/wiki/File:Building_icon.svg"><img alt="Stub icon" data-file-height="32" data-file-width="32" height="32" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Building_icon.svg/32px-Building_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Building_icon.svg/48px-Building_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Building_icon.svg/64px-Building_icon.svg.png 2x" width="32"/></a></td>
+<td><i>This article about a building or structure in Massachusetts is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Kendall_Cogeneration_Station&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Massachusetts-struct-stub" title="Template:Massachusetts-struct-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Massachusetts-struct-stub" title="Template talk:Massachusetts-struct-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Massachusetts-struct-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:43091425-0!*!0!*!*!4!* and timestamp 20161015102626 and revision id 717453151
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Kendall_Cogeneration_Station&amp;oldid=717453151">https://en.wikipedia.org/w/index.php?title=Kendall_Cogeneration_Station&amp;oldid=717453151</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Buildings_and_structures_in_Cambridge,_Massachusetts" title="Category:Buildings and structures in Cambridge, Massachusetts">Buildings and structures in Cambridge, Massachusetts</a></li><li><a href="/wiki/Category:Combined_heat_and_power_plants_in_the_United_States" title="Category:Combined heat and power plants in the United States">Combined heat and power plants in the United States</a></li><li><a href="/wiki/Category:Massachusetts_building_and_structure_stubs" title="Category:Massachusetts building and structure stubs">Massachusetts building and structure stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_not_on_Wikidata" title="Category:Coordinates not on Wikidata">Coordinates not on Wikidata</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

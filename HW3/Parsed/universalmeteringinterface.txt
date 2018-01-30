@@ -1,0 +1,90 @@
+universalmeteringinterface
+from wikipedia  the free encyclopedia
+ redirected from  
+jump to 					 
+this article has multiple issues  please help
+or discuss these issues on the     
+the topic of this article may not meet wikipedia s   please help to establish notability by citing
+that are
+of the topic and provide significant coverage of it beyond its mere trivial mention  if notability cannot be established  the article is likely to be     or  
+find sources     
+ august 2015    
+  
+a major contributor to this article appears to have a
+with its subject  it may require
+to comply with wikipedia s content policies  particularly   please discuss further on the    august 2015    
+cambridge consultants
+private   
+industry
+product developers and technology consultants
+founded
+1960
+headquarters
+ 
+ 
+number of employees
+540
+website
+cambridge consultants is a global product development and technology consultancy firm  it provides outsourced
+services to start-ups and blue-chip multinationals that develop products 
+contents
+history  
+founded in 1960 by three cambridge graduates  tim eiloart    and david southward  to  put the brains of
+at the disposal of the problems of british industry and to provide solutions to real world problems   cambridge consultants was one of the uk s first
+businesses  the early work laid the foundations for what is now known as the
+or   indeed  most of the
+companies in and around the city of cambridge can trace their roots back to either cambridge university or cambridge consultants 
+initially  the company was privately run  in january 1972  it became part of arthur d  little  adl   an american management consultancy firm  gaining professional management support and access to international markets  cambridge consultants remained part of arthur d little until 2001  in 2002  the management team at cambridge consultants acquired the company  backed by   europe s largest technology consultancy  following adl s process through chapter 11 
+despite the early difficulties witnessed by many technology companies at the turn of the millennium  cambridge consultants continued to grow  this included the launch of a us office in boston in september 2004 
+in april 2013  the company announced its expansion into asia  with the opening of an office in singapore  the new office has been set up to deliver product development capabilities to the asian market and build on existing clients based in countries such as australia and japan as well as singapore 
+having grown year on year over the past decade  cambridge consultants is looking to increase its global workforce to 600 by the end of 2016 
+the current ceo of cambridge consultants is alan richardson  first appointed in july 2012 
+on june 16  the company entered into a definitive agreement to acquire   a product development company based in seattle 
+current business  
+cambridge consultants  work spans a range of different industry sectors 
+within the medical technology industry  it has the capability to develop products and technology for
+ respiratory  transdermal  injection  etc    clinical diagnostics and life science instrumentation  both lab-based and point-of-care devices   surgical and interventional devices  wireless medical technology  both inside and outside the body  and provide medical business consulting services 
+it acts as an independent partner for advice  ideas and the rapid development of wireless products and technology  the company has one of the world s largest independent wireless product development teams combined with state-of-the-art labs and extensive intellectual property and expertise  through the development of chips to complete products  cambridge consultants is active in the majority of
+available today  from satellite and
+to  
+and   it is responsible for many  world firsts  in wireless communication  including 
+the first single-chip
+device  which was spun out to create
+    now the market leader in bluetooth chips
+innovative product development and technology consultancy services are also provided  application-specific integrated circuits    and field-programmable gate arrays    are also developed  many of the asic projects undertaken make use of its own xap processor core  projects it has been involved in include an advanced handheld through-wall radar  and the open standard universal metering interface  umi  for smart metering 
+cambridge consultants as a technology consultant advises companies on market strategy  transaction support and innovation management  especially where complex technology is involved  consultants and analysts carry out technical and commercial due diligence for clients around the world  and provide expert reports for companies listed on the uk stock market 
+offices and facilities  
+cambridge consultants building in the
+in april 2011 
+as of 2015  the company employs of around 500 staff including engineers  scientists  mathematicians  consultants  analysts and support staff in
+ uk  
+ usa  and  
+in-house facilities include 
+100,000 sq ft of development laboratories in cambridge uk  and cambridge ma 
+design studios and virtual prototyping tools
+advanced proprietary software development tools
+advanced specialist laboratories such as optics  radar  radio and life sciences
+secure facilities for confidential projects
+rapid prototyping facilities including a machine shop with cnc  electronic production  fabrication and low-volume production capability
+a proprietary document management system
+integrated management systems embracing safety  health  environment and quality  certified to iso 14001  iso 9001  iso 13485 and tickit  software  by bsi
+awards  
+in 2013  the company was named employer of the year in the cambridge news business excellence awards 
+since 2014  the company has achieved a place in the sunday times 100 best mid-sized companies to work for 
+references  
+  cambridge-news co uk  2009-03-17  retrieved 2013-08-21 
+jeanette walker    drug discovery today 10 14   956-959  2005 
+yupar myint  cfel
+ 
+  cambridge consultants  april 16  2013  retrieved august 11  2015 
+  cambridge consultants  retrieved august 11  2015 
+  cambridge consultants  june 16  2016  retrieved june 18  2016 
+ 
+  cambridge-news co uk  2013-04-08  retrieved 2013-08-21 
+ 
+further reading  
+dale  rodney  1979  from ram yard to milton hilton  a history of cambridge consultants ltd  1960-1979  36 pp cambridge  cambridge consultants ltd
+dale  rodney  2010  from ram yard to milton hilton  cambridge consultants - the early years  120 pp  haddenham  cambridgeshire  fern house publishing 
+external links  
+retrieved from   
+  hidden categories 

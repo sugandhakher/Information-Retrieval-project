@@ -1,0 +1,790 @@
+greenvehicle
+from wikipedia  the free encyclopedia
+jump to 					 
+ green vehicles  redirects here  for other uses  see  
+the
+is the world s top selling   with global sales of 3.7million units through april 2016  some owners use its identity to make an environmental statement 
+part of a series about
+green vehicle
+a green vehicle or environmentally-friendly vehicle is a road
+that produces less harmful impacts to the
+than comparable conventional
+vehicles running on
+or   or one that uses certain   presently  in some countries the term is used for any vehicle complying or surpassing the more stringent
+ such as euro6   or  s
+standards  such as          or the
+enacted in several countries 
+green vehicles can be powered by
+and advanced vehicle technologies and include        
+and        
+vehicles  and some sources also include vehicles using blends of
+and
+or   several author also include conventional motor vehicles with high   as they consider that increasing fuel economy is the most
+way to improve energy efficiency and reduce carbon emissions in the transport sector in the short run  as part of their contribution to   these vehicles reduce
+and   and contribute to
+by reducing oil imports 
+an environmental analysis extends beyond just the operating efficiency and emissions  a
+involves production and post-use considerations  a
+is more important than a focus on a single factor such as energy efficiency 
+contents
+energy efficiency  
+cars with similar production of energy costs can obtain  during the life of the car  operational phase   large reductions in energy costs through several measures 
+the most significant is by using  
+an efficient engine that reduces the vehicle s consumption of
+ i e     or that uses
+sources throughout its working life 
+using
+instead of petroleum fuels 
+proper maintenance of a vehicle such as engine     and maintaining proper
+can also help 
+removing unnecessary items from a vehicle reduces weight and improves fuel economy as well 
+comparison of several types of green car basic characteristics
+ values are overall for vehicles in current production and may differ between types 
+type of vehicle 
+powertrain
+  equivalent 
+range
+production cost
+for given range
+reduction in
+compared to conventional
+payback period
+10-78
+long
+ 400-600mi 
+low
+0 
+-
+18-71
+long
+ 360-540mi 
+low
+100 
+-
+54-118
+shorter
+ 73-150mi 
+luxury models
+medium
+ 160-300mi 
+high
+very high
+varies depending
+on energy source
+-
+80
+astronomical
+30-60
+380mi
+medium
+5 years
+types  
+comparison of energy efficiency between
+and
+cars 
+sales of both the
+ top  and the
+ bottom  began in december 2010 
+psa peugeot citron hybrid air concept exhibited at the 2013  
+further information 
+green vehicles include vehicles types that function fully or partly on alternative energy sources other than
+or less carbon intensive than gasoline or diesel 
+another option is the use of
+composition in conventional fossil fuel-based vehicles  making them function partially on renewable energy sources  other approaches include   a
+concept that offers automated  on-demand  non-stop transportation on a network of specially built guideways 
+electric and fuel cell-powered  
+see also 
+and
+examples of vehicles with reduced petroleum consumption include  
+and -powered  
+are typically more efficient than -powered vehicles on a
+basis  for this reason   
+and plug-in hybrids are gaining popularity  they have better
+than conventional
+vehicles but are hampered by
+or maximum distance attainable before discharging the battery  the
+are their main cost  they provide a 0  to 99.9  reduction in
+emissions compared to an
+ gasoline  diesel  vehicle  depending on the source of electricity 
+hybrid electric vehicles  
+see also 
+may be partly fossil fuel  or biofuel  powered and partly electric or hydrogen-powered  most combine an internal combustion engine with an electric engine  though other variations too exist  the internal combustion engine is often either a gasoline or diesel engine  in rare cases a stirling engine may even be used   they are more expensive to purchase but cost redemption is achieved in a period of about 5 years due to better fuel economy 
+compressed air cars  stirling vehicles  and others  
+see also 
+and
+ 
+vehicles 
+are even less polluting than electrical vehicles  as the vehicle and its components can be made more environmentally friendly 
+are held on a regular basis in order to promote green vehicles and other     these sleek driver-only vehicles can travel long distances at highway speeds using only the electricity generated instantaneously from the sun 
+improving conventional cars  
+the
+1.4 is a
+car designed to run as a
+on   or   or neat ethanol     or to run as a
+with  
+main articles      and
+see also 
+a conventional vehicle can become a greener vehicle by mixing in
+or using less carbon intensive   typical -powered cars can tolerate up to 10    brazil manufactured cars that run on neat ethanol  though there were discontinued  another available option is a
+which allows any blend of gasoline and ethanol  up to 85  in north america and europe  and up to 100  in brazil  another existing option is to convert a conventional gasoline-powered to allow the alternative use of               and
+have the largest fleets of
+in the world 
+-powered vehicles can often transition completely to   though the fuel is a very strong   which can occasionally damage
+seals in vehicles built before 1994  more commonly  however  biodiesel causes problems simply because it removes all of the built-up residue in an engine  clogging   unless care is taken when switching from dirty fossil-fuel derived diesel to bio-diesel  it is very effective at  de-coking  the diesel engines combustion chambers and keeping them clean  biodiesel is the lowest emission fuel available for diesel engines  diesel engines are the most efficient car internal combustion engines  biodiesel is the only fuel allowed in some north american national parks because spillages will completely bio-degrade within 21 days  biodiesel and   diesel engined vehicles have been declared amongst the greenest in the us tour de sol competition 
+this presents problems  as biofuels can use food resources in order to provide mechanical energy for vehicles  many experts point to this as a reason for growing food prices  particularly us bio-ethanol fuel production which has affected maize prices  in order to have a low environmental impact  biofuels should be made only from waste products  or from new sources like  
+electric motor and pedal powered vehicles  
+multiple companies are offering and developing two  three  and four wheel vehicles combining the characteristics of a bicycle with electric motors  us federal  state and local laws do not clearly nor consistently classify
+these vehicles as            
+or as a   some laws have limits on top speeds  power of the motors  range  etc  while others do not 
+other  
+further information 
+ 
+vehicles are not usually included in the green vehicle category  but
+ prt  vehicles probably should be  all vehicles that are powered from the track have the advantage of potentially being able to use any source of electric energy  including sustainable ones  rather than requiring liquid fuels  they can also switch regenerative braking energy between vehicles and the electric grid rather than requiring energy storage on the vehicles  also  they can potentially use the entire track area for solar collectors  not just the vehicle surface  the potential
+is much higher than that which traditional automobiles can attain 
+are
+powered by
+obtained from
+on the surface  generally  the roof  of the vehicle 
+ pv  cells convert the sun s energy directly into   solar vehicles are not practical day-to-day transportation devices at present  but are primarily demonstration vehicles and engineering exercises  often sponsored by government agencies  however  some cities have begun offering   including the
+in  
+primarily use wind-turbines installed at a strategic point of the vehicle  which are then converted into electric energy which causes the vehicle to propel 
+animal powered vehicles  
+are just one type of animal propelled vehicle  once a common form of transportation  they became far less common as cities grew and automobiles took their place  in dense cities  the waste produced by large numbers of transportation animals was a significant health problem  oftentimes the food is produced for them using diesel powered tractors  and thus there is some environmental impact as a result of their use 
+human powered vehicles  
+in    
+see also 
+human powered transport includes walking        and other environmentally friendly ways of getting around  in addition to the health benefits of the exercise provided  they are far more environmentally friendly than most other options  the only downside is the speed limitations  and how far one can travel before getting exhausted 
+benefits of green vehicle use  
+environmental  
+vehicle emissions contribute to the increasing concentration of gases linked to   in order of significance  the principal
+associated with road transport are carbon dioxide  co2   methane  ch4  and nitrous oxide  n2o   road transport is the third largest source of greenhouse gases emitted in the uk  and accounts for over 20  of total emissions  and 33  in the united states  of the total greenhouse gas emissions from transport  over 85  are due to co2 emissions from road vehicles  the transport sector is the fastest growing source of greenhouse gases 
+health  
+vehicle pollutants have been linked to human ill health including the incidence of respiratory and cardiopulmonary disease and lung cancer  a 1998 report estimated that up to 24,000 people die prematurely each year in the uk as a direct result of air pollution  according to the   up to 13,000 deaths per year among children  aged 04 years  across europe are directly attributable to outdoor pollution  the organization estimates that if pollution levels were returned to within eu limits  more than 5,000 of these lives could be saved each year 
+monetary  
+in
+have also reported that reduced fuel consumption saves them thousands of dollars per year 
+criticism  
+a study by cnw marketing research suggested that the extra energy cost of manufacture  shipping  disposal  and the short lives of some of these types of vehicle  particularly gas-electric   outweighs any energy savings made by their using less petroleum during their useful lifespan  this type of argument is the
+argument  critics of the report note that the study prorated all of toyota s hybrid research-and-development costs across the relatively small number of priuses on the road  rather than using the incremental cost of building a vehicle  used109,000 miles  175,000km  for the length of life of a prius  toyota offers a 150,000-mile  240,000km  warranty on the prius  hybrid components  including the battery   and calculated that a majority of a car s cradle-to-grave energy gets expended during the vehicle s production  not while it is driven 
+official bente verli stated that  cars cannot do anything good for the environment except less damage than others   based on this opinion  norwegian law severely restricts the use of    to market automobiles  strongly prohibiting advertising a vehicle as being environmentally friendly  with large fines issued to violators 
+a study that looked at other factors other than energy consumption and carbon emissions has suggested that there is no such thing as an environmentally friendly car 
+the use of vehicles with increased fuel efficiency is usually considered positive in the short term but criticism of any hydrocarbon-based personal transport remains  the
+suggests that energy efficiency programs are often counter-productive  even increasing energy consumption in the long run  many environmental researchers believe that
+may require a move away from hydrocarbon fuels and from our present automobile and highway paradigm 
+national and international promotion  
+european union  
+the
+is promoting the marketing of greener cars via a combination of binding and non-binding measures  as of april 2010  15 of the 27
+provide tax incentives for
+and some   which includes all
+countries except
+and   plus the
+and   the incentives consist of tax reductions and exemptions  as well as of bonus payments for buyers of    
+and  
+united states  
+the
+ epa  is promoting the marketing of greener cars via the
+program  the smartway and smartway elite designation mean that a vehicle is a better environmental performer relative to other vehicles  this us epa designation is arrived at by taking into account a vehicle s air pollution score and greenhouse gas score  higher air pollution scores indicate vehicles that emit lower amounts of pollutants that cause smog relative to other vehicles  higher greenhouse gas scores indicate vehicles that emit lower amounts of carbon dioxide and have improved fuel economy relative to other vehicles 
+to earn the smartway designation  a vehicle must earn at least a 6 on the air pollution score and at least a 6 on the greenhouse gas score  but have a combined score of at least 13  smartway elite is given to those vehicles that score 9 or better on both the greenhouse gas and air pollution scores 
+a green vehicle marketing alliance  in conjunction with the
+ onrl   periodically meets  and coordinates marketing efforts 
+progressive insurance automotive x prize  
+the progressive insurance automotive x prize  piaxp  is a set of competitions  programs and events  from the
+to  inspire a new generation of super-efficient vehicles that help break america s addiction to oil and stem the effects of climate change  
+is the title sponsor of the prize  the centerpiece of which is the competition division  within which a  10 million purse will be divided between the winners of three competitions 
+the essence of each competition is to design  build and race super-efficient vehicles that will achieve 100
+ 2.35 liter 100 kilometer  and can be produced for the mass market  within the competition division  there are two vehicle classes  mainstream and alternative  the mainstream class has a prize of  5 million  the alternate class has 2 separate prizes of  2.5 million  one for side-by-side seating and one for tandem seating 
+some of the competitors  such as aptera and tesla  are already taking deposits for  green  vehicles from customers 
+green car rankings  
+electric car 
+plug-in hybrid 
+ 4th gen  
+ 1st gen   
+ 
+ 
+electric car 
+ 
+plug-in hybrid 
+electric car 
+ 
+plug-in hybrid 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+several automobile magazines  motor vehicle specialized publications and
+publish annual rankings or listings of the best green   the following table presents a selection of the annual top pickings 
+selected annual rankings of green cars
+vehicle
+year
+model
+type of
+vehicle fuel
+combined
+  
+city
+  
+epa
+highway
+  
+most efficient epa-certified vehicles based on combined mpg rating
+ current year  gasoline fuel
+2014/16
+88 mpg-e
+97 mpg-e
+79 mpg-e
+ all years  gasoline fuel
+2016
+56
+58
+53
+ all years  all fuels
+2014/16
+124
+137 mpg-e
+111 mpg-e
+
+ 2016 award
+2016
+gas equivalent
+all-electric mode
+gasoline
+only mode
+106
+42 mpg
+53mi
+ 2015 award
+2014
+electric car
+124
+137 mpg-e
+111 mpg-e
+ 2014 award
+2014
+gasoline
+hybrid and plug-in variants
+mim 29 mpg  hybrid 47 mpg  plug-in 115 mpg-e
+ 2013 award
+2013
+gasoline   
+mim 34 mpg  hybrid 47 mpg  plug-in 100 mpg-e
+ 2012 award
+2012
+28
+24
+36
+ 2011 award
+2011
+gas equivalent
+all-electric mode
+gasoline
+only mode
+93
+37 mpg
+35mi
+
+ 2012 award
+2013
+gas equivalent
+all-electric mode
+gasoline
+only mode
+100
+43 mpg
+20mi
+ 2011 award
+2012
+gasoline equivalent
+fuel economy
+105
+100mi
+ 2010 award
+2011
+gasoline equivalent
+fuel economy
+99
+73mi
+ 2009 award
+2011
+gas equivalent
+all-electric mode
+gasoline
+only mode
+93
+37 mpg
+35mi
+ world green car
+ 2016 award
+2016
+66 mpg-e
+66 mpg-e
+66 mpg-e
+ 2015 award
+2015
+gas equivalent
+all-electric mode
+gasoline
+only mode
+76
+28 mpg
+15mi
+ 2014 award
+2014
+gasoline equivalent
+fuel economy
+124
+81mi
+ 2013 award
+2013
+ 60/85
+battery 
+gasoline equivalent
+fuel economy
+95/89
+208/265mi
+ 2012 award
+2012
+5.7l 100km  50mpg-imp  41mpg-us 
+ 2011 award
+2011
+gas equivalent
+all-electric mode
+gasoline
+only mode
+93
+37 mpg
+35mi
+ 2010 award
+      
+2010
+n a 
+n a 
+n a 
+ 2009 award
+ miles per kilogram of hydrogen 
+2009
+59 mpg-e
+58 mpg-e
+60 mpg-e
+top picks  green car category
+ best overall model 2014
+2014
+ 60/85
+battery 
+gasoline equivalent
+fuel economy
+95/89
+208/265mi
+ best green car 2014
+2014
+50
+51
+48
+toyota prius  best green car 2013
+2013
+50
+51
+48
+toyota prius  best green car 2012
+2012
+50
+51
+48
+toyota prius  best green car 2011
+2011
+50
+51
+48
+toyota prius  best green car 2010
+2010
+50
+51
+48
+ best green car 2009
+2009
+46
+48
+45
+american top picks  green car category
+ top pick 2011
+2011
+39
+41
+36
+ top pick 2010
+2010
+39
+41
+36
+ top pick 2009
+2009
+32
+34
+31
+green awards
+efficient dynamics  overall winner 2012
+2012
+uk combined 56mpg-imp  5.0l 100km  47mpg-us 
+ overall winner 2011
+2012
+ec combined 235.4mpg-imp  1.200l 100km  196.0mpg-us 
+ overall winner 2010
+2010
+uk combined 74mpg-imp  3.8l 100km  62mpg-us 
+1.6d drive s  overall winner 2009
+2009
+uk combined 60mpg-imp  4.7l 100km  50mpg-us 
+1.6 tdci style  overall winner 2008
+2008
+uk combined 52mpg-imp  5.4l 100km  43mpg-us 
+best green cars
+best green cars of 2011
+2011
+gas equivalent
+all-electric mode
+gasoline
+only mode
+93
+37 mpg
+35mi
+2011
+gasoline equivalent
+fuel economy
+99
+73mi
+2011
+50
+51
+48
+2011
+33
+29
+38
+cvt
+2011
+37
+35
+39
+2011
+34
+30
+42
+best green cars of 2010
+2010
+39
+41
+36
+2010
+42
+40
+45
+2010
+41
+40
+43
+2010
+50
+51
+48
+2010
+34
+30
+42
+2010
+41
+40
+43
+greenest vehicles of the year
+greenest vehicles of 2012  top 5 
+2012
+112
+3.8 mile 
+2.9 mile 
+2012
+-
+27mpg-e
+38 mpg-e
+2012
+99
+3.1 mile 
+2.7 mile 
+2012
+50
+51
+48
+2012
+42
+41
+44
+greenest vehicles of 2011  top 5 
+2011
+28
+24
+36
+2011
+99
+3.15 mile 
+2.72 mile 
+ cabriolet coupe 
+2011
+36
+33
+41
+2011
+50
+51
+48
+2011
+41
+40
+43
+greenest vehicles of 2010  top 5 
+2010
+28
+24
+36
+2010
+50
+51
+48
+2010
+42
+40
+45
+ convertible coupe 
+2010
+36
+33
+41
+2010
+41
+40
+43
+top 10 green cars
+top 10 green cars of 2014  top 5 
+2014
+gasoline equivalent
+fuel economy
+124
+81mi
+2014
+gasoline equivalent
+fuel economy
+99
+73mi
+2014
+50
+51
+48
+2014
+ 60/85
+battery 
+gasoline equivalent
+fuel economy
+95/89
+208/265mi
+2014
+47
+50
+45
+top 10 green cars of 2011  top 3 
+2011
+gasoline equivalent
+fuel economy
+99
+73mi
+2011
+gasoline equivalent
+fuel economy
+93
+35mi
+2011
+50
+51
+48
+top 10 green cars of 2010  top 3 
+2010
+50
+51
+48
+2010
+41
+40
+43
+2010
+39
+41
+36
+green vehicle motor shows  
+see also 
+dedicated
+and green vehicle motor shows 
+alternative vehicle and fuel show  avfs     spain  in november 
+green fleet expo    in may 
+green-car-guide live  
+in   in june
+    in november
+this section needs expansion  you can help by    june 2008 
+see also  
+- e g  new green vehicle methods
+notes and references  
+millikin  mike  2016-05-20       retrieved 2016-05-22  the prius family accounts for 63  of toyota s total global cumulative hybrid car sales  5.691 million units  consisting of prius liftback  3.733 million  aqua  prius c  1.249 million  prius   prius v  prius    0.634 million  prius phv  75,000 
+maynard  micheline  2007-07-04       retrieved 2013-07-03 
+r i c  publications  2005     p 67   
+ 
+  green student u  retrieved 2010-04-24 
+organisation for economic co-operation and development  organisation for economic co-operation and development  working group on low-emission vehicles  2004     oecd publishing  pp 8485   
+  alternative fuels and advanced vehicle data center    retrieved 2010-04-24 
+ 
+sperling  daniel  deborah gordon  2009   two billion cars  driving toward sustainability    new york  pp 235260    see chapter 9  driving towards sustainability
+  us epa region 10  retrieved may 22  2012
+  end of life vehicles  eu  retrieved may 22  2012
+ 
+ 
+  consumer reports  consumers union  7 march 2006  archived from
+on 2007-09-21  retrieved 2007-04-27 
+ 
+ 
+ pdf   retrieved 2010-12-12 
+ eg india  china  australia 
+pdf 245kb 
+ 
+  international association for natural gas vehicles  retrieved 2009-10-19 
+  us department of transportation  retrieved 2015-11-14 
+  retrieved 2015-11-14 
+world energy council  2007       retrieved 2009-05-26 
+weingroff  marianne    ucar edu  retrieved 2010-12-12 
+  whatgreencar com  2009-12-03  retrieved 2010-12-12 
+jonathan l  ramseur  january 18  2007  
+ pdf   congressional research service  16  retrieved 2009-06-27 
+intergovernmental panel on climate change  2007  
+ pdf     retrieved 2009-05-26 
+  advisorybodies doh gov uk  2009-11-26  retrieved 2010-12-12 
+gralla  joan  july 17  2008     reuters 
+cnw marketing research  inc  2006    
+brendan i  koerner    slate magazine  march 18  2008
+independent newspapers online  2010-05-05     motoring co za  retrieved 2010-12-12 
+  treehugger com  retrieved 2010-12-12 
+doyle  alister  2007-09-06     reuters com  retrieved 2010-12-12 
+tziovaras  t   2011  
+ pdf   world transport policy and practice 17  3  27-31  retrieved 2012-07-08 
+alcott  blake  july 2005     ecological economics  54  1   921     retrieved 2010-08-08 
+kunstler  james howard  2012   too much magic  wishful thinking  technology  and the fate of the nation  atlantic monthly press   
+gilbert  richard  2010    transportation is the post carbon world   in mckibben  d  the post carbon reader  managing the 21st centery sustainability crisis  watershed media 
+black  w r  1996    sustainable transportation  a us perspective   journal of transport geography  elsevier  4  3    access-date  requires  url    
+  euractiv com  retrieved 2010-12-12 
+    2010-04-21  retrieved 2010-04-23 
+    2010-04-21  retrieved 2010-04-23 
+ pdf   retrieved 2010-12-12 
+ pdf     p 5  retrieved 2009-06-21 
+boyle  alan      retrieved 2008-09-16 
+ pdf   progressiveautoxprize org  retrieved 2009-05-28 
+and
+ 2015-12-22     fueleconomy gov  retrieved 2015-12-26  the 201415 bmw i3 bev is the most efficient epa-certified vehicles considering all fuels and of all years  as of december 2015  the 2016 toyota prius eco hybrid car is most efficient epa-certified vehicle with a gasoline engine without plug-in capability 
+and
+ 2015-12-22     fueleconomy gov  retrieved 2015-12-26  excludes all-electric vehicles  click on the tab  top fuel sippers  epa ratings  all years  
+voelcker  john  2015-12-21     green car reports  retrieved 2015-12-26  the first generation
+was the most fuel efficient gasoline-powered car available in the u s  without
+for the length of its production run and until december 2015  when it was surpassed by the 2016  
+blanco  sebastian  2015-11-19     autoblog green  retrieved 2015-11-21 
+and
+ 2015-09-01     fueleconomy gov  retrieved 2015-09-02 
+priddle  alisa  2014-11-20       retrieved 2014-11-21 
+blanco  sebastian  2013-11-21     autoblog green  retrieved 2013-11-23 
+blanco  sebastian  2012-11-29     autoblog com  retrieved 2012-11-29 
+ 2011-11-17       retrieved 2011-11-17 
+    2010-11-18  retrieved 2010-11-18 
+ 
+david bailey  kevin krolicki  2010-11-24       retrieved 2010-11-24 
+ 
+    2010-11-24  retrieved 2010-11-24 
+blkanco  sebastian  2012-01-26     autoblog green  retrieved 2012-01-26 
+blanco  sebastian  2011-01-27     autobloggreen  retrieved 2011-01-27 
+    2010-01-26  retrieved 2010-05-09 
+bunkley  nick  2010-11-22       retrieved 2010-11-23 
+    2009-02-04  retrieved 2010-05-09 
+ press release     pr newswire  2016-03-14  retrieved 2016-03-26 
+ press release   new york    2015-04-02  retrieved 2015-11-29 
+and
+ 2015-08-14     fueleconomy gov  retrieved 2015-08-16 
+henry  jim  2014-04-17       retrieved 2014-04-17 
+ 
+prnewswire  2013-03-28       retrieved 2013-03-28 
+    2011-04-21  retrieved 2011-04-21 
+    retrieved 2010-05-02 
+    retrieved 2010-05-02 
+ 
+    february 2014  retrieved 2014-04-21  line feed character in  title  at position 33   
+    april 2013  retrieved 2014-04-21  line feed character in  title  at position 15   
+    2012-02-28  retrieved 2014-04-21 
+    2011-02-28  retrieved 2012-02-08 
+    april 2010  retrieved 2010-05-09 
+    2009-02-27  retrieved 2010-05-09 
+    2011-03-03  retrieved 2012-02-08 
+    2010-02-26  retrieved 2010-05-02 
+    2009-03-04  retrieved 2010-05-09 
+ 
+hallett  chas  2012-09-19       retrieved 2012-09-27 
+    2011-09-07  retrieved 2012-02-08 
+    2012-01-23  retrieved 2012-02-08 
+ 
+    2010-07-01  retrieved 2010-07-01 
+    2009-06-04  retrieved 2010-05-09 
+  volvocars com  2010-05-26  retrieved 2010-12-12 
+    2008-07-22  retrieved 2010-05-02 
+  buyacar co uk  2008-01-01  retrieved 2010-12-12 
+    may 2011  retrieved 2012-02-08  junejuly 2011 issue
+    march 2010  retrieved 2010-05-02  aprilmay 2010 issue
+ 2011-02-08     greencars org  retrieved 2011-02-08 
+ 2011-02-15     greencars org  retrieved 2011-02-15 
+john o dell  2011-02-17    
+green car adviser  retrieved 2011-02-17 
+  hybridcars com  2010-01-19  retrieved 2010-09-26 
+loveday  eric  2014-04-21     insideevs com  retrieved 2014-04-21 
+koch  wendy  2011-04-12       retrieved 2011-04-15 
+    2011-04-12  retrieved 2011-04-15 
+    april 2010  retrieved 2010-05-02 
+    2010-04-20  retrieved 2010-05-02 
+  feriavalladolid com  retrieved 2010-12-12 
+  toronto ca  2000-10-23  retrieved 2010-12-12 
+  green-car-guide com  2008-06-12  retrieved 2010-12-12 
+july 21  2009  at the  
+added by antti view events    electricaid ning com  retrieved 2010-12-12 
+yoney  domenick  2009-10-13     green autoblog com  retrieved 2010-12-12 
+further reading  
+leitman  seth  brant  bob  october 2008       inc   
+tobin smith  jim woods  liz claman  2008    waving the green flag  clean transportation     john wiley and sons  pp 3546   
+external links  
+wikinews has news related to 
+ 
+ institute for energy efficiency 
+ 
+ nrel    
+program  december 2013 
+ includes estimated cost of avoided ghg emissions from different afv technologies     june 2016 
+  
+  
+ 
+ 
+and   april 2014 
+  
+  
+air pollution  
+ 
+water  
+ 
+fuel  
+ 
+  
+ 
+ 
+conservation
+building  
+ 
+retrieved from   
+  hidden categories 

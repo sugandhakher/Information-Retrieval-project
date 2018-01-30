@@ -1,0 +1,91 @@
+runoftheriverhydroelectricity
+from wikipedia  the free encyclopedia
+jump to 					 
+run-of-the-river hydroelectricity  ror  is a type of
+generation plant whereby little or no water storage is provided  run-of-the-river power plants may have no water storage at all or a limited amount of storage  in which case the storage reservoir is referred to as   a plant without pondage has no water storage and is  therefore  subject to seasonal river flows  thus  the plant will operate as an
+while a plant with pondage can regulate the water flow at all times and can serve as a
+or  
+near   usa  is a major run-of-the-river station without a sizeable reservoir 
+contents
+concept  
+run-of-the-river or ror hydroelectricity is considered ideal for streams or rivers that can sustain a minimum flow or those regulated by a lake or reservoir upstream  a small dam is usually built to create a headpond ensuring that there is enough water entering the
+pipes that lead to the
+which are at a lower elevation  projects with pondage  as opposed to those without pondage  can store water for daily load demands  in general  projects divert some or most of a river s flow  up to 95  of mean annual discharge  through a pipe and or tunnel leading to electricity-generating turbines  then return the water back to the river downstream 
+ror projects are dramatically different in design and appearance from conventional hydroelectric projects  traditional hydro dams store enormous quantities of water in   sometimes flooding large tracts of land  in contrast  run-of-river projects do not have most of the   which is why they are often considered environmentally friendly  in canada no large hydroelectric reservoir has been created since the 1980s 
+the use of the term  run-of-the-river  for power projects varies around the world  some may consider a project ror if power is produced with no water storage while limited storage is considered ror by others  developers may mislabel a project ror to soothe public perception about its environmental or social effects  the
+describes run-of-the-river hydroelectricity as 
+a power station utilizing the run of the river flows for generation of power with sufficient pondage for supplying water for meeting diurnal or weekly fluctuations of demand  in such stations  the normal course of the river is not materially altered 
+many of the larger ror projects have been designed to a scale and generating capacity rivaling some traditional hydro dams  for example  the
+in quebec is rated at 1,853 mw and a 2006 proposal in   canada has been designed to generate 1027 megawatts capacity  some run of the river projects are downstream of other dams and reservoirs  the run of the river project didn t build the reservoir  but does take advantage of the water supplied by it  an example would be the 1995  1,436 mw   previous upstream dams and reservoirs are part of the 1980s  
+advantages  
+when developed with care to footprint size and location  ror hydro projects can create sustainable energy minimizing impacts to the surrounding environment and nearby communities  advantages include 
+cleaner power  fewer greenhouse gases  
+like all hydro-electric power  run-of-the-river hydro harnesses the natural potential energy of water  eliminating the need to burn coal or
+to generate the electricity needed by consumers and industry 
+less flooding reservoirs  
+substantial flooding of the upper part of the river is not required for run-of-river projects as a large reservoir is not required  as a result  people living at or near the river don t need to be relocated and natural habitats and productive farmlands are not wiped out 
+disadvantages  
+ unfirm  power  
+run-of-the-river power is considered an  unfirm  source of power  a run-of-the-river project has little or no capacity for energy storage and hence can t co-ordinate the output of electricity generation to match consumer demand  it thus generates much more power during times when seasonal river flows are high  i e   spring freshet   and depending on location  much less during drier summer months or frozen winter months 
+availability of sites  
+the potential power at a site is a result of the
+and flow of water  by damming a river  the head is available to generate power at the face of the dam  where a dam may create a reservoir hundreds of kilometers long  in run of the river the head is usually delivered by a canal  pipe or tunnel constructed upstream of the power house  due to the cost of upstream construction  a steep drop in the river is desirable 
+environmental impacts  
+small  well-sited ror projects can be developed with minimal environmental impacts  larger projects have more environmental concerns  for example  plutonic power corp  s canceled
+hydroelectric project in bc would have seen three clusters of run-of-river projects with 17 river diversions  as proposed  this run-of-river project would divert over 90 kilometres of streams and rivers into tunnels and pipelines  requiring 443km of new transmission line  267km of permanent roads  and 142 bridges to be built in wilderness areas 
+british columbia s mountainous terrain and wealth of big rivers have made it a global testing ground for run-of-river technology  as of march 2010  there were 628 applications pending for new water licences solely for the purposes of power generation  representing more than 750 potential points of river diversion 
+concerns  
+diverting large amounts of river water reduces river flows  affecting water velocity and depth  minimizing habitat quality for fish and aquatic organisms  reduced flows can lead to excessively warm water for salmon and other fish in summer 
+new access roads and transmission lines can cause extensive habitat fragmentation for many species  allowing the introduction of invasive species and increases in undesirable human activities  like illegal hunting 
+the lack of reservoir storage may result in intermittent operation  reducing the project s viability 
+major examples  
+main article 
+  11,233 megawatts  15,064,000hp    
+  2,620 megawatts  3,510,000hp 
+  1,903 megawatts  2,552,000hp 
+  1,092 megawatts  1,464,000hp 
+    shimla  india  1,500 megawatts  2,000,000hp 
+on
+in   1,450 megawatts  1,940,000hp 
+  1,436 megawatts  1,926,000hp 
+        1,100 megawatts  1,500,000hp 
+          969 megawatts  1,299,000hp 
+in india  900 megawatts  1,200,000hp 
+  quebec  canada  752 megawatts  1,008,000hp 
+  nepal  456mw
+on
+in     3.5 megawatts  4,700hp 
+  british columbia  canada  196 megawatts  263,000hp 
+forrest kerr hydro project  british columbia  canada  195 megawatts  261,000hp 
+      150 megawatts  200,000hp 
+  british columbia  canada  123 megawatts  165,000hp 
+ ukhp   talawakele  sri lanka  150 megawatts  200,000hp 
+sechelt creek generating station  british columbia  canada  16 megawatts  21,000hp 
+see also  
+saint marys falls - run of the river  1902 
+notes  
+ 
+dwivedi  a k  raja  amit prakash srivastava  manish  2006     new delhi  new age international  p 354   
+raghunath  h m   2009  
+ rev  2nd ed    new delhi  new age international  p 288   
+ 
+douglas t  broomhall p  orr c   2007     watershed watch 
+knight piesold consulting    knight piesold consulting 
+hydromax energy limited   
+ 
+partha j  das1  neeraj vagholikar 
+ pdf   kalpavriksh  aaranyak and actionaid india  pp 45  retrieved 11 july 2011 
+ 
+plutonic power  2008     plutonic power 
+ 
+wilderness committee    wilderness committee 
+douglas  t   2007     watershed watch 
+ pdf   watershed watch salmon society  watershed watch  2009  p 2  retrieved 2010-08-03 
+ippwatch com website   
+hydro-qubec production  2012     hydro-qubec  retrieved 2011-05-17
+references  
+freedman  b   2007  environmental science  a canadian perspective  4th edition  pearson education canada  toronto  pp 226,394 
+generation
+equipment
+retrieved from   
+ 

@@ -1,0 +1,186 @@
+kilowatthour
+from wikipedia  the free encyclopedia
+ redirected from  
+jump to 					 
+ kwh  redirects here  for other uses  see  
+residential
+located in canada
+the kilowatt hour  symbol kwh  is a
+of
+equal to 3.6  if the energy is being transmitted or used at a constant rate  power  over a period of time  the total energy in kilowatt hours is the
+in kilo multiplied by the time in hours  the kilowatt hour is commonly used as a billing unit for energy delivered to consumers by  
+contents
+definition  
+the kilowatt hour is a unit of energy equivalent to one kilowatt  1kw  of power sustained for one hour 
+1
+k
+w
+
+h
+ 
+1
+k
+w
+
+3600
+s
+ 
+3600
+k
+w
+s
+ 
+3600
+k
+j
+ 
+3.6
+m
+j
+  displaystyle 1   mathrm  kw cdot h   1   mathrm  kw   cdot 3600   mathrm  s   3600   mathrm  kws   3600   mathrm  kj   3.6   mathrm  mj   
+one watt second is equal to one joule  one kilowatt-hour is 3.6  which is the amount of energy converted if work is done at an average rate of one thousand watts for one hour 
+the base unit of energy within the
+ si  is the   the hour is a unit of time  outside the si   making the kilowatt hour a non-si unit of energy  the kilowatt hour is not listed among the
+by the
+for use with the si  although the hour  from which the kilowatt hour is derived  is 
+examples  
+an electric heater rated at 1000 watts  1 kilowatt   operating for one hour uses one kilowatt hour  equivalent to 3.6 megajoules  of energy  a television rated at 100 watts operating for 10 hours continuously uses one kilowatt hour  a 40-watt light bulb operating continuously for 25 hours uses one kilowatt hour 
+electrical energy is sold in kilowatt hours  cost of running equipment is the product of power in kilowatts multiplied by running time in hours and price per kilowatt hour  the
+of electricity may depend upon the rate of consumption and the time of day  industrial users may also have extra charges according to their peak usage and the  
+symbol and abbreviations for kilowatt hour  
+the symbol  kwh  is commonly used in commercial  educational  scientific and media publications  and is the usual practice in electrical power engineering 
+other abbreviations and symbols may be encountered 
+ kw h  is less commonly used  it is consistent with
+standards  but note that the kilowatt-hour is a non-si unit   the international standard for si states that in forming a compound unit symbol   multiplication must be indicated by a space or a half-high  centered  dot     since otherwise some prefixes could be misinterpreted as a unit symbol   i e   kw h or kwh   this is supported by a voluntary standard issued jointly by an international    and national    organization  however  at least one major usage guide and the ieee astm standard allow  kwh   but do not mention other multiples of the watt hour   one guide published by
+specifically recommends avoiding  kwh   to avoid possible confusion  
+ kwh  is  like  kw h   preferred with si standards  but it is very rarely used in practice 
+the us official fuel-economy window sticker for electric vehicles uses the abbreviation  kw-hrs  
+variations in capitalization are sometimes seen  kwh  kwh  kwh  etc  these are inconsistent with international system of units 
+the notation  kw h   as a symbol for kilowatt-hour  is not correct 
+conversions  
+further information 
+to convert a quantity measured in a unit in the left column to the units in the top row  multiply by the factor in the cell where the row and column intersect 
+watt hour
+kilowatt hour
+1j   1kgm2 s2  
+1
+2.77778  104
+2.77778  107
+6.241  1018
+0.239
+1wh  
+3.6  103
+1
+0.001
+2.247  1022
+859.8
+1kwh  
+3.6  106
+1,000
+1
+2.247  1025
+8.598  105
+1ev  
+1.602  1019
+4.45  1023
+4.45  1026
+1
+3.827  1020
+1cal  
+4.1868
+1.163  103
+1.163  106
+2.613  1019
+1
+watt hour multiples and billing units   
+further information 
+the kilowatt hour is commonly used by electrical distribution providers for purposes of billing  since the monthly energy consumption of a typical residential customer ranges from a few hundred to a few thousand kilowatt hours  megawatt hours  mwh   gigawatt hours  gwh   and terawatt hours  twh  are often used for metering larger amounts of electrical energy to industrial customers and in power generation  the terawatt hour and petawatt hour  pwh  units are large enough to conveniently express the  
+si multiples for watt hour  wh 
+submultiples
+multiples
+value
+symbol
+name
+value
+symbol
+name
+103
+mwh
+milliwatt hour
+103
+kwh
+kilowatt hour
+106
+wh
+microwatt hour
+106
+mwh
+megawatt hour
+109
+gwh
+gigawatt hour
+1012
+twh
+terawatt hour
+1015
+pwh
+petawatt hour
+confusion of kilowatt hours  energy  and kilowatts  power   
+the terms
+and
+are frequently confused  power is defined as the rate of delivery of energy  the work performed per unit time  measured in units joules per second or watts  to produce power over any period of time requires energy  either higher levels of power for a given period or longer periods of run time at a given power level require more energy 
+an electrical load  e g  a lamp  tv-set  electric motor  has a rated size in watts  this is its running power level  which equates to the instantaneous rate at which energy must be generated and consumed to run the device  the amount of energy that is consumed at that rate depends on how long the device is operated  however  its power requirements are constant while running  the unit of energy for residential electrical billing  kilowatt hours  integrates changing power levels in use at the residence over the past billing period  which is nominally 720 hours for a 30-day month  thus showing cumulative electrical energy use for the month 
+for another example  when a light bulb with a power rating of 100 watts is turned on for one hour  the energy used is 100 watt hours  wh   0.1 kilowatt hour  or 360 kilojoules  this same amount of energy would light a 40-watt bulb for 2.5 hours  or a 10-watt low-energy bulb for 10 hours  a power station electricity output at any particular moment would be measured in multiples of watts  but its annual energy sales would be in multiples of watt hours  a kilowatt hour is the amount of energy equivalent to a steady power of 1 kilowatt running for 1 hour  or 3.6  
+energy cost can be illustrated in a similar example  a 100-watt  i e  0.1 kilowatt  light bulb turned on for 8 hours uses 800wh or 0.8kwh  if the energy cost is 25 cents per kilowatt hour  it would cost 0.1kw  8h   0.25 kwh    0.20 
+whereas individual homes only pay for the kilowatt hours consumed  commercial buildings and institutions also pay for peak power consumption  the greatest power recorded in a fairly short time  such as 15 minutes  this compensates the power company for maintaining the infrastructure needed to provide peak power  these charges are billed as demand charges 
+major energy production or consumption is often expressed as terawatt hours  twh  for a given period that is often a
+or   one terawatt hour is equal to a sustained power of approximately 114 megawatts for a period of one year 
+misuse of watts per hour  
+power units measure the rate of energy per unit time  many compound units for rates explicitly mention units of time  for example  miles per hour  kilometers per hour  dollars per hour  kilowatt-hours are a product of power and time  not a rate of change of power with time  watts per hour  w h  is a unit of a change of power per hour  it might be used to characterize the ramp-up behavior of   for example  a power plant that reaches a power output of 1mw from 0mw in 15 minutes has a ramp-up rate of 4mw h 
+power plants have a very high ramp-up rate  which makes them particularly useful in peak load and emergency situations 
+the proper use of terms such as watts per hour is uncommon  whereas misuse may be widespread 
+other energy-related units  
+several other units are commonly used to indicate power or energy capacity or use in specific application areas 
+average annual power production or consumption can be expressed in kilowatt hours per year  for example  when comparing the energy efficiency of household appliances whose power consumption varies with time or the season of the year  or the energy produced by a distributed power source  one kilowatt hour per year equals about 114.08
+applied constantly during one year 
+the energy content of a
+is usually expressed indirectly by its capacity in   to convert watt hours  wh  to ampere hour  ah   the watt-hour value must be divided by the voltage of the power source  this value is approximate  since the voltage is not constant during discharge of a battery  and because higher discharge rates reduce the total amount of energy the battery can provide  in the case of devices that output a different voltage than the battery  it is the battery voltage  typically 3.7 for   that must be used to calculate rather than the device output  usually 5.0 for
+portable chargers   since use of the lower figure allows manufacturers of such devices to
+the capacity or run-time  inflating it by 35   53.7 1.35   this results in a 500ma usb device running for only about 3.7 hours on a 2500mah battery  rather than the expected five hours 
+the board of trade unit  botu  is an obsolete uk synonym for kilowatt hour  the term derives from the name of the
+which regulated the electricity industry until 1942 when the
+took over  the b o t u  should not be confused with the
+or btu  which is a much smaller quantity of thermal energy 
+in india  the kilowatt hour is often simply called a unit of energy  a million units  designated mu  is a gigawatt hour and a bu  billion units  is a terawatt hour 
+of
+is normally quoted in megawatt days per tonne  mwd mtu   where tonne refers to a metric ton of uranium metal or its equivalent  and megawatt refers to the entire thermal output  not the fraction which is converted to electricity   
+see also  
+references  
+march 14  2016  at the  
+thompson  ambler and taylor  barry n   2008  
+june 3  2016  at the    special publication 811   gaithersburg  md  national institute of standards and technology  12 
+ half-high dots or spaces are used to express a derived unit formed from two or more other units by multiplication   barry n  taylor   2001 ed  
+june 3  2016  at the    special publication 330   gaithersburg  md  national institute of standards and technology  20 
+ 
+april 29  2016  at the     2006  8th ed   paris    130 
+see for example 
+november 26  2007  at the   danish wind energy association  retrieved 9 january 2008 
+march 2  2016  at the   businessdictionary com  retrieved 9 january 2008 
+november 26  2007  at the   www world-nuclear org  retrieved 9 january 2008 
+november 26  2007  at the   renew on line  uk   the   retrieved 9 january 2008 
+november 26  2007  at the  
+astm si10-10  ieee astm si 10 american national standard for metric practice  astm international  west conshohocken  pa  2010   www astm org   the symbols for certain compound units of electrical power engineering are usually written without separation  thus  watthour  wh   kilowatthour  kwh   voltampere  va   and kilovoltampere  kva  
+standard for the use of the international system of units  si   the modern metric system   1997    ieee astm si 10-1997   new york and west conshohocken  pa 
+and   15 
+chicago manual of style   14th ed   1993  university of chicago press  482 
+march 4  2016  at the  
+  fueleconomy gov  us department of energy  retrieved 10 august 2014 
+june 6  2016  at the    national grid
+  northern arizona wind and sun  retrieved 27 march 2009 
+  archived from
+on 2010 
+    december 20  2004  retrieved 29 november 2009   
+      july 24  2008  retrieved 29 november 2009   
+external links  
+retrieved from   
+  hidden categories 

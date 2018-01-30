@@ -1,0 +1,239 @@
+sustainabilitymeasurement
+from wikipedia  the free encyclopedia
+jump to 					 
+see also 
+sustainability measurement is the quantitative basis for the informed management of   the metrics used for the measurement of sustainability  involving the sustainability of environmental  social and economic domains  both individually and in various combinations  are still evolving  they include   benchmarks  audits  indexes and accounting  as well as assessment  appraisal and other reporting systems  they are applied over a wide range of spatial and temporal scales 
+some of the best known and most widely used sustainability measures include corporate     and estimates of the quality of sustainability governance for individual countries using the
+and   an alternative approach  used by the
+cities programme and explicitly critical of the triple-bottom-line approach is  
+contents
+sustainability indicators and their function  
+the principal objective of sustainability indicators is to inform public policy-making as part of the process of   sustainability indicators can provide information on any aspect of the interplay between the environment and socio-economic activities  building strategic indicator sets generally deals with just a few simple questions  what is happening   descriptive indicators   does it matter and are we reaching targets   performance indicators   are we improving   efficiency indicators   are measures working   policy effectiveness indicators   and are we generally better off   total welfare indicators   one popular general framework used by the
+uses a slight modification of the
+dpsir system  this breaks up environmental impact into five stages  social and economic developments  consumption and production   d rive or initiate environmental  p ressures which  in turn  produces a change in the  s tate of the environment which leads to  i mpacts of various kinds  societal  r esponses  policy guided by sustainability indicators  can be introduced at any stage of this sequence of events 
+metrics at the global scale  
+united nations indicators  
+the united nations has developed extensive sustainability measurement tools in relation to sustainable development
+as well as a  
+benchmarks  indicators  indexes  auditing etc   
+in the last couple of decades there has arisen a crowded toolbox of quantitative methods used to assess sustainability  including measures of resource use like   measures of consumption like the
+and measurements of quality of environmental governance like the   the following is a list of quantitative  tools  used by sustainability scientists - the different categories are for convenience only as defining criteria will intergrade  it would be too difficult to list all those methods available at different levels of organisation so those listed here are at for the global level only 
+this list is   you can help by  
+a benchmark is a point of reference for a measurement  once a benchmark is established it is possible to assess trends and measure progress  baseline global data on a range of sustainability
+is available at
+a sustainability index is an aggregate sustainability indicator that combines multiple sources of data  there is a consultative group on sustainable development indices
+sustainability index
+ formerly  
+ see  
+  the status index
+ranks 30 oecd countries in terms of sustainable reform performance
+water poverty index
+many environmental problems ultimately relate to the human effect on those global biogeochemical cycles that are critical to life  over the last decade monitoring these cycles has become a more urgent target for research 
+sustainability auditing and reporting are used to evaluate the sustainability performance of a company  organization  or other entity using various performance indicators  popular auditing procedures available at the global level include 
+accounting
+can be used for any level of organization with a financial budget  it relates environmental impact to expenditure by calculating the
+of goods and services 
+development and ngo project auditing
+ litmus test  type indicators are also used in the development and ngo community to test conformity and compliance with the guidelines of
+and the international
+of 1992 
+sustainable development indicator for ngos and other organizations
+global reporting initiative
+modelling and monitoring procedures  many of these have only just been developed 
+reporting provides general background information on the environment and is progressively including more indicators 
+european sustainability
+some accounting methods attempt to include environmental costs rather than treating them as
+sustainability economics
+resource metrics  
+part of this process can relate to resource use such as
+or to economic metrics or
+values as compared to
+potential  for understanding resource use  an important task for resource theory    is to develop methods to optimize resource conversion processes  these systems are described and analyzed by means of the methods of mathematics and the natural sciences  human factors  however  have dominated the development of our perspective of the relationship between nature and society since at least the   and in particular have influenced how we describe and measure the economic impacts of changes in resource quality  a balanced view of these issues requires an understanding of the physical framework in which all human ideas  institutions  and aspirations must operate 
+economics  oil and energy  
+oil imports by country
+energy return on energy investment  
+when oil production first began in the mid-nineteenth century  the largest oil fields recovered fifty barrels of oil for every barrel used in the extraction  transportation and refining  this ratio is often referred to as the energy return on energy investment  eroi or    currently  between one and five barrels of oil are recovered for each barrel-equivalent of energy used in the recovery process  as the eroei drops to one  or equivalently the
+falls to zero  the oil production is no longer a net energy source  this happens long before the resource is physically exhausted 
+note that it is important to understand the distinction between a barrel of oil  which is a measure of oil  and a
+ boe   which is a measure of energy  many sources of energy  such as fission  solar  wind  and coal  are not subject to the same near-term supply restrictions that oil is  accordingly  even an oil source with an eroei of 0.5 can be usefully exploited if the energy required to produce that oil comes from a cheap and plentiful energy source  availability of cheap  but hard to transport  natural gas in some oil fields has led to using
+to fuel   similarly  natural gas in huge amounts is used to power most
+plants  cheap natural gas has also led to
+produced with a net eroei of less than 1  although figures in this area are controversial because methods to measure eroei are in debate 
+growth-based economic models  
+insofar as
+is driven by oil consumption growth  post-peak societies must adapt 
+believed 
+
+our principal constraints are cultural  during the last two centuries we have known nothing but exponential growth and in parallel we have evolved what amounts to an exponential-growth culture  a culture so heavily dependent upon the continuance of exponential growth for its stability that it is incapable of reckoning with problems of nongrowth 
+
+some economists describe the problem as
+or a   at the political right 
+has warned about  conservatives addicted to the utopia of perpetual growth   brief oil interruptions in 1973 and 1979 markedly slowed - but did not stop - the growth of world  
+between 1950 and 1984  as the
+transformed
+around the globe  world grain production increased by 250   the energy for the green revolution was provided by
+in the form of
+ natural gas  
+ oil   and
+fueled  
+david pimentel  professor of ecology and
+at   and   senior researcher at the national research institute on food and nutrition  inran   place in their study food  land  population and the u s  economy the maximum
+for a
+at 200 million  to achieve a sustainable economy
+will have to be reduced by two-thirds  says the study  without population reduction  this study predicts an agricultural crisis beginning in 2020  becoming critical c  2050  the
+along with the decline in regional
+production may precipitate this agricultural crisis sooner than generally expected 
+claims that coming decades could see spiraling
+prices without relief and massive
+on a global level such as never experienced before 
+hubbert peaks  
+although
+receives most attention in relation to   it has also been applied to other natural resources 
+natural gas  
+main article 
+doug reynolds predicted in 2005 that the north american peak would occur in 2007  bentley  p 189  predicted a world  decline in conventional gas production from about 2020  
+coal  
+main article 
+peak coal is significantly further out than peak oil  but we can observe the example of
+in the usa  a high grade coal whose production peaked in the 1920s  anthracite was studied by hubbert  and matches a curve closely  pennsylvania s coal production also matches hubbert s curve closely  but this does not mean that coal in pennsylvania is exhaustedfar from it  if production in pennsylvania returned at its all-time high  there are reserves for 190 years  hubbert had recoverable
+at 2500  109 metric tons and peaking around 2150 depending on usage  
+more recent estimates suggest an earlier peak  coal  resources and future production  pdf 630kb    published on april 5  2007 by the energy watch group  ewg   which reports to the german parliament  found that global coal production could peak in as few as 15 years  reporting on this richard heinberg also notes that the date of peak annual energetic extraction from coal will likely come earlier than the date of peak in quantity of coal  tons per year  extracted as the most energy-dense types of coal have been mined most extensively  a second study  the future of coal by b  kavalov and s  d  peteves of the institute for energy  ife   prepared for european commission joint research centre  reaches similar conclusions and states that   coal might not be so abundant  widely available and reliable as an energy source in the future  
+work by
+of
+predicts that the total of world coal production will amount to only about 450   this implies that coal is running out faster than usually assumed 
+finally  insofar as global
+and peak in natural gas are expected anywhere from imminently to within decades at most  any increase in coal production  mining  per annum to compensate for declines in oil or ng production  would necessarily translate to an earlier date of peak as compared with peak coal under a scenario in which annual production remains constant 
+fissionable materials  
+main article 
+in a paper in 1956  after a review of us fissionable reserves  hubbert notes of nuclear power 
+
+there is promise  however  provided mankind can solve its international problems and not destroy itself with nuclear weapons  and provided world population  which is now expanding at such a rate as to double in less than a century  can somehow be brought under control  that we may at last have found an energy supply adequate for our needs for at least the next few centuries of the  foreseeable future  
+
+technologies such as the  
+and
+can  in theory  considerably extend the life of
+reserves 
+claims
+
+our current throwaway nuclear cycle uses up the world reserve of low-cost uranium in about 20 years 
+
+caltech physics professor
+has stated that
+
+    you would have to build 10,000 of the largest power plants that are feasible by engineering standards in order to replace the 10 terawatts of fossil fuel we re burning today     that s a staggering amount and if you did that  the known reserves of uranium would last for 10 to 20 years at that burn rate  so  it s at best a bridging technology     you can use the rest of the uranium to breed plutonium 239 then we d have at least 100 times as much fuel to use  but that means you re making plutonium  which is an extremely dangerous thing to do in the dangerous world that we live in 
+
+metals  
+main article 
+hubbert applied his theory to  rock containing an abnormally high concentration of a given metal  and reasoned that the peak production for metals such as      
+and others would occur in the time frame of decades and
+in the time frame of two centuries like coal  the price of copper rose 500  between 2003 and 2007 was by some attributed to   copper prices later fell  along with many other commodities and stock prices  as demand shrank from fear of a  
+availability is a concern for a fleet of
+using cars but a paper published in 1996 estimated that world reserves are adequate for at least 50 years  a similar prediction
+for
+use in fuel cells notes that the metal could be easily recycled 
+phosphorus  
+supplies are essential to farming and depletion of reserves is estimated at somewhere from 60 to 130 years  individual countries supplies vary widely  without a recycling initiative america s supply
+is estimated around 30 years  phosphorus supplies affect total agricultural output which in turn limits alternative fuels such as biodiesel and ethanol 
+peak water  
+main article 
+hubbert s original analysis did not apply to renewable resources  however
+often results in a hubbert peak nonetheless  a modified hubbert curve applies to any resource that can be harvested faster than it can be replaced 
+for example  a reserve such as the
+can be mined at a rate that far exceeds replenishment  this turns much of the world s underground water
+and lakes
+into finite resources with peak usage debates similar to oil  these debates usually center around agriculture and suburban water usage but generation of electricity
+from nuclear energy or coal and tar sands mining mentioned above is also water resource intensive  the term
+is sometimes used to describe aquifers whose water is not being recharged 
+renewable resources  
+fisheries  at least one researcher has attempted to perform hubbert linearization    on the
+industry  as well as charting the transparently dependent price of caviar on sturgeon depletion  another example is the
+of the north sea  the comparison of the cases of fisheries and of mineral extraction tells us that the human pressure on the environment is causing a wide range of resources to go through a depletion cycle which follows a hubbert curve 
+see also  
+references  
+  the association of chartered certified accountants  retrieved 2008-06-18 
+dalal-clayton  barry and sadler  barry 2009  sustainability appraisal  a sourcebook and reference guide to international experience  london  earthscan   
+hak  t  et al  2007  sustainability indicators  scope 67  island press  london 
+bell  simon and morse  stephen 2008  sustainability indicators  measuring the immeasurable  2nd edn  london  earthscan   
+paul-marie boulanger    sapiens revues org  retrieved 2013-07-23 
+hak  t   moldan  b    dahl  a l  2007  scope 67  sustainability indicators  island press  london 
+stanners  d  et al  2007  frameworks for environmental assessment and indicators at the eea  in  hak  t   moldan  b    dahl  a l  2007  scope 67  sustainability indicators  island press  london 
+united nations sustainable development indicators
+ 
+un system of integrated environmental and economic accounting
+    retrieved 2008-06-18 
+  sgi-network org  retrieved 2013-07-23 
+ mitropoulos l  and p prevedouros  2014  assessment of sustainability for transportation vehicles  transportation research record  journal of the transportation research board  2344  pp  88-97  use link    external link in  title    
+sullivan  c a  et al   eds  2003  the water poverty index  development and application at the community scale  natural resources forum 27  189-199 
+hill  j  1992  towards good environmental practice  the institute of business ethics  london 
+sustainable development indicators for ngos and other organization  
+and nguyen nhu hue  international journal of sustainable societies  1 1  2008  use link 
+  global reporting initiative  retrieved 2008-06-18 
+ pdf   retrieved 2008-06-18 
+  retrieved 2008-06-18 
+   2007    measuring progress towards a more sustainable europe  2007 monitoring report of the eu sustainable development strategy   retrieved on 2009-04-14 
+ publications on sustainability measurement used in sustainability economics
+  eoearth org  2010-07-23  retrieved 2013-07-23 
+  telstar ote cmu edu  retrieved 2013-07-23 
+  exergy se  retrieved 2013-07-23 
+  eoearth org  retrieved 2013-07-23 
+  hubbertpeak com  retrieved 2013-07-23 
+  dieoff org  retrieved 2013-07-23 
+taggart  adam  2003-10-02     energybulletin net  retrieved 2013-07-23 
+july 14  2009  at the  the
+is being  
+the oil drum  europe    europe theoildrum com  retrieved 2013-07-23 
+white  bill  december 17  2005     anchorage daily news 
+bentley  r w   2002  
+ pdf   energy policy  30  3   189205    
+july 25  2008  at the  the
+is being  
+ pdf   energy watch group  retrieved 2013-07-23 
+ 
+hamilton  rosie  2007-05-21     energybulletin net  retrieved 2013-07-23 
+  richard heinberg  retrieved 2013-07-23 
+ coal  bleak outlook for the black stuff   by david strahan     
+jones  tony  23 november 2004     australian broadcasting corporation  retrieved 14 april 2013 
+  hubbertpeak com  retrieved 2013-07-23 
+ 
+andrew leonard  2006-03-02     salon - how the world works  retrieved 2008-03-23 
+silver seek llc    news silverseek com  retrieved 2013-07-23 
+  jan 29  2009 
+  cat inist fr  retrieved 2013-07-23 
+  dft gov uk  retrieved 2013-07-23 
+ pdf   apda pt  retrieved 2013-07-23 
+meena palaniappan and peter h  gleick  2008  
+ pdf     retrieved 2009-01-31 
+  uswaternews com  retrieved 2013-07-23 
+july 20  2008  at the  the
+is being  
+  
+  aspoitalia net  retrieved 2013-07-23 
+  hubbertpeak com  retrieved 2013-07-23 
+external links  
+at
+technology
+energy
+food
+water
+accountability
+sustainability measurement
+applications
+management
+agreements
+ rio 10  johannesburg 
+ rio 20  2012 
+and
+and
+principles
+   
+ 
+ 
+     
+  measurement     
+reporting
+  
+  
+related
+  
+retrieved from   
+  hidden categories 

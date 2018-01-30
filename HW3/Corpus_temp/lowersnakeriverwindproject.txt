@@ -1,0 +1,276 @@
+lowersnakeriverwindproject
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><p>The <b>Lower Snake River Wind Project</b> is under construction in Washington’s <a href="/wiki/Garfield_County,_Washington" title="Garfield County, Washington">Garfield</a> and <a href="/wiki/Columbia_County,_Washington" title="Columbia County, Washington">Columbia counties</a>. The <a href="/wiki/Wind_farm" title="Wind farm">wind farm</a> is being developed in phases with the first phase consisting of 149 Siemens <a href="/wiki/Wind_turbine" title="Wind turbine">wind turbines</a> rated at 2.3 MW each for a maximum generating capacity of 343 MW.<sup class="reference" id="cite_ref-PSElowersnake_1-0"><a href="#cite_note-PSElowersnake-1">[1]</a></sup><sup class="reference" id="cite_ref-lowers_2-0"><a href="#cite_note-lowers-2">[2]</a></sup> The project will also create up to 150 temporary jobs and the installation will create up to 25 permanent jobs.<sup class="reference" id="cite_ref-lowers_2-1"><a href="#cite_note-lowers-2">[2]</a></sup><sup class="reference" id="cite_ref-PSEpdf_3-0"><a href="#cite_note-PSEpdf-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lower_Snake_River_Wind_Project&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Wind_power_in_Washington" title="Wind power in Washington">Wind power in Washington</a></li>
+<li><a href="/wiki/List_of_wind_farms_in_the_United_States" title="List of wind farms in the United States">List of wind farms in the United States</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lower_Snake_River_Wind_Project&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-PSElowersnake-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-PSElowersnake_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://pse.com/inyourcommunity/sewashington/Pages/Lower-Snake-River.aspx" rel="nofollow">"Lower Snake River Wind Project"</a>. Puget Sound Energy<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALower+Snake+River+Wind+Project&amp;rft.btitle=Lower+Snake+River+Wind+Project&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fpse.com%2Finyourcommunity%2Fsewashington%2FPages%2FLower-Snake-River.aspx&amp;rft.pub=Puget+Sound+Energy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-lowers-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-lowers_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-lowers_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20101030020031/http://renewableenergydev.com/red/wind-power-lower-snake-river-wind-project-phase-1/" rel="nofollow">"Lower Snake River Wind Project"</a>. <i>Renewable Energy Development</i>. October 26, 2010. Archived from <a class="external text" href="http://renewableenergydev.com/red/wind-power-lower-snake-river-wind-project-phase-1/" rel="nofollow">the original</a> on October 30, 2010.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALower+Snake+River+Wind+Project&amp;rft.atitle=Lower+Snake+River+Wind+Project&amp;rft.date=2010-10-26&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Frenewableenergydev.com%2Fred%2Fwind-power-lower-snake-river-wind-project-phase-1%2F&amp;rft.jtitle=Renewable+Energy+Development&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-PSEpdf-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-PSEpdf_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://pse.com/aboutpse/psenewsroom/MediaKit/054_Lower_Snake_River.pdf" rel="nofollow">"Lower Snake River Wind Facility"</a> <span style="font-size:85%;">(pdf)</span>. Puget Sound Energy<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALower+Snake+River+Wind+Project&amp;rft.btitle=Lower+Snake+River+Wind+Facility&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fpse.com%2Faboutpse%2Fpsenewsroom%2FMediaKit%2F054_Lower_Snake_River.pdf&amp;rft.pub=Puget+Sound+Energy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<div aria-labelledby="Puget_Sound_Energy" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Puget_Sound_Energy" title="Template:Puget Sound Energy"><abbr style=";;background:none transparent;border:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a class="new" href="/w/index.php?title=Template_talk:Puget_Sound_Energy&amp;action=edit&amp;redlink=1" title="Template talk:Puget Sound Energy (page does not exist)"><abbr style=";;background:none transparent;border:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Puget_Sound_Energy&amp;action=edit"><abbr style=";;background:none transparent;border:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Puget_Sound_Energy" style="font-size:114%"><a href="/wiki/Puget_Sound_Energy" title="Puget Sound Energy">Puget Sound Energy</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydroelectric</a> projects</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Baker_River_Hydroelectric_Project" title="Baker River Hydroelectric Project">Baker River</a> <small>(<a href="/wiki/Lower_Baker_Dam" title="Lower Baker Dam">Lower Baker Dam</a>) (<a href="/wiki/Upper_Baker_Dam" title="Upper Baker Dam">Upper Baker Dam</a>)</small></li>
+<li><a href="/wiki/Electron_Hydroelectric_Project" title="Electron Hydroelectric Project">Electron</a></li>
+<li><a href="/wiki/Koma_Kulshan_Project" title="Koma Kulshan Project">Koma Kulshan</a> <small>(<a class="mw-redirect" href="/wiki/Rocky_Creek_Dam_(Washington)" title="Rocky Creek Dam (Washington)">Rocky Creek Dam</a>) (<a class="mw-redirect" href="/wiki/Sulphur_Creek_Dam_(Washington)" title="Sulphur Creek Dam (Washington)">Sulphur Creek Dam</a>)</small></li>
+<li><a href="/wiki/Snoqualmie_Falls_Hydroelectric_Plant" title="Snoqualmie Falls Hydroelectric Plant">Snoqualmie Falls</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Wind_farm" title="Wind farm">Wind farms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Lower Snake River</strong></li>
+<li><a href="/wiki/Wild_Horse_Wind_Farm" title="Wild Horse Wind Farm">Wild Horse</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">People</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jacob_Furth" title="Jacob Furth">Jacob Furth</a></li>
+<li><a href="/wiki/Nunnally_Johnson" title="Nunnally Johnson">Nunnally Johnson</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Buildings</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Puget_Power_Building" title="Puget Power Building">Puget Power Building</a></li>
+<li><a href="/wiki/Georgetown_Steam_Plant" title="Georgetown Steam Plant">Georgetown Steam Plant</a> <small>(Puget Sound Traction and Lighting)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Puget_Power_trail" title="Puget Power trail">Puget Power trail</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Energy_Northwest" title="Energy Northwest">Energy Northwest</a></li>
+<li><a href="/wiki/List_of_United_States_electric_companies#Washington" title="List of United States electric companies">Other Washington electric companies</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Wind_power_in_the_United_States" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Wind_power_in_the_United_States" title="Template:Wind power in the United States"><abbr style=";;background:none transparent;border:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Wind_power_in_the_United_States" title="Template talk:Wind power in the United States"><abbr style=";;background:none transparent;border:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wind_power_in_the_United_States&amp;action=edit"><abbr style=";;background:none transparent;border:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Wind_power_in_the_United_States" style="font-size:114%"><a href="/wiki/Wind_power_in_the_United_States" title="Wind power in the United States">Wind power in the United States</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><a href="/wiki/American_Wind_Energy_Association" title="American Wind Energy Association">American Wind Energy Association</a></li>
+<li><a href="/wiki/NASA_wind_turbines" title="NASA wind turbines">NASA wind turbines</a></li>
+<li><a href="/wiki/United_States_Wind_Energy_Policy" title="United States Wind Energy Policy">United States Wind Energy Policy</a></li>
+<li><a href="/wiki/List_of_wind_farms_in_the_United_States" title="List of wind farms in the United States">Wind farms in the US</a></li>
+<li><a href="/wiki/List_of_offshore_wind_farms_in_the_United_States" title="List of offshore wind farms in the United States">Offshore wind farms in the US</a></li>
+<li><a href="/wiki/Wind_Powering_America" title="Wind Powering America">Wind Powering America</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Wind power by state</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wind_power_in_Alaska" title="Wind power in Alaska">Alaska</a></li>
+<li><a href="/wiki/Wind_power_in_Arizona" title="Wind power in Arizona">Arizona</a></li>
+<li><a href="/wiki/Wind_power_in_Arkansas" title="Wind power in Arkansas">Arkansas</a></li>
+<li><a href="/wiki/Wind_power_in_California" title="Wind power in California">California</a></li>
+<li><a href="/wiki/Wind_power_in_Colorado" title="Wind power in Colorado">Colorado</a></li>
+<li><a href="/wiki/Wind_power_in_Connecticut" title="Wind power in Connecticut">Connecticut</a></li>
+<li><a href="/wiki/Wind_power_in_Delaware" title="Wind power in Delaware">Delaware</a></li>
+<li><a href="/wiki/Wind_power_in_Hawaii" title="Wind power in Hawaii">Hawaii</a></li>
+<li><a href="/wiki/Wind_power_in_Idaho" title="Wind power in Idaho">Idaho</a></li>
+<li><a href="/wiki/Wind_power_in_Illinois" title="Wind power in Illinois">Illinois</a></li>
+<li><a href="/wiki/Wind_power_in_Indiana" title="Wind power in Indiana">Indiana</a></li>
+<li><a href="/wiki/Wind_power_in_Iowa" title="Wind power in Iowa">Iowa</a></li>
+<li><a href="/wiki/Wind_power_in_Kansas" title="Wind power in Kansas">Kansas</a></li>
+<li><a href="/wiki/Wind_power_in_Kentucky" title="Wind power in Kentucky">Kentucky</a></li>
+<li><a href="/wiki/Wind_power_in_Maine" title="Wind power in Maine">Maine</a></li>
+<li><a href="/wiki/Wind_power_in_Maryland" title="Wind power in Maryland">Maryland</a></li>
+<li><a href="/wiki/Wind_power_in_Massachusetts" title="Wind power in Massachusetts">Massachusetts</a></li>
+<li><a href="/wiki/Wind_power_in_Michigan" title="Wind power in Michigan">Michigan</a></li>
+<li><a href="/wiki/Wind_power_in_Minnesota" title="Wind power in Minnesota">Minnesota</a></li>
+<li><a href="/wiki/Wind_power_in_Montana" title="Wind power in Montana">Montana</a></li>
+<li><a href="/wiki/Wind_power_in_Nebraska" title="Wind power in Nebraska">Nebraska</a></li>
+<li><a href="/wiki/Wind_power_in_Nevada" title="Wind power in Nevada">Nevada</a></li>
+<li><a href="/wiki/Wind_power_in_New_Hampshire" title="Wind power in New Hampshire">New Hampshire</a></li>
+<li><a href="/wiki/Wind_power_in_New_Jersey" title="Wind power in New Jersey">New Jersey</a></li>
+<li><a href="/wiki/Wind_power_in_New_Mexico" title="Wind power in New Mexico">New Mexico</a></li>
+<li><a href="/wiki/Wind_power_in_New_York" title="Wind power in New York">New York</a></li>
+<li><a href="/wiki/Wind_power_in_North_Carolina" title="Wind power in North Carolina">North Carolina</a></li>
+<li><a href="/wiki/Wind_power_in_North_Dakota" title="Wind power in North Dakota">North Dakota</a></li>
+<li><a href="/wiki/Wind_power_in_Ohio" title="Wind power in Ohio">Ohio</a></li>
+<li><a href="/wiki/Wind_power_in_Oklahoma" title="Wind power in Oklahoma">Oklahoma</a></li>
+<li><a href="/wiki/Wind_power_in_Oregon" title="Wind power in Oregon">Oregon</a></li>
+<li><a href="/wiki/Wind_power_in_Pennsylvania" title="Wind power in Pennsylvania">Pennsylvania</a></li>
+<li><a href="/wiki/Wind_power_in_Rhode_Island" title="Wind power in Rhode Island">Rhode Island</a></li>
+<li><a href="/wiki/Wind_power_in_South_Dakota" title="Wind power in South Dakota">South Dakota</a></li>
+<li><a href="/wiki/Wind_power_in_Tennessee" title="Wind power in Tennessee">Tennessee</a></li>
+<li><a href="/wiki/Wind_power_in_Texas" title="Wind power in Texas">Texas</a></li>
+<li><a href="/wiki/Wind_power_in_Utah" title="Wind power in Utah">Utah</a></li>
+<li><a href="/wiki/Wind_power_in_Vermont" title="Wind power in Vermont">Vermont</a></li>
+<li><a href="/wiki/Wind_power_in_Virginia" title="Wind power in Virginia">Virginia</a></li>
+<li><a class="mw-redirect" href="/wiki/Wind_power_in_Washington_state" title="Wind power in Washington state">Washington</a></li>
+<li><a href="/wiki/Wind_power_in_West_Virginia" title="Wind power in West Virginia">West Virginia</a></li>
+<li><a href="/wiki/Wind_power_in_Wisconsin" title="Wind power in Wisconsin">Wisconsin</a></li>
+<li><a href="/wiki/Wind_power_in_Wyoming" title="Wind power in Wyoming">Wyoming</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="5" style="width:0%;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Wind-turbine-icon.svg"><img alt="Wind-turbine-icon.svg" data-file-height="128" data-file-width="128" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/100px-Wind-turbine-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/150px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/200px-Wind-turbine-icon.svg.png 2x" width="100"/></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Large wind farms</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alta_Wind_Energy_Center" title="Alta Wind Energy Center">Alta Wind Energy Center</a></li>
+<li><a href="/wiki/Altamont_Pass_Wind_Farm" title="Altamont Pass Wind Farm">Altamont Pass</a></li>
+<li><a href="/wiki/Biglow_Canyon_Wind_Farm" title="Biglow Canyon Wind Farm">Biglow Canyon</a></li>
+<li><a href="/wiki/Buffalo_Gap_Wind_Farm" title="Buffalo Gap Wind Farm">Buffalo Gap</a></li>
+<li><a href="/wiki/Capricorn_Ridge_Wind_Farm" title="Capricorn Ridge Wind Farm">Capricorn Ridge</a></li>
+<li><a href="/wiki/Cedar_Creek_Wind_Farm" title="Cedar Creek Wind Farm">Cedar Creek</a></li>
+<li><a href="/wiki/Fowler_Ridge_Wind_Farm" title="Fowler Ridge Wind Farm">Fowler Ridge</a></li>
+<li><a href="/wiki/Highland_Wind_Energy_Center" title="Highland Wind Energy Center">Highland</a></li>
+<li><a href="/wiki/Horse_Hollow_Wind_Energy_Center" title="Horse Hollow Wind Energy Center">Horse Hollow</a></li>
+<li><a href="/wiki/Klondike_Wind_Farm" title="Klondike Wind Farm">Klondike</a></li>
+<li><a href="/wiki/Lone_Star_Wind_Farm" title="Lone Star Wind Farm">Lone Star</a></li>
+<li><a href="/wiki/Meadow_Lake_Wind_Farm" title="Meadow Lake Wind Farm">Meadow Lake</a></li>
+<li><a href="/wiki/Panther_Creek_Wind_Farm" title="Panther Creek Wind Farm">Panther Creek</a></li>
+<li><a href="/wiki/Peetz_Table_Wind_Energy_Center" title="Peetz Table Wind Energy Center">Peetz</a></li>
+<li><a class="mw-redirect" href="/wiki/Pe%C3%B1ascal_Wind_Farm" title="Peñascal Wind Farm">Peñascal</a></li>
+<li><a href="/wiki/Roscoe_Wind_Farm" title="Roscoe Wind Farm">Roscoe</a></li>
+<li><a href="/wiki/San_Gorgonio_Pass_Wind_Farm" title="San Gorgonio Pass Wind Farm">San Gorgonio Pass</a></li>
+<li><a href="/wiki/Shepherds_Flat_Wind_Farm" title="Shepherds Flat Wind Farm">Shepherds Flat</a></li>
+<li><a href="/wiki/Tehachapi_Pass_Wind_Farm" title="Tehachapi Pass Wind Farm">Tehachapi Pass</a></li>
+<li><a href="/wiki/Windy_Point/Windy_Flats" title="Windy Point/Windy Flats">Windy Point/Windy Flats</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Wind power companies</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aermotor_Windmill_Company" title="Aermotor Windmill Company">Aermotor Windmill Company</a></li>
+<li><a href="/wiki/Deepwater_Wind" title="Deepwater Wind">Deepwater Wind</a></li>
+<li><a href="/wiki/GE_Wind_Energy" title="GE Wind Energy">GE Wind Energy</a></li>
+<li><a href="/wiki/Iberdrola_Renovables" title="Iberdrola Renovables">Iberdrola Renovables</a></li>
+<li><a href="/wiki/Infigen_Energy" title="Infigen Energy">Infigen Energy</a></li>
+<li><a href="/wiki/Invenergy" title="Invenergy">Invenergy</a></li>
+<li><a href="/wiki/National_Wind" title="National Wind">National Wind</a></li>
+<li><a href="/wiki/Native_Wind" title="Native Wind">Native Wind</a></li>
+<li><a href="/wiki/NextEra_Energy_Resources" title="NextEra Energy Resources">NextEra Energy Resources</a></li>
+<li><a href="/wiki/Siemens_Wind_Power" title="Siemens Wind Power">Siemens Wind Power</a></li>
+<li><a href="/wiki/UGE_International" title="UGE International">UGE International</a></li>
+<li><a href="/wiki/Vestas" title="Vestas">Vestas</a></li>
+<li><a href="/wiki/Wind_Capital_Group" title="Wind Capital Group">Wind Capital Group</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Lower_Snake_River_Wind_Project&amp;params=46_28_N_117_44_W_type:adm2nd_region:US-WA"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">46°28′N</span> <span class="longitude">117°44′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">46.467°N 117.733°W</span><span style="display:none">﻿ / <span class="geo">46.467; -117.733</span></span></span></a></span></span></span></p>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:31160193-0!*!0!!*!4!* and timestamp 20161110032337 and revision id 739275466
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lower_Snake_River_Wind_Project&amp;oldid=739275466">https://en.wikipedia.org/w/index.php?title=Lower_Snake_River_Wind_Project&amp;oldid=739275466</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Buildings_and_structures_in_Columbia_County,_Washington" title="Category:Buildings and structures in Columbia County, Washington">Buildings and structures in Columbia County, Washington</a></li><li><a href="/wiki/Category:Buildings_and_structures_in_Garfield_County,_Washington" title="Category:Buildings and structures in Garfield County, Washington">Buildings and structures in Garfield County, Washington</a></li><li><a href="/wiki/Category:Wind_farms_in_Washington_(state)" title="Category:Wind farms in Washington (state)">Wind farms in Washington (state)</a></li><li><a href="/wiki/Category:Puget_Sound_Energy" title="Category:Puget Sound Energy">Puget Sound Energy</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

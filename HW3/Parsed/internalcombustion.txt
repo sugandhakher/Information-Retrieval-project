@@ -1,0 +1,631 @@
+internalcombustion
+from wikipedia  the free encyclopedia
+ redirected from  
+jump to 					 
+ icev  redirects here  for the form of water ice  see   for the high speed train  see  
+diagram of a cylinder as found in 4-stroke gasoline engines  
+c 
+eexhaust  
+iinlet  
+p 
+r 
+s 
+v  red  exhaust  blue  intake 
+w 
+gray structure 
+diagram describing the ideal combustion cycle by carnot
+an internal combustion engine  ice  is a
+where the
+of a
+occurs with an
+ usually air  in a
+that is an integral part of the working fluid flow circuit  in an internal combustion engine the expansion of the high- and high- gases produced by combustion apply direct
+to some component of the engine  the force is applied typically to     rotor or a   this force moves the component over a distance  transforming
+into useful  
+the first commercially successful internal combustion engine was created by
+around 1859 and the first modern internal combustion engine was created in 1876 by
+ see   
+the term
+usually refers to an engine in which combustion is intermittent  such as the more familiar
+and
+piston engines  along with variants  such as the
+piston engine and the   a second class of internal combustion engines use continuous combustion   
+and most   each of which are internal combustion engines on the same principle as previously described  firearms are also a form of internal combustion engine 
+internal combustion engines are quite different from   such as
+or   in which the energy is delivered to a working fluid not consisting of  mixed with  or contaminated by combustion products  working fluids can be air  hot water 
+or even liquid sodium  heated in a   ices are usually powered by energy-dense fuels such as gasoline or diesel  liquids derived from   while there are many stationary applications  most ices are used in mobile applications and are the dominant power supply for
+such as cars  aircraft  and boats 
+typically an ice is fed with fossil fuels like
+or
+products such as  
+or   there s a growing usage of
+like
+for compression ignition engines and
+or
+for spark ignition engines 
+is sometimes used  and can be made from either fossil fuels or renewable energy 
+contents
+history  
+main article 
+various
+and
+contributed to the development of internal combustion engines  in 1791 
+developed a   in 1794 thomas mead patented a gas engine  also in 1794 robert street patented an internal combustion engine  which was also the first to use liquid fuel  and built an engine around that time  in 1798 
+built the first american internal combustion engine  in 1807 
+engineer
+built an internal combustion engine ignited by electric spark  in 1823 
+patented the first internal combustion engine to be applied industrially 
+in 1860 
+produced a gas-fired internal combustion engine  in 1864 
+patented the first atmospheric gas engine  in 1872  american
+invented the first commercial liquid-fuelled internal combustion engine  in 1876    working with
+and   patented the compressed charge  four-cycle engine  in 1879 
+patented a reliable
+gas engine  in 1892 
+developed the first compressed charge  compression ignition engine  in 1926 
+launched the first liquid-fueled rocket  in 1939  the
+became the world s first  
+etymology  
+at one time  the word engine  via   from
+ingenium   ability   meant any piece of
+ a sense that persists in expressions such as   a  motor   from latin motor   mover   is any machine that produces mechanical   traditionally 
+are not referred to as  engines   however  combustion engines are often referred to as  motors    an
+refers to a
+operated by electricity  
+in boating an internal combustion engine that is installed in the hull is referred to as an engine  but the engines that sit on the transom are referred to as motors 
+applications  
+reciprocating engine as found inside a car
+reciprocating piston engines are by far the most common power source for land and water   including    
+and to a lesser extent 
+ some are electrical but most use diesel engines   rotary engines of the wankel design are used in some automobiles  aircraft and motorcycles 
+where very high power-to-weight ratios are required  internal combustion engines appear in the form of
+or wankel engines 
+typically uses an ice which may be a reciprocating engine  airplanes can instead use
+and
+can instead employ   both of which are types of turbines  in addition to providing propulsion 
+may employ a separate ice as an   wankel engines are fitted to many  
+big diesel generator used for backup power
+combined cycle power plant
+ices drive some of the large electric generators that power electrical grids  they are found in the form of
+in
+with a typical electrical output in the range of 100mw to 1gw  the high temperature exhaust is used to boil and superheat water to run a   thus  the efficiency is higher because more energy is extracted from the fuel than what could be extracted by the combustion turbine alone  in combined cycle power plants efficiencies in the range of 50  to 60  are typical  in a smaller scale
+are used for backup power and for providing electrical power to areas not connected to an  
+ usually 2stroke gasoline engines  are a common power source for                   and  
+classification  
+there are several possible ways to classify internal combustion engines 
+ 
+by number of strokes
+clerk cycle 1879
+day cycle
+  
+by type of ignition
+ commonly found as  
+by mechanical thermodynamical cycle  these 2 cycles do not encompass all reciprocating engines  and are infrequently used  
+ 
+continuous combustion 
+the following jet engine types are also gas turbines types 
+reciprocating engines  
+see also 
+and
+structure  
+bare cylinder block of a v8 engine
+piston  piston ring  gudgeon pin and connecting rod
+the base of a reciprocating internal combustion engine is the   which is typically made of
+or   the engine block contains the   in engines with more than one cylinder they are usually arranged either in 1 row    or 2 rows   or    3 rows are occasionally used    in contemporary engines  and other
+are possible and have been used 
+are common for motorcycles and in small engines of machinery  water-cooled engines contain passages in the engine block where cooling fluid circulates  the    some small engines are air-cooled  and instead of having a water jacket the cylinder block has fins protruding away from it to cool by directly transferring heat to the air  the cylinder walls are usually finished by   which is better able to retain the oil  a too rough surface would quickly harm the engine by excessive wear on the piston 
+the
+are short cylindrical parts which seal one end of the cylinder from the high pressure of the compressed air and combustion products and slide continuously within it while the engine is in operation  the top wall of the piston is termed its crown and is typically flat or concave  some two-stroke engines use pistons with a   pistons are open at the bottom and hollow except for an integral reinforcement structure  the piston web   when an engine is working the gas pressure in the combustion chamber exerts a force on the piston crown which is transferred through its web to a   each piston has
+fitted around its circumference that mostly prevent the gases from leaking into the crankcase or the oil into the combustion chamber  a
+drives the small amount of gas that escape past the pistons during normal operation  the blow-by gases  out of the crankcase so that it does not accumulate contaminating the oil and creating corrosion  in two-stroke gasoline engines the crankcase is part of the airfuel path and due to the continuous flow of it they do not need a separate crankcase ventilation system 
+valve train above a diesel engine cylinder head  this engine uses rocker arms but no pushrods 
+the
+is attached to the engine block by numerous
+or   it has several functions  the cylinder head seals the cylinders on the side opposite to the pistons  it contains short ducts  the ports  for intake and exhaust and the associated intake
+that open to let the cylinder be filled with fresh air and exhaust valves that open to allow the combustion gases to escape  however  2-stroke crankcase scavenged engines connect the gas ports directly to the cylinder wall without poppet valves  the piston controls their opening and occlusion instead  the cylinder head also holds the
+in the case of spark ignition engines and the
+for engines that use direct injection  all ci engines use fuel injection  usually direct injection but some engines instead use   si engines can use a
+or fuel injection as port injection or   most si engines have a single spark plug per cylinder but   a
+prevents the gas from leaking between the cylinder head and the engine block  the opening and closing of the valves is controlled by one or several
+and springsor in some enginesa
+that uses no springs  the camshaft may press directly the stem of the valve or may act upon a   again  either directly or through a  
+engine block seen from below  the cylinders  oil spray nozzle and half of the main bearings are clearly visible 
+the crankcase is sealed at the bottom with a
+that collects the falling oil during normal operation to be cycled again  the cavity created between the cylinder block and the sump houses a
+that converts the reciprocating motion of the pistons to rotational motion  the crankshaft is held in place relative to the engine block by   which allow it to rotate  bulkheads in the crankcase form a half of every main bearing  the other half is a detachable cap  in some cases a single main bearing deck is used rather than several smaller caps  a
+is connected to offset sections of the crankshaft  the   in one end and to the piston in the other end through the gudgeon pin and thus transfers the force and translates the reciprocating motion of the pistons to the circular motion of the crankshaft  the end of the connecting rod attached to the gudgeon pin is called its small end  and the other end  where it is connected to the crankshaft  the big end  the big end has a detachable half to allow assembly around the crankshaft  it is kept together to the connecting rod by removable bolts 
+the cylinder head has an
+and an
+attached to the corresponding ports  the intake manifold connects to the
+directly  or to a
+when one is present  which is then connected to the   it distributes the air incoming from these devices to the individual cylinders  the exhaust manifold is the first component in the   it collects the exhaust gases from the cylinders and drives it to the following component in the path  the
+of an ice may also include a
+and   the final section in the path of the exhaust gases is the  
+4-stroke engines  
+main article 
+diagram showing the operation of a 4-stroke si engine  labels 
+1  induction
+2  compression
+3  power
+4  exhaust
+the top dead center  tdc  of a piston is the position where it is nearest to the valves  bottom dead center  bdc  is the opposite position where it is furthest from them  a stroke is the movement of a piston from tdc to bdc or vice versa together with the associated process  while an engine is in operation the crankshaft rotates continuously at a nearly constant   in a 4-stroke ice each piston experiences 2 strokes per crankshaft revolution in the following order  starting the description at tdc  these are 
+intake  induction or suction  the intake valves are open as a result of the cam lobe pressing down on the valve stem  the piston moves downward increasing the volume of the combustion chamber and allowing air to enter in the case of a ci engine or an air fuel mix in the case of si engines that do not use   the air or air-fuel mixture is called the charge in any case 
+compression  in this stroke  both valves are closed and the piston moves upward reducing the combustion chamber volume which reaches its minimum when the piston is at tdc  the piston performs
+on the charge as it is being compressed  as a result its pressure  temperature and density increase  an approximation to this behavior is provided by the   just before the piston reaches tdc  ignition begins  in the case of a si engine  the spark plug receives a high voltage pulse that generates the spark which gives it its name and ignites the charge  in the case of a ci engine the fuel injector quickly injects fuel into the combustion chamber as a spray  the fuel ignites due to the high temperature 
+power or working stroke  the pressure of the combustion gases pushes the piston downward  generating more
+than it required to compress the charge  complementary to the compression stroke  the combustion gases expand and as a result their temperature  pressure and density decreases  when the piston is near to bdc the exhaust valve opens  the combustion gases expand
+due to the leftover pressurein excess of   the gauge pressure on the exhaust port  this is called the blowdown 
+exhaust  the exhaust valve remains open while the piston moves upward expelling the combustion gases  for naturally aspirated engines a small part of the combustion gases may remain in the cylinder during normal operation because the piston does not close the combustion chamber completely  these gases dissolve in the next charge  at the end of this stroke  the exhaust valve closes  the intake valve opens  and the sequence repeats in the next cycle  the intake valve may open before the exhaust valve closes to allow better scavenging 
+2-stroke engines  
+main article 
+the defining characteristic of this kind of engine is that each piston completes a cycle every crankshaft revolution  the 4 processes of intake  compression  power and exhaust take place in only 2 strokes so that it is not possible to dedicate a stroke exclusively for each of them  starting at tdc the cycle consist of 
+power  while the piston is descending the combustion gases perform work on itas in a 4-stroke engine  the same
+considerations about the expansion apply 
+scavenging  around 75 of crankshaft rotation before bdc the exhaust valve or port opens  and blowdown occurs  shortly thereafter the intake valve or transfer port opens  the incoming charge displaces the remaining combustion gases to the exhaust system and a part of the charge may enter the exhaust system as well  the piston reaches bdc and reverses direction  after the piston has traveled a short distance upwards into the cylinder the exhaust valve or port closes  shortly the intake valve or transfer port closes as well 
+compression  with both intake and exhaust closed the piston continues moving upwards compressing the charge and performing a work on it  as in the case of a 4-stroke engine  ignition starts just before the piston reaches tdc and the same consideration on the thermodynamics of the compression on the charge 
+while a 4-stroke engine uses the piston as a
+to accomplish scavenging taking 2 of the 4 strokes  a 2-stroke engine uses the last part of the power stroke and the first part of the compression stroke for combined intake and exhaust  the work required to displace the charge and exhaust gases comes from either the crankcase or a separate blower  for scavenging  expulsion of burned gas and entry of fresh mix  two main approaches are described  loop scavenging  and uniflow scavenging  sae news published in the 2010s that  loop scavenging  is better under any circumstance than uniflow scavenging 
+crankcase scavenged  
+diagram of a crankcase scavenged 2-stroke engine in operation
+some si engines are crankcase scavenged and do not use poppet valves  instead the crankcase and the part of the cylinder below the piston is used as a pump  the intake port is connected to the crankcase through a
+or a rotary disk valve driven by the engine  for each cylinder a transfer port connects in one end to the crankcase and in the other end to the cylinder wall  the exhaust port is connected directly to the cylinder wall  the transfer and exhaust port are opened and closed by the piston  the reed valve opens when the crankcase pressure is slightly below intake pressure  to let it be filled with a new charge  this happens when the piston is moving upwards  when the piston is moving downwards the pressure in the crankcase increases and the reed valve closes promptly  then the charge in the crankcase is compressed  when the piston is moving upwards  it uncovers the exhaust port and the transfer port and the higher pressure of the charge in the crankcase makes it enter the cylinder through the transfer port  blowing the exhaust gases  lubrication is accomplished by adding
+to the fuel in small ratios 
+refers to the mix of gasoline with the aforesaid oil  this kind of 2-stroke engines has a lower efficiency than comparable 4-strokes engines and release a more polluting
+for the following conditions 
+they use a   all the lubricating oil is eventually burned along with the fuel 
+there are conflicting requirements for scavenging  on one side  enough fresh charge needs to be introduced in each cycle to displace almost all the combustion gases but introducing too much of it means that a part of it gets in the exhaust 
+they must use the transfer port s  as a carefully designed and placed nozzle so that a gas current is created in a way that it sweeps the whole cylinder before reaching the exhaust port so as to expel the combustion gases  but minimize the amount of charge exhausted  4-stroke engines have the benefit of forcibly expelling almost all of the combustion gases because during exhaust the combustion chamber is reduced to its minimum volume  in crankcase scavenged 2-stroke engines  exhaust and intake are performed mostly simultaneously and with the combustion chamber at its maximum volume 
+the main advantage of 2-stroke engines of this type is mechanical simplicity and a higher
+than their 4-stroke counterparts  despite having twice as many power strokes per cycle  less than twice the power of a comparable 4-stroke engine is attainable in practice 
+in the usa two stroke motorcycle and automobile engines were banned due to the pollution  although many thousands of lawn maintenance engines are in use   
+blower scavenged  
+diagram of uniflow scavenging
+using a separate blower avoids many of the shortcomings of crankcase scavenging  at the expense of increased complexity which means a higher cost and an increase in maintenance requirement  an engine of this type uses ports or valves for intake and valves for exhaust  except   which may also use ports for exhaust  the blower is usually of the
+but other types have been used too  this design is commonplace in ci engines  and has been occasionally used in si engines 
+ci engines that use a blower typically use   in this design the cylinder wall contains several intake ports placed uniformly spaced along the circumference just above the position that the piston crown reaches when at bdc  an exhaust valve or several like that of 4-stroke engines is used  the final part of the intake manifold is an air sleeve which feeds the intake ports  the intake ports are placed at an horizontal angle to the cylinder wall  i e  they are in plane of the piston crown  to give a swirl to the incoming charge to improve combustion  the largest reciprocating ic are low speed ci engines of this type  they are used for marine propulsion  see   or
+and achieve the highest thermal efficiencies among internal combustion engines of any kind  some diesel-electric
+operate on the 2-stroke cycle  the most powerful of them have a brake power of around 4.5 or 6,000  the
+class of locomotives use a 2-stroke engine  the comparable class
+whose prime mover has almost the same brake power uses a 4-stroke engine 
+an example of this type of engine is the
+turbocharged 2-stroke diesel  used in large container ships  it is the most efficient and powerful internal combustion engine in the world with a
+over 50   for comparison  the most efficient small four-stroke engines are around 43  thermally-efficient  sae 900648     size is an advantage for efficiency due to the increase in the ratio of volume to surface area 
+see the
+for a in-cylinder combustion video in a 2-stroke  optically accessible motorcycle engine 
+historical design  
+developed the first two cycle engine in 1879  it used a separate cylinder which functioned as a pump in order to transfer the fuel mixture to the cylinder 
+in 1899
+simplified clerk s design into the type of 2 cycle engine that is very widely used today  day cycle engines are crankcase scavenged and port timed  the crankcase and the part of the cylinder below the exhaust port is used as a pump  the operation of the day cycle engine begins when the crankshaft is turned so that the piston moves from bdc upward  toward the head  creating a vacuum in the crankcase cylinder area  the carburetor then feeds the fuel mixture into the crankcase through a
+or a rotary disk valve  driven by the engine   there are cast in ducts from the crankcase to the port in the cylinder to provide for intake and another from the exhausst port to the exhaust pipe  the height of the port in relationship to the length of the cylinder is called the  port timing  
+on the first upstroke of the engine there would be no fuel inducted into the cylinder as the crankcase was empty  on the downstroke the piston now compresses the fuel mix  which has lubricated the piston in the cylinder and the bearings due to the fuel mix having oil added to it  as the piston moves downward is first uncovers the exhaust  but on the first stroke there is no burnt fuel to exhaust  as the piston moves downward further  it uncovers the intake port which has a duct that runs to the crankcase  since the fuel mix in the crankcase is under pressure the mix moves through the duct and into the cylinder 
+because there is no obstruction in the cylinder of the fuel to move directly out of the exhaust port prior to the piston rising far enough to close the port  early engines used a high domed piston to slow down the flow of fuel  later the fuel was  resonated  back into the cylinder using an expansion chamber design  when the piston rose close to tdc a spark ignites the fuel  as the piston is driven downward with power it first uncovers the exhaust port where the burned fuel is expelled under high pressure and then the intake port where the process has been completed and will keep repeating 
+later engines used a type of porting devised by the deutz company to improve performance  it was called the schnurle reverse flow system  dkw licensed this design for all their motorcycles  their
+was one of the first motor vehicles to achieve over 100mpg as a result 
+ignition  
+internal combustion engines require ignition of the mixture  either by
+or   before the invention of reliable electrical methods  hot tube and flame methods were used  experimental engines with
+have been built 
+spark ignition process  
+bosch magneto
+points and coil ignition
+the spark ignition engine was a refinement of the early engines which used hot tube ignition  when bosch developed the magneto it became the primary system for producing electricity to energize a spark plug  many small engines still use magneto ignition  small engines are started by hand cranking using a
+or hand crank   prior to
+of delco s development of the automotive starter all gasoline engined automobiles used a hand crank 
+larger engines typically power their
+and
+using the electrical energy stored in a   the battery s charged state is maintained by an
+or  previously  a generator which uses engine power to create electrical energy storage 
+the battery supplies electrical power for starting when the engine has a
+system  and supplies electrical power when the engine is off  the battery also supplies electrical power during rare run conditions where the alternator cannot maintain more than 13.8 volts  for a common 12v automotive electrical system   as alternator voltage falls below 13.8 volts  the lead-acid storage battery increasingly picks up electrical load  during virtually all running conditions  including normal idle conditions  the alternator supplies primary electrical power 
+some systems disable alternator field  rotor  power during wide open throttle conditions  disabling the field reduces alternator pulley mechanical loading to nearly zero  maximizing crankshaft power  in this case the battery supplies all primary electrical power 
+gasoline engines take in a mixture of air and gasoline and compress it by the movement of the piston from bottom dead center to top dead center when the fuel is at maximum compression  the reduction in the size of the swept area of the cylinder and taking into account the volume of the combustion chamber is described by a ratio  early engines had compression ratios of 6 to 1  as compression ratios were increased the efficiency of the engine increased as well 
+with early induction and ignition systems the compression ratios had to be kept low  with advances in fuel technology and combustion management high performance engines can run reliably at 12 1 ratio  with low octane fuel a problem would occur as the compression ratio increased as the fuel was igniting due to the rise in temperature that resulted  charles kettering developed a lead additive which allowed higher compression ratios 
+the fuel mixture is ignited at difference progressions of the piston in the cylinder  at low rpm the spark is timed to occur close to the piston achieving top dead center  in order to produce more power  as rpm rises the spark is advanced sooner during piston movement  the spark occurs while the fuel is still being compressed progressively more as rpm rises 
+the necessary high voltage  typically 10,000 volts  is supplied by an
+or transformer  the induction coil is a fly-back system  using interruption of electrical primary system current through some type of synchronized interrupter  the interrupter can be either contact points or a power transistor  the problem with this type of ignition is that as rpm increases the available of electrical energy decreases  this is especially as problem since the amount of energy needed to ignite a more dense fuel mixture is higher  the result was often a high rpm misfire 
+capacitor discharge ignition was developed  it produces a rising voltage that is sent to the spark plug  cd system voltages can reach 60,000 volts  cd ignitions use step-up transformers  the step-up transformer uses energy stored in a capacitance to generate   with either system  a mechanical or electrical control system provides a carefully timed high-voltage to the proper cylinder  this spark  via the spark plug  ignites the air-fuel mixture in the engine s cylinders 
+while gasoline internal combustion engines are much easier to start in cold weather than diesel engines  they can still have cold weather starting problems under extreme conditions  for years the solution was to park the car in heated areas  in some parts of the world the oil was actually drained and heated over night and returned to the engine for cold starts  in the early 1950s the gasoline gasifier unit was developed  where  on cold weather starts  raw gasoline was diverted to the unit where part of the fuel was burned causing the other part to become a hot vapor sent directly to the intake valve manifold  this unit was quite popular until electric engine block heaters became standard on gasoline engines sold in cold climates 
+compression ignition process  
+ 
+ partially premixed combustion  and
+ homogeneous charge compression ignition  engines  rely solely on heat and pressure created by the engine in its compression process for ignition  the compression level that occurs is usually twice or more than a gasoline engine  diesel engines take in air only  and shortly before peak compression  spray a small quantity of diesel fuel into the cylinder via a fuel injector that allows the fuel to instantly ignite  hcci type engines take in both air and fuel  but continue to rely on an unaided auto-combustion process  due to higher pressures and heat  this is also why diesel and hcci engines are more susceptible to cold-starting issues  although they run just as well in cold weather once started  light duty diesel engines with
+in automobiles and light trucks employ
+ or other pre-heating  see   that pre-heat the
+just before starting to reduce no-start conditions in cold weather  most diesels also have a battery and charging system  nevertheless  this system is secondary and is added by manufacturers as a luxury for the ease of starting  turning fuel on and off  which can also be done via a switch or mechanical apparatus   and for running auxiliary electrical components and accessories  most new engines rely on electrical and electronic
+ ecu  that also adjust the combustion process to increase efficiency and reduce emissions 
+lubrication  
+diagram of an engine using pressurized lubrication
+wikimedia commons has media related to  
+surfaces in contact and relative motion to other surfaces require
+to reduce wear  noise and increase efficiency by reducing the power wasting in overcoming   or to make the mechanism work at all  at the very least  an engine requires lubrication in the following parts 
+between pistons and cylinders
+small bearings
+big end bearings
+main bearings
+valve gear  the following elements may not be present  
+tappets
+rocker arms
+pushrods
+timing chain or gears  toothed belts do not require lubrication 
+in 2-stroke crankcase scavenged engines  the interior of the crankcase  and therefore the crankshaft  connecting rod and bottom of the pistons are sprayed by the
+in the air-fuel-oil mixture which is then burned along with the fuel  the valve train may be contained in a compartment flooded with lubricant so that no oil pump is required 
+in a splash lubrication system no oil pump is used  instead the crankshaft dips into the oil in the sump and due to its high speed  it splashes the crankshaft  connecting rods and bottom of the pistons  the connecting rod big end caps may have an attached scoop to enhance this effect  the valve train may also be sealed in a flooded compartment  or open to the crankshaft in a way that it receives splashed oil and allows it to drain back to the sump  splash lubrication is common for small 4-stroke engines 
+in a forced  also called pressurized  lubrication system  lubrication is accomplished in a closed loop which carries
+to the surfaces serviced by the system and then returns the oil to a reservoir  the auxiliary equipment of an engine is typically not serviced by this loop  for instance  an
+may use
+sealed with its lubricant  the reservoir for the oil is usually the sump  and when this is the case  it is called a
+system  when there is a different oil reservoir the crankcase still catches it  but it is continuously drained by a dedicated pump  this is called a
+system 
+on its bottom  the sump contains an oil intake covered by a mesh filter which is connected to an oil pump then to an
+outside the crankcase  from there it is diverted to the crankshaft main bearings and valve train  the crankcase contains at least one oil gallery  a conduit inside a crankcase wall  to which oil is introduced from the oil filter  the main bearings contain a groove through all or half its circumference  the oil enters to these grooves from channels connected to the oil gallery  the crankshaft has drillings which take oil from these grooves and deliver it to the big end bearings  all big end bearings are lubricated this way  a single main bearing may provide oil for 0  1 or 2 big end bearings  a similar system may be used to lubricate the piston  its gudgeon pin and the small end of its connecting rod  in this system  the connecting rod big end has a groove around the crankshaft and a drilling connected to the groove which distributes oil from there to the bottom of the piston and from then to the cylinder 
+other systems are also used to lubricate the cylinder and piston  the connecting rod may have a nozzle to throw an oil jet to the cylinder and bottom of the piston  that nozzle is in movement relative to the cylinder it lubricates  but always pointed towards it or the corresponding piston 
+typically a forced lubrication systems have a lubricant flow higher than what is required to lubricate satisfactorily  in order to assist with cooling  specifically  the lubricant system helps to move heat from the hot engine parts to the cooling liquid  in water-cooled engines  or fins  in air-cooled engines  which then transfer it to the environment  the lubricant must be designed to be chemically stable and maintain suitable viscosities within the temperature range it encounters in the engine 
+cylinder configuration  
+common cylinder configurations include the   the more compact   and the wider but smoother  
+can also adopt a   which allows more effective cooling  more unusual configurations such as the       and
+have also been used 
+multiple cylinder engines have their valve train and crankshaft configured so that pistons are at different parts of their cycle  it is desirable to have the piston s cycles uniformly spaced  this is called even firing  especially in forced induction engines  this reduces torque pulsations and makes
+with more than 3 cylinders statically
+in its primary forces  however  some
+require odd firing to achieve better balance than what is possible with even firing  for instance  a 4-stroke
+has better balance when the angle between the crankpins is 180 because the pistons move in opposite directions and inertial forces partially cancel  but this gives an odd firing pattern where one cylinder fires 180 of crankshaft rotation after the other  then no cylinder fires for 540  with an even firing pattern the pistons would move in unison and the associated forces would add 
+multiple crankshaft configurations do not necessarily need a
+at all because they can instead have a piston at each end of the cylinder called an
+design  because fuel inlets and outlets are positioned at opposed ends of the cylinder  one can achieve uniflow scavenging  which  as in the four-stroke engine is efficient over a wide range of engine speeds  thermal efficiency is improved because of a lack of cylinder heads  this design was used in the
+diesel aircraft engine  using two crankshafts at either end of a single bank of cylinders  and most remarkably in the
+diesel engines  these used three crankshafts to serve three banks of
+arranged in an equilateral triangle with the crankshafts at the corners  it was also used in single-bank   and is still used in
+engines and marine auxiliary generators 
+diesel cycle  
+main article 
+for the ideal diesel cycle  the cycle follows the numbers 14 in clockwise direction 
+most truck and automotive diesel engines use a cycle reminiscent of a four-stroke cycle  but with a compression heating ignition system  rather than needing a separate ignition system  this variation is called the diesel cycle  in the diesel cycle 
+is injected directly into the cylinder so that combustion occurs at constant pressure  as the piston moves 
+otto cycle  
+is the typical cycle for most of the cars internal combustion engines  that work using gasoline as a fuel  otto cycle is exactly the same one that was described for the four-stroke engine  it consists of the same major steps  intake  compression  ignition  expansion and exhaust 
+five-stroke engine  
+in 1879 
+manufactured and sold a double expansion engine  the double and triple expansion principles had ample usage in steam engines   with two small cylinders at both sides of a low-pressure larger cylinder  where a second expansion of exhaust stroke gas took place  the owner returned it  alleging poor performance  in 1906  the concept was incorporated in a car built by ehv    ct  usa  and in the 21st century
+designed and successfully tested a 5-stroke double expansion internal combustion engine  with high power output and low sfc  specific fuel consumption  
+six-stroke engine  
+the
+was invented in 1883  four kinds of six-stroke use a regular piston in a regular cylinder  griffin six-stroke  bajulaz six-stroke  velozeta six-stroke and crower six-stroke   firing every three crankshaft revolutions  the systems capture the wasted heat of the
+otto cycle with an injection of air or water 
+the
+and  piston charger  engines operate as   two pistons in a single cylinder  firing every two revolutions rather more like a regular four-stroke 
+other cycles  
+the very first internal combustion engines did not compress the mixture  the first part of the piston downstroke drew in a fuel-air mixture  then the inlet valve closed and  in the remainder of the down-stroke  the fuel-air mixture fired  the exhaust valve opened for the piston upstroke  these attempts at imitating the principle of a
+were very inefficient  there are a number of variations of these cycles  most notably the
+and   the diesel cycle is somewhat different 
+engines separate the four strokes of intake  compression  combustion and exhaust into two separate but paired cylinders  the first cylinder is used for intake and compression  the compressed air is then transferred through a crossover passage from the compression cylinder into the second cylinder  where combustion and exhaust occur  a split-cycle engine is really an air compressor on one side with a combustion chamber on the other 
+previous split-cycle engines have had two major problemspoor breathing  volumetric efficiency  and low thermal efficiency  however  new designs are being introduced that seek to address these problems 
+the
+addresses the breathing problem by reducing the clearance between the piston and the cylinder head through various turbo charging techniques  the scuderi design requires the use of outwardly opening valves that enable the piston to move very close to the cylinder head without the interference of the valves  scuderi addresses the low thermal efficiency via firing after top dead centre  atdc  
+firing atdc can be accomplished by using high-pressure air in the transfer passage to create sonic flow and high turbulence in the power cylinder 
+combustion turbines  
+jet engine  
+main article 
+turbofan jet engine
+jet engines use a number of rows of fan blades to compress air which then enters a combustor where it is mixed with fuel  typically jp fuel  and then ignited  the burning of the fuel raises the temperature of the air which is then exhausted out of the engine creating thrust  a modern turbofan engine can operate at as high as 48  efficiency 
+there are six sections to a fan jet engine 
+fan
+compressor
+combustor
+turbine
+mixer
+nozzle
+gas turbines  
+main article 
+turbine power plant
+a gas turbine compresses air and uses it to turn a turbine  it is essentially a jet engine which directs its output to a shaft  there are three stages to a turbine  1  air is drawn through a compressor where the temperature rises due to compression  2  fuel is added in the combuster  and 3  hot air is exhausted through turbine blades which rotate a shaft connected to the compressor 
+a gas turbine is a rotary machine similar in principle to a
+and it consists of three main components  a compressor  a combustion chamber  and a turbine  the air  after being compressed in the compressor  is heated by burning fuel in it  the heated air and the products of combustion expand in a turbine  producing work output  about  of the work drives the compressor  the rest  about   is available as useful work output 
+gas turbines are among the most efficient internal combustion engines  the general electric 7ha and 9ha turbine
+electrical plants are rated at over 61  efficiency 
+brayton cycle  
+main article 
+brayton cycle
+a gas turbine is a rotary machine somewhat similar in principle to a steam turbine  it consists of three main components  compressor  combustion chamber  and turbine  the air is compressed by the compressor where a temperature rise occurs  the compressed air is further heated by combustion of injected fuel in the combustion chamber which expands the air  this energy rotates the turbine which powers the compressor via a mechanical coupling  the hot gases are then exhausted to provide thrust 
+gas turbine cycle engines employ a continuous combustion system where compression  combustion  and expansion occur simultaneously at different places in the enginegiving continuous power  notably  the combustion takes place at constant pressure  rather than with the otto cycle  constant volume 
+wankel engines  
+the wankel rotary cycle  the shaft turns three times for each rotation of the rotor around the lobe and once for each
+around the eccentric shaft 
+main article 
+the wankel engine  rotary engine  does not have piston strokes  it operates with the same separation of phases as the four-stroke engine with the phases taking place in separate locations in the engine  in
+terms it follows the
+cycle  so may be thought of as a  four-phase  engine  while it is true that three power strokes typically occur per rotor revolution  due to the 3 1 revolution ratio of the rotor to the eccentric shaft  only one power stroke per shaft revolution actually occurs  the drive  eccentric  shaft rotates once during every power stroke instead of twice  crankshaft   as in the otto cycle  giving it a greater power-to-weight ratio than piston engines  this type of engine was most notably used in the   the earlier   and other vehicle models  the engine is also use in unmanned aerial vehicles  where the small size and weight and the high power-to-weight ratio are advantages 
+forced induction  
+main article 
+forced induction is the process of delivering compressed air to the intake of an internal combustion engine  a forced induction engine uses a
+to increase the pressure  temperature and   an engine without forced induction is considered a  
+forced induction is used in the automotive and aviation industry to increase engine power and efficiency  it particularly helps aviation engines  as they need to operate at high altitude 
+forced induction is achieved by a   where the compressor is directly powered from the engine shaft or  in the   from a turbine powered by the engine exhaust 
+fuels and oxidizers  
+all internal combustion engines depend on
+of a   typically with oxygen from the air  though it is possible to inject
+to do more of the same thing and gain a power boost   the combustion process typically results in the production of a great quantity of heat  as well as the production of steam and carbon dioxide and other chemicals at very high temperature  the temperature reached is determined by the chemical make up of the fuel and oxidisers  see    as well as by the compression and other factors 
+fuels  
+the most common modern fuels are made up of
+and are derived mostly from
+    fossil fuels include  
+and   and the rarer use of   except for the fuel delivery components  most internal combustion engines that are designed for gasoline use can run on
+or liquefied petroleum gases without major modifications  large diesels can run with air mixed with gases and a pilot diesel fuel ignition injection  liquid and gaseous   such as
+and
+ a form of diesel fuel that is produced from crops that yield
+such as
+oil   can also be used  engines with appropriate modifications can also run on
+gas    or   as well as from so-called
+made from other convenient biomass  experiments have also been conducted using powdered solid fuels  such as the  
+presently  fuels used include 
+ 
+petroleum spirit   term   
+term  petrol 
+ 
+   
+ 
+  
+ 
+gasoline can be made from carbon  coal  using the
+diesel fuel can be made from carbon using the
+biofuels and vegetable oils 
+and other  
+  from an onboard
+using solid wood as a fuel
+biofuels 
+ replaces gasoline  
+ replaces petrodiesel  
+ replaces petrodiesel  
+and
+   and other
+ see   
+ mainly
+ 
+even fluidized metal powders and explosives have seen some use  engines that use gases for fuel are called gas engines and those that use liquid hydrocarbons are called oil engines  however  gasoline engines are also often colloquially referred to as   gas engines    petrol engines  outside north america  
+the main limitations on fuels are that it must be easily transportable through the
+to the   and that the fuel releases sufficient
+in the form of
+upon
+to make practical use of the engine 
+are generally heavier  noisier  and more powerful at lower speeds than   they are also more fuel-efficient in most circumstances and are used in heavy road vehicles  some automobiles  increasingly so for their increased
+over gasoline engines   ships 
+  and light   gasoline engines are used in most other road vehicles including most cars    and   note that in   sophisticated diesel-engined cars have taken over about 45  of the market since the 1990s  there are also engines that run on      
+ lpg    
+and
+ tvo  
+hydrogen  
+main article 
+hydrogen could eventually
+in traditional internal combustion engines  alternatively
+technology may come to deliver its promise and the use of the internal combustion engines could even be phased out 
+although there are multiple ways of producing free hydrogen  those methods require converting combustible molecules into hydrogen or consuming electric energy  unless that electricity is produced from a renewable sourceand is not required for other purposes hydrogen does not solve any   in many situations the disadvantage of hydrogen  relative to carbon fuels  is  
+has extremely low density  14 times lower than water  and requires extensive insulationwhilst gaseous hydrogen requires heavy tankage  even when liquefied  hydrogen has a higher specific energy but the volumetric energetic storage is still roughly five times lower than gasoline  however  the energy density of hydrogen is considerably higher than that of electric batteries  making it a serious contender as an energy carrier to replace fossil fuels  the  hydrogen on demand  process  see   creates hydrogen as needed  but has other issues  such as the high price of the
+that is the raw material 
+oxidizers  
+one-cylinder gasoline engine  c 1910
+this section does not
+any   please help improve this section by   unsourced material may be challenged and    july 2010    
+since air is plentiful at the surface of the earth  the oxidizer is typically atmospheric oxygen  which has the advantage of not being stored within the vehicle  this increases the power-to-weight and power-to-volume ratios  other materials are used for special purposes  often to increase power output or to allow operation under water or in space 
+compressed air has been commonly used in  
+compressed   as well as some compressed air  was used in the japanese   some submarines carry pure oxygen  rockets very often use  
+is added to some racing and model fuels to increase power and control combustion 
+has been usedwith extra gasolinein tactical aircraft  and in specially equipped cars to allow short bursts of added power from engines that otherwise run on gasoline and air  it is also used in the burt rutan rocket spacecraft 
+power was under development for german world war ii submarines  it may have been used in some non-nuclear submarines  and was used on some rocket engines  notably the
+and the
+rocket plane  
+other chemicals such as chlorine or fluorine have been used experimentally  but have not been found practical 
+cooling  
+main article 
+cooling is required to remove excessive heat  over heating can cause engine failure  usually from wear due to heat-induced failure of lubrication   cracking or warping  two most common forms of engine cooling are
+and   most modern automotive engines are both water and air-cooled  as the water liquid-coolant is carried to air-cooled fins and or fans  whereas larger engines may be singularly water-cooled as they are stationary and have a constant supply of water through water-mains or fresh-water  while most power tool engines and other small engines are air-cooled  some engines  air or water-cooled  also have an   in some engines  especially for
+and   fuel is used as a coolant  as it is simultaneously preheated before injecting it into a combustion chamber 
+starting  
+main article 
+electric starter as used in automobiles
+internal combustion engines must have their cycles started  in reciprocating engines this is accomplished by turning the crankshaft  wankel rotor shaft  which induces the cycles of intake  compression  combustion  and exhaust  the first engines were started with a turn of their flywheels  while the first vehicle  the daimler reitwagen  was started with a hand crank  all ice engined automobiles were started with hand cranks until
+developed the electric starter for automobiles 
+the most often found methods of starting ice today is with an electric motor  as diesel engines have become larger another method has come into use as well  that is  
+another method of starting is to use compressed air that is pumped into some cylinders of an engine to start it turning 
+with two wheeled vehicles their engines may be started in four ways 
+by pedaling  as on a bicycle
+by pushing the vehicle and then engaging the clutch  run and bump starting 
+by kicking downward on a single pedal  known as kick starting
+electric starting
+there are also starters where a spring is compressed by a crank motion and then used to start an engine  small engines use a pull rope mechanism called recoil starting as the rope returns to storage after it has been pulled fully out to start the engine 
+turbine engines are frequently started by electric motor  or by air 
+measures of engine performance  
+engine types vary greatly in a number of different ways 
+fuel propellant consumption   for shaft engines 
+for jet engines 
+ for shaft engines 
+ jet engines 
+for piston engines 
+for jet engines and gas turbines
+energy efficiency  
+once ignited and burnt  the
+productshot gaseshave more available
+than the original compressed fuel-air mixture  which had higher    the available energy is manifested as high
+and
+that can be translated into
+by the engine  in a reciprocating engine  the high-pressure gases inside the cylinders drive the engine s pistons 
+once the available energy has been removed  the remaining hot gases are
+ often by opening a
+or exposing the exhaust outlet  and this allows the piston to return to its previous position  top dead center  or tdc   the piston can then proceed to the next phase of its cycle  which varies between engines  any
+that is not translated into work is normally considered a waste product and is removed from the engine either by an air or liquid cooling system 
+internal combustion engines are   and as such their theoretical efficiency can be approximated by idealized   the thermal efficiency of a theoretical cycle cannot exceed that of the   whose efficiency is determined by the difference between the lower and upper
+of the engine  the upper operating temperature of an engine is limited by two main factors  the thermal operating limits of the materials  and the auto-ignition resistance of the fuel  all
+and
+have a thermal operating limit  and there is significant research into
+materials that can be made with greater thermal stability and desirable structural properties  higher thermal stability allows for a greater temperature difference between the lower  ambient  and upper operating temperatures  hence greater thermodynamic efficiency  also  as the cylinder temperature rises  the engine becomes more prone to auto-ignition  this is caused when the cylinder temperature nears the flash point of the charge  at this point  ignition can spontaneously occur before the spark plug fires  causing excessive cylinder pressures  auto-ignition can be mitigated by using fuels with high auto-ignition resistance     however it still puts an upper bound on the allowable peak cylinder temperature 
+the
+assume that the engine is operating under ideal conditions  a frictionless world  ideal gases  perfect insulators  and operation for infinite time  real world applications introduce complexities that reduce efficiency  for example  a real engine runs best at a specific load  termed its   the engine in a car cruising on a highway is usually operating significantly below its ideal load  because it is designed for the higher loads required for rapid acceleration    in addition  factors such as
+reduce overall system efficiency  engine
+is measured in
+or in liters per 100 kilometres  the volume of hydrocarbon assumes a standard energy content 
+most iron engines have a
+of 37   even when aided with turbochargers and stock efficiency aids  most engines retain an average efficiency of about 18 -20   the latest technologies in
+have seen a boost in thermal efficiency to almost 47   rocket engine efficiencies are much better  up to 70   because they operate at very high temperatures and pressures and can have very high expansion ratios 
+are better still  at around 85-90  efficiency or more    but they rely on an external power source  often another heat engine at a power plant subject to similar thermodynamic efficiency limits   however large stationary power plant turbines are typically significantly more efficient and cleaner than small mobile combustion engines in vehicles 
+there are many inventions aimed at increasing the efficiency of ic engines  in general  practical engines are always compromised by trade-offs between different properties such as efficiency  weight  power  heat  response  exhaust emissions  or noise  sometimes economy also plays a role in not only the cost of manufacturing the engine itself  but also manufacturing and distributing the fuel  increasing the engine s efficiency brings better fuel economy but only if the fuel cost per energy content is the same 
+measures of fuel efficiency and propellant efficiency  
+for stationary and shaft engines including propeller engines  fuel consumption is measured by calculating the   which measures the mass flow rate of fuel consumption divided by the power produced 
+for internal combustion engines in the form of jet engines  the power output varies drastically with airspeed and a less variable measure is used 
+ tsfc   which is the mass of propellant needed to generate
+that is measured in either pound force-hour or the grams of propellant needed to generate an impulse that measures one kilonewton-second 
+for rockets  tsfc can be used  but typically other equivalent measures are traditionally used  such as
+and  
+air and noise pollution  
+air pollution  
+internal combustion engines such as reciprocating internal combustion engines produce
+emissions  due to incomplete combustion of
+fuel  the main derivatives of the process are
+co
+2  water and some
+ also called
+ pm   the effects of inhaling particulate matter have been studied in humans and animals and include asthma  lung cancer  cardiovascular issues  and premature death  there are  however  some additional products of the combustion process that include
+and
+and some uncombusted hydrocarbons  depending on the operating conditions and the fuel-air ratio 
+not all of the fuel is completely consumed by the combustion process  a small amount of fuel is present after combustion  and some of it reacts to form oxygenates  such as
+or   or hydrocarbons not originally present in the input fuel mixture  incomplete combustion usually results from insufficient
+to achieve the perfect
+ratio  the flame is  quenched  by the relatively cool cylinder walls  leaving behind unreacted fuel that is expelled with the exhaust  when running at lower speeds  quenching is commonly observed in diesel  compression ignition  engines that run on natural gas  quenching reduces efficiency and increases knocking  sometimes causing the engine to stall  incomplete combustion also leads to the production of
+ co   further chemicals released are
+and
+that are also  
+increasing the amount of air in the engine reduces emissions of incomplete combustion products  but also promotes reaction between oxygen and
+in the air to produce
+ nox   nox is hazardous to both plant and animal health  and leads to the production of
+ o3   ozone is not emitted directly  rather  it is a secondary air pollutant  produced in the atmosphere by the reaction of nox and
+in the presence of sunlight  ground-level ozone is harmful to human health and the environment  though the same chemical substance  ground-level ozone should not be confused with   or the   which protects the earth from harmful ultraviolet rays 
+carbon fuels contain sulfur and impurities that eventually produce
+ so  and
+ so2  in the exhaust  which promotes  
+in the united states  nitrogen oxides  pm  carbon monoxide  sulphur dioxide  and ozone  are regulated as
+under the
+to levels where human health and welfare are protected  other pollutants  such as benzene and 1,3-butadiene  are regulated as
+whose emissions must be lowered as much as possible depending on technological and practical considerations 
+nox  carbon monoxide and other pollutants are frequently controlled via
+which returns some of the exhaust back into the engine intake  and   which convert exhaust chemicals to harmless chemicals 
+see also 
+non-road engines  
+main article 
+the emission standards used by many countries have special requirements for
+which are used by equipment and vehicles that are not operated on the public roadways  the standards are separated from the road vehicles 
+noise pollution  
+significant contributions to
+are made by internal combustion engines  automobile and truck traffic operating on highways and street systems produce noise  as do aircraft flights due to jet noise  particularly supersonic-capable aircraft  rocket engines create the most intense noise 
+idling  
+main article 
+internal combustion engines continue to consume fuel and emit pollutants when idling so it is desirable to keep periods of idling to a minimum  many bus companies now instruct drivers to switch off the engine when the bus is waiting at a terminal 
+in england  the road traffic
+fixed penalty regulations 2002   no  1808 
+introduced the concept of a  stationary idling offence   this means that a driver can be ordered  by an authorised person     upon production of evidence of his authorisation  require him to stop the running of the engine of that vehicle  and a  person who fails to comply     shall be guilty of an offence and be liable on summary conviction to a fine not exceeding level 3 on the standard scale   only a few local authorities have implemented the regulations  one of them being
+city council 
+see also  
+- a
+- information about how to check an internal combustion engine
+references  
+ 
+  encyclopdia britannica  britannica com  retrieved 2012-03-20 
+ 
+pulkrabek  willard w   1997   engineering fundamentals of the internal combustion engine  prentice hall  p 2   
+  world wide words  1998-12-27  retrieved 2016-08-31 
+james  fales  technology today and tomorrow  p 344 
+armentrout  patricia  extreme machines on land  p 8 
+ 
+  first hand info  retrieved 2016-09-01 
+  pp 1-2 
+  p 5 
+  man diesel   
+ pdf   retrieved 2010-08-28 
+  pepei pennnet com  2010-08-24  retrieved 2010-08-28 
+takaishi  tatsuo  numata  akira  nakano  ryouji  sakaguchi  katsuhiko  march 2008  
+ pdf   mitsubishi heavy industries technical review  45  1   retrieved 2011-02-04 
+  first hand info  retrieved 2016-09-01 
+  audi  retrieved 2016-09-01 
+  physorg com  2011-04-20  retrieved 2013-12-26 
+  the old motor  2014-12-19  retrieved 2016-09-01 
+  automobile in american life and society  university of michigan-dearborn  retrieved 2016-09-01 
+  innovate motorsports  retrieved 2006-09-01 
+  jetav8r  retrieved 2016-09-02 
+  popular mechanics  149  january 1953 
+  p 15 
+suzuki  takashi  1997   the romance of engines  sae  pp 8794 
+  ilmor engineering  retrieved 2015-12-18 
+  intergovernment panel on climate change  retrieved 2016-07-14 
+  us  nasa glenn research center  2014-06-12  retrieved 2016-08-31 
+  general electric power generation  general electric  retrieved 2016-07-14 
+  gasturbineworld  retrieved 2016-07-14 
+ press release   us  general motors  retrieved 2016-09-02 
+  ingersoll rand  retrieved 2016-09-05 
+  courses washington edu  retrieved 2010-08-28 
+  ars technica  retrieved 2016-05-20 
+rocket propulsion elements 7th edition-george sutton  oscar biblarz pg 37-38
+ pdf   diesel   gas turbine publications  retrieved 2013-12-26 
+  195.99.1.70  2010-07-16  retrieved 2010-08-28 
+ pdf     november 2011  retrieved 2011-02-04 
+bibliography  
+nunney  malcom j   2007   light and heavy vehicle technology  4th ed    elsevier butterworth-heinemann   
+stone  richard  1992   introduction to internal combustion engines  2nd ed    macmillan   
+anyebe  e a  2009   combustion engine and operations  automobile technology handbook  2 
+singal  r  k  internal combustion engines  new delhi  india  kataria books   
+ricardo  harry  1931    
+patents 
+  
+  ubierna laciana   perfeccionamientos en motores de explosion  con cinco tiem-pos y doble expansion   published 1976-11-01
+  ortuno garcia jose   un nuevo motor de explosion   published 1957-03-01
+  ortuno garcia jose   motor de carreras distintas   published 1959-09-01
+further reading  
+singer  charles joseph  raper  richard  1978   charles  singer  et al   eds  a history of technology  the internal combustion engine  clarendon press  pp 157176   
+setright  ljk  1975   some unusual engines  london  the institution of mechanical engineers   
+suzuki  takashi  1997   the romance of engines  us  society of automotive engineers   
+hardenberg  horst o   1999   the middle ages of the internal combustion engine  us  society of automotive engineers 
+gunston  bill  1999   development of piston aero engines  psl   
+external links  
+wikimedia commons has media related to  
+- in-cylinder combustion in an optically accessible  2-stroke engine
+- explains a variety of types
+- cut-away images and a good overview of the internal combustion engine
+- research at the university of michigan
+- animation of the components and built-up of a 4-cylinder engine
+- animation of the internal moving parts of a 4-cylinder engine
+retrieved may 9  2009
+- present   future internal combustion engines  performance  efficiency  emissions  and fuels
+- open forum for international collaboration among experimental and computational researchers in engine combustion 
+a file on unusual engines
+aircraft engine historical society -aehs
+without phase change
+  
+with phase change
+  
+mixed
+uncategorized
+automotive engine
+part of the
+series
+basic terminology
+main components
+aspiration
+fuel system
+electrics and engine
+management
+  
+  
+other components
+design
+  
+body styles
+specialized vehicles
+ 
+ 
+  
+  
+  
+internal combustion
+ engine  drive 
+ internal combustion 
+ 
+ 
+ 
+ 
+retrieved from   
+  hidden categories 

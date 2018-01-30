@@ -1,0 +1,904 @@
+populationgrowth
+from wikipedia  the free encyclopedia
+jump to 					 
+in   population growth is the increase in the number of individuals in a  
+global human population growth amounts to around 75 million annually  or 1.1  per year  the
+has grown from 1 billion in 1800 to 7 billion in 2012  it is expected to keep growing  and estimates have put the total population at 8.4 billion by mid-2030  and 9.6 billion by mid-2050  many nations with rapid population growth have low standards of living  whereas many nations with low rates of population growth have high standards of living 
+population
+years passed
+year
+billion
+-
+1800
+1
+127
+1927
+2
+33
+1960
+3
+14
+1974
+4
+13
+1987
+5
+12
+1999
+6
+12
+2011
+7
+14
+2025 
+8
+18
+2043 
+9
+40
+2083 
+10
+ 
+united nations population fund
+estimate 31.10.2011
+contents
+population growth rate  
+the  population growth rate  is the rate at which the number of individuals in a population increases in a given time period  expressed as a fraction of the initial population  specifically  population growth rate refers to the change in population over a unit time period  often expressed as a percentage of the number of individuals in the population at the beginning of that period  this can be written as the formula  valid for a sufficiently small time interval 
+p
+o
+p
+u
+l
+a
+t
+i
+o
+n
+g
+r
+o
+w
+t
+h
+r
+a
+t
+e
+ 
+p
+ 
+t
+2
+ 
+
+p
+ 
+t
+1
+ 
+p
+ 
+t
+1
+ 
+ 
+t
+2
+
+t
+1
+ 
+  displaystyle population  growth  rate   frac  p t  2  -p t  1    p t  1   t  2 -t  1     
+a positive growth rate indicates that the population is increasing  while a negative growth rate indicates that the population is decreasing  a growth ratio of zero indicates that there were the same number of individuals at the beginning and end of the perioda growth rate may be zero even when there are significant changes in the       and age distribution between the two times 
+a related measure is the   in the absence of migration  a net reproduction rate of more than 1 indicates that the population of females is increasing  while a net reproduction rate less than one    indicates that the population of females is decreasing 
+human population growth rate  
+main article 
+a world map showing global variations in
+per woman  according to the  s 2016 data 
+78 children
+67 children
+56 children
+45 children
+34 children
+23 children
+12 children
+01 children
+estimates of population evolution in different
+between 1950 and 2050  according to the united nations  the vertical axis is
+and is in millions of people 
+growth rate of world population  19502050  
+in 2009  the estimated annual growth rate was 1.1   the
+gives the world annual birthrate  mortality rate  and growth rate as 1.86   0.78   and 1.08  respectively  the last 100years have seen a massive fourfold increase in the population  due to   lower mortality rates  and an increase in agricultural productivity made possible by the  
+the annual increase in the number of living humans peaked at 88.0million in 1989  then slowly declined to 73.9million in 2003  after which it rose again to 75.2million in 2006  in 2009  the human population increased by 74.6million  generally  developed nations have seen a decline in their growth rates in recent decades  though annual growth rates remain above 2  in poverty-stricken countries of the
+and   and also in     and  
+in some countries the   especially in   mainly due to low   high death rates and   in   growth is slowing due to the high number of aids-related deaths  some
+countries might also experience population decline  japan s population began decreasing in 2005  it now has the highest standard of living in the world 
+the
+projects world population to peak at over 10billion at the end of the 21st century  but
+has argued that global fertility will fall below the replacement rate in the 2020s and that world population will peak below 9billion by 2050  followed by a long decline 
+growth by country  
+according to
+population statistics  the world population grew by 30   or 1.6billion humans  between 1990 and 2010  in number of people the increase was highest in india  350million  and china  196million   population growth was among highest in the
+ 315   and
+ 271   
+growth rates of the world s most populous countries
+rank
+country
+population
+2010
+population
+1990
+growth    
+19902010
+world
+6,895,889,000
+5,306,425,000
+30.0 
+1
+1,341,335,000
+1,145,195,000
+17.1 
+2
+1,224,614,000
+873,785,000
+40.2 
+3
+310,384,000
+253,339,000
+22.5 
+4
+239,871,000
+184,346,000
+30.1 
+5
+194,946,000
+149,650,000
+30.3 
+6
+173,593,000
+111,845,000
+55.3 
+7
+158,423,000
+97,552,000
+62.4 
+8
+148,692,000
+105,256,000
+41.3 
+9
+142,958,000
+148,244,000
+-3.6 
+10
+128,057,000
+122,251,000
+4.7 
+example nation
+1967 population
+1990 population
+1994 population
+2002 population
+2008 population
+life expectancy in years  2008 
+total population growth from 1960s to 2007- 2011
+ 
+n a 
+n a 
+3,437,000
+4,298,269
+5,673,520
+61
+2,236,520
+ 
+23,457,000 
+50,974,000 
+54,939,000
+67,673,031 2003 
+79,221,000
+55
+55,764,000
+
+14,355,000
+25,204,000
+27,361,000
+38,114,160  2003 
+42,272,000
+50
+27,917,000
+3,410,000
+5,679,000
+6,183,000
+9,253,493 2003 
+10,329,208  2009 
+47
+6,919,205
+3,546,000
+7,732,000
+8,846,000
+10,790,352  2001 
+15,306,252  2009 
+44
+11,760,252
+61,450,000
+88,500,000
+108,467,000
+129,934,911
+158,259,000
+47
+96,809,000
+4,745,000
+8,156,000 
+10,462,000
+11,340,480
+14,517,176 2010  
+50
+9,772,176
+1,050,000
+2,025,000
+2,211,000
+2,667,859  2003 
+3,291,000  2009 
+54
+2,241,000
+3,607,000
+7,327,000
+8,102,000
+9,967,215
+13,711,597  2009 
+57
+10,104,597
+343,000
+861,000
+1,081,000
+1,367,124  2000 
+1,705,000
+55
+1,362,000
+11,833,126  1966 
+25,012,000
+27,325,000
+32,818,500  2003 
+34,895,000
+74
+23,061,874
+ zaire
+16,353,000
+35,562,000
+42,552,000
+55,225,478  2003 
+70,916,439
+54
+54,563,439
+30,083,419  1966 
+53,153,000
+58,326,000
+70,712,345  2003 
+79,089,650
+72
+49,006,231
+ french colony overseas department 
+418,000
+n a
+n a
+720,934  2003 
+827,000  2009 
+n a
+409,000
+the
+ uk territory 
+2,500
+n a
+n a
+2,967  2003 
+3,140 2010 
+n a
+640
+8,935,500
+13,173,000
+13,994,000
+15,116,435
+17,224,200  2011 
+77
+8,288,700
+19,191,000
+32,987,000
+34,520,000
+41,088,227
+45,925,397 2010 
+73
+26,734,397
+85,655,000
+150,368,000
+153,725,000
+174,468,575  2000 
+190,732,694 2010 
+72
+105,077,694
+mexico
+45,671,000
+86,154,000
+93,008,000
+103,400,165  2000 
+112,322,757 2010 
+76
+66,651,757
+476,727  1966 
+765,000
+771,000
+844,330  2001 
+849,000  2010 
+70
+372,273
+6,050  1966 
+10,000
+n a
+12,329
+9,322  2011 
+n a
+3,272
+1,876,000
+2,420,000
+2,429,000
+2,695,867  2003 
+2,847,232 2010 
+74
+971,232
+australia
+11,540,764  1964 
+17,086,000
+17,843,000
+19,546,792  2003 
+24,395,841  2010 
+82
+10,066,508
+1,965,500  1964 
+3,250,000
+3,414,000
+3,510,484
+2,986,952  july 2010 est    2010 
+78
+1,021,452
+31,944,000
+38,180,000
+38,554,000
+38,626,349  2001 
+38,192,000 2010 
+75
+6,248,000
+hungary
+10,212,000
+10,553,000
+10,261,000
+10,106,017
+9,979,000 2010 
+73
+-142,000
+8,226,564  1965 
+8,980,000
+8,443,000
+7,707,495 2000 
+7,351,234  2011 
+73
+-875,330
+55,068,000  1966 
+57,411,000
+58,091,000
+58,789,194
+62,008,048  2010 
+79
+7,020,048
+2,884,002  1966 
+3,503,000
+3,571,000
+3,840,838  2000 
+4,470,700
+ 2010 
+78
+1,586,698
+the  china
+720,000,000
+1,139,060,000
+1,208,841,000
+1,286,975,468  2004 
+1,339,724,852 2010 
+73
+619,724,852
+japan
+98,274,961  1965 
+123,537,000
+124,961,000
+127,333,002
+127,420,000  2010 
+82
+28,123,865
+ once occupied by the united states 
+934,176  1965 
+n a
+n a
+n a
+n a
+n a
+n a
+india 
+511,115,000
+843,931,000
+918,570,000
+1,028,610,328  2001 
+1,210,193,422 2011 
+69
+699,078,422
+1,956,000  1967 
+3,003,000  1990 
+2,930,000  1994 
+4,452,732  2002 
+5,076,700 2010 
+82  2008 
+3,120,700
+ 
+183,000  1967 
+n a
+n a
+n a
+n a
+n a
+n a
+24,000  1967 
+29,000  1990 
+n a  1994 
+31,842  2000 
+35,586  2010 
+ 2008 
+1,586
+8,716,000  1967 
+10,123,000  1990 
+10,426,000  1994 
+10,964,020 2001 
+11,305,118 2011 
+n a  2008 
+2,589,118
+ danish dependency 
+38,000  1967 
+n a 1990 
+n a 1994 
+46,345  2000 
+48,917 2010 
+n a  2008 
+18,917
+20,000  1967 
+29,000  1990 
+n a  1994 
+33,307 2000 
+35,789 2009 
+ 2008 
+15,789
+29,207,856  1966 
+42,793,000  1990 
+44,453,000  1994 
+48,324,000  2003 
+48,875,000 2010 
+ 2008 
+19,667,144
+12,700,000  1967 
+21,773,000  1990 
+23,483,000  1994 
+22,224,195  2002 
+24,051,218 2010 
+ 2008 
+11,351,218
+107,200  1967 
+266,000 1990 
+280,000  1994 
+332,844  2001 
+401,890 2011 
+76 2008 
+306,609
+10,671,000  1967 
+17,861,000  1990 
+19,489,000  1994 
+21,793,293 2002 
+27,565,821 2010 
+ 2008 
+16,894,821
+32,680,000  1967 
+57,196,000  1990 
+59,396,000  1994 
+60,606,947 2000 
+63,878,267 2011 
+ 2008 
+31,198,267
+2,520,000  1967 
+2,701,000  1990 
+2,915,000  1994 
+3,727,703
+ 2003 
+4,224,000 2009 
+-  2008 
+5,600,000  1967 
+12,116,000  1990 
+13,844,000  1994 
+17,585,540  2003 
+22,457,763 2011 
+- 2008 
+182,00  1967 
+503,000  1990 
+549,000  1994 
+667,238  2003 
+1,234,596
+ 2010 
+75 2008 
+11,741,000  1967 
+16,993,000  1990 
+17,685,000  1994 
+19,607,519  2002 
+20,238,000  2009 
+-  2008 
+6,050,000  1967 
+6.712,000  1990 
+6,994,000  1994 
+7,261,200  2002 
+7,866,500  2010 
+-  2008 
+335,000  1967 
+381,000  1990 
+401,000  1994 
+439,539  2001 
+511,840 2011 
+- 2008 
+19,105,056  1966 
+23,200,000  1990 
+22,736,000  1994 
+21,680,974  2002 
+21,466,174  2011 
+-  2008 
+ new zealand colony 
+1,900  1966 
+n a  1990 
+n a  1994 
+2,134  2002 
+1,398 2009 
+n a  2008 
+-502
+ new zealand colony 
+5,194  1966 
+n a  1990 
+n a  1994 
+1,445 2001 
+1,416 2009 
+n a  2008 
+-3,778
+1,876,000  1967 
+2,420,000  1990 
+2,429,000  1994 
+2,695,867  2003 
+2,847,232 2010 
+74  2008 
+971,232
+32,031,000  1967 
+32,322,000 1990 
+34,180,000  1994 
+37,812,817  2002 
+40,091,359  2010 
+74  2008 
+8,060,359
+france
+49,890,660  1967 
+56,440,000 1990 
+57,747,000  1994 
+59,551,000  2001 
+63,136,180 2011 
+81  2008 
+italy
+52,334,000 1967 
+57,662,000  1990 
+57,193,000  1994 
+56,995,744  2002 
+60,605,053  2011 
+80  2008 
+774,000  1967 
+1,075,000 1990 
+1,104,000 1994 
+1,179,137  2000 
+1,288,000  2009 
+75  2008 
+514,000
+4,717,000  1967 
+9,197,000  1990 
+10,322,000  1994 
+12,974,361  2000 
+13,276,517  2009 
+70  2008 
+8,559,517
+8,033,000  1967 
+10,609,000  1990 
+10,960,000  1994 
+11,177,743  2002 
+11,239,363 2009 
+77  2008 
+246,000  1967 
+255,000  1990 
+261,000  1994 
+250,012  2001 
+284,589 2010 
+73  2008 
+18,589
+131,377  1967 
+164,000  1990 
+164,000  1994 
+178,173  2003 
+179,000 2009 
+n a  2008 
+7,765,981  1967 
+8,559,000  1990 
+8,794,000  1994 
+8,920,705  2002 
+9,354,462  2009 
+81  2008 
+4,664,000  1967 
+4,986,000  1990 
+5,095,000  1994 
+5,175,783  2002 
+5,374,781  2010 
+n a  2008 
+9,440,000  1967 
+10,525,000  1990 
+9,830,000  1994 
+10,355,824  2001 
+10,647,763 2011 
+n a  2008 
+7,323,981  1967 
+7,712,000  1990 
+8,031,000  1994 
+8,032,926  2001 
+8,404,252  2011 
+n a  2008 
+1,738,000  1967 
+4,545,000  1990 
+5,225,000 1994 
+5,499,074  2002 
+6,420,000  2009 
+77  2008 
+12,385,000  1967 
+21,550,000  1990 
+23,080,000 1994 
+27,949,639  2002 
+29,496,000 2010 
+70  2008 
+528,000  1967 
+965,000  1990 
+1,050,000  1994 
+1,345,479  2002 
+1,647,000 2009 
+48  2008 
+5,203,066  1967 
+10,020,000  1990 
+10,674,000  1994 
+10,766,500 2003 
+18,498,000 2009 
+ 38 2008 
+277,000  1967 
+348,000  1990 
+389,000  1994 
+474,214  2000 
+676,000 2009 
+61  2008 
+2,505,000  1967 
+4,736,000  1990 
+5,246,000 1994 
+8,500,500  2002 
+8,791,832  2009 
+59  2008 
+2,770,000  1967 
+4,139,000  1990 
+4,742,000  1994 
+5,635,967  2002 
+6,800,000  2011 
+56 2008 
+10,500,000  1967 
+18,961,000  1990 
+21,360,000  1994 
+25,284,463  2002 
+29,331,000  2009 
+ 2008 
+25,781,090  1966 
+54,608,000 1990 
+59,778,000 1994 
+66,622,704  2002 
+75,330,000  2010 
+71  2008 
+20,014,880  1966 
+26,603,000 1990 
+29,248,000 1994 
+31,081,900  2001 
+32,623,490 2011 
+81  2008 
+199,118,000  1967 
+249,995,000 1990 
+260,650,00 1994 
+281,421,906  2000 
+308,745,538 2010 
+78 2008 
+7,931,000  1967 
+18,795,000  1990 
+20,621,000 1994 
+24,227,297  2002 
+32,369,558  2009 
+52  2008 
+notes
+ 
+left
+in 1991 
+ split into the nations of
+and
+during 2011 
+ japan and the ryukyu islands merged in 1972 
+  india and sikkim merged in 1975 
+population growth 19902012    
+73.3 
+68.2 
+ excl  china 
+42.8 
+china
+19.0 
+27.9 
+non-oecd americas
+36.6 
+oecd
+11.5 
+oecd
+11.1 
+non-oecd europe and
+-0.8 
+thousands of scooters make their way through the city of h ch minh  vietnam 
+into the future  
+main article 
+estimated size of human population from 10,000
+to 2000 ce 
+the majority of world population growth today is occurring in less developed countries 
+according to the un s 2010 revision to its population projections  world population is projected to peak at 10.1 billion in 2100 compared to 7 billion in 2011  a 2014 paper by demographers from several universities and the united nations population division projected that the world s population would reach about 10.9 billion in 2100 and continue growing thereafter  however  some experts dispute the un s figures and have argued that birth rates will fall below replacement rate in the 2020s  according to their projections  population growth will be only sustained till the 2040s by rising longevity  but will peak below 9 bn by 2050 
+see also  
+and
+references  
+population reference bureau 
+ pdf   www pbr org  population reference bureau  retrieved 5 december 2014 
+7  miljardis ihminen  helsingin sanomat editor mr timo paukku 5.9.2011 d1  finnish 
+ 
+   
+  20 november 2015  retrieved 4 january 2016 
+ 
+ 
+  the guardian 
+ 
+sanjeev sanyal    project syndicate 
+ 
+ 
+ 
+the british collins longman student atlas  the 1996 and in 1998 publications 
+for the 1998 edition 
+for the 1996 edition
+url 
+ 
+ modern school atlas  96th edition     
+ 
+the british oxford economic atlas of the world 4th edition 
+ 
+the british collins atlas of the world  the 1993 edition 
+ 
+department of economic and social affairs 
+ pdf   2008 revision  united nations 
+ 
+  the world factbook  cia  retrieved 5 march 2010  cite error  invalid  ref  tag  name  cia  defined multiple times with different content  see the    cite error  invalid  ref  tag  name  cia  defined multiple times with different content  see the   
+ 2009       retrieved january 10  2010 
+ 
+department of economic and social affairs population division  2009  
+ pdf   2008 revision  united nations  retrieved 2009-03-12 
+  institut national de la statistique  retrieved january 12  2010 
+ 2009       retrieved january 10  2010 
+ 
+department of economic and social affairs population division  2010  
+ pdf   2008 revision  united nations  retrieved 2009-03-12    cite error  invalid  ref  tag  name  unpop  defined multiple times with different content  see the    cite error  invalid  ref  tag  name  unpop  defined multiple times with different content  see the    cite error  invalid  ref  tag  name  unpop  defined multiple times with different content  see the    cite error  invalid  ref  tag  name  unpop  defined multiple times with different content  see the    cite error  invalid  ref  tag  name  unpop  defined multiple times with different content  see the   
+central intelligence agency 
+ 
+  msrintranet capmas gov eg  retrieved 2010-08-25 
+  dane gov co  retrieved 2010-08-22 
+ibge   
+  inegi org mx  retrieved 2010-11-25 
+ 2011       retrieved 12 february 2011 
+ 
+ 
+ 
+website  commonwealth of australia  retrieved 12 april 2011  the population estimate shown is automatically calculated daily at 00 00 utc and is based on data obtained from the population clock on the date shown in the citation 
+ 
+  wiadomosci wp pl  2010-07-23  retrieved 2010-07-27 
+  retrieved 25 july 2010 
+  eurostat  11 march 2011  retrieved 29 april 2011 
+ pdf   september 2010  retrieved 21 september 2010 
+ 
+ 
+  indian census bureau 2011  retrieved 2011-03-29  cite error  invalid  ref  tag  name  pop  defined multiple times with different content  see the   
+      retrieved 7 june 2010 
+ pdf   national statistical service of greece  population census of 18 march 2001  archived from
+ pdf  on march 25  2009 
+    1 january 2010  retrieved 8 january 2010 
+ faroese 
+  landesverwaltung liechtenstein 
+  index go kr  retrieved 2010-10-29 
+ korean  unfpa  2009-10-01     united nations  retrieved 2010-04-14 
+  jabatan perangkaan malaysia  p iii  retrieved 31 january 2011 
+  web nso go th  2000-04-01  retrieved 2010-04-25 
+  cia gov  retrieved 2011-04-23 
+ pdf   2008 revision    2009  17  retrieved 22 september 2010 
+  cia gov  retrieved 2011-04-23 
+  bahraini census 2010  2010-11-28  archived from
+on february 19  2011  retrieved 14 february 2011 
+  swiss federal statistical office  swiss federal statistical office  neuchtel  2010  retrieved 2011-04-29 
+  le portail des statistiques  grand-duch de luxembourg  3 may 2011   french  retrieved 4 may 2011 
+  epp eurostat ec europa eu  retrieved 26 may 2011 
+  the world factbook    retrieved 2009-07-20 
+ french        retrieved 20 january 2011 
+ italian 
+ pdf     28 march 2011  retrieved 2 april 2011 
+  oficina nacional de estadsticas  repblica de cuba  accessed on november 6  2010  note  an exchange rate of 1 cuc to 1.08 usd was used to convert gdp 
+  accessed on march 7  2011 
+  google com  retrieved 2011-07-13 
+  us dept  of state  retrieved 2011-01-20 
+  statistics canada  6 july 2009  retrieved 2011-04-17 
+  u s  census bureau  2010  retrieved 2010-12-22 
+population 19712014 iea  pdf page 74  marked page 72 
+ 
+gerland  p   raftery  a  e   ev ikova  h   li  n   gu  d   spoorenberg  t   alkema  l   fosdick  b  k   chunn  j   lalic  n   bay  g   buettner  t   heilig  g  k   wilmoth  j   september 14  2014     science  aaas  346  6206   2347           retrieved september 21  2014 
+external links  
+  website of the united nations population division
+  website of the united nations population division
+blue planet united population press
+us census
+  aggregated time series data from 1960 to present
+- 08/12/06
+tsirel  s  v  2004    mathematical modeling of social and economic dynamics   ed  by m  g  dmitriev and a  p  petrov  pp 3679  moscow  russian state social university  2004 
+rosling  hans  25 january 2009     gapminder  retrieved 2009-07-06 
+links to related articles
+general
+causes
+other
+effects
+mitigation
+human 
+major topics
+biological and
+related topics
+population growth
+literature
+  
+publications
+lists
+events and
+organizations
+related topics
+by
+regional
+cities
+past population
+growth indicators
+other
+education
+and innovation
+                       
+aspects
+issues
+global
+other
+theories
+notable
+scholars
+technological
+sociological
+ecological
+ 
+biological
+physical
+belief
+fiction
+categories
+ 
+retrieved from   
+  hidden categories 

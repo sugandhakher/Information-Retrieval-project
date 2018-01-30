@@ -1,0 +1,68 @@
+s
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=M/s&amp;redirect=no" title="M/s">M/s</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="hatnote" role="note">"m/s" redirects here. For the BDSM arrangement, see <a href="/wiki/Master/slave_(BDSM)" title="Master/slave (BDSM)">Master/slave (BDSM)</a>. For the maritime prefix designation, see <a href="/wiki/Motor_ship" title="Motor ship">Motor ship</a>.</div>
+<p><b>Metre per second</b> (<a href="/wiki/American_English" title="American English">American English</a>: <b>meter per second</b>) is an <a href="/wiki/SI_derived_unit" title="SI derived unit">SI derived unit</a> of both <a href="/wiki/Speed" title="Speed">speed</a> (<a href="/wiki/Scalar_(physics)" title="Scalar (physics)">scalar</a>) and <a href="/wiki/Velocity" title="Velocity">velocity</a> (<a class="mw-redirect" href="/wiki/Vector_(geometry)" title="Vector (geometry)">vector quantity</a> which specifies both magnitude and a specific direction), defined by <a href="/wiki/Distance" title="Distance">distance</a> in <a href="/wiki/Metre" title="Metre">metres</a> divided by <a href="/wiki/Time" title="Time">time</a> in <a href="/wiki/Second" title="Second">seconds</a>.</p>
+<p>The <a href="/wiki/International_System_of_Units" title="International System of Units">SI unit</a> symbols are m·s<sup>−1</sup>, m s<sup>−1</sup>, m/s, or <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">m</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">s</span></span>,<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> sometimes (unofficially) abbreviated as "mps". Where metres per second are several orders of magnitude too slow to be convenient, such as in <a href="/wiki/Astronomy" title="Astronomy">astronomical</a> measurements, velocities may be given in kilometres per second, where 1 km/s is 1000 metres per second, sometimes unofficially abbreviated as "kps".</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Conversions"><span class="tocnumber">1</span> <span class="toctext">Conversions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Relation_to_other_measures"><span class="tocnumber">2</span> <span class="toctext">Relation to other measures</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Conversions">Conversions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Metre_per_second&amp;action=edit&amp;section=1" title="Edit section: Conversions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>1 m/s is equivalent to:</p>
+<dl>
+<dd>= 3.6 <a href="/wiki/Kilometres_per_hour" title="Kilometres per hour">km/h</a> (exactly)</dd>
+<dd>≈ 3.2808 <a class="mw-redirect" href="/wiki/Feet_per_second" title="Feet per second">feet per second</a> (approximately)</dd>
+<dd>≈ 2.2369 <a href="/wiki/Miles_per_hour" title="Miles per hour">miles per hour</a> (approximately)</dd>
+<dd>≈ 1.9438 <a href="/wiki/Knot_(unit)" title="Knot (unit)">knots</a> (approximately)</dd>
+</dl>
+<p>1 <a class="mw-redirect" href="/wiki/Feet_per_second" title="Feet per second">foot per second</a> = 0.3048 m/s (exactly)</p>
+<p>1 <a href="/wiki/Miles_per_hour" title="Miles per hour">mile per hour</a> = 0.44704 m/s (exactly)</p>
+<p>1 <a href="/wiki/Kilometres_per_hour" title="Kilometres per hour">km/h</a> = 0.2<span style="text-decoration:overline;">7</span> m/s (exactly)</p>
+<p>1 kilometre per second is equivalent to:</p>
+<dl>
+<dd>≈ 0.6213 miles per second (approximately)</dd>
+<dd>≈ 2237 miles per hour (approximately)</dd>
+</dl>
+<h2><span class="mw-headline" id="Relation_to_other_measures">Relation to other measures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Metre_per_second&amp;action=edit&amp;section=2" title="Edit section: Relation to other measures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The benz, named in honour of <a href="/wiki/Karl_Benz" title="Karl Benz">Karl Benz</a>, has been proposed as a name for one metre per second.<sup class="reference" id="cite_ref-Klein2011_2-0"><a href="#cite_note-Klein2011-2">[2]</a></sup> Although it has seen some support as a practical unit,<sup class="reference" id="cite_ref-Heijungs2005_3-0"><a href="#cite_note-Heijungs2005-3">[3]</a></sup> primarily from German sources,<sup class="reference" id="cite_ref-Klein2011_2-1"><a href="#cite_note-Klein2011-2">[2]</a></sup> it was rejected as the SI unit of velocity<sup class="reference" id="cite_ref-Cardarelli2004_4-0"><a href="#cite_note-Cardarelli2004-4">[4]</a></sup> and has not seen widespread use or acceptance.<sup class="reference" id="cite_ref-Dresner1974_5-0"><a href="#cite_note-Dresner1974-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Metre_per_second&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Orders_of_magnitude_(speed)" title="Orders of magnitude (speed)">Orders of magnitude (speed)</a></li>
+<li><a href="/wiki/Metre" title="Metre">Metre</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Metre_per_second&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.bipm.org/en/si/si_brochure/chapter5/5-1.html" rel="nofollow">SI brochure, Section 5.1</a></span></li>
+<li id="cite_note-Klein2011-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Klein2011_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Klein2011_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Klein HA. (2011). <i>The Science of Measurement: A Historical Survey</i>. Dover Publications. p. 695. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0486258393" title="Special:BookSources/978-0486258393">978-0486258393</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetre+per+second&amp;rft.au=Klein+HA.&amp;rft.btitle=The+Science+of+Measurement%3A+A+Historical+Survey&amp;rft.date=2011&amp;rft.genre=book&amp;rft.isbn=978-0486258393&amp;rft.pages=695&amp;rft.pub=Dover+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Heijungs2005-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Heijungs2005_3-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Heijungs R. (2005). "On the Use of Units in LCA". <i>The International Journal of Life Cycle Assessment</i>. <b>10</b> (3): 174. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1065%2Flca2005.02.199" rel="nofollow">10.1065/lca2005.02.199</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetre+per+second&amp;rft.atitle=On+the+Use+of+Units+in+LCA&amp;rft.au=Heijungs+R.&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1065%2Flca2005.02.199&amp;rft.issue=3&amp;rft.jtitle=The+International+Journal+of+Life+Cycle+Assessment&amp;rft.pages=174&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Cardarelli2004-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Cardarelli2004_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Cardarelli F. (2004). <i>Encyclopaedia of Scientific Units, Weights and Measures: Their SI Equivalences and Origins</i>. Transl. by MJ Shields. (3rd revised ed.). Springer. p. 217. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1852336820" title="Special:BookSources/978-1852336820">978-1852336820</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetre+per+second&amp;rft.au=Cardarelli+F.&amp;rft.btitle=Encyclopaedia+of+Scientific+Units%2C+Weights+and+Measures%3A+Their+SI+Equivalences+and+Origins&amp;rft.date=2004&amp;rft.edition=3rd+revised&amp;rft.genre=book&amp;rft.isbn=978-1852336820&amp;rft.pages=217&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Dresner1974-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Dresner1974_5-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Dresner S. (1974). <i>Units of Measurement: An Encyclopaedic Dictionary of Units Both Scientific and Popular and the Quantities They Measure</i>. Harvey Miller and Medcalf. p. 13. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-85602-036-0" title="Special:BookSources/978-0-85602-036-0">978-0-85602-036-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetre+per+second&amp;rft.au=Dresner+S.&amp;rft.btitle=Units+of+Measurement%3A+An+Encyclopaedic+Dictionary+of+Units+Both+Scientific+and+Popular+and+the+Quantities+They+Measure&amp;rft.date=1974&amp;rft.genre=book&amp;rft.isbn=978-0-85602-036-0&amp;rft.pages=13&amp;rft.pub=Harvey+Miller+and+Medcalf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Metre_per_second&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.bipm.org/en/si/si_brochure/chapter2/2-1/metre.html" rel="nofollow">Official BIPM definition of the metre</a></li>
+<li><a class="external text" href="http://www.bipm.org/en/si/si_brochure/chapter2/2-1/second.html" rel="nofollow">Official BIPM definition of the second</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:67231-0!*!0!!en!*!* and timestamp 20161031033325 and revision id 743649908
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Metre_per_second&amp;oldid=743649908">https://en.wikipedia.org/w/index.php?title=Metre_per_second&amp;oldid=743649908</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Units_of_velocity" title="Category:Units of velocity">Units of velocity</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

@@ -1,0 +1,197 @@
+quietrevolutionwindturbine
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Quietrevolution_wind_turbine_at_the_London_Olympic_Stadium.jpg"><img alt="" class="thumbimage" data-file-height="1936" data-file-width="2592" height="164" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Quietrevolution_wind_turbine_at_the_London_Olympic_Stadium.jpg/220px-Quietrevolution_wind_turbine_at_the_London_Olympic_Stadium.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Quietrevolution_wind_turbine_at_the_London_Olympic_Stadium.jpg/330px-Quietrevolution_wind_turbine_at_the_London_Olympic_Stadium.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Quietrevolution_wind_turbine_at_the_London_Olympic_Stadium.jpg/440px-Quietrevolution_wind_turbine_at_the_London_Olympic_Stadium.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Quietrevolution_wind_turbine_at_the_London_Olympic_Stadium.jpg" title="Enlarge"></a></div>
+quietrevolution turbine at the <a class="mw-redirect" href="/wiki/London_Olympic_Stadium" title="London Olympic Stadium">London Olympic Stadium</a></div>
+</div>
+</div>
+<p>The <b>quietrevolution</b> is a discontinued brand of (<a class="mw-redirect" href="/wiki/VAWT" title="VAWT">VAWT</a>) vertical axis helical turbine. The helical design is most similar to the <a href="/wiki/Gorlov_helical_turbine" title="Gorlov helical turbine">Gorlov helical turbine</a>. Both are an evolution of the <a href="/wiki/Darrieus_wind_turbine" title="Darrieus wind turbine">Darrieus wind turbine</a>. It has won several awards including the "Sustainable Innovation Award" in 2006.</p>
+<p>The turbine consists of three vertical <a href="/wiki/Airfoil" title="Airfoil">airfoil</a> blades, each having a <a href="/wiki/Helix" title="Helix">helical</a> twist of 120 degrees. This feature spreads the <a href="/wiki/Torque" title="Torque">torque</a> evenly over the entire revolution, thus preventing the destructive pulsations of the straight-bladed giromill (Darrieus turbine). The wind pushes each blade around on both the windward and <a class="mw-redirect" href="/wiki/Leeward" title="Leeward">leeward</a> sides of the turbine.</p>
+<p>The qr5 turbine, rated for 6 kW, measures 3.0m in diameter by 5m high.</p>
+<p>Poor performance of a QR5 installed at Welsh government offices in <a href="/wiki/Aberystwyth" title="Aberystwyth">Aberystwyth</a> has been blamed on poor siting.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> The turbine's overall cost was given as £48,000 and in 2012 it generated an average of 33 <a class="mw-redirect" href="/wiki/KWh" title="KWh">kWh</a> per month, a value of £5.28 per month.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quietrevolution_wind_turbine&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Crystal_energy.svg"><img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/List_of_wind_turbine_manufacturers" title="List of wind turbine manufacturers">List of wind turbine manufacturers</a></li>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a class="mw-redirect" href="/wiki/Betz%27_law" title="Betz' law">Betz' law</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quietrevolution_wind_turbine&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news">Paul Martin (7 November 2013). <a class="external text" href="http://www.bbc.co.uk/news/uk-wales-24844182" rel="nofollow">"Welsh government's £48k wind turbine creates £5 of power a month"</a>. <i><a class="mw-redirect" href="/wiki/BBC_News_online" title="BBC News online">BBC News online</a></i>. <q>A wind turbine that cost the Welsh government £48,000 to buy has been generating an average of just £5 worth of electricity per month.</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuietrevolution+wind+turbine&amp;rft.atitle=Welsh+government%27s+%A348k+wind+turbine+creates+%A35+of+power+a+month&amp;rft.au=Paul+Martin&amp;rft.date=2013-11-07&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fuk-wales-24844182&amp;rft.jtitle=BBC+News+online&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quietrevolution_wind_turbine&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a class="image" href="/wiki/File:Commons-logo.svg"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Quietrevolution_qr5" title="commons:Category:Quietrevolution qr5">Quietrevolution qr5</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.quietrevolution.co.uk/" rel="nofollow">Quietrevolution</a></li>
+<li><a class="external text" href="http://www.wind-works.org/cms/index.php?id=64&amp;tx_ttnews%5Btt_news%5D=3103&amp;cHash=be80a2ca690fe1bcec1c0dc0af1e795b" rel="nofollow">Quiet Revolution Goes Quiet: Maker of QR5 VAWT Files for Bankruptcy</a></li>
+<li><a class="external text" href="http://www.thegazette.co.uk/notice/2113192" rel="nofollow">Quiet Revolution Ltd | Appointment of Liquidators | The Gazette</a></li>
+</ul>
+<div aria-labelledby="Wind_power" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Wind_power" title="Template:Wind power"><abbr style=";;background:none transparent;border:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Wind_power" title="Template talk:Wind power"><abbr style=";;background:none transparent;border:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wind_power&amp;action=edit"><abbr style=";;background:none transparent;border:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Wind_power" style="font-size:114%"><a href="/wiki/Wind_power" title="Wind power">Wind power</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Category:Wind_power" title="Category:Wind power">Wind power</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Environmental_impact_of_wind_power" title="Environmental impact of wind power">Environmental impact</a></li>
+<li><a href="/wiki/High-altitude_wind_power" title="High-altitude wind power">High-altitude</a></li>
+<li><a href="/wiki/History_of_wind_power" title="History of wind power">History</a></li>
+<li><a class="mw-redirect" href="/wiki/Wind-powered_land_vehicle" title="Wind-powered land vehicle">Land vehicles</a></li>
+<li><a href="/wiki/Offshore_wind_power" title="Offshore wind power">Offshore</a></li>
+<li><a href="/wiki/Wind_turbine" title="Wind turbine">Turbines</a>
+<ul>
+<li><a href="/wiki/Wind_turbines_on_public_display" title="Wind turbines on public display">on public display</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Windmill" title="Windmill">Windmill</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Wind-turbine-icon.svg" title="Illustration of a wind turbine"><img alt="Illustration of a wind turbine" data-file-height="128" data-file-width="128" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/100px-Wind-turbine-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/150px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/200px-Wind-turbine-icon.svg.png 2x" width="100"/></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Category:Wind_turbines" title="Category:Wind turbines">Wind turbines</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wind-turbine_aerodynamics" title="Wind-turbine aerodynamics">Aerodynamics</a></li>
+<li><a href="/wiki/Airborne_wind_turbine" title="Airborne wind turbine">Airborne</a></li>
+<li><a href="/wiki/Crosswind_kite_power" title="Crosswind kite power">Crosswind kite</a></li>
+<li><a href="/wiki/Darrieus_wind_turbine" title="Darrieus wind turbine">Darrieus</a></li>
+<li><a href="/wiki/Wind_turbine_design" title="Wind turbine design">Design</a></li>
+<li><a href="/wiki/Floating_wind_turbine" title="Floating wind turbine">Floating</a></li>
+<li><a href="/wiki/Savonius_wind_turbine" title="Savonius wind turbine">Savonius</a></li>
+<li><a href="/wiki/Small_wind_turbine" title="Small wind turbine">Small</a></li>
+<li><a href="/wiki/Unconventional_wind_turbines" title="Unconventional wind turbines">Unconventional</a></li>
+<li><a href="/wiki/Vertical_axis_wind_turbine" title="Vertical axis wind turbine">Vertical axis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Wind_power_industry" title="Wind power industry">Wind power industry</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_wind_power_consulting_companies" title="List of wind power consulting companies">Consulting companies</a></li>
+<li><a href="/wiki/Wind_farm_management" title="Wind farm management">Farm management</a></li>
+<li><a href="/wiki/List_of_wind_turbine_manufacturers" title="List of wind turbine manufacturers">Manufacturers</a></li>
+<li><a href="/wiki/Wind_energy_software" title="Wind energy software">Software</a></li>
+<li><a href="/wiki/Windmade" title="Windmade">Windmade</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Wind_farm" title="Wind farm">Wind farms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Community_wind_energy" title="Community wind energy">Community-owned</a></li>
+<li><a href="/wiki/Lists_of_wind_farms_by_country" title="Lists of wind farms by country">Farms by country</a></li>
+<li><a href="/wiki/List_of_offshore_wind_farms" title="List of offshore wind farms">Offshore farms</a>
+<ul>
+<li><a href="/wiki/Lists_of_offshore_wind_farms_by_country" title="Lists of offshore wind farms by country">by country</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_onshore_wind_farms" title="List of onshore wind farms">Onshore farms</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Betz%27s_law" title="Betz's law">Betz's law</a></li>
+<li><a href="/wiki/Capacity_factor" title="Capacity factor">Capacity factor</a></li>
+<li><a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">EROEI</a></li>
+<li><a href="/wiki/Wind_power_forecasting" title="Wind power forecasting">Forecasting</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid energy storage</a></li>
+<li><a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">HVDC</a></li>
+<li><a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">Intermittency</a></li>
+<li><a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">Variability</a></li>
+<li><a href="/wiki/Laddermill" title="Laddermill">Laddermill</a></li>
+<li><a href="/wiki/Net_energy_gain" title="Net energy gain">Net energy gain</a></li>
+<li><a href="/wiki/Wind_resource_assessment" title="Wind resource assessment">Resource assessment</a></li>
+<li><a href="/wiki/Energy_storage" title="Energy storage">Storage</a></li>
+<li><a href="/wiki/Energy_subsidies" title="Energy subsidies">Subsidies</a></li>
+<li><a href="/wiki/Virtual_power_plant" title="Virtual power plant">Virtual power plant</a></li>
+<li><a href="/wiki/Wind_hybrid_power_systems" title="Wind hybrid power systems">Wind hybrid power systems</a></li>
+<li><a href="/wiki/Wind_profile_power_law" title="Wind profile power law">Wind profile power law</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a class="image" href="/wiki/File:Micon-Turbine.JPG"><img alt="Stub icon" data-file-height="1200" data-file-width="1600" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Micon-Turbine.JPG/40px-Micon-Turbine.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Micon-Turbine.JPG/60px-Micon-Turbine.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Micon-Turbine.JPG/80px-Micon-Turbine.JPG 2x" width="40"/></a></td>
+<td><i>This article about <a href="/wiki/Wind_power" title="Wind power">wind power</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Quietrevolution_wind_turbine&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Windpower-stub" title="Template:Windpower-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Windpower-stub" title="Template talk:Windpower-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Windpower-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:9712159-0!*!0!!*!4!* and timestamp 20161030164647 and revision id 746961968
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Quietrevolution_wind_turbine&amp;oldid=746961968">https://en.wikipedia.org/w/index.php?title=Quietrevolution_wind_turbine&amp;oldid=746961968</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Vertical_axis_wind_turbines" title="Category:Vertical axis wind turbines">Vertical axis wind turbines</a></li><li><a href="/wiki/Category:Wind_turbines" title="Category:Wind turbines">Wind turbines</a></li><li><a href="/wiki/Category:Companies_based_in_Cambridgeshire" title="Category:Companies based in Cambridgeshire">Companies based in Cambridgeshire</a></li><li><a href="/wiki/Category:British_brands" title="Category:British brands">British brands</a></li><li><a href="/wiki/Category:Renewable_energy_stubs" title="Category:Renewable energy stubs">Renewable energy stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

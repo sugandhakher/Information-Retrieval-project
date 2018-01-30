@@ -1,0 +1,142 @@
+vincenzobalzani
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Vincenzo Balzani</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a class="image" href="/wiki/File:Vincenzo_Balzani_chemist.jpg"><img alt="Vincenzo Balzani chemist.jpg" data-file-height="800" data-file-width="1200" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Vincenzo_Balzani_chemist.jpg/180px-Vincenzo_Balzani_chemist.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Vincenzo_Balzani_chemist.jpg/270px-Vincenzo_Balzani_chemist.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Vincenzo_Balzani_chemist.jpg/360px-Vincenzo_Balzani_chemist.jpg 2x" width="180"/></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1936-11-15</span>)</span> 15 November 1936 <span class="noprint ForceAgeToShow">(age 79)</span><br/>
+<a href="/wiki/Forlimpopoli" title="Forlimpopoli">Forlimpopoli</a>, <a href="/wiki/Italy" title="Italy">Italy</a></td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td>Italian</td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Photochemistry" title="Photochemistry">Photochemistry</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/University_of_Bologna" title="University of Bologna">University of Bologna</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/University_of_Bologna" title="University of Bologna">University of Bologna</a></td>
+</tr>
+</table>
+<p><b>Vincenzo Balzani</b> (born 15 November 1936 in <a href="/wiki/Forlimpopoli" title="Forlimpopoli">Forlimpopoli</a>, Italy) is an Italian <a href="/wiki/Chemist" title="Chemist">chemist</a>, now <a href="/wiki/Emeritus" title="Emeritus">emeritus</a> professor at the <a href="/wiki/University_of_Bologna" title="University of Bologna">University of Bologna</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Career"><span class="tocnumber">1</span> <span class="toctext">Career</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Teaching_activity"><span class="tocnumber">2</span> <span class="toctext">Teaching activity</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Public_education_activity"><span class="tocnumber">3</span> <span class="toctext">Public education activity</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Other_activities"><span class="tocnumber">4</span> <span class="toctext">Other activities</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Associations_and_academies"><span class="tocnumber">5</span> <span class="toctext">Associations and academies</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Honors_and_awards"><span class="tocnumber">6</span> <span class="toctext">Honors and awards</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Publications"><span class="tocnumber">7</span> <span class="toctext">Publications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Books"><span class="tocnumber">7.1</span> <span class="toctext">Books</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Important_papers_in_scientific_journals"><span class="tocnumber">7.2</span> <span class="toctext">Important papers in scientific journals</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vincenzo_Balzani&amp;action=edit&amp;section=1" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He has spent most of his professional life at the “Giacomo Ciamician” Department of Chemistry of the <a href="/wiki/University_of_Bologna" title="University of Bologna">University of Bologna</a>, becoming full professor in 1973. He has been visiting professor at several universities. He was the director of the Photochemistry and Radiation Chemistry Institute of the National Research Council from 1977 to 1988. He has been appointed emeritus professor on November 1, 2010.</p>
+<p>His research interests cover a wide range of topics: <a href="/wiki/Photochemistry" title="Photochemistry">photochemistry</a>, photophysics, <a href="/wiki/Supramolecular_chemistry" title="Supramolecular chemistry">supramolecular chemistry</a>, <a href="/wiki/Electron_transfer" title="Electron transfer">electron transfer</a> reactions, molecular-level devices and machines, <a href="/wiki/Nanotechnology" title="Nanotechnology">nanotechnology</a>, photochemical <a href="/wiki/Solar_energy" title="Solar energy">solar energy</a> conversion. His scientific activity is documented by more than 600 papers, mostly published on qualified journals. He has been invited to give lectures at a great number of national and international meetings, and seminars at many Universities and Research Centers around the world. For several years he has been one of the 100 most cited chemists of the world, with <a href="/wiki/H-index" title="H-index">H index</a> 101.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="Teaching_activity">Teaching activity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vincenzo_Balzani&amp;action=edit&amp;section=2" title="Edit section: Teaching activity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He taught courses on General and Inorganic Chemistry, <a href="/wiki/Photochemistry" title="Photochemistry">Photochemistry</a>, <a href="/wiki/Supramolecular_chemistry" title="Supramolecular chemistry">Supramolecular chemistry</a>. He was chairman of the PhD course on Chemical Sciences from 2002 to 2007 and of the “laurea specialistica” in Photochemistry and Material Chemistry from 2004 to 2007. In the Academic Year 2008-2009 he founded at the University of Bologna an interdisciplinary course on Science and Society.</p>
+<h2><span class="mw-headline" id="Public_education_activity">Public education activity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vincenzo_Balzani&amp;action=edit&amp;section=3" title="Edit section: Public education activity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He believes that scientists have a great responsibility that comes from knowledge, so that it is their duty to educate citizens and help decision makers to find solution for mankind's problems. Therefore, he places side by side scientific research and education on various themes including chemistry, science and society, science and peace, and particularly the energy problem. His book <i>Energia per l’Astronave Terra</i> (Zanichelli, 2008, with N. Armaroli) received the 2009 Galileo prize for scientific education. In 2011 he has received the Città di Sasso Marconi prize for public education on the theme of energy.</p>
+<h2><span class="mw-headline" id="Other_activities">Other activities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vincenzo_Balzani&amp;action=edit&amp;section=4" title="Edit section: Other activities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He was chairman of the Gruppo Italiano di Fotochimica (1982–1986) and European Photochemistry Association (1988–92). He is honorary chairman of the International Symposium on "Photochemistry and Photophysics of Coordination Compounds". He is a member of the Editorial Board of several international journals (currently: <a href="/wiki/Chemistry:_A_European_Journal" title="Chemistry: A European Journal">Chemistry: A European Journal</a>, <a href="/wiki/ChemPhysChem" title="ChemPhysChem">ChemPhysChem</a>, <a href="/wiki/Small_(journal)" title="Small (journal)">Small</a> and ChemSusChem).</p>
+<h2><span class="mw-headline" id="Associations_and_academies">Associations and academies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vincenzo_Balzani&amp;action=edit&amp;section=5" title="Edit section: Associations and academies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He is a member of: <a href="/wiki/American_Association_for_the_Advancement_of_Science" title="American Association for the Advancement of Science">American Association for the Advancement of Science</a>; <a href="/wiki/Royal_Society_of_Chemistry" title="Royal Society of Chemistry">Royal Society of Chemistry</a>; <a href="/wiki/European_Academy_of_Sciences" title="European Academy of Sciences">European Academy of Sciences</a>; <a href="/wiki/Academia_Europaea" title="Academia Europaea">Academia Europaea</a>; <a class="mw-redirect" href="/wiki/Accademia_Nazionale_dei_Lincei" title="Accademia Nazionale dei Lincei">Accademia Nazionale dei Lincei</a>; <a class="mw-redirect" href="/wiki/Accademia_Nazionale_delle_Scienze_detta_dei_XL" title="Accademia Nazionale delle Scienze detta dei XL">Accademia Nazionale delle Scienze detta dei XL</a>; Accademia delle Scienze di Torino; Società Nazionale di Scienze, Lettere ed Arti in Napoli; Accademia delle Scienze di Bologna.</p>
+<h2><span class="mw-headline" id="Honors_and_awards">Honors and awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vincenzo_Balzani&amp;action=edit&amp;section=6" title="Edit section: Honors and awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Pacific West Coast Inorganic Lectureship, USA and Canada, 1985; Gold Medal "S. Cannizzaro", Italian Chemical Society, 1988; Doctorate "Honoris Causa", University of Fribourg (CH), 1989; Accademia dei Lincei Award in Chemistry, Italy, 1992; Ziegler-Natta Lecturer, Gesellschaft Deutscher Chemiker, Germany, 1994; Italgas European Prize for Research and Innovation, 1994; Centenary Lecturer, The Royal Chemical Society (U.K.), 1995; Porter Medal for Photochemistry, 2000; Prix Franco-Italien de la Société Française de Chimie, 2002; Grande Ufficiale dell’Ordine al Merito della Repubblica Italiana, 2006; Quilico Gold Metal, Organic Division, Italian Chemical Society, 2008; Honor Professor, East China University of Science and Technology of Shanghai, 2009; Blaise Pascal Medal, European Academy of Sciences, 2009; Rotary Club Galileo International Prize for scientific research, 2011; Nature Award for Mentoring in Science, 2013.</p>
+<h2><span class="mw-headline" id="Publications">Publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vincenzo_Balzani&amp;action=edit&amp;section=7" title="Edit section: Publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Books">Books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vincenzo_Balzani&amp;action=edit&amp;section=8" title="Edit section: Books">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i>Photochemistry of Coordination Compounds</i>, Academic Press, London, 1970 (with V. Carassiti).</li>
+<li><i>Supramolecular Photochemistry</i>, Horwood, Chichester, 1991 (with F. Scandola).</li>
+<li><i>Molecular Devices and Machines. A Journey into the Nano World</i>, Wiley-VCH, Weinheim, 2003 (with A. Credi and M. Venturi), translated in Chinese and Japanese.</li>
+<li><i>Molecular Devices and Machines. Concepts and Perspectives for the Nanoworld</i>, VCH-Wiley, Weinheim, 2008 (with A. Credi and M. Venturi), translated in Chinese.</li>
+<li><i>Energy for a Sustainable World – From the Oil Age to a Sun-Powered Future</i>, Wiley-VCH, 2011 (with <a href="/wiki/Nicola_Armaroli" title="Nicola Armaroli">Nicola Armaroli</a>).</li>
+<li><i>Powering Planet Earth – Energy Solutions for the Future</i>, Wiley-VCH, 2013 (with Nicola Armaroli and Nick Serpone).</li>
+<li><i>Photochemistry and Photophysics - Concepts, Research, Applications</i>, Wiley-VCH, 2014 (with Paola Ceroni and Alberto Juris).</li>
+<li><i>Reading and Writing the Book of Nature</i>, Royal Society of Chemistry, 2015 (with Margherita Venturi).</li>
+</ul>
+<h3><span class="mw-headline" id="Important_papers_in_scientific_journals">Important papers in scientific journals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vincenzo_Balzani&amp;action=edit&amp;section=9" title="Edit section: Important papers in scientific journals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Nicola Armaroli, Vincenzo Balzani: <i>Solar Electricity and Solar Fuels: Status and Perspectives in the Context of the Energy Transition</i>. In: <i><a class="mw-redirect" href="/wiki/Chemistry_%E2%80%93_A_European_Journal" title="Chemistry – A European Journal">Chemistry – A European Journal</a></i> (2015), <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1002%2Fchem.201503580" rel="nofollow">10.1002/chem.201503580</a>.</li>
+<li>Nicola Armaroli, Vincenzo Balzani, <i>Towards an electricity-powered world</i>. In: <a href="/wiki/Energy_and_Environmental_Science" title="Energy and Environmental Science">Energy and Environmental Science</a> 4, (2011), 3193-3222, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1039%2Fc1ee01249e" rel="nofollow">10.1039/c1ee01249e</a>.</li>
+<li>Nicola Armaroli, Vincenzo Balzani, <i>The Hydrogen Issue</i>. In: <i><a href="/wiki/ChemSusChem" title="ChemSusChem">ChemSusChem</a></i> 4, Issue 1, (2011), 21-36, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1002%2Fcssc.201000182" rel="nofollow">10.1002/cssc.201000182</a>.</li>
+<li>Vincenzo Balzani et al., <i>Photochemical Conversion of Solar Energy</i>. In: <i><a href="/wiki/ChemSusChem" title="ChemSusChem">ChemSusChem</a></i> 1, Issue 1-2, (2008), 26-58, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1002%2Fcssc.200700087" rel="nofollow">10.1002/cssc.200700087</a>.</li>
+<li>Nicola Armaroli, Vincenzo Balzani, <i>The Future of Energy Supply: Challenges and Opportunities</i>. In: <i><a href="/wiki/Angewandte_Chemie" title="Angewandte Chemie">Angewandte Chemie</a></i> 46, (2007), 52–66, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1002%2Fanie.200602373" rel="nofollow">10.1002/anie.200602373</a>.</li>
+<li>Vincenzo Balzani et al., <i>Artificial Molecular Machines</i>. In: <i><a href="/wiki/Angewandte_Chemie" title="Angewandte Chemie">Angewandte Chemie</a></i> 39, (2000), 3348-3391, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1002%2F1521-3773%2820001002%2939%3A19%3C3348%3A%3AAID-ANIE3348%3E3.0.CO%3B2-X" rel="nofollow">10.1002/1521-3773(20001002)39:19&lt;3348::AID-ANIE3348&gt;3.0.CO;2-X</a>.</li>
+<li>Jovica D. Badjić et al., <i>A Molecular Elevator</i>. In: <i><a href="/wiki/Science" title="Science">Science</a></i> 303, No. 5665, (2004), 1845-1849, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1126%2Fscience.1094791" rel="nofollow">10.1126/science.1094791</a>.</li>
+<li>Vincenzo Balzani et al., <i>Molecular Machines</i>. In: <i><a href="/wiki/Accounts_of_Chemical_Research" title="Accounts of Chemical Research">Accounts of Chemical Research</a></i> 31, Issue 7, (1998), 405–414, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1021%2Far970340y" rel="nofollow">10.1021/ar970340y</a>.</li>
+<li>Vincenzo Balzani et al., <i>Designing Dendrimers Based on Transition-Metal Complexes. Light-Harvesting Properties and Predetermined Redox Patterns</i>. In: <i><a href="/wiki/Accounts_of_Chemical_Research" title="Accounts of Chemical Research">Accounts of Chemical Research</a></i> 31, Issue 1, (1998), 26–34, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1021%2Far950202d" rel="nofollow">10.1021/ar950202d</a>.</li>
+<li>Vincenzo Balzani et al., <i>Luminescent and Redox-Active Polynuclear Transition Metal Complexes</i>. In: <i><a href="/wiki/Chemical_Reviews" title="Chemical Reviews">Chemical Reviews</a></i> 96, Issue 2, (1996), 759–834, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1021%2Fcr941154y" rel="nofollow">10.1021/cr941154y</a>.</li>
+<li><a href="/wiki/Jean-Pierre_Sauvage" title="Jean-Pierre Sauvage">Jean-Pierre Sauvage</a> et al., <i>Ruthenium(II) and Osmium(II) Bis(terpyridine) Complexes in Covalently-Linked Multicomponent Systems: Synthesis, Electrochemical Behavior, Absorption Spectra, and Photochemical and Photophysical Properties</i>. In: <i><a href="/wiki/Chemical_Reviews" title="Chemical Reviews">Chemical Reviews</a></i> 94, Issue 4, (1994), 993–1019, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1021%2Fcr00028a006" rel="nofollow">10.1021/cr00028a006</a>.</li>
+<li>Pier Lucio Anelli, <i>Molecular meccano. 1. [2]Rotaxanes and a [2]catenane made to order</i>. In: <i><a href="/wiki/Journal_of_the_American_Chemical_Society" title="Journal of the American Chemical Society">Journal of the American Chemical Society</a></i> 114, Issue 1, (1992), 193–218, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1021%2Fja00027a027" rel="nofollow">10.1021/ja00027a027</a>.</li>
+<li>Vincenzo Balzani, <i>Supramolecular photochemistry</i>. In: <i><a href="/wiki/Pure_and_Applied_Chemistry" title="Pure and Applied Chemistry">Pure and Applied Chemistry</a></i> 62, Issue 6, (1990), 1099–1102, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1351%2Fpac199062061099" rel="nofollow">10.1351/pac199062061099</a>.</li>
+<li>Alberto Juris et al., <i>Ru(II) polypyridine complexes: photophysics, photochemistry, eletrochemistry, and chemiluminescence</i>. In: <i>Coordination Chemistry Reviews</i> 84, (1988), 85–277, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1016%2F0010-8545%2888%2980032-8" rel="nofollow">10.1016/0010-8545(88)80032-8</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vincenzo_Balzani&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.topitalianscientists.org/Top_italian_scientists_VIA-Academy.aspx" rel="nofollow">Top Italian Scientists della VIA-Academy</a>. Retrieved 6. September 2015.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vincenzo_Balzani&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.unibo.it/SitoWebDocente/default.htm?UPN=vincenzo.balzani%40unibo.it" rel="nofollow">Homepage</a> at the <a href="/wiki/University_of_Bologna" title="University of Bologna">University of Bologna</a>. Accessed 2011-07-19.</li>
+<li><a class="external text" href="http://www.ae-info.org/attach/User/Balzani_Vincenzo/balzani_vincenzo_cv.pdf" rel="nofollow">CV</a>, Accessed 2015-09-06.</li>
+<li><a class="external text" href="http://www.ae-info.org/attach/User/Balzani_Vincenzo/balzani_vincenzo_publications.pdf" rel="nofollow">List of publications</a>, Accessed 2015-09-06.</li>
+</ul>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a class="external text" href="//www.worldcat.org/identities/containsVIAFID/109274413" rel="nofollow">WorldCat Identities</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a class="external text" href="https://viaf.org/viaf/109274413" rel="nofollow">109274413</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a class="external text" href="http://id.loc.gov/authorities/names/n87932475" rel="nofollow">n87932475</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a class="external text" href="http://isni.org/isni/0000000121473024" rel="nofollow">0000 0001 2147 3024</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="http://d-nb.info/gnd/10907811X" rel="nofollow">10907811X</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a class="external text" href="http://www.idref.fr/032280491" rel="nofollow">032280491</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb123340503" rel="nofollow">cb123340503</a> <a class="external text" href="http://data.bnf.fr/ark:/12148/cb123340503" rel="nofollow">(data)</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="http://id.ndl.go.jp/auth/ndlna/01064082" rel="nofollow">01064082</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Istituto_Centrale_per_il_Catalogo_Unico" title="Istituto Centrale per il Catalogo Unico">ICCU</a>: <span class="uid"><a class="external text" href="http://opac.sbn.it/opacsbn/opac/iccu/scheda_authority.jsp?bid=IT\ICCU\MILV\045887" rel="nofollow">IT\ICCU\MILV\045887</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:30627411-0!*!0!!en!4!* and timestamp 20161110140335 and revision id 738965335
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Vincenzo_Balzani&amp;oldid=738965335">https://en.wikipedia.org/w/index.php?title=Vincenzo_Balzani&amp;oldid=738965335</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1936_births" title="Category:1936 births">1936 births</a></li><li><a href="/wiki/Category:Italian_chemists" title="Category:Italian chemists">Italian chemists</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:University_of_Bologna_faculty" title="Category:University of Bologna faculty">University of Bologna faculty</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SBN_identifiers" title="Category:Wikipedia articles with SBN identifiers">Wikipedia articles with SBN identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

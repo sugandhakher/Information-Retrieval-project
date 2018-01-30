@@ -1,0 +1,167 @@
+industrialecology
+from wikipedia  the free encyclopedia
+jump to 					 
+industrial ecology  ie  is the study of
+and
+through industrial systems  the
+can be modelled as a network of industrial processes that extract resources from the
+and transform those resources into
+which can be bought and sold to meet the needs of humanity  industrial ecology seeks to quantify the material flows and document the industrial processes that make modern society function  industrial ecologists are often concerned with the impacts that industrial activities have on the   with use of the planet s supply of   and with problems of   industrial ecology is a young but growing multidisciplinary field of research which combines aspects of      
+and the  
+industrial ecology has been defined as a  systems-based  multidisciplinary discourse that seeks to understand emergent behaviour of complex integrated human natural systems   the field approaches issues of
+by examining problems from multiple perspectives  usually involving aspects of sociology  the  
+and   the name comes from the idea that the analogy of natural systems should be used as an aid in understanding how to design sustainable industrial systems 
+contents
+overview  
+example of   waste steam from a
+ right  is piped to an
+ left  where it is used as in input to their production process 
+industrial ecology is concerned with the shifting of industrial process from linear  open loop  systems  in which resource and capital investments move through the system to become waste  to a closed loop system where wastes can become inputs for new processes 
+much of the research focuses on the following areas 
+and energy flow studies     
+and
+technological change and the environment
+product-oriented environmental policy
+industrial ecology seeks to understand the way in which industrial systems  for example a factory  an   or national or global economy  interact with the   natural ecosystems provide a metaphor for understanding how different parts of industrial systems interact with one another  in an  ecosystem  based on resources and
+rather than on   it seeks to exploit the idea that natural systems do not have waste in them to inspire  
+along with more general
+and material conservation goals  and redefining
+and
+relations strictly as a   industrial ecology is one of the four objectives of   this strategy discourages forms of amoral purchasing arising from ignorance of what goes on at a distance and implies a
+that values
+highly and relies on more
+to design and maintain each unique industrial ecology 
+history  
+view of
+main article 
+industrial ecology was popularized in 1989 in a
+article by
+and nicholas e  gallopoulos  frosch and gallopoulos  vision was  why would not our industrial system behave like an   where the wastes of a species may be
+to another species  why would not the outputs of an industry be the inputs of another  thus reducing use of     and saving on
+treatment   a notable example resides in a danish industrial park in the city of   here several linkages of
+and
+can be found between numerous entities such as a large power plant  an oil refinery  a pharmaceutical plant  a plasterboard factory  an enzyme manufacturer  a waste company and the city itself 
+the scientific field industrial ecology has grown quickly in recent years  the journal of industrial ecology  since 1997   the
+ since 2001   and the journal progress in industrial ecology  since 2004  give industrial ecology a strong and dynamic position in the international scientific community  industrial ecology principles are also emerging in various policy realms such as the concept of the
+that is being promoted in china  although the definition of the circular economy has yet to be formalized  generally the focus is on strategies such as creating a circular flow of materials  and cascading energy flows  an example of this would be using waste heat from one process to run another process that requires a lower temperature  the hope is that strategy such as this will create a more efficient economy with fewer pollutants and other unwanted by-products 
+principles  
+one of the central principles of industrial ecology is the view that societal and technological systems are bounded within the   and do not exist outside of it 
+is used as a metaphor due to the observation that natural systems reuse materials and have a largely closed loop cycling of nutrients  industrial ecology approaches problems with the hypothesis that by using similar principles as natural systems  industrial systems can be improved to reduce their impact on the natural environment as well  the table shows the general metaphor 
+biosphere
+environment
+organism
+natural product
+ecosystem
+ 
+and
+market
+company
+industrial product
+eco-industrial park
+ 
+the
+industrial park is located in denmark  this industrial park is special because companies reuse each other s waste  which then becomes by-products   for example  the energy e2
+produces
+as a by-product of the electricity generation process  this gypsum becomes a resource for the bpb gyproc a s which produces plasterboards  this is one example of a system inspired by the biosphere-technosphere metaphor  in ecosystems  the waste from one organism is used as inputs to other organisms  in industrial systems  waste from a company is used as a resource by others 
+apart from the direct benefit of incorporating waste into the loop  the use of an eco-industrial park can be a means of making renewable energy generating plants  like   more economical and environmentally friendly  in essence  this assists the growth of the renewable energy industry and the environmental benefits that come with replacing fossil-fuels 
+ie examines societal issues and their relationship with both technical systems and the environment  through this
+view   ie recognizes that solving problems must involve understanding the connections that exist between these systems  various aspects cannot be viewed in isolation  often changes in one part of the overall
+can propagate and cause changes in another part  thus  you can only understand a problem if you look at its parts in relation to the whole  based on this framework  ie looks at environmental issues with a
+approach 
+take a city for instance  a city can be divided into commercial areas  residential areas  offices  services  infrastructures  and so forth  these are all sub-systems of the  big city system  problems can emerge in one sub-system  but the solution has to be global  lets say the price of housing is rising dramatically because there is too high a demand for housing  one solution would be to build new houses  but this will lead to more people living in the city  leading to the need for more infrastructure like roads  schools  more supermarkets  etc  this system is a simplified interpretation of reality whose behaviors can be predicted 
+in many cases  the systems ie deals with are complex systems 
+makes it difficult to understand the behavior of the system and may lead to rebound effects  due to unforeseen behavioral change of users or consumers  a measure taken to improve environmental performance does not lead to any improvement or may even worsen the situation 
+moreover  life cycle thinking is also a very important principle in industrial ecology  it implies that all environmental impacts caused by a product  system  or project during its life cycle are taken into account  in this context life cycle includes
+extraction
+material processing
+manufacture
+use
+maintenance
+disposal
+the transport necessary between these stages is also taken into account as well as  if relevant  extra stages such as     and   adopting a life cycle approach is essential to avoid shifting environmental impacts from one life cycle stage to another  this is commonly referred to as problem shifting  for instance  during the re-design of a product  one can choose to reduce its weight  thereby decreasing use of resources  however  it is possible that the lighter materials used in the new product will be more difficult to dispose of  the environmental impacts of the product gained during the extraction phase are shifted to the disposal phase  overall environmental improvements are thus null 
+a final and important principle of ie is its integrated approach or   ie takes into account three different disciplines  social sciences  including economics   technical sciences and environmental sciences  the challenge is to merge them into a single approach 
+tools  
+people
+planet
+profit
+modeling
+strength weakness opportunities threats analysis   
+ ems 
+ icm 
+ eia 
+ ioa 
+ lca 
+ mfa 
+ sfa 
+ cba 
+ fca 
+ lcc 
+stock and flow analysis
+future directions  
+the
+metaphor popularized by
+and gallopoulos has been a valuable creative tool for helping researchers look for novel solutions to difficult problems  recently  it has been pointed out that this metaphor is based largely on a model of classical ecology  and that advancements in understanding ecology based on
+have been made by researchers such as     and further advanced in terms of contemporary ecology by others  for industrial ecology  this may mean a shift from a more mechanistic view of systems  to one where
+is viewed as an
+property of a complex system  to explore this further  several researchers are working with
+ 
+analysis is performed in the field of industrial ecology to use energy more efficiently  the term exergy was coined by
+in 1956  but the concept was developed by   in recent decades  utilization of exergy has spread outside of physics and engineering to the fields of industrial ecology      and  
+see also  
+references  
+ 2006  
+ pdf   progress in industrial ecology  inderscience enterprises ltd  3  1/2   2840    
+ 
+frosch  r a   gallopoulos  n e   1989    strategies for manufacturing   scientific american  261  3   144152    
+  retrieved january 8  2009 
+ 
+  retrieved 2007  check date values in   access-date    
+yuan  z   bi  j   moriguichi  y   the circular economy  a new development strategy in china   journal of industrial ecology  10  12   48    
+pearce  j  m   2008    industrial symbiosis for very large scale photovoltaic manufacturing   renewable energy  33  5   11011108    
+ 2002   kibert  c   sendzimir  j   guy  b   eds 
+ pdf   construction ecology  nature as the basis for green buildings  spon press  72107
+levine  s  h   2003     journal of industrial ecology 7 2   33-42 
+nielsen  sren nors  2007    what has modern ecosystem theory to offer to cleaner production  industrial ecology and society  the views of an ecologist   journal of cleaner production  15  17   16391653    
+ashton  w  s   2009     journal of industrial ecology 13 2   228 
+jensen  p  d   2011     journal of industrial ecology 15 5  680-692 
+ehrenfeld  john  2004    can industrial ecology be the science of sustainability    journal of industrial ecology  8  12   13    
+ehrenfeld  john  2007    would industrial ecology exist without sustainability in the background    journal of industrial ecology  11  1  
+axtell  r l   andrews  c j   small  m j   2002    agent-based modeling and industrial ecology   journal of industrial ecology  5  4   1013    
+kraines  s   wallace  d   2006    applying agent-based simulation in industrial ecology   journal of industrial ecology  10  12   1518    
+wall  gran 
+further reading  
+the industrial green game  implications for environmental design and management  deanna j richards  ed     washington dc  usa  1997 
+ handbook of input-output economics in industrial ecology   sangwon suh  ed   springer  2009 
+boons  frank  2012     econ journal watch  9  2   100-111 
+desrochers  pierre  2012     econ journal watch  9  2   78-99 
+external links  
+articles and books
+ 
+the school of forestry and environmental studies  
+education
+industrial ecology
+tools
+concepts
+related fields
+
+systems
+types
+systems    
+categories
+technology
+energy
+food
+water
+accountability
+applications
+management
+agreements
+ rio 10  johannesburg 
+ rio 20  2012 
+apparatus
+countries
+concepts
+industrial ecology
+see also
+retrieved from   
+  hidden categories 

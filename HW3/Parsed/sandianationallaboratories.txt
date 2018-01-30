@@ -1,0 +1,188 @@
+sandianationallaboratories
+from wikipedia  the free encyclopedia
+jump to 					 
+sandia national laboratories
+established
+1948
+researchtype
+national security  nuclear science
+budget
+2.4 billion
+director
+jill m  hruby
+staff
+8,400
+location
+   
+campus
+8,699 acres  35.20km2 
+operating agency
+sandia corporation  a
+company
+website
+the sandia national laboratories  managed and operated by the sandia corporation  a wholly owned subsidiary of    are two major
+research and development  
+their primary mission is to develop  engineer  and test the non-nuclear components of   the primary campus is located on
+in
+and the other is in   next to   sandia is a
+laboratory 
+it is sandia s mission to maintain the reliability and surety of nuclear weapon systems  conduct research and development in
+and
+technologies  and investigate methods for the disposal of the united states  nuclear weapons program s   other missions include research and development in energy and environmental programs  as well as the surety of critical national infrastructures  in addition  sandia is home to a wide variety of research including  
+ through its computer science research institute           and
+initiatives  sandia formerly hosted   one of the world s fastest
+until its recent decommission  and now hosts   originally known as thor s hammer  sandia is also home to the   the z machine is the largest
+generator in the world and is designed to test materials in conditions of extreme
+and   it is operated by sandia national laboratories to gather data to aid in computer modeling of nuclear weapons 
+contents
+lab history  
+one of sandia s first permanent buildings  building 800  was completed in 1949
+sandia national laboratories  roots go back to
+and the   prior to the united states formally entering the war  the
+leased land near an albuquerque  new mexico airport known as oxnard field  to service transient army and
+aircraft  in january 1941 construction began on the albuquerque army air base  leading to establishment of the bombardier school-army advanced flying school near the end of the year  soon thereafter it was renamed kirtland field  after early army military pilot colonel   and in mid-1942 the army acquired oxnard field  during the war years facilities were expanded further and
+served as a major army air forces training installation 
+in the many months leading up to successful detonation of the first   the
+test  and delivery of the first airborne atomic weapon      director of   and his technical advisor  hartly rowe  began looking for a new site convenient to los alamos for the continuation of weapons development
+especially its non-nuclear aspects  they felt a separate division would be best to perform these functions  kirtland had fulfilled los alamos  transportation needs for both the trinity and alberta projects  thus  oxnard field was transferred from the jurisdiction of the army air corps to the u s  army service forces chief of engineer district  and thereafter  assigned to the manhattan engineer district  in july 1945  the forerunner of sandia laboratory  known as  z  division  was established at oxnard field to handle future weapons development  testing  and bomb assembly for the manhattan engineer district  the district-directive calling for establishing a secure area and construction of  z  division facilities referred to this as     after the nearby
+ apparently the first official recognition of the  sandia  name 
+sandia laboratory was operated by the
+until 1949  when president
+asked   a subsidiary of
+ at t   to assume the operation as an  opportunity to render an exceptional service in the national interest   sandia corporation  a wholly owned subsidiary of at t corporation  managed and operated the laboratory until october 1993  the
+designated sandia laboratories as a national laboratory in 1979  today  sandia national laboratories  snl  is managed and operated by sandia corporation  a wholly owned subsidiary of   and includes government-owned facilities in
+ snl nm  
+ snl ca     and   snl nm is headquarters and the largest laboratory  employing more than 6,600 employees  while snl ca is a smaller laboratory  with about 850 employees  tonopah and kauai are occupied on a  campaign  basis  as test schedules dictate 
+legal issues  
+on february 13  2007  a new mexico state court found sandia corporation liable for  4.7 million in damages for the firing of a former network security analyst    who had reported to his supervisors that hundreds of military installations and defense contractors  networks were compromised and sensitive information was being stolen
+including hundreds of sensitive
+documents on the
+project  when his supervisors told him to drop the investigation and do nothing with the information  he went to intelligence officials in the
+and later the
+to address the national security breaches  when sandia managers discovered his actions months later  they revoked his
+and fired him 
+technical areas  
+snl nm consists of five technical areas  ta  and several additional test areas  each ta has its own distinctive operations  however  the operations of some groups at sandia may span more than one ta  with one part of a team working on a problem from one angle  and another subset of the same team located in a different building or area working with other specialized equipment  a description of each area is given below 
+ta-i operations are dedicated primarily to three activities
+the design  research  and development of
+systems  limited production of weapon system components  and energy programs  ta-i facilities include the main
+and offices    and shops used by administrative and technical staff 
+ta-ii is a 45-acre  180,000m  facility that was established in 1948 for the assembly of chemical
+main
+for
+and later for production scale assembly of nuclear weapons  activities in ta-ii include the     and
+of facilities and
+used in past research and development activities  remediation of the classified waste landfill which started in march 1998  neared completion in fy2000  a testing facility  the explosive component facility  integrates many of the previous ta-ii test activities as well as some testing activities previously performed in other remote test areas  the access delay technology test facility is also located in ta-ii 
+ta-iii is adjacent to and south of ta-v  both are approximately seven miles  11km  south of ta-i   ta-iii facilities include extensive design-test facilities such as
+tracks 
+and a radiant
+facility  other facilities in ta-iii include a paper destructor  the melting and solidification laboratory and the radioactive and mixed waste management facility  rmwmf   rmwmf serves as central processing facility for packaging and storage of low-level and mixed waste  the remediation of the chemical waste landfill  which started in september 1998  is an ongoing activity in ta-iii 
+ta-iv  located approximately 1/2 mile  1km  south of ta-i  consists of several inertial-confinement
+research and pulsed power research facilities  including the high energy radiation megavolt electron source  hermes-iii   the   the short pulsed high intensity nanosecond x-radiator  sphinx  facility  and the saturn accelerator  ta-iv also hosts some computer science and cognition research 
+ta-v contains two research
+facilities  an intense
+irradiation facility  using
+and
+sources   and the
+facility 
+snl nm also has test areas outside of the five technical areas listed above  these test areas  collectively known as coyote test field  are located southeast of ta-iii and or in the canyons on the west side of the manzanita mountains  facilities in the coyote canyon test field include the solar tower facility  34.9623 n  106.5097 w   the lurance canyon burn site and the aerial cable facility 
+open-source software  
+in the 1970s  the sandia  los alamos  air force weapons laboratory technical exchange committee initiated the development of the
+library of mathematical and statistical routines  written in fortran77 
+today  sandia national laboratories is home to several
+software projects 
+fclib  feature characterization library  is a library for the identification and manipulation of coherent regions or structures from spatio-temporal data  fclib focuses on providing data structures that are  feature-aware  and support feature-based analysis  it is written in c and developed under a  -like  license 
+ large-scale atomic molecular massively parallel simulator  is a molecular dynamics library that can be used to model parallel atomic subatomic processes at large scale  it is produced under the
+ gpl  and distributed on the sandia national laboratories website as well as  
+libvmi is a library for simplifying the reading and writing of memory in running virtual machines  a technique known as virtual machine introspection  it is licensed under the  
+mapreduce-mpi library is an implementation of
+for distributed-memory parallel machines  utilizing the
+ mpi  for communication  it is developed under a modified  
+multithreaded graph library  mtgl  is a collection of graph-based algorithms designed to take advantage of parallel  shared-memory architectures such as the cray xmt  symmetric multiprocessor  smp  machines  and multi-core workstations  it is developed under a bsd license 
+is a cross-platform application for performing data analysis and visualization  it is a collaborative effort  developed by sandia national laboratories  los alamos national laboratories  and the   and funded by the   it is developed under a bsd license 
+is a python-based optimisation
+with drivers with most commercial and open-source solver engines
+soccoro  a collaborative effort with
+and
+universities  is
+software for performing electronic-structure calculations based on density-functional theory  it utilizes libraries such as mpi    and
+and is developed under the gnu general public license 
+titan informatics toolkit is a collection of cross-platform libraries for ingesting  analyzing  and displaying scientific and informatics data  it is a collaborative effort with   and uses various open-source components such as the   it is developed under a  
+is an object-oriented library for building scalable scientific and engineering applications  with a focus on linear algebra techniques  it is licensed under the  
+xyce is an open source  -compatible  high-performance analog circuit simulator  capable of solving extremely large circuit problems 
+in addition  sandia national laboratories collaborates with kitware  inc  in developing the
+ vtk   a cross-platform graphics and visualization software suite  this collaboration has focused on enhancing the information visualization capabilities of vtk and has in turn fed back into other projects such as paraview and titan 
+self-guided bullet  
+on 30 january 2012  sandia announced that they successfully test-fired a self-guided dart that can hit targets at 2,000m  2,187yd   the dart is 4in  100mm  long  has its center of gravity at the nose  and is made to be fired from a small-caliber
+gun  it is kept straight in flight by four
+actuated fins encased in a plastic puller
+that fall off when the dart leaves the bore  the dart cannot be fired from conventional
+barrels because the gyroscopic stability provided by rifling grooves for regular bullets would prevent the self-guided bullet from reliably turning towards a target when in flight  so fins are responsible for stabilizing rather than spinning  a
+designator marks a target  which is tracked by the dart s optical sensor and 8-bit   the guided projectile is kept cheap because it does not need an   since its small size allows it to make the fast corrections necessary without the aid of an imu  the natural body frequency of the bullet is about 30   so corrections can be made 30 times per second in flight  muzzle velocity with commercial gunpowder is 2,400ft s  730m s   mach 2.1   but military customized gunpowder can increase its speed and range  computer modeling shows that a standard bullet would miss a target at 1,000m  1,094yd  by 9.8yd  9m   while an equivalent guided bullet would hit within 8in  20cm   accuracy actually increases as distances get longer  since the bullet s motions settle more the longer it is in flight 
+see also  
+references  
+  sandia gov  retrieved 2010-12-11 
+  sandia national laboratories  2015-07-22 
+scott sandlin      albuquerque journal  14 october 2007
+ 
+  sandia national laboratories  retrieved 2010-10-04 
+ pdf   asce news quarterly newsletter  sandia national laboratories  january 2007  retrieved 2010-10-04 
+ 
+  sandia national laboratories  retrieved 2010-10-03 
+ 
+  sandia national laboratories  retrieved 2011-11-18 
+  sandia national laboratories  retrieved 2010-10-03 
+ 
+  sandia national laboratories  retrieved 2010-10-04 
+berry  jonathan w   bruce hendrickson  simon kahan  petr konecny  march 2007    software and algorithms for graph queries on multithreaded architectures   parallel and distributed processing symposium  2007   114    
+ 
+  kitware  retrieved 2010-10-03 
+ 
+  sandia national laboratories  retrieved 2010-10-03 
+ 
+  sandia national laboratories  retrieved 2010-10-03 
+ 
+retrieved 2010-10-03 
+ 
+  sandia national laboratories  retrieved 2010-10-03 
+ 
+ 
+retrieved 2010-10-03 
+- sandia news release  30 january 2012
+- guns com  2 february 2012
+- thefirearmblog com  31 january 2012
+- gizmag com  31 january 2012
+further reading  
+external links  
+wikimedia commons has media related to  
+on
+on
+ 
+headquarters 
+ 
+ 
+sandia
+energy department facilities and reservations
+independent agency
+divisions and
+subsidiaries
+current
+former
+joint ventures
+facilities
+sandia national laboratories
+active products
+ under development 
+landmarks
+economy
+sandia national laboratories
+education
+transportation
+other
+ 
+ 
+ 
+ 
+ 
+retrieved from   
+  hidden categories 

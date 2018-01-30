@@ -1,0 +1,240 @@
+ecologicalfootprint
+from wikipedia  the free encyclopedia
+jump to 					 
+this article may be too
+for most readers to understand  please help
+this article to   without removing the technical details  the
+may contain suggestions   august 2015    
+the
+of the
+are  
+an ecological footprint is a measure of   it s typically measured in area of
+or amount of
+consumed each year  a common way of estimating footprint is  the area of wilderness of both land and sea needed to supply resources to a human   this includes the area of wilderness needed to assimilate human waste 
+at a global scale  it is used to estimate how rapidly we are depleting natural capital  the
+calculates the global ecological footprint from un and other data  they estimate that as of 2007 our planet has been using natural capital 1.6 times as fast as nature can renew it 
+ecological footprint analysis is widely used around the earth as an indicator of environmental   it can be used to measure and manage the use of resources throughout the economy and explore the sustainability of individual lifestyles  goods and services  organizations  industry sectors  neighborhoods  cities  regions and nations  since 2006  a first set of ecological footprint standards exist that detail both communication and calculation procedures 
+contents
+footprint measurements  
+in 2007  the global footprint network estimated the global ecological footprint as 1.6 planet earths  that is  they judged that
+were being used 1.6 times as quickly as they were being renewed 
+ecological footprint for different nations compared to their  
+ecological footprints can be calculated at any scale  for an activity  a person  a community  a city  a region  a nation or humanity as a whole  cities  due to population concentration  have large ecological footprints and have become ground zero for footprint reduction 
+global footprints  currently there is no fixed way to measure global footprints  and any attempts to describe the capacity of an ecosystem in a single number is a massive simplification of thousands of key renewable resources  which are not used or replenished at the same rate  however  there has been some convergence of metrics and standards since 2006 
+city ecological footprints  are being measured  there are two types of measurements in use  the first measures ecosystem displacement which is defined as city area minus remaining green spaces  this is an area measurement that does not include human or other biological activity  the second attempts to quantify surviving ecosystem health  specifically  it attempts to quantify both area and biological health of ecosystems surviving inside city areas such as nature reserves  parks  other green spaces  city footprints are being calculated and ranked with city ecological indexes 
+overview  
+the first academic publication about ecological footprints was by
+in 1992  the ecological footprint concept and calculation method was developed as the phd dissertation of   under rees  supervision at the
+in vancouver  canada  from 19901994  originally  wackernagel and rees called the concept  appropriated carrying capacity   to make the idea more accessible  rees came up with the term  ecological footprint   inspired by a computer technician who praised his new computer s  small footprint on the desk   in early 1996  wackernagel and rees published the book our ecological footprint  reducing human impact on the earth with illustrations by phil testemale 
+footprint values at the end of a survey are categorized for carbon  food  housing  and goods and services as well as the total footprint number of earths needed to sustain the world s population at that level of consumption  this approach can also be applied to an activity such as the manufacturing of a product or driving of a car  this resource accounting is similar to
+wherein the consumption of  
+       
+and other
+are converted into a normalized measure of land area called
+ gha  
+per capita ecological footprint  ef   or ecological footprint analysis  efa   is a means of comparing consumption and lifestyles  and checking this against nature s ability to provide for this consumption  the tool can inform policy by examining to what extent a nation uses more  or less  than is available within its territory  or to what extent the nation s lifestyle would be replicable worldwide  the footprint can also be a useful tool to educate people about
+and   with the aim of altering personal behavior  ecological footprints may be used to argue that many current lifestyles are not   such a global comparison also clearly shows the inequalities of resource use on this planet at the beginning of the twenty-first century 
+in 2007  the average biologically productive area per person worldwide was approximately 1.8
+ gha  per capita  the
+footprint per capita was 9.0 gha  and that of
+was 5.6 gha  while  s was 1.8 gha  the
+claims that the human footprint has exceeded the
+ the available supply of natural resources  of the planet by 20   wackernagel and rees originally estimated that the available biological capacity for the 6 billion people on earth at that time was about 1.3 hectares per person  which is smaller than the 1.8 global hectares published for 2006  because the initial studies neither used global hectares nor included bioproductive marine areas 
+a number of ngos offer ecological footprint calculators  see   below  
+methodology  
+the ecological footprint accounting method at the national level is described in the l footprint atlas 2010 or in greater detail in the calculation methodology for the national footprint accounts  the national accounts review committee has also published a research agenda on how the method will be improved 
+in 2003  jason venetoulis  carl mas  christopher gaudet  dahlia chazan  and john talberth developed footprint 2   which offers a series of theoretical and methodological improvements to the standard footprint approach  the four primary improvements were that they included the entire surface of the earth in biocapacity estimates  allocated space for other  i e   non-human  species  updated the basis of equivalence factors from agricultural land to net primary productivity  npp   and refined the carbon component of the footprint based on the latest global carbon models 
+studies in the united kingdom  
+the uk s average ecological footprint is 5.45
+per capita  gha  with variations between regions ranging from 4.80 gha  wales  to 5.56 gha  east england  
+two recent studies   have examined relatively low-impact small communities    a 96-home
+development in south   was designed by bill dunster architects and sustainability consultants bioregional for the   despite being populated by relatively  mainstream  home-buyers  bedzed was found to have a footprint of 3.20 gha due to on-site renewable energy production  energy-efficient architecture  and an extensive green lifestyles program that included on-site london s first
+club  the report did not measure the added footprint of the 15,000 visitors who have toured bedzed since its completion in 2002    a rural
+in     had a total footprint of 2.56 gha  including both the many guests and visitors who travel to the community to undertake residential courses there and the nearby campus of
+college  however  the residents alone have a footprint of 2.71 gha  a little over half the uk national average and one of the lowest ecological footprints of any community measured so far in the industrialized world  keveral farm  an organic farming community in cornwall  was found to have a footprint of 2.4 gha  though with substantial differences in footprints among community members 
+critiques  
+early criticism was published by
+and verbruggen in 1999  which was updated in 2014  another criticism was published in 2008  a more complete review commissioned by the
+was published in june 2008 
+a recent critique of the concept is due to blomqvist et al   2013a  with a reply from rees and wackernagel  2013  and a rejoinder by blomqvist et al   2013b 
+an additional strand of critique is due to giampietro and saltelli  2014a   with a reply from goldfinger et al   2014  a rejoinder by giampietro and saltelli  2014a   and additional comments from van den bergh and grazi  2015  
+a number of countries have engaged in research collaborations to test the validity of the method  this includes switzerland  germany  united arab emirates  and belgium 
+grazi et al   2007  have performed a systematic comparison of the ecological footprint method with spatial welfare analysis that includes environmental   agglomeration effects and trade advantages  they find that the two methods can lead to very distinct  and even opposite  rankings of different spatial patterns of economic activity  however this should not be surprising  since the two methods address different research questions 
+calculating the ecological footprint for densely populated areas  such as a city or small country with a comparatively large population  e g  new york and singapore respectively  may lead to the perception of these populations as  parasitic   this is because these communities have little intrinsic biocapacity  and instead must rely upon large   critics argue that this is a dubious characterization since mechanized rural farmers in developed nations may easily consume more resources than urban inhabitants  due to transportation requirements and the unavailability of   furthermore  such moral conclusions seem to be an argument for   some even take this train of thought a step further  claiming that the footprint denies the benefits of trade  therefore  the critics argue that the footprint can only be applied globally 
+the method seems to reward the replacement of original ecosystems with high-productivity agricultural
+by assigning a higher biocapacity to such regions  for example  replacing ancient woodlands or tropical forests with monoculture forests or plantations may improve the ecological footprint  similarly  if
+yields were lower than those of conventional methods  this could result in the former being  penalized  with a larger ecological footprint  of course  this insight  while valid  stems from the idea of using the footprint as one s only metric  if the use of ecological footprints are complemented with other indicators  such as one for   the problem could maybe be solved  indeed   s
+complements the biennial footprint calculations with the living planet index of biodiversity  manfred lenzen and shauna murray have created a modified ecological footprint that takes biodiversity into account for use in australia 
+although the ecological footprint model prior to 2008 treated
+in the same manner as coal power  the actual real world effects of the two are radically different  a life cycle analysis centered on the swedish
+estimated carbon dioxide emissions at 3.10 g kwh and 5.05 g kwh in 2002 for the   this compares to 11 g kwh for hydroelectric power  950 g kwh for installed coal  900 g kwh for oil and 600 g kwh for natural gas generation in the united states in 1999  figures released by mark hertsgaard  however  show that because of the delays in building nuclear plants and the costs involved  investments in energy efficiency and renewable energies have seven times the return on investment of investments in nuclear energy 
+the swedish utility
+did a study of full
+the utility uses to produce electricity  namely  nuclear  hydro  coal  gas  solar cell  peat and wind  the net result of the study was that nuclear power produced 3.3grams of carbon dioxide per kw-hr of produced power  this compares to 400 for
+and 700 for
+ according to this study   the study also concluded that nuclear power produced the smallest amount of co2 of any of their electricity sources 
+claims exist that the problems of nuclear waste do not come anywhere close to approaching the problems of fossil fuel waste  a 2004 article from the bbc states   the
+ who  says 3 million people are killed worldwide by outdoor air pollution annually from vehicles and industrial emissions  and 1.6 million indoors through using solid fuel   in the u s  alone  fossil fuel waste kills 20,000 people each year  a coal power plant releases 100 times as much radiation as a nuclear power plant of the same wattage  it is estimated that during 1982  us coal burning released 155 times as much radioactivity into the atmosphere as the
+incident  in addition  fossil fuel waste causes   which leads to increased deaths from hurricanes  flooding  and other weather events  the
+provides a comparison of deaths due to accidents among different forms of energy production  in their comparison  deaths per tw-yr of electricity produced  in uk and usa  from 1970 to 1992 are quoted as 885 for hydropower  342 for coal  85 for natural gas  and 8 for nuclear 
+the western australian government state of the environment report included an ecological footprint measure for the average western australian seven times the average footprint per person on the planet in 2007  a total of about 15 hectares 
+footprint by country  
+world map of
+ data of 2007  
+main article 
+the world-average ecological footprint in 2012 was 1.8 global hectares per person  the average per country ranges from over 10 to under 1 hectares per person  there is also a high variation within countries  based on individual lifestyle and economic situation 
+the
+differs from the ecological footprint in that the former is expressed in units of ghg warming potential  ggwp  and is generated by products or services  whereas the latter is expressed in units of land area and is generated by whole societies 
+implications  
+      the average world citizen has an eco-footprint of about 2.7 global average hectares while there are only 2.1 global hectare of bioproductive land and water per capita on earth  this means that humanity has already
+global biocapacity by 30  and now lives unsustainabily by depleting stocks of  natural capital 
+see also  
+since the 1950s  a new geological epoch called the
+has been proposed to distinguish the period of major human impact 
+further reading  
+rees  w  e   october 1992     environment and urbanisation  4  2   121130    
+rees  w  e  and m  wackernagel  1994  ecological footprints and appropriated carrying capacity  measuring the natural capital requirements of the human economy  in jansson  a  et al   investing in natural capital  the ecological economics approach to sustainability  washington d c  island press 
+wackernagel  m   1994  
+ pdf   phd thesis   vancouver  canada  school of community and regional planning  the university of british columbia   
+wackernagel  m  and w  rees  1996  our ecological footprint  reducing human impact on the earth  gabriola island  bc  new society publishers   
+wackernagel  m  schulz  nb  deumling  d  linares  ac  jenkins  m  kapos  v  monfreda  c  loh  j  et al   2002  
+ pdf   proc  natl  acad  sci  u s a  99  14   926671        
+wwf  global footprint network  zoological society of london  2006  living planet report 2006  wwf gland  switzerland   downloadable in 11 languages via  
+lenzen  m  and murray  s  a  2003   the ecological footprint  issues and trends  
+chambers  n   simmons  c  and wackernagel  m   2000   sharing nature s interest  ecological footprints as an indicator of sustainability  earthscan  london
+ see also  
+raudsepp-hearne c  peterson gd  teng m  bennett em  holland t  benessaiah k  macdonald gm  pfeifer l  2010    untangling the environmentalist s paradox  why is human well-being increasing as ecosystem services degrade    bioscience  60  8   576589    
+j c j m  van den bergh  h  verbruggen  1999  
+ pdf   ecological economics  29  1   6374    
+f  grazi  j c j m  van den bergh  p  rietveld  2007    welfare economics versus ecological footprint  modeling agglomeration  externalities and trade   environmental and resource economics  38  1   135153    
+ohl  b   wolf  s     anderson  w   2008     sustainability  science  practice    policy  4  1   516 
+references  
+ 
+  global footprint network  2010-06-05  retrieved 2012-03-17 
+lyndhurst  brook  june 2003  
+ pdf   mayor of london  greater london authority  commissioned by gla economics  
+global footprint network
+retrieved on august 1  2007 
+ 
+  global footprint network  retrieved 23 april 2016 
+  academia edu 
+  greenscore ca 
+ october 1992    ecological footprints and appropriated carrying capacity  what urban economics leaves out   environment and urbanisation  4  2   121130    
+wackernagel  m   1994  
+ pdf   phd thesis   vancouver  canada  school of community and regional planning  the university of british columbia   
+wackernagel  mathis  1991   land use  measuring a community s appropriated carrying capacity as an indicator for sustainability   and  using appropriated carrying capacity as an indicator  measuring the sustainability of a community   report i   ii to the ubc task force on healthy and sustainable communities  vancouver 
+  footprint  new york times magazine  february 17  2008
+ 
+wackernagel  mathis   rees  william  1996  our ecological footprint   new society press 
+or
+living planet report 2008 outlines scenarios for humanity s future  global footprint network  retrieved  2009-02-15
+ 
+chambers  n  et al   2004  scotlands footprint  best foot forward   
+bbc news  retrieved  2007-05-18 
+  global footprint network  retrieved 21 january 2011 
+ pdf   global footprint network  retrieved 13 june 2011 
+retrieved  2007-11-11
+november 28  2007  at the  
+world in motion  the globalization and the environment reader  venetoulis and talberth  2009   edited by gary kroll and richard howard robbins
+ redefining the footprint  footprint 2.0   in sustainable development  principles  frameworks  and case studies  crc  routledge  2010  
+  august 11  2008   a new expert study says the multinational community s ecological footprint is half the uk average  this means findhorn uses 50  fewer resources and creates 50  less waste than normal  
+tinsley  s  and george  h   2006  ecological footprint of the findhorn foundation and community  moray  sustainable development research centre  uhi millennium institute 
+ 2006  how to work out your ecological footprint  leeds  radical routes ltd  available to order or download on the
+j c j m  van den bergh  h  verbruggen  1999  
+ pdf   ecological economics  29  1   6374    
+van den bergh  jeroen c j m  grazi  fabio  2014    ecological footprint policy  land use as an environmental indicator   journal of industrial ecology  18  1   1019       this paper and others were described and responded to by the
+on their website in june 2014 
+fiala  n   2008     ecological economics  67  4   519525    
+analysis of the potential of the ecological footprint and related assessment tools for use in the eus thematic strategy on the sustainable use of natural resources is available at 
+blomqvist  l   brook  b w   ellis  e c   kareiva  p m   nordhaus  t   shellenberger  m   2013    does the shoe fit  real versus imagined ecological footprints   plos biol  11  11   e1001700    
+rees  w e   wackernagel  m   2013    the shoe fits  but the footprint is largerthan earth   plos biology  11  11   e1001701    
+blomqvist  l   brook  b w   ellis  e c   kareiva  p m   nordhaus  t   et al   2013b    the ecological footprint remains a misleading metric of global sustainability   plos biol  11  11   e1001702     cs1 maint  explicit use of et al    
+giampietro  m  saltelli a   2014a   footprint to nowhere  ecological indicators 46  610621 
+goldfinger  wackernagel  s  m   galli  a   lazarus  e   lin  d   2014    footprint facts and fallacies  a response to giampietro and saltelli  2014   footprints to nowhere    ecological indicators  46  622632    
+giampietro  m   saltelli  a   et al   2014b    footworking in circles  reply to goldfinger et al   2014   footprint facts and fallacies  a response to giampietro and saltelli  2014  footprints to nowhere    ecological indicators  46  260263  cs1 maint  explicit use of et al    
+van  den bergh  j   grazi  fabio  2015    reply to the first systematic response by the global footprint network to criticism  a real debate finally    ecological indicators  58  458463    
+  more specifically  reviews by nations include switzerland
+ technical and descriptive report   eurostat 
+germany 
+ireland 
+dg environment  june 2008   potential of the ecological footprint for monitoring environmental impact from natural resource use  available at
+united arab emirates  al basama al beeiya initiative
+f  grazi  j c j m  van den bergh  p  rietveld  2007    welfare economics versus ecological footprint  modeling agglomeration  externalities and trade   environmental and resource economics  38  1   135153    
+  pam usc edu  retrieved 2012-11-08 
+lenzen  m   c  borgstrom hansson and s  bond  2006    university of sydney  isa research paper  june  06  in collaboration with wwf  retrieved  2007-06-04 
+loh  j   r  green  t  ricketts  j  lamoreux  m  jenkins  v  kapos and j  randers  2005  
+ pdf   philosophical transactions of the royal society  360  1454   289295         cs1 maint  multiple names  authors list   
+lenzen  manfred  murray shauna a   2001    a modified ecological footprint method and its application to australia   ecological economics  37  2   229255    
+  global footprint network
+vattenfall 2004  forsmark epd for 2002 and swedpower lca data 2005 
+accessed 20 october 2007
+accessed 20 october 2007
+hertsgaard  mark  2011   hot  living through the next fifty years on earth   houghton mifflin harcourt 
+nuclearinfo net 
+david bodansky  june 2001     environmental practice  3  2   868      reprinted by the  
+  august 2002  retrieved 2008-01-31 
+alex kirby  13 december 2004       retrieved 2008-01-31 
+don hopey  june 29  2005       retrieved 2008-01-31 
+alex gabbard    oak ridge national laboratory  retrieved 2008-01-31 
+ gordon j  aubrecht  ii  ohio state university
+ 
+  accessed 6 march 2016 
+  global footprint network  retrieved 9 november 2016 
+benn  hilary  milliband  ed 
+ pdf   gov uk  department for environment  food and rural affairs  uk   retrieved 9 november 2016 
+  retrieved 29 july 2016 
+  retrieved 29 july 2016 
+external links  
+  a biannual calculation of national and global footprints
+  a city index measuring footprints of 50 canadian cities
+ecological footprint
+technology
+energy
+food
+water
+accountability
+applications
+management
+agreements
+ rio 10  johannesburg 
+ rio 20  2012 
+tools
+ecological footprint
+concepts
+related fields
+   
+components
+general
+example webs
+processes
+defense counter
+    other components
+species
+species interaction
+other
+ecological footprint
+fields
+related
+design
+economics
+environmental
+sustainability
+urban
+applied
+architecture
+engineering
+health
+management
+planning
+policy
+practices
+religious and spiritual
+secular movements
+notable writers
+modern-day adherents
+media
+  
+related topics
+ecological footprint
+retrieved from   
+  hidden categories 

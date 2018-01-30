@@ -1,0 +1,188 @@
+celsius
+from wikipedia  the free encyclopedia
+jump to 					 
+for other uses  see  
+a
+calibrated in degrees celsius
+celsius  also known as centigrade  is a scale and
+for   as an   it is used by most countries in the world  it is named after the
+ 17011744   who developed a similar temperature scale  the degree celsius  c  can refer to a specific temperature on the celsius scale as well as a unit to indicate a temperature   a difference between two temperatures or an   before being renamed to honour anders celsius in 1948  the unit was called centigrade  from the latin centum  which means 100  and gradus  which means steps 
+the scale is based on 0 for the freezing point of water and 100 for the boiling point of water  this scale is widely taught in schools today  by international agreement the unit  degree celsius  and the celsius scale are currently defined by two different temperatures    and the
+of
+ specially purified water   this definition also precisely relates the celsius scale to the
+scale  which defines the
+of
+with symbol k  absolute zero  the lowest temperature possible  is defined as being precisely 0k and 273.15c  the temperature of the triple point of water is defined as precisely 273.16k and 0.01c 
+this definition fixes the magnitude of both the degree celsius and the kelvin as precisely 1 part in 273.16  approximately 0.00366  of the difference between absolute zero and the triple point of water  thus  it sets the magnitude of one degree celsius and that of one kelvin as exactly the same  additionally  it establishes the difference between the two scales  null points as being precisely 273.15 degrees celsius  273.15 c   0 k and 0 c   273.15 k  
+contents
+history  
+an illustration of anders celsius s original thermometer  note the reversed scale  where 0 is the boiling point of water and 100 is its freezing point 
+in 1742  swedish astronomer
+ 17011744  created a temperature scale which was the reverse of the scale now known by the name  celsius   0 represented the boiling point of water  while 100 represented the freezing point of water  in his paper observations of two persistent degrees on a thermometer  he recounted his experiments showing that the melting point of ice is essentially unaffected by pressure  he also determined with remarkable precision how the boiling point of water varied as a function of atmospheric pressure  he proposed that the zero point of his temperature scale  being the boiling point  would be calibrated at the mean barometric pressure at mean sea level  this pressure is known as one   the  s 10th
+ cgpm  later defined one standard atmosphere to equal precisely 1013250 per
+ 101.325  
+in 1743  the
+physicist   permanent secretary of the acadmie des sciences  belles-lettres et arts de lyon  working independently of celsius  developed a scale where zero represented the freezing point of water and 100 represented the boiling point of water  on 19 may 1743 he published the design of a   the  thermometer of lyon  built by the craftsman pierre casati that used this scale 
+in 1744  coincident with the death of anders celsius  the swedish botanist
+ 17071778  reversed celsius s scale  his custom-made  linnaeus-thermometer   for use in his greenhouses  was made by daniel ekstrm  sweden s leading maker of scientific instruments at the time and whose workshop was located in the basement of the stockholm observatory  as often happened in this age before modern communications  numerous physicists  scientists  and instrument makers are credited with having independently developed this same scale  among them were pehr elvius  the secretary of the royal swedish academy of sciences  which had an instrument workshop  and with whom linnaeus had been corresponding  daniel ekstrm  the instrument maker  and mrten strmer  17071770  who had studied astronomy under anders celsius 
+the first known swedish document reporting temperatures in this modern  forward  celsius scale is the paper hortus upsaliensis dated 16 december 1745 that linnaeus wrote to a student of his  samuel nauclr  in it  linnaeus recounted the temperatures inside the orangery at the botanical garden of  
+   since the caldarium  the hot part of the greenhouse  by the angle of the windows  merely from the rays of the sun  obtains such heat that the thermometer often reaches 30 degrees  although the keen gardener usually takes care not to let it rise to more than 20 to 25 degrees  and in winter not under 15 degrees   
+centigrade  hectograde and celsius  
+since the 19th century  the scientific and
+communities worldwide referred to this scale as the centigrade scale  temperatures on the centigrade scale were often reported simply as degrees or  when greater specificity was desired  as degrees centigrade  symbol  c   because the term centigrade was also the spanish and french language name for a unit of angular measurement  1/100 of a right angle  and had a similar connotation in other languages  the term centesimal degree  known as the    grad  or  gon   1    9  100   90  was used when very precise  unambiguous language was required by international standards bodies such as the   more properly  what was defined as  centigrade  then would now be  hectograde   furthermore  in the context here  centigrade hectograde is referring to the whole 0-100 range  not the given part thereof  hence  20 centigrade  means  20 per 100 gradians   or 20  hectograde   not its literal description    2 gradians  
+ to be descriptively correct   20 centigrade  should be  20 hectocentigrade   or just  20 gradians   20   
+to eliminate such confusion  the 9th
+and the cipm    formally adopted  degree celsius  in 1948  formally keeping the recognized degree symbol  rather than adopting the gradian centesimal degree symbol 
+for scientific use   celsius  is the term usually used  with  centigrade  otherwise continuing to be in common but decreasing use  especially in informal contexts in english-speaking countries  it was not until february 1985 that the
+switched from  centigrade  to  celsius  
+common temperatures  
+some key temperatures relating the celsius scale to other temperature scales are shown in the table below 
+key scale relations
+celsius
+absolute zero
+ precisely  by definition 
+0 k
+273.15c
+459.67f
+boiling point of
+77.4 k
+195.8c
+320.4f
+point of  
+195.1 k
+78c
+108.4f
+intersection of celsius and
+scales 
+233.15 k
+40c
+40f
+melting point of h2o  purified ice 
+273.1499 k
+0.0001c
+31.9998f
+water s
+ precisely  by definition 
+273.16 k
+0.01c
+32.018f
+ approximate average 
+310.1 k
+37.0c
+98.6f
+water s boiling point at 1 atm  101.325 kpa 
+ approximate  see  
+373.1339 k
+99.9839c
+211.971f
+name and symbol typesetting  
+the  degree celsius  has been the only si unit whose full unit name contains an uppercase letter since the
+for temperature  the kelvin  became the proper name in 1967 replacing the term degrees kelvin  the plural form is degrees celsius 
+the general rule of the
+is that the numerical value always precedes the unit  and a space is always used to separate the unit from the number  e g   30.2 c   not  30.2c  or  30.2c    thus the value of the quantity is the product of the number and the unit  the space being regarded as a multiplication sign  just as a space between units implies multiplication   the only exceptions to this rule are for the unit   minute  and second for plane angle      and   respectively   for which no space is left between the numerical value and the unit symbol  other languages  and various publishing houses  may follow different typographical rules 
+unicode character  
+provides the celsius symbol at codepoint u 2103  degree celsius  however  this is a
+provided for roundtrip compatibility with legacy encodings  the unicode standard explicitly discourages the use of this character   in normal use  it is better to represent degrees celsius  c  with a sequence of u 00b0  degree sign   u 0043 c latin capital letter c  rather than u 2103  degree celsius  for searching  treat these two sequences as identical  
+shown below is the degree celsius character followed immediately by the two-component version 
+ c
+when viewed on computers that properly support unicode  the above line may be similar to the image in the line below  enlarged for clarity  
+the
+is simply an ordinary degree sign and  c   so some browsers may simply display  c  in its place due to  
+temperatures and intervals  
+the degree celsius is a special name for the kelvin for use in expressing celsius temperatures  the degree celsius is also subject to the same rules as the kelvin with regard to the use of its unit name and symbol  thus  besides expressing specific temperatures along its scale  e g    melts at 29.7646c  and  the temperature outside is 23 degrees celsius    the degree celsius is also suitable for expressing temperature intervals  differences between temperatures or their uncertainties  e g   the output of the heat exchanger is hotter by 40 degrees celsius   and  our standard uncertainty is 3c    because of this dual usage  one must not rely upon the unit name or its symbol to denote that a quantity is a temperature interval  it must be unambiguous through context or explicit statement that the quantity is an interval  this is sometimes solved by using the symbol c  pronounced  degrees celsius   for a temperature  and c  pronounced  celsius degrees   for a temperature interval  although this usage is non-standard 
+what is often confusing about the celsius measurement is that it follows an interval system but not a ratio system  that it follows a relative scale not an absolute scale  this is put simply by illustrating that while 10c and 20c have the same interval difference as 20c and 30c the temperature 20c is not twice the air heat energy as 10c  as this example shows  degrees celsius is a useful interval measurement but does not possess the characteristics of ratio measures like weight or distance 
+coexistence of kelvin and celsius scales  
+in science and in engineering  the celsius scale and the kelvin scale are often used in combination in close contexts  e g      a measured value was 0.01023c with an uncertainty of 70k      this practice is permissible because the magnitude of the degree celsius is equal to that of the kelvin 
+notwithstanding the official endorsement provided by decision   which stated  a temperature interval may also be expressed in degrees celsius   the practice of simultaneously using both c and k remains widespread throughout the scientific world as the use of
+forms of the degree celsius  such as  c  or  microdegrees celsius   to express a temperature interval has not been well-adopted 
+melting and boiling points of water  
+one effect of defining the celsius scale at the
+of
+   273.16k and 0.01c   and at
+ 0k and 273.15c   is that neither the
+nor
+point of water under one standard atmosphere  101.325kpa  remains a defining point for the celsius scale  in 1948 when the 9th general conference on weights and measures    in resolution 3 first considered using the triple point of water as a defining point  the triple point was so close to being 0.01c greater than water s known melting point  it was simply defined as precisely 0.01c  however  current measurements show that the difference between the triple and melting points of vsmow is actually very slightly   0.001c  greater than 0.01c  thus  the actual melting point of ice is very slightly  less than a thousandth of a degree  below 0c  also  defining water s triple point at 273.16k precisely defined the magnitude of each 1c increment in terms of the
+ referencing absolute zero   now decoupled from the actual boiling point of water  the value  100c  is hotter than 0c  in absolute terms  by a factor of precisely 373.15/273.15  approximately 36.61  thermodynamically hotter   when adhering strictly to the two-point definition for calibration  the boiling point of vsmow under one standard atmosphere of pressure is actually 373.1339k  99.9839c   when calibrated to
+ a calibration standard comprising many definition points and commonly used for high-precision instrumentation   the boiling point of vsmow is slightly less  about 99.974c 
+this boiling-point difference of 16.1 millikelvin between the celsius scale s original definition and the current one  based on absolute zero and the triple point  has little practical meaning in common daily applications because water s boiling point is very sensitive to variations in barometric pressure  for example  an altitude change of only 28cm  11in  causes the boiling point to change by one millikelvin 
+celsius temperature conversion formulae
+from celsius
+to celsius
+ f   c 95 32
+ c    f 32 59
+ k   c  273.15
+ c   k 273.15
+ r    c  273.15 95
+ c    r 491.67 59
+for temperature intervals rather than specific temperatures 
+1c   1k   95f   95r
+see also  
+notes  
+according to the oxford english dictionary  oed   the term  celsius  thermometer  had been used at least as early as 1797  further  the term  the celsius or centigrade thermometer  was again used in reference to a particular type of thermometer at least as early as 1850  the oed also cites this 1928 reporting of a temperature   my altitude was about 5,800 metres  the temperature was 28 celsius   however  dictionaries seek to find the earliest use of a word or term and are not a useful resource as regards to the terminology used throughout the history of science  according to several writings of dr  terry quinn cbe frs  director of the bipm  19882004   including temperature scales from the early days of thermometry to the 21st century  pdf 146   as well as temperature  2nd edition 1990 academic press 0125696817   the term celsius in connection with the centigrade scale was not used whatsoever by the scientific or thermometry communities until after the cipm and cgpm adopted the term in 1948  the bipm was not even aware that  degree celsius  was in sporadic  non-scientific use before that time  it is also noteworthy that the twelve-volume  1933 edition of oed didn t even have a listing for the word celsius  but did have listings for both centigrade and centesimal in the context of temperature measurement   the 1948 adoption of celsius accomplished three objectives 
+1  all common temperature scales would have their units named after someone closely associated with them  namely  kelvin  celsius  fahrenheit  raumur and rankine 
+2  notwithstanding the important contribution of linnaeus who gave the celsius scale its modern form  celsius  name was the obvious choice because it began with the letter c  thus  the symbol c that for centuries had been used in association with the name centigrade could continue to be used and would simultaneously inherit an intuitive association with the new name 
+3  the new name eliminated the ambiguity of the term  centigrade   freeing it to refer exclusively to the french-language name for the unit of angular measurement 
+for
+at one
+ 101.325 kpa  when calibrated solely per the two-point definition of thermodynamic temperature  older definitions of the celsius scale once defined the boiling point of water under one standard atmosphere as being precisely 100c  however  the current definition results in a boiling point that is actually 16.1mk less  for more about the actual boiling point of water  see   there is a different approximation using
+which approximates the temperature to 99.974 c
+in 1948 
+stated   to indicate a temperature interval or difference  rather than a temperature  the word  degree  in full  or the abbreviation  deg  must be used   this resolution was abrogated in 1967/1968 by
+which stated that   the names  degree kelvin  and  degree   the symbols  k  and  deg  and the rules for their use given in resolution 7 of the 9th cgpm  1948       and the designation of the unit to express an interval or a difference of temperatures are abrogated  but the usages which derive from these decisions remain permissible for the time being   consequently  there is now wide freedom in usage regarding how to indicate a temperature interval  the most important thing is that one s intention must be clear and the basic rule of the si must be followed  namely that the unit name or its symbol must not be relied upon to indicate the nature of the quantity  thus  if a temperature interval is  say  10k or 10c  which may be written 10 kelvin or 10 degrees celsius   it must be unambiguous through obvious context or explicit statement that the quantity is an interval  rules governing the expressing of temperatures and intervals are covered in the bipm s si brochure  8th edition  pdf 1.39   
+references  
+    retrieved 19 february 2012  celsius temperature scale  also called centigrade temperature scale  scale based on 0 for the freezing point of water and 100 for the boiling point of water 
+helmenstine  anne marie  december 15  2014     chemistry about com  about com  retrieved march 16  2015 
+    retrieved 9 may 2008 
+  retrieved 9 may 2008 
+celsius  anders  1742 
+ observations about two stable degrees on a thermometer   kungliga svenska vetenskapsakademiens handlingar  proceedings of the royal swedish academy of sciences   3  171-180 and
+ 
+  ronald a  bailey  2005  
+      pp  43 
+smith  jacqueline  2009    appendix i  chronology     infobase publishing  p 246    1743 jean-pierre christin inverts the fixed points on celsius  scale  to produce the scale used today 
+ 1743  
+chaubert  jean de nully  pissot  duchesne    pp  16091610 
+journal helvtique  1743  
+imprimerie des journalistes    pp  308-310 
+memoires pour l histoire des sciences et des beaux arts  1743  
+chaubert  pars  pp  2125-2128 
+citation  uppsala university  sweden  
+citation for daniel ekstrm  mrten strmer  christin of lyons  the physics hypertextbook    citation for christin of lyons  le moyne college    citation for linnaeus  connection with pehr elvius and daniel ekstrm  uppsala university  sweden     general citation  the uppsala astronomical observatory 
+citations  university of wisconsinmadison 
+and  uppsala university 
+    retrieved 9 may 2008 
+  oxford english dictionary  oxford university press  retrieved 20 november 2011 
+on
+lide  d r   ed   19901991   handbook of chemistry and physics  71st ed  crc press  p  422 
+the ice point of purified water has been measured to be 69958900000000000000.000089 10  degrees celsius  see magnum  b w   june 1995     nist technical note  1411  archived from
+ pdf  on july 14  2007  retrieved 11 february 2007 
+elert  glenn  2005     the physics factbook  retrieved 22 august 2007 
+  the nist reference on constants  units  and uncertainty  historical context of the si    2000  retrieved 16 november 2011 
+bipm 
+for more information on conventions used in technical writing  see the informative
+by the
+as well as the  s si brochure  subsection 5.3.3 
+ 22.2  
+ pdf   mountain view  ca  usa  the unicode consortium  august 2015    retrieved 6 september 2015 
+note  e  of
+decision  3 of
+h d  young  r a  freedman  2008   university physics with modern physics  12th ed    addison wesley  p  573
+this fact is demonstrated in the book biostatistics  a guide to design  analysis  and discovery by ronald n  forthofer  eun sul lee and mike hernandez
+    retrieved 9 may 2008 
+citation  london south bank university 
+external links  
+look up
+in wiktionary  the free dictionary 
+nist 
+the uppsala astronomical observatory 
+london south bank university 
+bipm 
+tampile 
+c to f converter 
+of
+celsius
+and
+degree celsius
+see also
+retrieved from   
+  hidden categories 

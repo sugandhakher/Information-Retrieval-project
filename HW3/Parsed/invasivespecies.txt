@@ -1,0 +1,386 @@
+invasivespecies
+from wikipedia  the free encyclopedia
+jump to 					 
+see also      and
+in   where they have a substantial impact on landscape and local ecology through  
+  a japanese vine species invasive in the southeast united states  growing in  
+an invasive species is a     or
+that is not native to a specific location  an    and which has a tendency to spread to a degree believed to cause damage to the environment  human economy or human health     
+one study pointed out widely divergent perceptions of the criteria for invasive species among researchers  p 135  and concerns with the subjectivity of the term  invasive   p 136   some of the alternate usages of the term are below 
+the term as most often used applies to introduced species  also called  non-indigenous  or  non-native   that adversely affect the
+and
+they invade economically  environmentally  or ecologically  such invasive species may be either plants or animals and may disrupt by dominating a region    particular   or
+land from loss of natural controls  such as
+or    this includes non-native
+labeled as exotic pest plants and invasive exotics growing in native   it has been used in this sense by
+organizations as well as conservation groups such as the
+ iucn  and the   the
+defines  invasive alien species  as those that are  firstly  outside their natural distribution area  and secondly  threaten   it is also used by land managers  botanists  researchers  horticulturalists  conservationists  and the public for   the
+ pueraria lobata  
+ cortaderia jubata   and
+ centaurea solstitialis  are examples 
+an alternate usage broadens the term to include indigenous or  native  species along with non-native species  that have colonized natural areas  p 136  
+are an example  considered to be overpopulating their native zones and adjacent suburban gardens  by some in the
+and
+regions of the united states   
+sometimes the term is used to describe a non-native or
+that has become widespread  p 136   however  not every
+has adverse effects on the environment  a nonadverse example is the common goldfish     which is found throughout the united states  but rarely achieves high densities  p 136  
+contents
+causes  
+scientists include species- and ecosystem factors among the mechanisms that when combined  establish invasiveness in a newly introduced species 
+species-based mechanisms  
+while all species compete to survive  invasive species appear to have specific traits or specific combinations of traits that allow them to outcompete   in some cases  the competition is about rates of growth and reproduction  in other cases  species interact with each other more directly 
+researchers disagree about the usefulness of traits as invasiveness markers  one study found that of a list of invasive and noninvasive species  86  of the invasive species could be identified from the traits alone  another study found invasive species tended to have only a small subset of the presumed traits and that many similar traits were found in noninvasive species  requiring other explanations  common invasive species traits include the following 
+fast growth
+rapid
+high
+ability
+ the ability to alter growth form to suit current conditions 
+tolerance of a wide range of environmental conditions   
+ability to live off of a wide range of food types   
+association with humans
+prior successful invasions
+typically  an introduced species must survive at low population densities before it becomes invasive in a new location  at low population densities  it can be difficult for the introduced species to reproduce and maintain itself in a new location  so a species might reach a location multiple times before it becomes established  repeated patterns of human movement  such as ships sailing to and from ports or cars driving up and down highways offer repeated opportunities for establishment  also known as a high   
+an introduced species might become invasive if it can outcompete native species for resources such as   light  physical space  water  or food  if these species evolved under great
+or   then the new environment may host fewer able competitors  allowing the invader to proliferate quickly  ecosystems in which are being used to their fullest capacity by native species can be modeled as
+systems in which any gain for the invader is a loss for the native  however  such
+competitive superiority  and extinction of native species with increased populations of the invader  is not the rule  invasive species often coexist with native species for an extended time  and gradually  the superior competitive ability of an invasive species becomes apparent as its population grows larger and denser and it adapts to its new location 
+growing in abandoned
+ 
+ 
+an invasive species might be able to use resources that were previously unavailable to native species  such as deep water sources accessed by a long   or an ability to live on previously uninhabited soil types  for example  barbed goatgrass    was introduced to
+on   which have low water-retention  low nutrient levels  a high   ratio  and possible
+toxicity  plant populations on these soils tend to show low density  but goatgrass can form dense stands on these soils and crowd out native species that have adapted poorly to serpentine soils 
+invasive species might alters its environment by releasing chemical compounds  modifying
+factors  or affecting the behaviour of herbivores  creating a positive or negative impact on other species  some species  like   produce   that might have an inhibitory effect on competing species  other species like
+the recruitment of seedlings of other species in arid environments by providing appropriate microclimatic conditions and preventing herbivory in early stages of development 
+another examples are
+ yellow starthistle  and centaurea diffusa     these
+have spread through the
+and   experiments show that   a chemical produced at the root of c  diffusa  has a negative effect only on plants that have not co-evolved with it  such co-evolved native plants have also evolved defenses  c  diffusa and c  solstitialis do not appear in their native habitats to be overwhelmingly successful competitors  success or lack of success in one habitat does not necessarily imply success in others  conversely  examining habitats in which a species is less successful can reveal novel weapons to defeat invasiveness 
+changes in fire regimens are another form of facilitation    originally from eurasia  is highly fire-adapted  it not only spreads rapidly after burning but also increases the frequency and intensity  heat  of fires by providing large amounts of dry
+during the fire season in western north america  in areas where it is widespread  it has altered the local fire regimen so much that native plants cannot survive the frequent fires  allowing b  tectorum to further extend and maintain dominance in its introduced range 
+facilitation also occurs where one species physically modifies a habitat in ways that are advantageous to other species  for example 
+increase habitat complexity on lake floors  providing crevices in which
+live  this increase in complexity  together with the nutrition provided by the waste products of mussel   increases the density and diversity of
+invertebrate communities 
+ecosystem-based mechanisms  
+in   the amount of available resources and the extent to which those resources are used by organisms determines the effects of additional species on the ecosystem  in stable ecosystems  equilibrium exists in the use of available resources  these mechanisms describe a situation in which the ecosystem has suffered a disturbance  which changes the fundamental nature of the ecosystem 
+when changes such as a
+occur  normal succession favors native
+and   an introduced species that can spread faster than natives can use resources that would have been available to native species  squeezing them out 
+and
+are often the limiting factors in these situations 
+every species occupies a
+in its native ecosystem  some species fill large and varied roles  while others are highly specialized  some invading species fill niches that are not used by native species  and they also can create new niches    an example of this type can be found within the
+species of skink 
+ecosystem changes can alter species  distributions  for example 
+describe what happens when part of an ecosystem is disturbed as when land is cleared for agriculture  the boundary between remaining undisturbed habitat and the newly cleared land itself forms a distinct habitat  creating new winners and losers and possibly hosting species that would not thrive outside the boundary habitat   
+one interesting finding in studies of invasive species has shown that introduced populations have great potential for rapid adaptation and this is used to explain how so many introduced species are able to establish and become invasive in new environments  when bottlenecks and founder effects cause a great decrease in the population size and may constrict genetic variation  the individuals begin to show additive variance as opposed to epistatic variance  this conversion can actually lead to increased variance in the founding populations which then allows for rapid adaptive evolution  following invasion events  selection may initially act on the capacity to disperse as well as physiological tolerance to the new stressors in the environment  adaptation then proceeds to respond to the selective pressures of the new environment  these responses would most likely be due to temperature and climate change  or the presence of native species whether it be predator or prey  adaptations include changes in morphology  physiology  phenology  and plasticity 
+rapid adaptive evolution in these species leads to offspring that have higher fitness and are better suited for their environment  intraspecific phenotypic plasticity  pre-adaptation and post-introduction evolution are all major factors in adaptive evolution  plasticity in populations allows room for changes to better suit the individual in its environment  this is key in adaptive evolution because the main goal is how to best be suited to the ecosystem that the species has been introduced  the ability to accomplish this as quickly as possible will lead to a population with a very high fitness  pre-adaptations and evolution after the initial introduction also play a role in the success of the introduced species  if the species has adapted to a similar ecosystem or contains traits that happen to be well suited to the area that it is introduced  it is more likely to fare better in the new environment  this  in addition to evolution that takes place after introduction  all determine if the species will be able to become established in the new ecosystem and if it will reproduce and thrive 
+ecology  
+traits of invaded ecosystems  
+in 1958  charles s  elton claimed that ecosystems with higher
+were less subject to invasive species because of fewer available niches  other ecologists later pointed to highly diverse  but heavily invaded ecosystems and argued that ecosystems with high species diversity were more susceptible to invasion 
+this debate hinged on the
+at which invasion studies were performed  and the issue of how diversity affects susceptibility remained unresolved as of 2011  small-scale studies tended to show a negative relationship between diversity and invasion  while large-scale studies tended to show the reverse  the latter result may be a side-effect of invasives  ability to capitalize on increased resource availability and weaker species interactions that are more common when larger samples are considered 
+the
+ boiga irregularis 
+invasion was more likely in ecosystems that were similar to the one in which the potential invader evolved  island ecosystems may be more prone to invasion because their species faced few strong competitors and predators  or because their distance from colonizing species populations makes them more likely to have  open  niches  an example of this phenomenon was the decimation of native bird populations on
+by the invasive     conversely  invaded ecosystems may lack the natural competitors and predators that check invasives  growth in their native ecosystems 
+invaded ecosystems may have experienced disturbance  typically human-induced  such a disturbance may give invasive species a chance to establish themselves with less competition from natives less able to adapt to a disturbed ecosystem 
+vectors  
+non-native species have many   including biogenic vectors  but most invasions are associated with human activity  natural
+extensions are common in many species  but the rate and magnitude of human-mediated extensions in these species tend to be much larger than natural extensions  and humans typically carry specimens greater distances than natural forces 
+an early human vector occurred when prehistoric humans introduced the
+ rattus exulans  to polynesia 
+ eriocheir sinensis 
+vectors include plants or seeds imported for   the
+moves animals across borders  where they can escape and become invasive  organisms stow away on transport vehicles 
+taken up at sea and released in port by transoceanic vessels is the largest vector for non-native aquatic species invasions 
+around the world on the average day  more than 3,000 different species of aquatic life may be transported on these vessels  for example  freshwater   native to the  
+and   probably reached the
+via ballast water from a transoceanic vessel  although the zebra mussel invasion was first noted in 1988  and a mitigation plan was successfully implemented shortly thereafter  the plan had  and continued to have as of 2005  a serious flaw or loophole  whereby ships that are loaded with cargo when they reach the
+need not be tested  but all the same they transfer ballast  puddles  between seaway ports 
+the arrival of invasive
+to a new site is a function of the site s invasibility 
+species have also been introduced intentionally  for example  to feel more  at home   american colonists formed  acclimation societies  that repeatedly imported birds that were native to europe to north america and other distant lands  in 2008  u s  postal workers in pennsylvania noticed noises coming from inside a box from taiwan  the box contained more than two dozen live beetles 
+entomologists identified them as     and   because these species were not native to the u s   they could have threatened native ecosystems  to prevent exotic species from becoming a problem in the u s   special handling and permits are required when living materials are shipped from foreign countries 
+programs such as
+ sitc  attempt to prevent exotic species outbreaks in america 
+economics plays a major role in exotic species introduction  high demand for the valuable
+is one explanation for the possible intentional release of the species in foreign waters   
+impacts of wildfire  
+invasive species often exploit disturbances to an ecosystem    roads  foot trails  to colonize an area  large wildfires can sterilize soils  while adding a variety of nutrients  in the resulting free-for-all  formerly entrenched species lose their advantage  leaving more room for invasives  in such circumstances plants that can regenerate from their roots have an advantage  non-natives with this ability can benefit from a low intensity fire burns that removes surface vegetation  leaving natives that rely on seeds for propagation to find their niches occupied when their seeds finally sprout 
+impact of wildfire suppression on spreading  
+wildfires often occur in remote areas  needing fire suppression crews to travel through pristine forest to reach the site  the crews can bring invasive seeds with them  if any of these stowaway seeds become established  a thriving colony of invasives can erupt in as few as six weeks  after which controlling the outbreak can need years of continued attention to prevent further spread  also  disturbing the soil surface  such as cutting firebreaks  destroys native cover  exposes soil  and can accelerate invasions  in suburban and
+areas  the vegetation clearance and brush removal ordinances of municipalities for
+can result in excessive removal of native shrubs and perennials that exposes the soil to more light and less competition for invasive plant species   
+fire suppression vehicles are often major culprits in such outbreaks  as the vehicles are often driven on back roads often overgrown with invasive plant species  the undercarriage of the vehicle becomes a prime vessel of transport  in response  on large fires  washing stations  decontaminate  vehicles before engaging in suppression activities    large wildfires attract firefighters from remote places  further increasing the potential for seed transport   
+effects  
+an
+attacking a   the
+is an invasive species which is posing a threat to many indigenous species  including the alligator
+ecological  
+land clearing and human habitation put significant pressure on local species  disturbed habitats are prone to invasions that can have adverse effects on local ecosystems  changing ecosystem functions  a species of wetland plant known as aeae in hawaii  the indigenous   is regarded as a pest species in artificially manipulated water bird refuges because it quickly covers shallow mudflats established for endangered hawaiian stilt     making these undesirable feeding areas for the birds 
+multiple successive introductions of different non-native species can have interactive effects  the introduction of a second non-native species can enable the first invasive species to flourish  examples of this are the introductions of the
+ gemma gemma  and the european green crab     the gem clam was introduced into california s
+from the east coast of the united states a century ago  it had been found in small quantities in the harbor but had never displaced the native clam species  nutricola spp    in the mid-1990s  the introduction of the european green crab  found to prey preferentially on the native clams  resulted in a decline of the native clams and an increase of the introduced clam populations 
+in the
+region of   cattle grazing over the past six centuries has allowed invasive scrub and small trees to displace much of the original   resulting in a massive reduction in
+for native bovids and other grazers  since the 1970s  large scale efforts have been underway to reduce invasive species  partial success has led to re-establishment of many species that had dwindled or left the region  examples of these species are      
+and  
+invasive species can change the functions of ecosystems  for example  invasive plants can alter the fire regimen  cheatgrass     nutrient cycling  smooth cordgrass    and hydrology    in native ecosystems  invasive species that are closely related to rare native species have the potential to hybridize with the native species  harmful effects of hybridization have led to a decline and even extinction of native species  for example  hybridization with introduced cordgrass  spartina alterniflora  threatens the existence of california cordgrass    in san francisco bay  invasive species cause competition for native species and because of this 400 of the 958 endangered species under the endangered species act are at risk
+geomorphological  
+primary geomorphological effects of invasive plants are bioconstruction and bioprotection  for example  kudzu   a vine native to asia was widely introduced in the southeastern usa in the early 20th century to control soil erosion  while primary effects of invasive animals are bioturbation  bioerosion  and bioconstruction  for example  invasion of chinese mitten crab
+have resulted in higher bioturbation and bioerosion rates 
+economic  
+economic opportunities  
+some invasions offer potential commercial benefits  for instance 
+and
+can be harvested for human food and exported to markets already familiar with the product  or processed into   or
+feed 
+can be turned into fuel by   and other invasive plants can also be harvested and utilized as a source of  
+benefits  
+non-native species can have benefits    for example  filter water pollutants better than native   oysters  they also grow faster and withstand disease better than natives  biologists are currently considering releasing this
+in the
+to help restore oyster stocks and remove pollution  a recent study by the
+found the asian oyster could significantly benefit the bay s deteriorating water quality  additionally  some species have invaded an area so long ago that they have found their own beneficial niche in the environment  for example    shown by population genetic analysis to be an invasive species in north america  has become an important pollinator of
+as well as     and blueberry bushes 
+invasivorism  
+invasive species are flora and fauna whose introduction into a habitat disrupts the native eco-system  in response  invasivorism is a movement that explores the idea of eating invasive species in order to control  reduce  or eliminate their populations  chefs from around the world have begun seeking out and using invasive species as alternative ingredients 
+of  
+created the first invasive species menu in the world  skeptics point out that once a foreign species has entrenched itself in a new placesuch as the indo-pacific lionfish that has now virtually taken over the waters of the western atlantic  caribbean and gulf of mexicoeradication is almost impossible  critics argue that encouraging consumption might have the unintended effect of spreading harmful species even more widely 
+a dish that features whole fried invasive lionfish at fish fish of miami  florida
+proponents of invasivorism argue that humans have the ability to eat away any species that it has an appetite for  pointing to the many animals which humans have been able to hunt to extinction - such as the
+bird  the   and the   proponents of invasivorism also point to the success that jamaica has had in significantly decreasing the population of
+by encouraging the consumption of the fish 
+costs  
+economic costs from invasive species can be separated into direct costs through production loss in agriculture and forestry  and management costs  estimated damage and control cost of invasive species in the u s  alone amount to more than  138billion annually  economic losses can also occur through loss of recreational and tourism revenues  when economic costs of invasions are calculated as production loss and management costs  they are low because they do not consider environmental damage  if monetary values were assigned to the extinction of species  loss in biodiversity  and loss of   costs from impacts of invasive species would drastically increase  the following examples from different sectors of the economy demonstrate the impact of biological invasions 
+plant industry  
+weeds reduce yield in agriculture  though they may provide essential nutrients  some deep-rooted weeds can  mine  nutrients  see   from the subsoil and deposit them on the topsoil  while others provide habitat for beneficial insects or provide foods for pest species  many weed species are accidental introductions that accompany seeds and imported plant material  many introduced weeds in pastures compete with native forage plants  threaten young cattle  e g   leafy spurge    or are unpalatable because of thorns and spines  e g      forage loss from invasive weeds on pastures amounts to nearly 1billion in the u s  alone  a decline in pollinator services and loss of fruit production has been caused by
+infected by the invasive   introduced rats   and   have become serious pests on farms  destroying stored grains 
+invasive plant pathogens and insect vectors for plant diseases can also suppress agricultural yields and nursery stock  citrus greening is a bacterial disease vectored by the invasive asian citrus psyllid  acp   because of the impacts of this disease on citrus crops  citrus is under quarantine and highly regulated in areas where acp has been found 
+aquaculture  
+is a very common vector of species introductions  mainly of species with economic potential  e g    
+forestry  
+see also 
+poster asking campers to not move firewood around  avoiding the spread of invasive species 
+the unintentional introduction of forest pest species and plant pathogens can change
+and damage the timber industry  overall  forest ecosystems in the u s  are widely invaded by exotic pests  plants  and pathogens 
+the asian long-horned beetle    was first introduced into the u s  in 1996  and was expected to infect and damage millions of acres of hardwood trees  as of 2005 thirty million dollars had been spent in attempts to eradicate this pest and protect millions of trees in the affected regions  the
+has inflicted damage on old-growth spruce  fir and
+forests and damages the
+industry  and the chestnut blight fungus    and dutch elm disease    are two plant pathogens with serious impacts on these two species  and forest health  garlic mustard    is one of the most problematic invasive plant species in eastern north american forests  the characteristics of garlic mustard are slightly different from those of the surrounding native plants  which results in a highly successful species that is altering the composition and function of the native communities it invades  when garlic mustard invades the understory of a forest  it affects the growth rate of tree seedlings  which is likely to alter forest regeneration of impact forest composition in the future 
+tourism and recreation  
+invasive species can impact outdoor recreation  such as fishing  hunting  hiking  wildlife viewing  and water-based activities  they can damage a wide array of environmental services that are important to recreation  including  but not limited to  water quality and quantity  plant and animal diversity  and species abundance  eiswerth states   very little research has been performed to estimate the corresponding economic losses at spatial scales such as regions  states  and watersheds   eurasian watermilfoil    in parts of the us  fill lakes with plants complicating fishing and boating  the very loud call of the introduced
+depresses real estate values in affected neighborhoods of  
+health  
+encroachment of humans into previously remote ecosystems has exposed exotic diseases such as
+to the wider population  introduced birds  e g  pigeons   rodents and insects  e g  mosquito  flea  louse and
+pests  can serve as vectors and reservoirs of human afflictions  the introduced chinese mitten crabs are carriers of   throughout recorded history  epidemics of human diseases  such as       and   spread via these vectors  a recent example of an introduced disease is the spread of the   which killed humans  birds  mammals  and reptiles  waterborne disease agents  such as
+bacteria     and causative agents of
+are often transported via ballast water  invasive species and accompanying control efforts can have long term public health implications  for instance  pesticides applied to treat a particular pest species could pollute soil and surface water 
+biodiversity  
+main article 
+biotic invasion is considered one of the five top drivers for global biodiversity loss and is increasing because of tourism and     this may be particularly true in inadequately regulated
+systems  though
+and
+rules have improved the situation 
+invasive species may drive local native species to extinction via
+exclusion 
+displacement  or
+with related native species  therefore  besides their economic ramifications  alien invasions may result in extensive changes in the structure  composition and global distribution of the biota of sites of introduction  leading ultimately to the homogenisation of the worlds fauna and flora and the loss of biodiversity  nevertheless  it is difficult to unequivocally attribute extinctions to a species invasion  and the few scientific studies that have done so have been with animal taxa  concern over the impacts of invasive species on biodiversity must therefore consider the actual evidence  either ecological or economic   in relation to the potential risk   
+alien invasive species parthenium hysterophorus smothering native flora in achanakmar tiger reserve  bilaspur  chhattisgarh  india 
+genetic pollution  
+main article 
+native
+can be threatened with
+through the process of   genetic pollution is unintentional
+and   which leads to homogenization or replacement of local
+as a result of either a numerical or
+advantage of the introduced species  genetic pollution can operate either through introduction or through habitat modification  bringing previously isolated species into contact  hybrids resulting from rare species that interbreed with abundant species can swamp the rarer species  gene pool  this is not always apparent from
+observations alone  some degree of
+is normal  and preserves constellations of
+and genotypes  an example of this is the interbreeding of migrating
+with the   in areas of eastern north carolina where the red wolf was reintroduced   
+study  
+see also 
+stage
+characteristic
+0
+propagules residing in a donor region
+i
+traveling
+ii
+introduced
+iii
+localized and numerically rare
+iva
+widespread but rare
+ivb
+localized but dominant
+v
+widespread and dominant
+while the study of invasive species can be done within many subfields of biology  the majority of research on invasive organisms has been within the field of
+and
+where the issue of biological invasions is especially important  much of the study of invasive species has been influenced by
+1958 book the ecology of invasion by animals and plants which drew upon the limited amount of research done within disparate fields to create a generalized picture of biological invasions  studies on invasive species remained sparse until the 1990s when research in the field experienced a large amount of growth which continues to this day  this research  which has largely consisted of field observational studies  has disproportionately been concerned with   the rapid growth of the field has driven a need to standardize the language used to describe invasive species and events  despite this  little standard terminology exists within the study of invasive species which itself lacks any official designation but is commonly referred to as  invasion ecology  or more generally  invasion biology   this lack of standard terminology is a significant problem  and has largely arisen due to the interdisciplinary nature of the field which borrows terms from numerous disciplines such as agriculture  zoology  and pathology  as well as due to studies on invasive species being commonly performed in isolation of one another 
+in an attempt to avoid the ambiguous  subjective  and pejorative vocabulary that so often accompanies discussion of invasive species even in scientific papers  colautti and macisaac proposed a new nomenclature system based on
+rather than on  
+by discarding taxonomy  human health  and economic factors  this model focused only on ecological factors  the model evaluated individual populations rather than entire species  it classified each population based on its success in that environment  this model applied equally to indigenous and to introduced species  and did not automatically categorize successful introductions as harmful 
+see also  
+ invasives species of
+on other planets 
+for a review of the terminology used in invasion biology 
+invasive species by country
+references  
+this article incorporates cc-by-3.0 text from the reference
+notes
+  non-native species secretariat  accessed august 31  2014 
+ 
+  robert i  colautti et al   diversity and distributions   diversity distrib    2004  10  135141 
+exotic pest plant council     accessed 4/10/2010 
+ september 21  2006     united states department of agriculture  national agriculture library  retrieved on september 1  2007 
+usa  1999    executive order 13112 of february 3  1999  invasive species   federal register  64  25   61836186 
+ pdf   retrieved 2011-05-17 
+  p  1  accessed 4/10/2010 
+ 
+kolar  c s   d m  lodge  2001    progress in invasion biology  predicting invaders   trends in ecology   evolution  16  4   199204      
+thebaud  c   a c  finzi  l  affre  m  debussche  j  escarre  1996    assessing why two introduced conyza differ in their ability to invade mediterranean old fields   ecology  77  3   791804       cs1 maint  multiple names  authors list   
+reichard  s h   c  w  hamilton  1997    predicting invasions of woody plants introduced into north america   conservation biology  11  1   193203    
+ 
+williams  j d   g  k  meffe  1998    nonindigenous species   status and trends of the nation s biological resources  reston  virginia  united states department of the interior  geological survey  1 
+ewell  j j   d j  odowd  j  bergelson  c c  daehler  c m  dantonio  l d  gomez  d r  gordon  r j  hobbs  a  holt  k r  hopper  c e  hughes  m  lahart  r r b  leakey  w g  wong  l l  loope  d h  lorence  s m  louda  a e  lugo  p b  mcevoy  d m  richardson  and p m  vitousek  1999    deliberate introductions of species  research needs - benefits can be reaped  but risks are high   bioscience  49  8   619630       cs1 maint  multiple names  authors list   
+ 
+tilman  d   2004     proceedings of the national academy of sciences  101  30   1085410861        
+verling  e   g m  ruiz  l d  smith  b  galil  a w  miller  and k r  murphy  2005       272  1569   12491256         cs1 maint  multiple names  authors list   
+stohlgren  t j   d  binkley  g w  chong  m a  kalkhan  l d  schell  k a  bull  y  otsuki  g  newman  m  bashkin  and y  son  chong  geneva w   kalkhan  mohammed a   schell  lisa d   bull  kelly a   otsuki  yuka  newman  gregory  bashkin  michael  son  yowhan  1999    exotic plant species invade hot spots of native plant diversity   ecological monographs  69  2546     cs1 maint  multiple names  authors list   
+sax  d f   s  d  gaines and j  h  brown  2002    species invasions exceed extinctions on islands worldwide  a comparative study of plants and birds   american naturalist  160  6   766783      
+huenneke  l   s  hamburg  r  koide  h  mooney  p  vitousek  1990    effects of soil resources on plant invasion and community structure in california  usa  serpentine grassland   ecology  71  2   478491      
+herrera  ileana  ferrer-paris  jos r   hernndez-rosas  jos i   nassar  jafet m   2016  
+ pdf   journal of arid environments  132  1525     retrieved 6 may 2016 
+hierro  j l   r m  callaway  2003    allelopathy and exotic plant invasion   plant and soil  256  1   2939    
+vivanco  j m   bais  h p   stermitz  f r   thelen  g c   callaway  r m   2004    biogeographical variation in community response to root allelochemistry  novel weapons and exotic invasion   ecology letters  7  4   285292    
+ 
+brooks  m l   d antonio  c m   richardson  d m   grace  j b   keeley  j e   ditomaso  j m   hobbs  r j   pellant  m   pyke  d   2004    effects of invasive alien plants on fire   bioscience  54  7   677688    
+silver botts  p   patterson  b a   schlosser  d   1996    zebra mussel effects on benthic invertebrates  physical or biotic    journal of the north american benthological society  15   179184 
+byers  j e   2002    impact of non-indigenous species on natives enhanced by anthropogenic alteration of selection regimes   oikos  97  3   449458    
+ 
+davis  m a   grime  j p   thompson  k   2000    fluctuating resources in plant communities  a general theory of invisibility   journal of ecology  88  3   528534    
+xu  cheng-yuan  tang  shaoqing  fatemi  mohammad  gross  caroline l   julien  mic h   curtis  caitlin  van klinken  rieks d   2015-09-01     ecosphere  6  9   121      
+prentis  peter   adaptive evolution in invasive species   trends in plant science  13  6   288294    
+lee  carol eunmi   evolutionary genetics of invasive species   trends in ecology   evolution  17  8   386391    
+zenni  r d   adaptive evolution and phenotypic plasticity during naturalization and spread of invasive species  implications for tree invasion biology   biological invasions  16  3   635644    
+ 
+elton  c s   2000   1958   the ecology of invasions by animals and plants  foreword by daniel simberloff  chicago  university of chicago press  p 196   
+stohlgren  t j   binkley  d   chong  g w   kalkhan  m a   schell  l d   bull  k a   otsuki  y   newman  g   bashkin  m   son  y   1999    exotic plant species invade hot spots of native plant diversity   ecological monographs  69  2546    
+byers  j e   e g  noonburg  2003    scale dependent effects of biotic resistance to biological invasion   ecology  84  6   14281433    
+levine  j  m   2000    species diversity and biological invasions  relating local process to community pattern   science  288  5467   852854      
+williams  j d   g  k  meffe  1998    nonindigenous species   status and trends of the nation s biological resources  reston  virginia  united states department of the interior  geological survey  1 
+stachowicz  j j   d  tilman  2005    species invasions and the relationships between species diversity  community saturation  and ecosystem functioning   in d f  sax  j j  stachowicz  s d  gaines  species invasions  insights into ecology  evolution  and biogeography  sunderland  massachusetts  sinauer associates   
+cassey  p  t m  blackburn  r p  duncan  s l  chown  2005    concerning invasive species  reply to brown and sax   austral ecology  30  4   475480    
+matisoo-smith  e   r m  roberts  g j  irwin  j s  allen  d  penny  d m  lambert  1998     proceedings of the national academy of sciences of the united states of america  95  25   1514515150        
+molnar  jennifer l  gamboa  rebecca l  revenga  carmen  spalding  mark d  2008    assessing the global threat of invasive species to marine biodiversity   frontiers in ecology and the environment  6  9   485492      
+xu  jian  wickramarathne  thanuka l   chawla  nitesh v   grey  erin k   steinhaeuser  karsten  keller  reuben p   drake  john m   lodge  david m   2014    improving management of aquatic invasions by integrating shipping network  ecological  and environmental data   proceedings of the 20th acm sigkdd international conference on knowledge discovery and data mining - kdd  14  16991708    
+f  moretzsohn  j a  snchez chvez  j w  tunnell  jr   eds      gulfbase  resource database for gulf of mexico research  harte research institute for gulf of mexico studies at texas a m university-corpus christi  retrieved march 19  2013 
+aquatic invasive species  a guide to least-wanted aquatic organisms of the pacific northwest  2001  university of washington
+leung  b   n e  mandrak  2007       274  1625   27332739        
+  ars usda gov  retrieved 2011-05-17 
+grosholz  e d   2005       102  4   10881091        
+mack  r   d  simberloff  w m  lonsdale  h  evans  m  clout  f a  bazzazf  2000    biotic invasions  causes  epidemiology  global consequences  and control     10  3   689710    
+hawkes  c v   i f  wren  d j  herman  m k  firestone  2005    plant invasion alters nitrogen cycling by modifying the soil nitrifying community     8  9   976985    
+rhymer  j  m   simberloff  d   1996    extinction by hybridization and introgression     27  1   83109    
+ayres  d   et al   2004    spread of exotic cordgrasses and hybrids  spartina sp   in the tidal marshes of san francisco bay  california   usa biological invasions  6  2   221231    
+primtel  david  2005    update on the environmental and economic costs associated with alien-invasive species in the united states     52  273288    
+fei  s   j  philips  m  shouse  2015    biogeomorphic impacts of invasive species     45  6987    
+energy from vascular plant wastewater treatment systems - eichhornia crassipes  spirodela lemna  hydrocotyle ranunculoides  pueraria lobata 
+harvested for fuel production  by b c  wolverton and r c  mcdonald  1981  econ  bot  35 2  224-232  cited in   by j  duke 
+tom pelton    may 26  2006 
+zayed  amro  constantin  erban a   packer  laurence  2007-09-12     plos one  2  9   e868          
+adamson  nancy lee    diss  2011  web  15 oct  2015 
+  
+  
+  
+ 
+pimentel  d   r   zuniga  morrison  d  2005    update on the environmental and economic costs associated with alien-invasive species in the united states   ecological economics  52  3   273288    
+simberloff  d   2001    biological invasions - how are they affecting us  and what can we do about them    western north american naturalist  61  308315 
+2013   citrus greening   invasive species program - pest alerts 
+- dpi    accessed 24 may 2013 
+azevedo-santos  v m   o  rigolin-s  f m  pelicice  2011       9  4   9159      
+liebhold  s   et al   2013    a highly aggregated geographical distribution of forest pest invasions in the usa   diversity and distribution  19  9   12081216    
+oswalt  c   et al   2015     neobiota  24  4954    
+forestpests org  march 3  2005  retrieved on september 1  2007 
+scott e  schlarbaum  frederick hebard  pauline c  spaine  joseph c  kamalay  1997      originally published via  proceedings  exotic pests of eastern forests   1997 april 810   nashville  tn  tennessee exotic pest plant council  45-54    southern research station      retrieved june 22  2012 
+alternative link and additional publication citation information  tree search  us forest service  usda 
+rodger  vikki  stinson  kristin  finzi  adrian  2008    ready or not  garlic mustard is moving in  alliaria petiolata as a member of eastern north american forests   bioscience  58  5    
+eiswerth  m e   darden  tim d   johnson  wayne s   agapoff  jeanmarie  harris  thomas r   2005    input-output modeling  outdoor recreation  and the economic impacts of weeds   weed science  53  130137    
+  greatlakes net  retrieved on september 1  2007 
+sin  hans  adam radford  2007  
+ pdf   managing vertebrate invasive species  proceedings of an international symposium  g  w  witmer  w  c  pitt  k  a  fagerstone  eds   usda aphis ws  national wildlife research center  fort collins  co  retrieved 2013-06-26 
+aquatic invasive species  a guide to least-wanted aquatic organisms of the pacific northwest  2001  university of washington
+lanciotti  r  s   roehrig  j  t   deubel  v   smith  j   parker  m   steele  k   crise  b   volpe  k  e   et al   1999    origin of the west nile virus responsible for an outbreak of encephalitis in the northeastern united states   science  286  5448   23332337      
+hallegraeff  g m   1998    transport of toxic dinoflagellates via ships  ballast water  bioeconomic risk assessment and efficacy of possible ballast water management strategies     168  297309    
+ 2005  
+ pdf    
+ 
+odendaal  l  j   haupt  t  m   griffiths  c  l   2008    the alien invasive land snail theba pisana in the west coast national park  is there cause for concern        50  1   9398    
+mooney  ha  cleland  ee  2001       98  10   544651        
+  nativeseednetwork org  retrieved 2011-05-17 
+rhymer  judith m   simberloff  daniel   extinction by hybridization and introgression   annual review of ecology and systematics  27  83109    
+ 
+lockwood  julie l   martha f  hoopes  michael p  marchetti  2007  
+ pdf   blackwell publishing  p 7  retrieved 21 january 2014 
+ 
+lowry  e  rollinson  ej  laybourn  aj  scott  te  aiello-lammens  me  gray  sm  mickley  j  gurevitch  j  2012     ecology and evolution  3  1   18296        
+colautti  robert i   hugh j  macisaac  2004  
+ pdf   diversity and distributions  10  2   135141     retrieved 2007-09-01 
+further reading
+derickx  lisa  pedro m  antunes  2013   a guide to the identification and control of exotic invasive species in ontario s hardwood forests  invasive species research institute - algoma university  p 294   
+baskin  yvonne  2003   a plague of rats and rubbervines  the growing threat of species invasions  island press  p 377   
+burdick  alan  2006   2005   out of eden  an odyssey of ecological invasion  farrar straus and giroux  p 336   
+davis  mark a   2009   invasion biology  oxford university press  p 243   
+elton  charles s   2000   first published 1958   the ecology of invasions by animals and plants  university of chicago press  p 196   
+lockwood  julie  martha hoopes  michael marchetti  2007   2006   invasion ecology  blackwell publishing  p 304   
+mcneeley  jeffrey a   2001   the great reshuffling  human dimensions of invasive alien species  world conservation union  iucn   p 109   
+terrill  ceiridwen  2007   unnatural landscapes  tracking invasive species  university of arizona press  p 240   
+van driesche  jason  roy van driesche  2004   nature out of place  biological invasions in the global age  island press  p 377   
+external links  
+at
+  a consortium that uses a coordinated network to advance science-based understanding and enhance management of non-native  invasive species 
+  an encyclopaedic resource that draws together scientific information on all aspects of invasive species 
+  national invasive species information center    lists general information and resources for invasive species 
+schierenbeck  kristina a   lee  carol eunmi  holt  robert d   february 26  2010     evolutionary applications    3  2   96        
+from the original on march 30  2014  retrieved march 30  2014 
+- global invasive species database
+project   
+of the
+and
+  inland fisheries ireland
+belgian forum on invasive species  bfis 
+- part of the continental dialogue on non-native forest insects and diseases
+dentinger  rachel  17 jan 2012       retrieved 16 july 2013 
+aspects
+issues
+global
+other
+invasive species
+theories
+notable
+scholars
+   
+components
+general
+example webs
+processes
+defense counter
+    other components
+species
+invasive species
+species interaction
+other
+ 
+ 
+retrieved from   
+  hidden categories 

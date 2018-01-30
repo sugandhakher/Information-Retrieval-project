@@ -1,0 +1,148 @@
+energyconservation
+from wikipedia  the free encyclopedia
+jump to 					 
+this article is about sustainable energy use  for the law of conservation of energy in physics  see  
+part of a series about
+energy conservation
+energy conservation refers to reducing
+through using less of an energy service  energy conservation differs from   which refers to using less energy for a constant service  driving less is an example of energy conservation  driving the same amount with a higher mileage vehicle is an example of energy efficiency  energy conservation and efficiency are both energy reduction techniques  energy conservation is a part of the concept of  
+even though energy conservation reduces energy services  it can result in increased
+quality   
+and higher   it is at the top of the sustainable   it also lowers energy costs by preventing future  
+contents
+energy tax  
+some countries employ
+or
+to motivate energy users to reduce their consumption  carbon taxes can allow consumption to shift to nuclear power and other alternatives that carry a different set of environmental side effects and limitations  meanwhile  taxes on all energy consumption stand to reduce energy use across the board  while reducing a broader array of environmental consequences arising from energy production  the state of california employs a tiered energy tax whereby every consumer receives a baseline energy allowance that carries a low tax  as usage increases above that baseline  the tax is increasing drastically  such programs aim to protect poorer households while creating a larger tax burden for high energy consumers 
+building design  
+one of the primary ways to improve energy conservation in buildings is to use an   an energy audit is an
+and analysis of energy use and flows for energy conservation in a building  process or system to reduce the amount of energy input into the system without negatively affecting the output s   this is normally accomplished by trained professionals and can be part of some of the national programs discussed above  in addition  recent development of
+apps enable homeowners to complete relativily sophisticated energy audits themselves 
+building technologies and smart meters can allow energy users  business and residential  to see graphically the impact their energy use can have in their workplace or homes  advanced real-time energy metering is able to help people save energy by their actions 
+elements of passive solar design  shown in a direct gain application
+in   windows  walls  and floors are made to collect  store  and distribute
+in the form of heat in the winter and reject solar heat in the summer  this is called passive solar design or climatic design because  unlike active
+systems  it doesn t involve the use of mechanical and electrical devices 
+the key to designing a passive solar building is to best take advantage of the local   elements to be considered include window placement and glazing type      and shading  passive solar design techniques can be applied most easily to new buildings  but existing buildings can be retrofitted 
+transportation  
+in the united states  suburban infrastructure evolved during an age of relatively easy access to fossil fuels  which has led to transportation-dependent systems of living  zoning reforms that allow greater
+as well as designs for walking and bicycling can greatly reduce energy consumed for transportation  the use of telecommuting by major corporations is a significant opportunity to conserve energy  as many americans now work in service jobs that enable them to work from home instead of commuting to work each day 
+consumer products  
+an assortment of energy-efficient semiconductor  led  lamps for commercial and residential lighting use  led lamps use at least 75  less energy  and last 25 times longer  than traditional incandescent light bulbs 
+consumers are often poorly informed of the savings of energy efficient products  a prominent example of this is the energy savings that can be made by replacing an
+with a more modern alternative  when purchasing light bulbs  many consumers opt for cheap incandescent bulbs  failing to take into account their higher energy costs and lower lifespans when compared to modern
+and   although these energy-efficient alternatives have a higher upfront cost  their long lifespan and low energy use can save consumers a considerable amount of money  the price of leds has also been steadily decreasing in the past five years  due to improvement of the semiconductor technology  many led bulbs on the market qualify for utility rebates that further reduce the price of purchase to the consumer  estimates by the u s  department of energy state that widespread adoption of led lighting over the next 20 years could result in about  265 billion worth of savings in united states energy costs 
+the research one must put into conserving energy is often too time consuming and costly for the average consumer  when there are cheaper products and technology available using today s fossil fuels  some governments and ngos are attempting to reduce this complexity with
+that make differences in energy efficiency easy to research while shopping 
+to provide the kind of information and support people need to invest money  time and effort in energy conservation  it is important to understand and link to people s topical concerns  for instance  some retailers argue that bright
+stimulates purchasing  however  health studies have demonstrated that       fatigue and worker error all generally increase with the common
+present in many workplace and retail settings  it has been shown that natural
+increases productivity levels of workers  while reducing energy consumption 
+in warm climates where air conditioning is used  any household device that gives off heat will result in a larger load on the cooling system  items such as a stove  dish washer  clothes dryer  hot water and incandescent lighting all add heat to the home  low power or insulated versions of these devices give off less heat for the air conditioning to remove  the air conditioning system can also improve in efficiency by using a heat sink that is cooler than the standard air heat exchanger such as geothermal or water 
+in cold climates heating air and water is a major demand on household energy use  by investing in newer technologies in the home  significant energy reductions are possible 
+are a more efficient alternative to using electrical resistance heaters for warming air or water  a variety of efficient
+are available  and the classic
+requires no energy  only time  natural gas
+and hot air furnaces increase efficiency over standard hot flue models  new construction implementing
+can capture heat from waste water or exhaust air in bathrooms  laundry and kitchens 
+in both warm and cold climate extremes  airtight thermal
+will largely determine the efficiency of a home  insulation is added to minimize the flow of heat to or from the home  but can be labor-intensive to retrofit to an existing home 
+energy conservation by the countries  
+asia  
+despite the vital role energy efficiency is envisaged to play in cost-effectively cutting energy demand  only a small part of its economic potential is exploited in the asia  governments have implemented a range of subsidies such as cash grants  cheap credit  tax exemptions  and co-financing with public-sector funds to encourage a range of energy-efficiency initiatives across several sectors  governments in the asia-pacific region have implemented a range of information provision and labeling programs for buildings  appliances  and the transportation and industrial sectors  information programs can simply provide data  such as fuel-economy labels  or actively seek to encourage behavioral changes  such as japans
+that encourages setting air conditioners at 28-degrees celsius and allowing employees to dress casually in the summer 
+european union  
+at the end of 2006  the
+ eu  pledged to cut its annual consumption of primary energy by 20  by 2020  the  european union energy efficiency action plan  is long awaited  directive 2012/27 eu is on energy efficiency 
+as part of the eu s save programme  aimed at promoting energy efficiency and encouraging energy-saving behaviour  the
+efficiency directive specifies minimum levels of efficiency for boilers fired with liquid or gaseous fuels 
+india  
+ pcra  is an indian government body created in 1977 and engaged in promoting energy efficiency and conservation in every walk of life  in the recent past pcra has done mass media campaigns in television  radio   print media  an impact assessment survey by a third party revealed that due to these mega campaigns by pcra  overall awareness level have gone up leading to saving of fossil fuels worth crores of rupees indian currency  besides reducing pollution 
+is an indian governmental organization created in 2001 responsible for promoting energy efficiency and conservation 
+japan  
+advertising with high energy in    
+since the   energy conservation has been an issue in   all oil based fuel is imported  so indigenous
+is being developed 
+the energy conservation center promotes energy efficiency in every aspect of   public entities are implementing the efficient use of energy for industries and research  it includes projects such as the top runner program  in this project  new appliances are regularly tested on efficiency  and the most efficient ones are made the standard 
+lebanon  
+in lebanon and since 2002
+has been promoting the development of efficient and rational uses of energy and the use of renewable energy at the consumer level  it was created as a project financed by the international environment facility  gef  and the ministry of energy water  mew  under the management of the united nations development programme  undp  and gradually established itself as an independent technical national center although it continues to be supported by the united nations development programme  undp  as indicated in the memorandum of understanding  mou  signed between mew and undp on june 18  2007 
+nepal  
+until recently 
+has been focusing on the exploitation of its huge water resources to produce hydro power  demand side management and energy conservation was not in the focus of government action  in 2009  bilateral development cooperation between nepal and the federal republic of germany  has agreed upon the joint implementation of nepal energy efficiency programme  the lead executing agencies for the implementation are the water and energy commission secretariat  wecs   the aim of the programme is the promotion of energy efficiency in policy making  in rural and urban households as well as in the industry  due to the lack of a government organization that promotes energy efficiency in the country  the
+has established the energy efficiency centre under his roof to promote energy conservation in the private sector  the energy efficiency centre is a non-profit initiative that is offering energy auditing services to the industries  the centre is also supported by nepal energy efficiency programme of   a study conducted in 2012 found out that nepalese industries could save 160,000 megawatt hours of electricity and 8,000 terajoule of thermal energy  like diesel  furnace oil and coal  every year  these savings are equivalent to annual energy cost cut of up to 6.4 billion nepalese rupees  as a result of nepal economic forum 2014  an economic reform agenda in the priority sectors was declared focusing on energy conservation among others  in the energy reform agenda the government of nepal gave the commitment to introduce incentive packages in the budget of the fiscal year 2015/16 for industries that practices energy efficiency or use efficient technologies  incl  cogeneration  
+new zealand  
+in
+the
+is the government agency responsible for promoting energy efficiency and conservation  the
+is a membership based organization representing the new zealand energy services sector  providing training and accreditation services with the aim of ensuring energy management services are credible and dependable 
+nigeria  
+in nigeria  the lagos state government is encouraging lagosians to imbibe an energy conservation culture  the lagos state electricity board  lseb  is spearheading an initiative tagged conserve energy  save money under the ministry of energy and mineral resources  the initiative is designed to sensitize lagosians around the theme of energy conservation by connecting with and influencing their behavior through do-it-yourself tips and exciting interaction with prominent personalities  in september 2013 
+of lagos state and rapper jude mi abaga  campaign ambassador    participated in the governor s first ever google  hangout on the topic of energy conservation 
+in addition to the hangout  during the month of october  the official energy conservation month in the state   lseb hosted experience centers in malls around lagos state where members of the public were encouraged to calculate their current household energy consumption and discover ways to save money using the 1st-ever consumer-focused energy app in sub-saharan africa  to get lagosians started on energy conservation  solar lamps and phillips energy-saving bulbs were also given out at each experience center  pictures from the experience centers    
+sri lanka  
+sri lanka currently consumes      
+and
+for their day to day power generation  the
+is playing a major role regarding energy management and energy conservation  today  most of the industries are requested to reduce their energy consumption by using renewable energy sources and optimizing their energy usage 
+turkey  
+aims to decrease by at least 20  the amount of energy consumed per gdp of turkey by the year 2023  energy intensity  
+united states  
+main article 
+the united states is currently the second largest single consumer of energy  following china  the
+categorizes national energy use in four broad sectors  transportation  residential  commercial  and industrial 
+energy usage in transportation and residential sectors  about half of u s  energy consumption  is largely controlled by individual   commercial and industrial energy expenditures are determined by businesses entities and other facility managers  national energy policy has a significant effect on energy usage across all four sectors 
+see also  
+ umi 
+references  
+    retrieved 2016-06-07 
+zehner  ozzie  2011  
+ pdf   retrieved 2016-06-14 
+  renewable energy world  retrieved 2016-06-14 
+  alliance to save energy  ase   20 july 2012  retrieved 2016-06-14 
+zehner  ozzie  2012     lincoln and london  university of nebraska press  pp 179182 
+patrick leslie  joshua pearce  rob harrap  sylvie daniel      international journal of sustainable energy 31 5   pp  295-311  2012  
+july 2009 european commission s directorate-general for energy and transport initiative   energy savings from intelligent metering and behavioural change  intelligent metering     2009
+may 23  2007  at the  
+ 
+ 
+ 
+commission  california energy   
+  the economist  2008-05-08  retrieved 2013-08-21 
+breukers  heiskanen  et al   2009   interaction schemes for successful demand-side management 
+project  funded by the ec   213217 
+august 20  2011  at the  
+scott davis  dana k  mirick  richard g  stevens  2001     journal of the national cancer institute  93  20   15571562      
+bain  a  1997    the hindenburg disaster  a compelling theory of probable cause and effect   procs  natl hydr  assn  8th ann  hydrogen meeting  alexandria  va   march 1113  125128 
+lumina technologies inc   santa rosa  ca   survey of 156 california commercial buildings energy use  august  1996
+  nbr org  2013-04-22  retrieved 2013-08-21 
+  ec europa eu  retrieved 2010-07-29 
+  official journal of the european union  l 315  156  14 november 2012  retrieved 2016-08-03 
+  directorate-general for energy
+  
+  water and energy commission secretariat  wecs   2011  retrieved 6 december 2013 
+  energy efficiency centre  2013  retrieved 30 december 2013 
+ pdf   deutsche gesellschaft fr internationale zusammenarbeit  giz   2016  retrieved 2 january 2014 
+  deutsche gesellschaft fr internationale zusammenarbeit  giz   2012  retrieved 2 january 2014 
+  kantipur newspaper  2014  retrieved 7 april 2014 
+  fncci  2014  retrieved 7 april 2014 
+  switchcollectief nl  in dutch   retrieved 7 november 2016 
+  4 september 2013 
+on
+ pdf   turkish government 
+us dept  of energy      july 2006   energy flow diagram
+further reading  
+ga mansoori  n enayati  lb agyarko  2016     world sci  pub  co  
+alexeew  johannes  carolin anders and hina zia  2015     berlin new delhi  adelphi teri
+gary steffy  architectural lighting design  john wiley and sons  2001 
+lumina technologies  analysis of energy consumption in a san francisco bay area research office complex  for  confidential  owner  santa rosa  ca  may 17  1996
+robb  drew  2007-06-02     gcn com  retrieved 2010-07-29 
+external links  
+wikibooks has a book on the topic of 
+at the
+- for commercial buildings and plants
+  atlantic times  november 2007
+asian development bank
+ 
+retrieved from   
+  hidden categories 

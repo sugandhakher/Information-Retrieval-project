@@ -1,0 +1,128 @@
+ecocommerce
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Environmental_economics" title="Category:Environmental economics">a series</a> about</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></th>
+</tr>
+<tr>
+<th style="padding:0.1em">Concepts</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Green_accounting" title="Green accounting">Green accounting</a></li>
+<li><a href="/wiki/Green_economy" title="Green economy">Green economy</a></li>
+<li><a href="/wiki/Green_trading" title="Green trading">Green trading</a></li>
+<li><strong class="selflink">Eco commerce</strong></li>
+<li><a href="/wiki/Green_job" title="Green job">Green job</a></li>
+<li><a href="/wiki/Environmental_enterprise" title="Environmental enterprise">Environmental enterprise</a></li>
+<li><a href="/wiki/Fiscal_environmentalism" title="Fiscal environmentalism">Fiscal environmentalism</a></li>
+<li><a href="/wiki/Environmental_finance" title="Environmental finance">Environmental finance</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">Policies</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Sustainable tourism</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Environmental_tariff" title="Environmental tariff">Environmental tariff</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Environmental_pricing_reform" title="Environmental pricing reform">Environmental pricing reform</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">Dynamics</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">Renewable energy commercialization</a></li>
+<li><a href="/wiki/Marginal_abatement_cost" title="Marginal abatement cost">Marginal abatement cost</a></li>
+<li><a href="/wiki/Green_paradox" title="Green paradox">Green paradox</a></li>
+<li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Pollution_haven_hypothesis" title="Pollution haven hypothesis">Pollution haven hypothesis</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">Carbon related</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Low-carbon_economy" title="Low-carbon economy">Low-carbon economy</a></li>
+<li><a class="mw-redirect" href="/wiki/Carbon_neutral_fuel" title="Carbon neutral fuel">Carbon neutral fuel</a></li>
+<li><a href="/wiki/Carbon_neutrality" title="Carbon neutrality">Carbon neutrality</a></li>
+<li><a class="mw-redirect" href="/wiki/Carbon_pricing" title="Carbon pricing">Carbon pricing</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Carbon_credit" title="Carbon credit">Carbon credit</a></li>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Carbon_emission_trading" title="Carbon emission trading">Carbon emission trading</a></li>
+<li><a href="/wiki/Personal_carbon_trading" title="Personal carbon trading">Personal carbon trading</a></li>
+<li><a href="/wiki/Carbon_tax" title="Carbon tax">Carbon tax</a></li>
+<li><a href="/wiki/Carbon_finance" title="Carbon finance">Carbon finance</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Carbon_diet" title="Carbon diet">Carbon diet</a></li>
+<li><a href="/wiki/Food_miles" title="Food miles">Food miles</a></li>
+<li><a href="/wiki/2000-watt_society" title="2000-watt society">2000-watt society</a></li>
+<li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Green_economics_sidebar" title="Template:Green economics sidebar"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Green_economics_sidebar" title="Template talk:Green economics sidebar"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_economics_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Eco commerce</b> is a business, investment, and technology-development model that employs <a href="/wiki/Market_economy" title="Market economy">market-based</a> solutions to balancing the world’s energy needs and environmental integrity. Through the use of <a href="/wiki/Green_trading" title="Green trading">green trading</a> and <a class="new" href="/w/index.php?title=Green_finance&amp;action=edit&amp;redlink=1" title="Green finance (page does not exist)">green finance</a>, eco-commerce promotes the further development of "<a href="/wiki/Clean_technology" title="Clean technology">clean technologies</a>" such as <a href="/wiki/Wind_power" title="Wind power">wind power</a>, <a href="/wiki/Solar_power" title="Solar power">solar power</a>, <a href="/wiki/Biomass" title="Biomass">biomass</a>, and <a href="/wiki/Hydropower" title="Hydropower">hydropower</a>.</p>
+<p>EcoCommerce is an integrated ecological-economical model that provides a means to account for and value land management activities that improves the condition of natural capital and values the output of ecoservices. EcoCommerce is more comprehensive than a compilation or organization of ecosystems service markets as it provides the framework to build an ecological intelligence system that allows the public arena of commerce to define sustainability.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Gieseke Tim 2011 EcoCommerce 101: Adding an ecological dimension to the economy; Bascom Hill Publishing.Mpls. <a class="external free" href="http://www.ecocommerce101.com" rel="nofollow">http://www.ecocommerce101.com</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eco_commerce&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Gieseke, Tim 2011 EcoCommerce 101: Adding an ecological dimension to the economy. Bascom Hill Publishing Mpls www.ecocommerce101.com</p>
+<p><br/></p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a class="image" href="/wiki/File:ThreeCoins.svg"><img alt="Stub icon" data-file-height="200" data-file-width="350" height="23" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/ThreeCoins.svg/40px-ThreeCoins.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/ThreeCoins.svg/60px-ThreeCoins.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/ThreeCoins.svg/80px-ThreeCoins.svg.png 2x" width="40"/></a></td>
+<td><i>This <a href="/wiki/Economics" title="Economics">economics</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Eco_commerce&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Econ-stub" title="Template:Econ-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Econ-stub" title="Template talk:Econ-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Econ-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4835058-0!*!0!*!*!4!* and timestamp 20161110140137 and revision id 624103902
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Eco_commerce&amp;oldid=624103902">https://en.wikipedia.org/w/index.php?title=Eco_commerce&amp;oldid=624103902</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Economics_of_sustainability" title="Category:Economics of sustainability">Economics of sustainability</a></li><li><a href="/wiki/Category:Economics_and_finance_stubs" title="Category:Economics and finance stubs">Economics and finance stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

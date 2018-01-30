@@ -1,0 +1,285 @@
+srilankasustainableenergyauthority
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="infobox vcard" style="width:22em">
+<caption class="fn org">Sri Lanka Sustainable Energy Authority</caption>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Industry</th>
+<td class="category" style="line-height:1.35em;"><a href="/wiki/Energy" title="Energy">Energy</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Headquarters</th>
+<td class="adr" style="line-height:1.35em;"><span class="locality"><a href="/wiki/Bandaranaike_Memorial_International_Conference_Hall" title="Bandaranaike Memorial International Conference Hall">BMICH premises</a>, <a href="/wiki/Colombo" title="Colombo">Colombo</a></span>, <span class="country-name"><span class="nowrap"><a href="/wiki/Sri_Lanka" title="Sri Lanka">Sri Lanka</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Area served</div>
+</th>
+<td style="line-height:1.35em;"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Key people</div>
+</th>
+<td class="agent" style="line-height:1.35em;">Prasad Galhenais (Chairman)</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Services</th>
+<td class="category" style="line-height:1.35em;">Licensing, Educational</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Website</th>
+<td style="line-height:1.35em;"><span class="url"><a class="external text" href="http://www.energy.gov.lk/" rel="nofollow">www<wbr></wbr>.energy<wbr></wbr>.gov<wbr></wbr>.lk</a></span></td>
+</tr>
+</table>
+<p>The <b>Sri Lanka Sustainable Energy Authority</b> (or <b>SLSEA</b>) is the primary body responsible for the issuance of licenses to <a href="/wiki/Sustainable_energy" title="Sustainable energy">sustainable energy</a> developments in <a href="/wiki/Sri_Lanka" title="Sri Lanka">Sri Lanka</a>. In addition to being the key licence provider, it is also in charge of promoting <a href="/wiki/Renewable_energy" title="Renewable energy">renewable energy</a> and sustainable developments in the country.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sri_Lanka_Sustainable_Energy_Authority&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Ceylon_Electricity_Board" title="Ceylon Electricity Board">Ceylon Electricity Board</a></li>
+<li><a class="mw-redirect" href="/wiki/Electricity_in_Sri_Lanka" title="Electricity in Sri Lanka">Electricity in Sri Lanka</a></li>
+<li><a href="/wiki/List_of_dams_and_reservoirs_in_Sri_Lanka" title="List of dams and reservoirs in Sri Lanka">List of dams and reservoirs in Sri Lanka</a></li>
+<li><a href="/wiki/List_of_power_stations_in_Sri_Lanka" title="List of power stations in Sri Lanka">List of power stations in Sri Lanka</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sri_Lanka_Sustainable_Energy_Authority&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.energy.gov.lk/sub_pgs/aboutus_who.html" rel="nofollow">"About SLSEA"</a>. Sri Lanka Sustainable Energy Authority<span class="reference-accessdate">. Retrieved <span class="nowrap">16 January</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASri+Lanka+Sustainable+Energy+Authority&amp;rft.btitle=About+SLSEA&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.energy.gov.lk%2Fsub_pgs%2Faboutus_who.html&amp;rft.pub=Sri+Lanka+Sustainable+Energy+Authority&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<div aria-labelledby="Electricity_in_Sri_Lanka" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electricity_in_Sri_Lanka" title="Template:Electricity in Sri Lanka"><abbr style=";;background:none transparent;border:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electricity_in_Sri_Lanka" title="Template talk:Electricity in Sri Lanka"><abbr style=";;background:none transparent;border:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_in_Sri_Lanka&amp;action=edit"><abbr style=";;background:none transparent;border:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Electricity_in_Sri_Lanka" style="font-size:114%"><a class="mw-redirect" href="/wiki/Electricity_in_Sri_Lanka" title="Electricity in Sri Lanka">Electricity in Sri Lanka</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Sustainable<br/>
+power stations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="font-weight:normal;">Hydro power</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="font-weight:normal;">Laxapana Complex</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Broadlands_Dam" title="Broadlands Dam">Broadlands</a></li>
+<li><a href="/wiki/Canyon_Dam_(Sri_Lanka)" title="Canyon Dam (Sri Lanka)">Canyon</a></li>
+<li><a href="/wiki/Castlereigh_Dam" title="Castlereigh Dam">Castlereigh</a></li>
+<li><a href="/wiki/Laxapana_Dam" title="Laxapana Dam">Laxapana</a></li>
+<li><a href="/wiki/Maskeliya_Dam" title="Maskeliya Dam">Maskeliya</a></li>
+<li><a href="/wiki/Norton_Dam" title="Norton Dam">Norton</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="font-weight:normal;">Mahaweli Complex</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bowatenna_Dam" title="Bowatenna Dam">Bowatenna</a></li>
+<li><a href="/wiki/Deduru_Oya_Dam" title="Deduru Oya Dam">Deduru Oya</a></li>
+<li><a href="/wiki/Kotmale_Dam" title="Kotmale Dam">Kotmale</a></li>
+<li><a href="/wiki/Moragahakanda_Dam" title="Moragahakanda Dam">Moragahakanda</a></li>
+<li><a href="/wiki/Nilambe_Dam" title="Nilambe Dam">Nilambe</a></li>
+<li><a href="/wiki/Polgolla_Barrage" title="Polgolla Barrage">Polgolla</a></li>
+<li><a href="/wiki/Randenigala_Dam" title="Randenigala Dam">Randenigala</a></li>
+<li><a href="/wiki/Rantembe_Dam" title="Rantembe Dam">Rantembe</a></li>
+<li><a href="/wiki/Upper_Kotmale_Dam" title="Upper Kotmale Dam">Upper Kotmale</a></li>
+<li><a href="/wiki/Victoria_Dam_(Sri_Lanka)" title="Victoria Dam (Sri Lanka)">Victoria</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="font-weight:normal;">Samanala Complex</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gal_Oya_Dam" title="Gal Oya Dam">Gal Oya</a></li>
+<li><a href="/wiki/Kukule_Ganga_Dam" title="Kukule Ganga Dam">Kukule Ganga</a></li>
+<li><a href="/wiki/Samanala_Dam" title="Samanala Dam">Samanala</a></li>
+<li><a href="/wiki/Udawalawe_Dam" title="Udawalawe Dam">Udawalawe</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="font-weight:normal;">Solar power</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hambantota_Solar_Power_Station" title="Hambantota Solar Power Station">Hambantota</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="font-weight:normal;">Wind power</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ambewela_Aitken_Spence_Wind_Farm" title="Ambewela Aitken Spence Wind Farm">Ambewela Aitken Spence</a></li>
+<li><a href="/wiki/Hambantota_Wind_Farm" title="Hambantota Wind Farm">Hambantota</a></li>
+<li><a href="/wiki/Madurankuliya_Wind_Farm" title="Madurankuliya Wind Farm">Madurankuliya</a></li>
+<li><a href="/wiki/Mampuri_Wind_Farms" title="Mampuri Wind Farms">Mampuri-I</a></li>
+<li><a href="/wiki/Mampuri_Wind_Farms" title="Mampuri Wind Farms">Mampuri-II</a></li>
+<li><a href="/wiki/Mampuri_Wind_Farms" title="Mampuri Wind Farms">Mampuri-III</a></li>
+<li><a href="/wiki/Mannar_Island_Wind_Farm" title="Mannar Island Wind Farm">Mannar Island</a></li>
+<li><a href="/wiki/Nala_Danavi_Wind_Farm" title="Nala Danavi Wind Farm">Nala Danavi</a></li>
+<li><a href="/wiki/Nirmalapura_Wind_Farm" title="Nirmalapura Wind Farm">Nirmalapura</a></li>
+<li><a href="/wiki/Pawan_Danavi_Wind_Farm" title="Pawan Danavi Wind Farm">Pawan Danavi</a></li>
+<li><a href="/wiki/Pollupalai_and_Vallimunai_Wind_Farms" title="Pollupalai and Vallimunai Wind Farms">Pollupalai</a></li>
+<li><a href="/wiki/Seguwantivu_and_Vidatamunai_Wind_Farms" title="Seguwantivu and Vidatamunai Wind Farms">Seguwantivu</a></li>
+<li><a href="/wiki/Uppudaluwa_Wind_Farm" title="Uppudaluwa Wind Farm">Uppudaluwa</a></li>
+<li><a href="/wiki/Pollupalai_and_Vallimunai_Wind_Farms" title="Pollupalai and Vallimunai Wind Farms">Vallimunai</a></li>
+<li><a href="/wiki/Seguwantivu_and_Vidatamunai_Wind_Farms" title="Seguwantivu and Vidatamunai Wind Farms">Vidatamunai</a></li>
+<li><a href="/wiki/Willwind_Wind_Farm" title="Willwind Wind Farm">Willwind</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Fossil-fuel<br/>
+power stations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="font-weight:normal;">Operational / UC</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Asia_Power_Sapugaskanda_Power_Station" title="Asia Power Sapugaskanda Power Station">Asia Power Sapugaskanda</a></li>
+<li><a href="/wiki/Colombo_Port_Power_Station" title="Colombo Port Power Station">Colombo Port</a></li>
+<li><a href="/wiki/Kelanitissa_Power_Station" title="Kelanitissa Power Station">Kelanitissa</a></li>
+<li><a href="/wiki/Lakdhanavi_Power_Station" title="Lakdhanavi Power Station">Lakdhanavi</a></li>
+<li><a href="/wiki/Lakvijaya_Power_Station" title="Lakvijaya Power Station">Lakvijaya</a></li>
+<li><a href="/wiki/Northern_Power_Station_(Sri_Lanka)" title="Northern Power Station (Sri Lanka)">Northern</a></li>
+<li><a href="/wiki/Sampur_Power_Station" title="Sampur Power Station">Sampur</a></li>
+<li><a href="/wiki/Sapugaskanda_Power_Station" title="Sapugaskanda Power Station">Sapugaskanda</a></li>
+<li><a href="/wiki/Uthuru_Janani_Power_Station" title="Uthuru Janani Power Station">Uthuru Janani</a></li>
+<li><a href="/wiki/Yugadanavi_Power_Station" title="Yugadanavi Power Station">Yugadanavi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="font-weight:normal;">Decommissioned</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ace_Horana_Power_Station" title="Ace Horana Power Station">Ace Horana</a></li>
+<li><a href="/wiki/Ace_Matara_Power_Station" title="Ace Matara Power Station">Ace Matara</a></li>
+<li><a href="/wiki/Aggreko_Power_Station" title="Aggreko Power Station">Aggreko</a></li>
+<li><a href="/wiki/Chunnakam_Power_Station" title="Chunnakam Power Station">Chunnakam</a></li>
+<li><a href="/wiki/Embilipitiya_Power_Station" title="Embilipitiya Power Station">Embilipitiya</a></li>
+<li><a href="/wiki/Heladhanavi_Power_Station" title="Heladhanavi Power Station">Heladhanavi</a></li>
+<li><a href="/wiki/Koolair_Power_Station" title="Koolair Power Station">Koolair</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Organizations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ceylon_Electricity_Board" title="Ceylon Electricity Board">Ceylon Electricity Board</a></li>
+<li><a class="mw-redirect" href="/wiki/Ministry_of_Power_and_Energy" title="Ministry of Power and Energy">Ministry of Power and Energy</a></li>
+<li><a class="new" href="/w/index.php?title=Public_Utilities_Commission_of_Sri_Lanka&amp;action=edit&amp;redlink=1" title="Public Utilities Commission of Sri Lanka (page does not exist)">Public Utilities Commission of Sri Lanka</a></li>
+<li><strong class="selflink">Sustainable Energy Authority</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/India%E2%80%93Sri_Lanka_HVDC_Interconnection" title="India–Sri Lanka HVDC Interconnection">India–Sri Lanka HVDC Interconnection</a></li>
+<li><a href="/wiki/List_of_dams_and_reservoirs_in_Sri_Lanka" title="List of dams and reservoirs in Sri Lanka">List of dams and reservoirs in Sri Lanka</a></li>
+<li><a href="/wiki/List_of_power_stations_in_Sri_Lanka" title="List of power stations in Sri Lanka">List of power stations in Sri Lanka</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Sri_Lanka_Sustainable_Energy_Authority&amp;params=06_54_06_N_79_52_26_E_&amp;title=Sri+Lanka+Sustainable+Energy+Authority"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">06°54′06″N</span> <span class="longitude">79°52′26″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">6.90167°N 79.87389°E</span><span style="display:none">﻿ / <span class="geo">6.90167; 79.87389</span></span><span style="display:none">﻿ (<span class="fn org">Sri Lanka Sustainable Energy Authority</span>)</span></span></span></a></span></span></span></p>
+<p><br/></p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a class="image" href="/wiki/File:Factory.svg"><img alt="Stub icon" data-file-height="438" data-file-width="502" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Factory.svg/30px-Factory.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Factory.svg/45px-Factory.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Factory.svg/60px-Factory.svg.png 2x" width="30"/></a></td>
+<td><i>This Sri Lankan corporation or company article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Sri_Lanka_Sustainable_Energy_Authority&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:SriLanka-company-stub" title="Template:SriLanka-company-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:SriLanka-company-stub" title="Template talk:SriLanka-company-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:SriLanka-company-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:41658217-0!*!0!!*!4!* and timestamp 20161031010625 and revision id 707550020
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sri_Lanka_Sustainable_Energy_Authority&amp;oldid=707550020">https://en.wikipedia.org/w/index.php?title=Sri_Lanka_Sustainable_Energy_Authority&amp;oldid=707550020</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Power_companies_of_Sri_Lanka" title="Category:Power companies of Sri Lanka">Power companies of Sri Lanka</a></li><li><a href="/wiki/Category:Electric_power_in_Sri_Lanka" title="Category:Electric power in Sri Lanka">Electric power in Sri Lanka</a></li><li><a href="/wiki/Category:State_owned_commercial_corporations_of_Sri_Lanka" title="Category:State owned commercial corporations of Sri Lanka">State owned commercial corporations of Sri Lanka</a></li><li><a href="/wiki/Category:Sri_Lanka_company_stubs" title="Category:Sri Lanka company stubs">Sri Lanka company stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

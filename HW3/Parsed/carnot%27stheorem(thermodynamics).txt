@@ -1,0 +1,630 @@
+carnot 27stheorem thermodynamics 
+from wikipedia  the free encyclopedia
+jump to 					 
+the classical
+branches
+ 
+note 
+in italics
+    
+ 
+ 
+c
+ 
+  displaystyle c  
+t
+  displaystyle t 
+
+s
+  displaystyle  partial s 
+n
+  displaystyle n 
+
+t
+  displaystyle  partial t 
+
+ 
+
+  displaystyle  beta  - 
+1
+  displaystyle 1 
+
+v
+  displaystyle  partial v 
+v
+  displaystyle v 
+
+p
+  displaystyle  partial p 
+
+ 
+  displaystyle  alpha   
+1
+  displaystyle 1 
+
+v
+  displaystyle  partial v 
+v
+  displaystyle v 
+
+t
+  displaystyle  partial t 
+carnot s theorem
+u
+ 
+s
+ 
+v
+ 
+  displaystyle u s v  
+h
+ 
+s
+ 
+p
+ 
+ 
+u
+ 
+p
+v
+  displaystyle h s p  u pv 
+a
+ 
+t
+ 
+v
+ 
+ 
+u
+
+t
+s
+  displaystyle a t v  u-ts 
+g
+ 
+t
+ 
+p
+ 
+ 
+h
+
+t
+s
+  displaystyle g t p  h-ts 
+history
+culture
+history
+theories
+  
+  
+  
+timelines
+art
+education
+scientists
+carnot s theorem  developed in 1824 by   also called carnot s rule  is a principle that specifies limits on the maximum efficiency any
+can obtain  the efficiency of a carnot engine depends solely on the difference between the hot and cold temperature reservoirs 
+carnot s theorem states 
+all heat engines between two heat reservoirs are less efficient than a
+operating between the same reservoirs 
+every carnot heat engine between a pair of heat reservoirs is equally efficient  regardless of the working substance employed or the operation details 
+the formula for this maximum efficiency is
+
+max
+ 
+
+carnot
+ 
+1
+
+t
+c
+t
+h
+  displaystyle  eta    text max    eta    text carnot   1-  frac  t   mathrm  c     t   mathrm  h      
+where tc is the
+of the cold reservoir  th is the
+of the hot reservoir  and the efficiency
+
+  displaystyle  eta  
+is the ratio of the work done by the engine to the heat drawn out of the hot reservoir 
+based on modern thermodynamics  carnot s theorem is a result of the   historically  however  it was based on contemporary
+and preceded the establishment of the second law 
+contents
+proof  
+an impossible situation  a heat engine cannot drive a less efficient  reversible  heat engine without violating the second law of thermodynamics 
+the proof of the carnot theorem is a   or   as illustrated by the figure showing two heat engines operating between two reservoirs of different temperature  the heat engine with more efficiency  
+
+m
+  displaystyle  eta   m  
+  is driving a heat engine with less efficiency  
+
+l
+  displaystyle  eta   l  
+   causing the latter to act as a   this pair of engines receives no outside energy  and operates solely on the energy released when heat is transferred from the hot and into the cold reservoir  however  if
+
+m
+ 
+
+l
+  displaystyle  eta   m   eta   l  
+  then the net heat flow would be backwards  i e   into the hot reservoir 
+q
+hot
+out
+ 
+q
+ 
+
+m
+
+l
+q
+ 
+q
+hot
+in
+  displaystyle q   text hot     text out   q   frac   eta   m    eta   l   q q   text hot     text in   
+ 
+it is generally agreed that this is impossible because it violates the  
+we begin by verifying the values of work and heat flow depicted in the figure  first  we must point out an important caveat  the engine with less efficiency  
+
+l
+  displaystyle  eta   l  
+  is being driven as a heat pump  and therefore must be a
+engine  if the less efficient engine  
+
+l
+  displaystyle  eta   l  
+  is not reversible  then the device could be built  but the expressions for work and heat flow shown in the figure would not be valid 
+by restricting our discussion to cases where engine  
+
+l
+  displaystyle  eta   l  
+  has less efficiency than engine  
+
+m
+  displaystyle  eta   m  
+   we are able to simplify notation by adopting the convention that all symbols 
+q
+  displaystyle q 
+and
+w
+  displaystyle w 
+represent
+quantities  since the direction of energy flow never changes sign in all cases where
+
+l
+
+
+m
+  displaystyle  eta   l  leqslant  eta   m  
+   conservation of energy demands that for each engine  the energy which enters 
+e
+i
+n
+  displaystyle e  in  
+  must equal the energy which exits 
+e
+o
+u
+t
+  displaystyle e  out  
+ 
+e
+i
+n
+m
+ 
+q
+ 
+ 
+1
+
+
+m
+ 
+q
+ 
+
+m
+q
+ 
+e
+o
+u
+t
+m
+  displaystyle e  in   m  q  1- eta   m  q  eta   m q e  out   m  
+ 
+e
+i
+n
+l
+ 
+
+m
+q
+ 
+
+m
+q
+ 
+1
+
+l
+
+1
+ 
+ 
+
+m
+
+l
+q
+ 
+e
+o
+u
+t
+l
+  displaystyle e  in   l   eta   m q  eta   m q left   frac  1   eta   l   -1 right    frac   eta   m    eta   l   q e  out   l  
+ 
+the figure is also consistent with the definition of
+as
+
+ 
+w
+ 
+q
+h
+  displaystyle  eta  w q  h  
+for both engines 
+
+m
+ 
+w
+m
+q
+h
+m
+ 
+
+m
+q
+q
+ 
+
+m
+  displaystyle  eta   m    frac  w  m   q  h   m      frac   eta   m q  q    eta   m  
+ 
+
+l
+ 
+w
+l
+q
+h
+l
+ 
+
+m
+q
+
+m
+
+l
+q
+ 
+
+l
+  displaystyle  eta   l    frac  w  l   q  h   l      frac   eta   m q    frac   eta   m    eta   l   q    eta   l  
+ 
+it may seem odd that a hypothetical heat pump with low efficiency is being used to violate the second law of thermodynamics  but the
+for refrigerator units is not efficiency 
+w
+ 
+q
+h
+  displaystyle w q  h  
+  but the
+ cop   which is
+q
+c
+ 
+w
+  displaystyle q  c  w 
+  a reversible heat engine with low thermodynamic efficiency 
+w
+ 
+q
+h
+  displaystyle w q  h  
+delivers more heat to the hot reservoir for a given amount of work when it is being driven as a heat pump 
+having established that the heat flow values shown in the figure are correct  carnot s theorem may be proven for irreversible and the reversible heat engines 
+reversible engines  
+to see that every reversible engine operating between reservoirs
+t
+1
+  displaystyle t  1  
+and
+t
+2
+  displaystyle t  2  
+must have the same efficiency  assume that two reversible heat engines have different values of
+
+  displaystyle  eta  
+  and let the more efficient engine  m  drive the less efficient engine  l  as a heat pump  as the figure shows  this will cause heat to flow from the cold to the hot reservoir without any external work or energy  which violates the second law of thermodynamics  therefore both  reversible  heat engines have the same efficiency  and we conclude that 
+all reversible engines that operate between the same two heat reservoirs have the same efficiency 
+this is an important result because it helps establish the   which implies that the change in
+is unique for all reversible processes  
+
+s
+ 
+
+a
+b
+d
+q
+r
+e
+v
+t
+  displaystyle  delta s  int   a   b   frac  dq  rev   t   
+ 
+over all paths  from a to b in v-t space   if this integral were not path independent  then entropy    would lose its status as a  
+irreversible engines  
+if one of the engines is irreversible  it must be the  m  engine  placed so that it reverse drives the less efficient but reversible  l  engine  but if this irreversible engine is more efficient than the reversible engine   i e   if
+
+m
+ 
+
+l
+  displaystyle  eta   m   eta   l  
+   then the second law of thermodynamics is violated  and  since the carnot cycle represents a reversible engine  we have the first part of carnot s theorem 
+no irreversible engine is more efficient than the carnot engine operating between the same two reservoirs 
+definition of thermodynamic temperature  
+main article 
+the efficiency of the engine is the work divided by the heat introduced to the system or
+
+ 
+w
+c
+y
+q
+h
+ 
+q
+h
+
+q
+c
+q
+h
+ 
+1
+
+q
+c
+q
+h
+  displaystyle  eta    frac  w  cy   q  h      frac  q  h -q  c   q  h    1-  frac  q  c   q  h    
+ 1 
+where wcy is the work done per cycle  thus  the efficiency depends only on qc qh 
+because all reversible engines operating between the same heat reservoirs are equally efficient  any reversible heat engine operating between temperatures t1 and t2 must have the same efficiency  meaning  the efficiency is the function of the temperatures only 
+q
+c
+q
+h
+ 
+f
+ 
+t
+h
+ 
+t
+c
+ 
+  displaystyle   frac  q  c   q  h    f t  h  t  c   
+ 2 
+in addition  a reversible heat engine operating between temperatures t1 and t3 must have the same efficiency as one consisting of two cycles  one between t1 and another  intermediate  temperature t2  and the second between t2andt3  this can only be the case if
+f
+ 
+t
+1
+ 
+t
+3
+ 
+ 
+q
+3
+q
+1
+ 
+q
+2
+q
+3
+q
+1
+q
+2
+ 
+f
+ 
+t
+1
+ 
+t
+2
+ 
+f
+ 
+t
+2
+ 
+t
+3
+ 
+ 
+  displaystyle f t  1  t  3     frac  q  3   q  1      frac  q  2 q  3   q  1 q  2    f t  1  t  2  f t  2  t  3    
+specializing to the case that
+t
+1
+  displaystyle t  1  
+is a fixed reference temperature  the temperature of the triple point of water  then for any t2 and t3 
+f
+ 
+t
+2
+ 
+t
+3
+ 
+ 
+f
+ 
+t
+1
+ 
+t
+3
+ 
+f
+ 
+t
+1
+ 
+t
+2
+ 
+ 
+273.16
+
+f
+ 
+t
+1
+ 
+t
+3
+ 
+273.16
+
+f
+ 
+t
+1
+ 
+t
+2
+ 
+ 
+  displaystyle f t  2  t  3     frac  f t  1  t  3    f t  1  t  2       frac  273.16 cdot f t  1  t  3    273.16 cdot f t  1  t  2      
+therefore  if thermodynamic temperature is defined by
+t
+ 
+273.16
+
+f
+ 
+t
+1
+ 
+t
+ 
+  displaystyle t 273.16 cdot f t  1  t    
+then the function f  viewed as a function of thermodynamic temperature  is
+f
+ 
+t
+2
+ 
+t
+3
+ 
+ 
+t
+3
+t
+2
+ 
+  displaystyle f t  2  t  3     frac  t  3   t  2     
+and the reference temperature t1 has the value 273.16   of course any reference temperature and any positive numerical value could be usedthe choice here corresponds to the
+scale  
+it follows immediately that
+q
+c
+q
+h
+ 
+f
+ 
+t
+h
+ 
+t
+c
+ 
+ 
+t
+c
+t
+h
+  displaystyle   frac  q  c   q  h    f t  h  t  c     frac  t  c   t  h    
+ 3 
+substituting equation
+back into equation
+gives a relationship for the efficiency in terms of temperature 
+
+ 
+1
+
+q
+c
+q
+h
+ 
+1
+
+t
+c
+t
+h
+  displaystyle  eta  1-  frac  q  c   q  h    1-  frac  t  c   t  h    
+ 4 
+applicability to fuel cells and batteries  
+since
+and
+can generate useful power when all components of the system are at the same temperature  
+t
+ 
+t
+h
+ 
+t
+c
+  displaystyle t t  h  t  c  
+   they are clearly not limited by carnot s theorem  which states that no power can be generated when
+t
+h
+ 
+t
+c
+  displaystyle t  h  t  c  
+  this is because carnot s theorem applies to engines converting thermal energy to work  whereas fuel cells and batteries instead convert chemical energy to work  nevertheless  the
+still provides restrictions on fuel cell and battery energy conversion 
+references  
+john murrell  2009     retrieved may 2  2014 
+at the pdf 142 kb 
+tipler  paul  mosca  g   2008    19.2  19.7   physics for scientists and engineers  6th ed    freeman   
+ pdf   feb 7  2005  retrieved october 5  2010 
+ohanian  hans  1994   principles of physics  w w  norton and co  p 438   
+  and   both retrieved 13 december 2013 
+  retrieved feb 20  2011 
+jacob  kallarackel t  jain  saurabh  july 2005     q1 - ninth international symposium on solid oxide fuel cells  sofc ix   usa 
+retrieved from   
+ 

@@ -1,0 +1,277 @@
+walneywindfarm
+from wikipedia  the free encyclopedia
+jump to 					navigation  					search
+walney wind farm
+walney wind farm under construction in 2011
+location of walney wind farm in england
+country
+england  united kingdom
+location
+14km west of walney island off the coast of cumbria
+coordinates
+540238n 33119w   54.044n 3.522w   54.044  -3.522coordinates  540238n 33119w   54.044n 3.522w   54.044  -3.522
+status
+operational
+constructionbegan
+march 2010
+commissiondate
+february 2012
+windfarm
+type
+offshore
+sitearea
+73km2  28sqmi 
+distancefromshore
+15km  9mi 
+rotordiameter
+120m
+powergeneration
+unitsoperational
+102
+makeandmodel
+siemens  swt-3.6
+nameplatecapacity
+367mw
+capacityfactor
+43 
+averagegeneration
+  1,300gwh year
+walney wind farm is an offshore wind farm 14km west of walney island off the coast of cumbria  in the irish sea  england  it has a capacity of 367mw  which makes it one of the world s largest offshore wind farms  the wind farm was developed by walney  uk  offshore windfarms limited  a partnership between dong energy and scottish and southern energy  1  the farm is immediately north west of the west of duddon sands wind farm and also to the west of ormonde wind farm  the farm is in water depths ranging from 19m to 23m and covers an area of approximately 73km2 
+contents
+1 description
+2 construction
+3 walney extension
+4 involvement in oil spill
+5 references
+6 external links
+description edit 
+both phases have 51 turbines giving a nameplate capacity of 367mw  2  until september 2012 it was the world s largest operational offshore wind farm  3  it is expected to generate about 1,300gwh year of electricity  with a load factor of 43  4  5  6 
+construction edit 
+in 2004 dong energy was awarded a 50-year lease from the crown estate to develop a wind farm off walney island  as part of the second uk offshore wind farm tendering process known as  round 2   7  the farm was constructed sequentially in two phases with overlapping installation activities to reduce the overall construction timeframe 
+the project involved constructing the wind turbines and their foundations  building two offshore substations and installing two undersea power cables  one for each phase  and two short onshore cables to connect to two existing onshore electrical substations for connection into the uk national grid  a cable was laid by stemat spirit  phase 1 connects to a substation at heysham and phase 2 connects to substation at stanah  south of fleetwood  both undersea cables pass close by barrow wind farm  all the construction work was expected to take less than 2 years  with both phases operational by the end of 2011  8  on 11 july 2011 phase 1 became operational  comprising 51 turbines with an installed capacity of 183.6mw  9 
+walney 2 began sending power to the grid on 1 november 2011  in february 2012  dong energy claimed to have installed the 51 turbines in walney 2 in 5 months and 14 days  including monopiles and complete turbines  about 3.25 days per turbine  walney 1 took 7 months  the improvement is due to commonality of projects and resources  10  the wind farm was officially opened on 9 february 2012 by the new energy secretary  ed davey  mp  3  although the last of the 51 turbines in walney 2 were only activated in april 2012  11 
+walney extension edit 
+in november 2014 dong energy was given development consent for an extension to the walney offshore wind farm  12  the development consent allowed a maximum of 207 turbines to be added to the existing 102 turbines  12  the maximum generating capacity of the extension was said to be 750mw although dong was reported to be proceeding with a project based around 660mw  12  construction is expected to begin in 2017  12  in 2015 dong chose the 8mw vestas for phase 1  13  and the 7mw siemens gearless turbine for phase 2  14 
+involvement in oil spill edit 
+in 2014 a dive vessel  owned by danish firm offshore marine services  was carrying out routine inspection work when an anchor cable broke and the ship slammed into one of 102 turbines installed at the walney offshore wind farm  the uks maritime and coastguard agency surveyed the crash site and reported that a surface sheen stretching 33 feet wide and 0.7 nautical miles long was trailing the vessel  the agency said that  unlike heavier crude oil  the marine engine oil should evaporate or disperse naturally  15 
+references edit 
+  dong energy project website
+   ukwed offshore wind farms   renewableuk  retrieved 2010-11-08 
+  a b world s biggest offshore wind farm opens off britain as new minister admits high cost the telegraph  9 february 2012  accessed  9 february 2012 
+  dong energy announcement on walney offshore wind farm  accessed  14 february 2012 
+  sse announcement on walney offshore wind farm  accessed  14 february 2012 
+  note that the published load factor and expected annual generation do not match well  if the 367-mw wind farm is expected to generate 1,300gwh a year  then load factor is a bit smaller than claimed  around 40   
+  walney wind farm project history
+  walney project brochure
+  http   www sse com pressreleases 2011 walney1stphaseoperational 
+  walney opens for business re news europe  9 february 2012  accessed  9 february 2012 
+  newsletter no 25 - april 2012 dong energy  retrieved  14 june 2012 
+  a b c d  uk ok to dong s 660mw walney extension offshore wind   www rechargenews com  7 november 2014 
+  pedersen  maria berg badstue   dong vlger vestas  supermlle  energy-supply  18 february 2015 
+  pedersen  maria berg badstue   napper dong-ordre med ny supermlle  energy-supply  12 march 2015 
+   offshore wind farm involved in oil spill   investing com  retrieved 2014-09-09 
+external links edit 
+lorc knowledge - datasheet for walney 1 offshore wind farm
+lorc knowledge - datasheet for walney 2 offshore wind farm
+v
+t
+e
+wind power in the united kingdom
+energy in the united kingdom
+renewable energy in the united kingdom
+companies
+airtricity
+ecotricity
+innogy
+siemens wind power
+vestas
+onshore wind farms
+active
+alltwalis
+ardrossan
+arecleoch
+askam and ireleth
+beinn an tuirc
+black law
+blood hill
+blyth harbour
+braes of doune
+burton wold
+carland cross
+carno
+cefn croes
+clyde
+coal clough
+cold northcott
+conisholme
+crystal rig
+dagenham
+delabole
+farr
+garves
+goonhilly downs
+great eppleton
+hadyard hill
+holmside hall
+langley park
+lindhurst
+little cheyne court
+milton keynes
+moel maelogan
+out newton
+pates hill
+royd moor
+scout moor
+slieve rushen
+trimdon grange
+west durham
+westmill
+whitelee
+winscales moor
+proposed
+brechfa forest
+den brook
+viking
+offshore wind farms
+active
+barrow
+beatrice
+blyth
+burbo bank
+greater gabbard
+gunfleet sands
+gwynt y mr
+humber gateway
+kentish flats
+lincs
+london array
+lynn and inner dowsing
+methil
+north hoyle
+ormonde
+rhyl flats
+robin rigg
+scroby sands
+sheringham shoal
+teesside
+thanet
+walney
+west of duddon sands
+westermost rough
+proposed
+aberdeen bay
+dogger bank
+dudgeon
+east anglia
+hornsea
+neart na gaoithe
+race bank
+rampion
+triton knoll
+cancelled
+atlantic array
+celtic array
+docking shoal
+first flight
+navitus bay
+shell flat
+installation vessels
+mpi adventure
+mpi resolution
+other
+north sea offshore grid
+wind power in scotland
+category
+commons
+v
+t
+e
+electricity generation in north west england
+power stations
+biomass
+active
+fiddlers ferry  co-fires 
+coal
+active
+fiddlers ferry
+closed
+agecroft
+back o  th  bank
+barton
+blackburn
+bloom street
+bold
+bolton
+carlisle
+carrington
+chadderton
+chamber hall
+dickinson street
+fleetwood
+greenhill
+hartshead
+huncoat
+ince a
+kearsley
+lancaster
+lister drive
+merseyside
+padiham
+radcliffe
+ribble
+roosecote
+salford
+slacks valley
+southport
+spa road
+stockport
+stuart street
+trafford
+warrington
+westwood
+whitebirk
+gas
+active
+bridgewater
+fellside
+rocksavage
+weston point
+winnington
+proposed future
+carrington
+incinerators waste
+active
+bolton
+red moss landfill
+proposed future
+ince
+weston point
+nuclear
+active
+heysham
+closed
+calder hall
+oil
+closed
+ince a   b
+wind
+active
+askam and ireleth
+barrow offshore
+burbo bank
+coal clough
+ormonde
+scout moor
+walney
+winscales moor
+proposed future
+west duddon
+organisations
+bnfl
+the lancashire electric power company
+manweb
+norweb
+pre-nationalisation electric power companies
+saved in parser cache with key enwiki pcache idhash 31027065-0   0  en 4   and timestamp 20161105183540 and revision id 709347000
+retrieved from  https   en wikipedia org w index php title walney wind farm oldid 709347000 
+categories  buildings and structures in barrow-in-furnesswind farms in englandround 2 offshore wind farmsoffshore wind farms in the irish seahidden categories  coordinates on wikidata

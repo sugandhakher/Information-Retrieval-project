@@ -1,0 +1,259 @@
+listofsolidwastetreatmenttechnologies
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><p>The following page contains a list of different forms of solid <a href="/wiki/Waste_treatment" title="Waste treatment">waste treatment</a> technologies and facilities employed in <a href="/wiki/Waste_management" title="Waste management">waste management</a> infrastructure.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Waste_handling_facilities"><span class="tocnumber">1</span> <span class="toctext">Waste handling facilities</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Established_waste_treatment_technologies"><span class="tocnumber">2</span> <span class="toctext">Established waste treatment technologies</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Alternative_waste_treatment_technologies"><span class="tocnumber">3</span> <span class="toctext">Alternative waste treatment technologies</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Waste_handling_facilities">Waste handling facilities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_solid_waste_treatment_technologies&amp;action=edit&amp;section=1" title="Edit section: Waste handling facilities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Civic_amenity_site" title="Civic amenity site">Civic amenity site</a> (CA site)</li>
+<li><a href="/wiki/Transfer_station_(waste_management)" title="Transfer station (waste management)">Transfer station</a></li>
+</ul>
+<h2><span class="mw-headline" id="Established_waste_treatment_technologies">Established waste treatment technologies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_solid_waste_treatment_technologies&amp;action=edit&amp;section=2" title="Edit section: Established waste treatment technologies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Composting" title="Composting">Composting</a></li>
+<li><a href="/wiki/Incineration" title="Incineration">Incineration</a></li>
+<li><a href="/wiki/Landfill" title="Landfill">Landfill</a></li>
+<li><a href="/wiki/Recycling" title="Recycling">Recycling</a></li>
+<li><a href="/wiki/Windrow_composting" title="Windrow composting">Windrow composting</a></li>
+</ul>
+<h2><span class="mw-headline" id="Alternative_waste_treatment_technologies">Alternative waste treatment technologies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_solid_waste_treatment_technologies&amp;action=edit&amp;section=3" title="Edit section: Alternative waste treatment technologies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the UK these are sometimes termed <b>advanced waste treatment technologies</b>, even though these technologies are not necessarily more complex than the established technologies.</p>
+<ul>
+<li><a href="/wiki/Anaerobic_digestion" title="Anaerobic digestion">Anaerobic digestion</a></li>
+<li>Alcohol/ethanol production
+<ul>
+<li><a href="/wiki/Bioconversion_of_biomass_to_mixed_alcohol_fuels" title="Bioconversion of biomass to mixed alcohol fuels">Bioconversion of biomass to mixed alcohol fuels</a> (pilot scale)</li>
+</ul>
+</li>
+<li><a href="/wiki/Biodrying" title="Biodrying">Biodrying</a></li>
+<li><a href="/wiki/Gasification" title="Gasification">Gasification</a></li>
+<li>GasPlasma: Gasification followed by <a href="/wiki/Syngas" title="Syngas">syngas</a> plasma polishing (commercial test scale)</li>
+<li><a href="/wiki/Landfarming" title="Landfarming">Landfarming</a></li>
+<li><a href="/wiki/In-vessel_composting" title="In-vessel composting">In-vessel composting</a></li>
+<li><a href="/wiki/Mechanical_biological_treatment" title="Mechanical biological treatment">Mechanical biological treatment</a></li>
+<li><a href="/wiki/Mechanical_heat_treatment" title="Mechanical heat treatment">Mechanical heat treatment</a></li>
+<li><a class="mw-redirect" href="/wiki/Plasma_arc_waste_disposal" title="Plasma arc waste disposal">Plasma arc waste disposal</a> (commercial demonstration scale)</li>
+<li><a href="/wiki/Pyrolysis" title="Pyrolysis">Pyrolysis</a></li>
+<li><a href="/wiki/Refuse-derived_fuel" title="Refuse-derived fuel">Refuse-derived fuel</a></li>
+<li><a href="/wiki/Sewage_treatment" title="Sewage treatment">Sewage treatment</a></li>
+<li><a class="mw-redirect" href="/wiki/Tunnel_composting" title="Tunnel composting">Tunnel composting</a></li>
+<li><a class="mw-redirect" href="/wiki/UASB" title="UASB">UASB</a> (applied to solid wastes)</li>
+<li><a href="/wiki/Waste_autoclave" title="Waste autoclave">Waste autoclave</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_solid_waste_treatment_technologies&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Bioethanol" title="Bioethanol">Bioethanol</a></li>
+<li><a href="/wiki/Biodiesel" title="Biodiesel">Biodiesel</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_waste_management_companies" title="List of waste management companies">List of waste management companies</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_waste_water_treatment_technologies" title="List of waste water treatment technologies">List of waste water treatment technologies</a></li>
+<li><a class="mw-redirect" href="/wiki/Pollution_control" title="Pollution control">Pollution control</a></li>
+<li><a href="/wiki/Waste-to-energy" title="Waste-to-energy">Waste-to-energy</a></li>
+</ul>
+<div aria-labelledby="Biosolids.2C_waste_and_waste_management" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Waste" title="Template:Waste"><abbr style=";;background:none transparent;border:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Waste" title="Template talk:Waste"><abbr style=";;background:none transparent;border:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Waste&amp;action=edit"><abbr style=";;background:none transparent;border:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Biosolids.2C_waste_and_waste_management" style="font-size:114%"><a href="/wiki/Biosolids" title="Biosolids">Biosolids</a>, <a href="/wiki/Waste" title="Waste">waste</a> and <a href="/wiki/Waste_management" title="Waste management">waste management</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/List_of_waste_types" title="List of waste types">Major types</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agricultural_wastewater_treatment" title="Agricultural wastewater treatment">Agricultural wastewater</a></li>
+<li><a href="/wiki/Biodegradable_waste" title="Biodegradable waste">Biodegradable waste</a></li>
+<li><a href="/wiki/Brown_waste" title="Brown waste">Brown waste</a></li>
+<li><a href="/wiki/Chemical_waste" title="Chemical waste">Chemical waste</a></li>
+<li><a href="/wiki/Construction_waste" title="Construction waste">Construction waste</a></li>
+<li><a href="/wiki/Demolition_waste" title="Demolition waste">Demolition waste</a></li>
+<li><a href="/wiki/Electronic_waste" title="Electronic waste">Electronic waste</a>
+<ul>
+<li><a href="/wiki/Electronic_waste_by_country" title="Electronic waste by country">by country</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Food_waste" title="Food waste">Food waste</a></li>
+<li><a href="/wiki/Green_waste" title="Green waste">Green waste</a></li>
+<li><a href="/wiki/Hazardous_waste" title="Hazardous waste">Hazardous waste</a></li>
+<li><a href="/wiki/Waste_heat" title="Waste heat">Heat waste</a></li>
+<li><a href="/wiki/Industrial_waste" title="Industrial waste">Industrial waste</a></li>
+<li><a href="/wiki/Litter" title="Litter">Litter</a></li>
+<li><a href="/wiki/Marine_debris" title="Marine debris">Marine debris</a></li>
+<li><a href="/wiki/Biomedical_waste" title="Biomedical waste">Biomedical waste</a></li>
+<li><a href="/wiki/Tailings" title="Tailings">Mining waste</a></li>
+<li><a href="/wiki/Municipal_solid_waste" title="Municipal solid waste">Municipal solid waste</a></li>
+<li><a href="/wiki/Open_defecation" title="Open defecation">Open defecation</a></li>
+<li><a href="/wiki/Photodegradation" title="Photodegradation">Photodegradation</a></li>
+<li><a href="/wiki/Post-consumer_waste" title="Post-consumer waste">Post-consumer waste</a></li>
+<li><a href="/wiki/Radioactive_waste" title="Radioactive waste">Radioactive waste</a></li>
+<li><a href="/wiki/Sewage" title="Sewage">Sewage</a></li>
+<li><a href="/wiki/Toxic_waste" title="Toxic waste">Toxic waste</a></li>
+<li><a href="/wiki/Wastewater" title="Wastewater">Wastewater</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Bedrijfsafval.jpg"><img alt="Bedrijfsafval.jpg" data-file-height="1728" data-file-width="2304" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bedrijfsafval.jpg/120px-Bedrijfsafval.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bedrijfsafval.jpg/180px-Bedrijfsafval.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bedrijfsafval.jpg/240px-Bedrijfsafval.jpg 2x" width="120"/></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Processes</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anaerobic_digestion" title="Anaerobic digestion">Anaerobic digestion</a></li>
+<li><a href="/wiki/Biodegradation" title="Biodegradation">Biodegradation</a></li>
+<li><a href="/wiki/Compost" title="Compost">Composting</a></li>
+<li><a href="/wiki/Garden_waste_dumping" title="Garden waste dumping">Garden waste dumping</a></li>
+<li><a href="/wiki/Illegal_dumping" title="Illegal dumping">Illegal dumping</a></li>
+<li><a href="/wiki/Incineration" title="Incineration">Incineration</a></li>
+<li><a href="/wiki/Landfill" title="Landfill">Landfill</a></li>
+<li><a href="/wiki/Landfill_mining" title="Landfill mining">Landfill mining</a></li>
+<li><a href="/wiki/Mechanical_biological_treatment" title="Mechanical biological treatment">Mechanical biological treatment</a></li>
+<li><a href="/wiki/Materials_recovery_facility" title="Materials recovery facility">Mechanical sorting</a></li>
+<li><a class="mw-redirect" href="/wiki/Open_dump" title="Open dump">Open dump</a></li>
+<li><a href="/wiki/Recycling" title="Recycling">Recycling</a></li>
+<li><a href="/wiki/Resource_recovery" title="Resource recovery">Resource recovery</a></li>
+<li><a href="/wiki/Sewage_treatment" title="Sewage treatment">Sewage treatment</a></li>
+<li><a href="/wiki/Waste_collection" title="Waste collection">Waste collection</a></li>
+<li><a href="/wiki/Waste_picker" title="Waste picker">Waste picking</a></li>
+<li><a href="/wiki/Waste_sorting" title="Waste sorting">Waste sorting</a></li>
+<li><a class="mw-redirect" href="/wiki/Waste_trade" title="Waste trade">Waste trade</a></li>
+<li><a href="/wiki/Waste_treatment" title="Waste treatment">Waste treatment</a></li>
+<li><a href="/wiki/Waste-to-energy" title="Waste-to-energy">Waste-to-energy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Waste_by_country" title="Waste by country">Countries</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Waste_management_in_Armenia" title="Waste management in Armenia">Armenia</a></li>
+<li><a href="/wiki/Waste_management_in_Bangladesh" title="Waste management in Bangladesh">Bangladesh</a></li>
+<li><a href="/wiki/Environmental_issues_in_Brazil#Waste" title="Environmental issues in Brazil">Brazil</a></li>
+<li><a href="/wiki/Waste_management_in_Hong_Kong" title="Waste management in Hong Kong">Hong Kong</a></li>
+<li><a class="mw-redirect" href="/wiki/Solid_waste_policy_in_India" title="Solid waste policy in India">India</a></li>
+<li><a href="/wiki/Waste_in_New_Zealand" title="Waste in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Waste_management_in_Russia" title="Waste management in Russia">Russia</a></li>
+<li><a href="/wiki/Waste_management_in_Switzerland" title="Waste management in Switzerland">Switzerland</a></li>
+<li><a href="/wiki/Waste_in_the_United_Kingdom" title="Waste in the United Kingdom">UK</a></li>
+<li><a href="/wiki/Waste_in_the_United_States" title="Waste in the United States">USA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Agreements</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bamako_Convention" title="Bamako Convention">Bamako Convention</a></li>
+<li><a href="/wiki/Basel_Convention" title="Basel Convention">Basel Convention</a></li>
+<li><a href="/wiki/Directive_(European_Union)" title="Directive (European Union)">EU directives</a>
+<ul>
+<li><a href="/wiki/Battery_Directive" title="Battery Directive">batteries</a></li>
+<li><a href="/wiki/Landfill_Directive" title="Landfill Directive">landfills</a></li>
+<li><a href="/wiki/Restriction_of_Hazardous_Substances_Directive" title="Restriction of Hazardous Substances Directive">RoHS</a></li>
+<li><a href="/wiki/Waste_framework_directive" title="Waste framework directive">framework</a></li>
+<li><a href="/wiki/Waste_Incineration_Directive" title="Waste Incineration Directive">incineration</a></li>
+<li><a href="/wiki/Urban_Waste_Water_Treatment_Directive" title="Urban Waste Water Treatment Directive">waste water</a></li>
+<li><a href="/wiki/Waste_Electrical_and_Electronic_Equipment_Directive" title="Waste Electrical and Electronic Equipment Directive">WEEE</a></li>
+</ul>
+</li>
+<li><a href="/wiki/London_Convention_on_the_Prevention_of_Marine_Pollution_by_Dumping_of_Wastes_and_Other_Matter" title="London Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter">London Convention</a></li>
+<li><a href="/wiki/Oslo_Dumping_Convention" title="Oslo Dumping Convention">Oslo Convention</a></li>
+<li><a href="/wiki/OSPAR_Convention" title="OSPAR Convention">OSPAR Convention</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Other topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blue_Ribbon_Commission_on_America%27s_Nuclear_Future" title="Blue Ribbon Commission on America's Nuclear Future">Blue Ribbon Commission on America's Nuclear Future</a></li>
+<li><a href="/wiki/Cleaner_production" title="Cleaner production">Cleaner production</a></li>
+<li><a href="/wiki/Downcycling" title="Downcycling">Downcycling</a></li>
+<li><a href="/wiki/Eco-industrial_park" title="Eco-industrial park">Eco-industrial park</a></li>
+<li><a href="/wiki/Extended_producer_responsibility" title="Extended producer responsibility">Extended producer responsibility</a></li>
+<li><a href="/wiki/High-level_radioactive_waste_management" title="High-level radioactive waste management">High-level radioactive waste management</a></li>
+<li><a href="/wiki/History_of_waste_management" title="History of waste management">History of waste management</a></li>
+<li><a href="/wiki/Landfill_fire" title="Landfill fire">Landfill fire</a></li>
+<li><a href="/wiki/Sewage_regulation_and_administration" title="Sewage regulation and administration">Sewage regulation and administration</a></li>
+<li><a href="/wiki/Upcycling" title="Upcycling">Upcycling</a></li>
+<li><a href="/wiki/Waste_hierarchy" title="Waste hierarchy">Waste hierarchy</a></li>
+<li><a href="/wiki/Waste_management_law" title="Waste management law">Waste legislation</a></li>
+<li><a href="/wiki/Waste_minimisation" title="Waste minimisation">Waste minimisation</a></li>
+<li><a href="/wiki/Zero_waste" title="Zero waste">Zero waste</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="3">
+<div>
+<ul>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Waste" title="Category:Waste">Category</a></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Waste" title="commons:Category:Waste">Commons</a></li>
+<li><a href="/wiki/List_of_waste_management_concepts" title="List of waste management concepts">Concepts</a></li>
+<li><a href="/wiki/Index_of_waste_management_articles" title="Index of waste management articles">Index</a></li>
+<li><a href="/wiki/Category:Waste_management_journals" title="Category:Waste management journals">Journals</a></li>
+<li><a href="/wiki/Category:Waste-related_lists" title="Category:Waste-related lists">Lists</a></li>
+<li><a href="/wiki/Category:Waste_organisations" title="Category:Waste organisations">Organizations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5492199-0!*!0!!en!4!* and timestamp 20161015204544 and revision id 733072472
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_solid_waste_treatment_technologies&amp;oldid=733072472">https://en.wikipedia.org/w/index.php?title=List_of_solid_waste_treatment_technologies&amp;oldid=733072472</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Anaerobic_digestion" title="Category:Anaerobic digestion">Anaerobic digestion</a></li><li><a href="/wiki/Category:Thermal_treatment" title="Category:Thermal treatment">Thermal treatment</a></li><li><a href="/wiki/Category:Waste_treatment_technology" title="Category:Waste treatment technology">Waste treatment technology</a></li><li><a href="/wiki/Category:Waste-related_lists" title="Category:Waste-related lists">Waste-related lists</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

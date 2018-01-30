@@ -1,0 +1,335 @@
+geothermalpower
+from wikipedia  the free encyclopedia
+jump to 					 
+  a geothermal power station in iceland
+countries with installed and or developing geothermal power projects
+part of a series about
+geothermal
+geothermal power is
+by   technologies in use include dry steam power stations  flash steam power stations and binary cycle power stations  geothermal electricity generation is currently used in 24 countries  while
+is in use in 70 countries 
+as of 2015  worldwide geothermal power capacity amounts to 12.8
+ gw   of which 28 percent or 3,548 megawatts are installed in the   international markets grew at an average annual rate of 5 percent over the last three years and global geothermal power capacity is expected to reach 14.517.6gw by 2020  based on current geologic knowledge and technology  the
+ gea  estimates that only 6.5 percent of total global potential has been tapped so far  while the
+reported geothermal power potential to be in the range of 35gw to 2  countries generating more than 15 percent of their electricity from geothermal sources include     the  
+and  
+geothermal power is considered to be a  
+source of energy because the heat extraction is small compared with the earth s heat content  the
+of geothermal electric stations are on average 45grams of
+per kilowatt-hour of electricity  or less than 5 percent of that of conventional coal-fired plants 
+contents
+history and development  
+in the 20thcentury  demand for electricity led to the consideration of geothermal power as a generating source 
+tested the first geothermal power generator on 4 july 1904 in   italy  it successfully lit four light bulbs  later  in 1911  the world s first commercial geothermal power station was built there  experimental generators were built in   japan and   california  in the 1920s  but italy was the world s only industrial producer of geothermal electricity until 1958 
+trends in the top five geothermal electricity-generating countries  19802012  us eia 
+global geothermal electric capacity  upper red line is installed capacity  lower green line is realized production 
+in 1958  new zealand became the second major industrial producer of geothermal electricity when its
+was commissioned  wairakei was the first station to use flash steam technology 
+in 1960 
+began operation of the first successful geothermal electric power station in the united states at the geysers in california  the original turbine lasted for more than 30years and produced 11 net power 
+the binary cycle power station was first demonstrated in 1967 in russia and later introduced to the usa in 1981  following the
+and significant changes in regulatory policies  this technology allows the use of much lower temperature resources than were previously recoverable  in 2006  a binary cycle station in   came on-line  producing electricity from a record low fluid temperature of 57c  135f  
+geothermal electric stations have until recently been built exclusively where high temperature geothermal resources are available near the surface  the development of
+and improvements in drilling and extraction technology may enable
+over a much greater geographical range  demonstration projects are operational in   germany  and   france  while an earlier effort in   switzerland was shut down after it triggered earthquakes  other demonstration projects are under construction in   the   and the  
+the
+of geothermal electric stations is low  around 710   because geothermal fluids are at a low temperature compared with steam from boilers  by the laws of
+this low temperature limits the efficiency of
+in extracting useful energy during the generation of electricity  exhaust heat is wasted  unless it can be used directly and locally  for example in greenhouses  timber mills  and district heating  the efficiency of the system does not affect operational costs as it would for a coal or other fossil fuel plant  but it does factor into the viability of the station  in order to produce more energy than the pumps consume  electricity generation requires high temperature geothermal fields and specialized heat cycles    because geothermal power does not rely on variable sources of energy  unlike  for example  wind or solar  its
+can be quite large  up to 96  has been demonstrated  however the global average
+was 74.5  in 2008  according to the  
+resources  
+enhanced geothermal system 1 reservoir 2 pumphouse 3 heatexchanger 4 turbinehall 5 productionwell 6 injectionwell 7 hot water to district heating 8 poroussediments 9 observationwell 10 crystallinebedrock
+the earths heat content is about   this heat naturally flows to the surface by conduction at a rate of 44.2
+ tw  and is replenished by radioactive decay at a rate of 30tw  these power rates are more than double humanitys current energy consumption from primary sources  but most of this power is too diffuse  approximately 0.1 w m2 on average  to be recoverable  the
+effectively acts as a thick insulating blanket which must be pierced by fluid conduits  of   water or other  to release the heat underneath 
+electricity generation requires high temperature resources that can only come from deep underground  the heat must be carried to the surface by fluid circulation  either through         drilled water wells  or a combination of these  this circulation sometimes exists naturally where the crust is thin  magma conduits bring heat close to the surface  and hot springs bring the heat to the surface  if no hot spring is available  a well must be drilled into a hot   away from tectonic plate boundaries the
+is 2530c per kilometre  km  of depth in most of the world  and wells would have to be several kilometres deep to permit electricity generation  the quantity and quality of recoverable resources improves with drilling depth and proximity to tectonic plate boundaries 
+in ground that is hot but dry  or where water pressure is inadequate  injected fluid can stimulate production  developers bore two holes into a candidate site  and fracture the rock between them with explosives or high pressure water  then they pump water or liquefied carbon dioxide down one borehole  and it comes up the other borehole as a gas  this approach is called
+in europe  or
+in north america  much greater potential may be available from this approach than from conventional tapping of natural aquifers 
+estimates of the electricity generating potential of geothermal energy vary from 35 to 2000gw depending on the scale of investments  this does not include non-electric heat recovered by co-generation  geothermal heat pumps and other direct use  a 2006 report by
+ mit   that included the potential of enhanced geothermal systems  estimated that investing 1billion usdollars in research and development over 15years would allow the creation of 100gw of electrical generating capacity by 2050 in the united states alone  the mit report estimated that over 200 zj  would be extractable  with the potential to increase this to over 2,000zj with technology improvements  sufficient to provide all the world s present energy needs for several  
+at present  geothermal wells are rarely more than 3 kilometres  1.9mi  deep  upper estimates of geothermal resources assume wells as deep as 10 kilometres  6.2mi   drilling near this depth is now possible in the petroleum industry  although it is an expensive process  the deepest research well in the world  the   is 12.3km  7.6mi  deep  this record has recently been imitated by commercial oil wells  such as  s z-12 well in the chayvo field    wells drilled to depths greater than 4 kilometres  2.5mi  generally incur drilling costs in the tens of millions of dollars  the technological challenges are to drill wide bores at low cost and to break larger volumes of rock 
+geothermal power is considered to be sustainable because the heat extraction is small compared to the earth s heat content  but extraction must still be monitored to avoid local depletion  although geothermal sites are capable of providing heat for many decades  individual wells may cool down or run out of water  the three oldest sites  at larderello    and the geysers have all reduced production from their peaks  it is not clear whether these stations extracted energy faster than it was replenished from greater depths  or whether the aquifers supplying them are being depleted  if production is reduced  and water is reinjected  these wells could theoretically recover their full potential  such mitigation strategies have already been implemented at some sites  the long-term sustainability of geothermal energy has been demonstrated at the lardarello field in italy since 1913  at the wairakei field in new zealand since 1958  and at the geysers field in california since 1960 
+power station types  
+dry steam station
+flash steam station
+geothermal power stations are similar to other steam turbine
+ heat from a fuel source  in geothermal s case  the earth s core  is used to heat water or another working fluid  the working fluid is then used to turn a turbine of a generator  thereby producing electricity  the fluid is then cooled and returned to the heat source 
+dry steam power stations  
+dry steam stations are the simplest and oldest design  they directly use geothermal steam of 150c or greater to turn turbines 
+flash steam power stations  
+flash steam stations pull deep  high-pressure hot water into lower-pressure tanks and use the resulting flashed steam to drive turbines  they require fluid temperatures of at least 180c  usually more  this is the most common type of station in operation today  flash steam plants use geothermal reservoirs of water with temperatures greater than 360f  182   the hot water flows up through wells in the ground under its own pressure  as it flows upward  the pressure decreases and some of the hot water boils into steam  the steam is then separated from the water and used to power a turbine generator  any leftover water and condensed steam may be injected back into the reservoir  making this a potentially sustainable resource 
+at
+in california  twenty years of power production had depleted the groundwater and operations were substantially reduced  to restore some of the former capacity  water injection was developed 
+binary cycle power stations  
+main article 
+binary cycle power stations are the most recent development  and can accept fluid temperatures as low as 57c  the moderately hot geothermal water is passed by a secondary fluid with a much lower boiling point than water  this causes the secondary fluid to flash vaporize  which then drives the turbines  this is the most common type of geothermal electricity station being constructed today  both
+and
+are used  the thermal efficiency of this type station is typically about 1013  
+worldwide production  
+geothermal station  in italy
+the international geothermal association  iga  has reported that 10,715
+ mw  of geothermal power in 24 countries is online  which is expected to generate 67,246
+of electricity in 2010  this represents a 20  increase in geothermal power online capacity since 2005  iga projected this would grow to 18,500 mw by 2015  due to the large number of projects that were under consideration  often in areas previously assumed to have little exploitable resource 
+in 2010  the
+led the world in geothermal electricity production with 3,086 mw of installed capacity from 77 power stations  the largest group of geothermal
+in the world is located at   a geothermal field in   the philippines follows the us as the second highest producer of geothermal power in the world  with 1,904 mw of capacity online  geothermal power makes up approximately 27  of the country s electricity generation 
+said in the climate project asia pacific summit that indonesia could become a super power country in electricity production from geothermal energy  india has announced a plan to develop the country s first geothermal power facility in chhattisgarh 
+canada is the only major country on the
+which has not yet developed geothermal power  the region of greatest potential is the   stretching from
+to the yukon  where estimates of generating output have ranged from 1,550 mw to 5,000 mw 
+utility-grade stations  
+a geothermal power station in    
+the largest group of geothermal
+in the world is located at   a geothermal field in     as of 2004  five countries          and   generate more than 15  of their electricity from geothermal sources 
+geothermal electricity is generated in the 24 countries listed in the table below  during 2005  contracts were placed for an additional 500
+of electrical capacity in the united states  while there were also stations under construction in 11 other countries  enhanced geothermal systems that are several kilometres in depth are operational in france and germany and are being developed or evaluated in at least four other countries 
+installed geothermal electric capacity
+country
+capacity  mw 
+2007
+capacity  mw 
+2010
+capacity  mw 
+2013
+capacity  mw 
+2015
+share of national
+generation    
+2687
+3086
+3389
+3450
+0.3
+1969.7
+1904
+1894
+1870
+27.0
+992
+1197
+1333
+1340
+3.7
+953
+958
+980
+1017
+3.0
+471.6
+628
+895
+1005
+14.5
+810.5
+843
+901
+916
+1.5
+421.2
+575
+664
+665
+30.0
+128.8
+167
+215
+594
+51.0
+535.2
+536
+537
+519
+0.1
+38
+82
+163
+397
+0.3
+162.5
+166
+208
+207
+14.0
+204.4
+204
+204
+204
+25.0
+87.4
+88
+104
+159
+10.0
+79
+82
+97
+82
+56
+56
+56
+50
+53
+52
+42
+52
+23
+29
+28
+29
+27.8
+24
+27
+27
+8.4
+6.6
+13
+27
+14.7
+16
+15
+16
+7.3
+7.3
+8
+7.3
+1.1
+1.4
+1
+1.2
+0.2
+1.1
+1
+1.1
+0.3
+0.3
+0.3
+0.3
+total
+9,731.9
+10,709.7
+11,765
+12,635.9
+
+environmental impact  
+the 120-
+power station in southwest iceland
+fluids drawn from the deep earth carry a mixture of gases  notably
+ co
+2  
+ h
+2s  
+ ch
+4  
+ nh
+3  and
+ rn   these pollutants contribute to     radiation and noxious smells if released 
+existing geothermal electric stations  that fall within the
+of all total life cycle emissions studies reviewed by the   produce on average 45kg of co
+2 equivalent emissions per megawatt-hour of generated electricity  kg co
+2eq    for comparison  a coal-fired power plant emits 1,001kg of co
+2 per megawatt-hour when not coupled with
+ ccs  
+stations that experience high levels of acids and volatile chemicals are usually equipped with emission-control systems to reduce the exhaust  geothermal stations could theoretically inject these gases back into the earth  as a form of carbon capture and storage 
+in addition to dissolved gases  hot water from geothermal sources may hold in solution trace amounts of toxic chemicals  such as         and salt  these chemicals come out of solution as the water cools  and can cause environmental damage if released  the modern practice of injecting geothermal fluids back into the earth to stimulate production has the side benefit of reducing this environmental risk 
+station construction can adversely affect land stability 
+has occurred in the
+in new zealand 
+can trigger
+due to water injection  the project in  
+was suspended because more than 10,000 seismic events measuring up to 3.4 on the
+occurred over the first 6 days of water injection  the risk of geothermal drilling leading to
+has been experienced in  
+geothermal has minimal land and freshwater requirements  geothermal stations use 404squaremeters per versus 3,632 and 1,335squaremeters for coal facilities and wind farms respectively  they use 20litres of freshwater per mwh versus over 1000litres permwh for nuclear  coal  or oil 
+geothermal power stations can also disrupt the natural cycles of geysers  for example  the
+geysers  which were uncapped geothermal wells  stopped erupting due to the development of the dual-flash station 
+economics  
+geothermal power requires no fuel  it is therefore immune to fuel cost fluctuations  however 
+tend to be high  drilling accounts for over half the costs  and exploration of deep resources entails significant risks  a typical well doublet in nevada can support 4.5
+ mw  of electricity generation and costs about  10 million to drill  with a 20  failure rate  in total  electrical station construction and well drilling costs about 25million permw of electrical capacity  while the
+is 0.040.10 perkwh  enhanced geothermal systems tend to be on the high side of these ranges  with capital costs above  4million permw and levelized costs above  0.054 perkwh in 2007 
+geothermal power is highly scalable  a small power station can supply a rural village  though initial capital costs can be high 
+the most developed geothermal field is the geysers in california  in 2008  this field supported 15 stations  all owned by   with a total generating capacity of 725mw 
+see also  
+references  
+ 
+geothermal energy association 
+may 2010  p  4-6 
+ 
+fridleifsson   ingvar b   bertani  ruggero  huenges  ernst  lund  john w   ragnarsson  arni  rybach  ladislaus  11 february 2008   o  hohmeyer and t  trittin  ed  
+ pdf   luebeck  germany  pp 5980  retrieved 6 april 2009
+ pdf   geageothermal energy association  may 2015  line feed character in  title  at position 36   
+ 
+rybach  ladislaus  september 2007  
+ pdf   geo-heat centre quarterly bulletin  klamath falls  oregon  oregon institute of technology  28  3   pp 27    retrieved 9 may 2009
+ 
+moomaw  w   p  burgherr  g  heath  m  lenzen  j  nyboer  a  verbruggen 
+tiwari  g  n   ghosal  m  k  renewable energy resources  basic principles and applications  alpha science int l ltd   2005
+ 
+bertani  ruggero  september 2007  
+ pdf   geo-heat centre quarterly bulletin  klamath falls  oregon  oregon institute of technology  28  3   pp 819    retrieved 12 april 2009
+  ipenz org nz  retrieved 13 december 2013 
+ 
+lund  j   september 2004  
+ pdf   geo-heat centre quarterly bulletin  klamath falls  oregon  oregon institute of technology  25  3   pp 1119    retrieved 13 april 2009
+mclarty  lynn  reed  marshall j   october 1992  
+ pdf   energy sources  part a  recovery  utilization  and environmental effects  london  taylor   francis  14  4   443455   
+ 
+erkan  k   holdmann  g   benoit  w   blackwell  d   2008     geothermics  37  6   565585       retrieved 11 april 2009
+ 
+tester  jefferson w      et al  
+ pdf   impact  of enhanced geothermal systems  egs  on the united states in the 21st century  an assessment  idaho falls  idaho national laboratory    retrieved 7 february 2007
+bertani  ruggero  2009  
+ pdf   proceedings of the international conference on national development of geothermal energy use  slovakia 
+van der sluis l   schavemaker p    electrical power system essentials john wiley   sons  ltd 
+lund  john w   2003    the usa geothermal country update   geothermics  european geothermal conference 2003  elsevier science ltd   32  46   409418   
+goldstein  b   g  hiriart  r  bertani  c  bromley  l  gutirrez-negrn  e  huenges  h  muraoka  a  ragnarsson  j  tester  v  zui  2011    in ipcc special report on renewable energy sources and climate change mitigation  cambridge university press  cambridge  united kingdom and new york  ny  usa geothermal energy  p  404 
+pollack  h n   s  j  hurter  and j  r  johnson  johnson  jeffrey r   1993     rev  geophys   30  3   pp 267280      
+  kola superdeep borehole  ksdb   igcp 408  rocks and minerals at great depths and on the surface 
+watkins  eric  11 february 2008     oil   gas journal  retrieved 31 october 2009
+ 
+ pdf   new york  glacier partners  october 2009  retrieved 17 october 2009
+thain  ian a   september 1998  
+ pdf   geo-heat centre quarterly bulletin  klamath falls  oregon  oregon institute of technology  19  3   pp 14    retrieved 2 june 2009
+axelsson  gudni  stefnsson  valgardur  bjrnsson  grmur  liu  jiurong  april 2005  
+ pdf   proceedings world geothermal congress 2005  international geothermal association  retrieved 2 june 2009
+   eere energy gov  22 february 2012   retrieved 2013-12-13 
+national geographic society  1996 2014  geothermal energy information  geothermal power facts - national geographic   accessed 2014 nov 28  
+  office of energy efficiency and renewable energy  retrieved 1 october 2008 
+ 
+geothermal energy association 
+may 2010  p  7 
+khan  m  ali  2007  
+ pdf   annual forum of the groundwater protection council  retrieved 25 january 2010
+  antara news  9 january 2011   retrieved 2013-12-13 
+  the economic times   17 february 2013   retrieved 2013-12-13 
+morphet  suzanne  marchapril 2012     innovation magazine  journal of the association of professional engineers and geoscientists of bc   22
+ 
+ press release   reuters  retrieved 14 october 2009 
+holm  alison  may 2010  
+ pdf   geothermal energy association  p 7  retrieved 24 may 2010
+matek  benjamin  september 2013  
+ pdf   geothermal energy association  pp 10  11  retrieved 11 october 2013
+bertani  ruggero  april 2015    proceedings world geothermal congress 2015  melbourne  australia  1925 april 2015  pp  2  3
+  new zealand ministry of economic development  september 2014  retrieved 22 april 2015 
+  reuters  16 february 2015
+  iga  retrieved 30 august 2011
+ pdf   cepal  retrieved 30 august 2011
+bargagli1  r   cateni  d   nelli  l   olmastroni  s   zagarese  b   august 1997    environmental impact of trace element emissions from geothermal power plants   environmental contamination toxicology  new york  33  2   172181    
+ 
+lund  john w   june 2007  
+ pdf   geo-heat centre quarterly bulletin  klamath falls  oregon  oregon institute of technology  28  2   pp 19    retrieved 16 april 2009
+deichmann  n   mai  m   bethmann  f   ernst  j   evans  k   fh  d   giardini  d   hring  m   husen  s   kstli  p   bachmann  c   ripperger  j   schanz  u   wiemer  s   2007    seismicity induced by water injection for geothermal reservoir stimulation 5km below the city of basel  switzerland   american geophysical union  american geophysical union  53  8   
+sanyal  subir k   morrow  james w   butler  steven j   robertson-tait  ann  22 january 2007  
+ pdf   proc  thirty-second workshop on geothermal reservoir engineering  stanford  california 
+lund  john w   boyd  tonya  june 1999  
+ pdf   geo-heat centre quarterly bulletin  klamath falls  oregon  oregon institute of technology  20  2   pp 926    retrieved 2 june 2009
+external links  
+geothermal power
+technologies
+energy concepts
+portals 
+retrieved from   
+  hidden categories 

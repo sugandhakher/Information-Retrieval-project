@@ -1,0 +1,131 @@
+liquidnitrogen
+from wikipedia  the free encyclopedia
+jump to 					 
+ ln2  redirects here  for the high-speed railway line in france  see  
+liquid nitrogen
+a demonstration of liquid nitrogen at the freeside maker space in atlanta  georgia during the online news association conference in 2013
+students preparing homemade
+with liquid nitrogen 
+liquid nitrogen is
+in a liquid state at an extremely low temperature  it is a colorless clear liquid with a density of 0.807 g ml at its
+ 195.79c  77k  320f   and a
+of 1.43  nitrogen was first liquefied at the
+on 15 april 1883 by polish physicists 
+and   it is produced industrially by
+of   liquid nitrogen is often referred to by the abbreviation  ln2 or  lin  or  ln  and has the
+1977  liquid nitrogen is a diatomic liquid  which means that the diatomic character of the covalent n bonding in n2 gas is retained after  
+liquid nitrogen is a
+fluid that can cause rapid
+on contact with living tissue  when appropriately
+from ambient   liquid nitrogen can be stored and transported  for example in   the temperature is held constant at 77k by slow boiling of the liquid  resulting in the evolution of nitrogen gas  depending on the size and design  the holding time of vacuum flasks    ranges from a few hours to a few weeks  the development of pressurised super-insulated vacuum vessels has enabled liquefied nitrogen to be stored and transported over longer time periods with losses reduced to 2  per day or less 
+the temperature of liquid nitrogen can readily be reduced to its freezing point 63k  210c  346f  by placing it in a vacuum chamber pumped by a vacuum pump  liquid nitrogen s efficiency as a coolant is limited by the fact that it boils immediately on contact with a warmer object  enveloping the object in insulating nitrogen gas  this effect  known as the   applies to any liquid in contact with an object significantly hotter than its boiling point  faster cooling may be obtained by plunging an object into a slush of liquid and solid nitrogen rather than liquid nitrogen alone 
+contents
+uses
+liquid nitrogen is a compact and readily transported source of dry nitrogen gas  as it does not require pressurization  further  its ability to maintain temperatures far below the
+of water makes it extremely useful in a wide range of applications  primarily as an open-cycle   including 
+in
+for removing unsightly or potentially
+skin lesions such as
+and
+to store cells at low temperature for laboratory work
+in
+in a
+to demonstrate rapid
+by
+as a backup nitrogen source in
+as a source of very dry
+gas
+for the immersion  freezing  and transportation of
+products
+for the
+of   reproductive cells   and    and other
+samples and materials
+to preserve tissue samples from surgical excisions for future studies
+to facilitate
+as a method of freezing water and oil pipes in order to work on them in situations where a valve is not available to block fluid flow to the work area  method known as a cryogenic isolation  frequently used in industry and new york district steam pipework   electrical heat pumps are now often used for small pipe diameters 
+in the process of   a way to dispose of the dead
+for
+in hopes of future reanimation 
+to shrink-weld machinery parts together
+as a coolant
+for
+cameras in
+for a
+to a temperature sufficient to achieve
+for
+traps and in
+in chemistry 
+to increase the sensitivity of
+seeker heads of missiles such as the
+to temporarily shrink mechanical components during machine assembly and allow improved
+for
+and extreme
+for simulation of space background in vacuum chamber during
+thermal testing
+in food preparation  such as for making ultra-smooth   see also  
+in container inerting and pressurisation by injecting a controlled amount of liquid nitrogen just prior to sealing or capping 
+as a cosmetic novelty giving a smoky  bubbling  cauldron effect  to drinks  see  
+as an energy storage medium 
+branding cattle 
+culinary use of liquid nitrogen
+see also 
+the culinary use of liquid nitrogen is mentioned in an 1890 recipe book titled fancy ices authored by mrs    but has been employed in more recent times by restaurants in the preparation of frozen desserts  such as ice cream  which can be created within moments at the table because of the speed at which it cools food  the rapidity of chilling also leads to the formation of smaller ice crystals  which provides the dessert with a smoother texture  the technique is employed by chef
+who has used it at his restaurant 
+to create frozen dishes such as egg and bacon ice cream  liquid nitrogen has also become popular in the preparation of
+because it can be used to quickly chill glasses or freeze ingredients  it is also added to drinks to create a smoky effect  which occurs as tiny droplets of the liquid nitrogen come into contact with the surrounding air  condensing the vapour that is naturally present 
+safety
+filling a liquid nitrogen
+from a storage tank
+because the liquid-to-gas
+of nitrogen is 1 694 at 20c  68f   a tremendous amount of force can be generated if liquid nitrogen is rapidly vaporized in an enclosed space  in an incident on january 12  2006 at   the pressure-relief devices of a tank of liquid nitrogen were malfunctioning and later sealed  as a result of the subsequent pressure buildup  the tank failed catastrophically  the force of the explosion was sufficient to propel the tank through the ceiling immediately above it  shatter a reinforced concrete beam immediately below it  and blow the walls of the laboratory 0.10.2 m off their foundations 
+because of its extremely low temperature  careless handling of liquid nitrogen and any objects cooled by it may result in   in that case  special gloves should be used while handling  however  a small splash or even pouring down skin will not burn immediately  because the evaporating gas thermally insulates to some extent  like touching a hot element very briefly with a wet finger  if the liquid nitrogen pools anywhere  it will burn severely 
+as liquid nitrogen evaporates it reduces the
+concentration in the
+and can act as an   especially in   nitrogen is odorless  colorless  and tasteless and may produce
+without any sensation or prior warning 
+are sometimes used as a safety precaution when working with liquid nitrogen to alert workers of gas spills into a confined space 
+vessels containing liquid nitrogen can
+from air  the liquid in such a vessel becomes increasingly enriched in oxygen  boiling point 90k  183c  298f  as the nitrogen evaporates  and can cause violent oxidation of organic material 
+ingestion of liquid nitrogen can cause severe internal damage  for example  in 2012  a young woman in england had her stomach removed after ingesting a cocktail made with liquid nitrogen 
+production
+main article 
+liquid nitrogen is produced commercially from the
+of
+or from the liquefication of pure nitrogen derived from air using   an
+is used to compress filtered air to high pressure  the high-pressure gas is cooled back to ambient temperature  and allowed to expand to a low pressure  the expanding air cools greatly  the    and oxygen  nitrogen  and argon are separated by further stages of expansion and distillation  small-scale production of liquid nitrogen is easily achieved using this principle  liquid nitrogen may be produced for direct sale  or as a byproduct of manufacture of liquid oxygen used for industrial processes such as   liquid-air plants producing on the order of tons per day of product started to be built in the 1930s but became very common after the second world war  a large modern plant may produce 3000 tons day of liquid air products 
+see also
+references
+murphy  e  j   morgan  s  o 
+ pdf   retrieved october 2  2012 
+tilden  william augustus  2009     bibliobazaar  llc  p 249   
+henshaw  d  g   hurst  d  g   pope  n  k   1953    structure of liquid nitrogen  oxygen  and argon by neutron diffraction   physical review  92  1229    
+  aspenycap org
+umrath  w   1974    cooling bath for rapid freezing in electron microscopy   journal of microscopy  101  103105    
+wainner  scott  richmond  robert  2003   the book of overclocking  tweak your pc to unleash its power  no starch press  p 44   
+karam  robert d   1998   satellite thermal control for system engineers  aiaa  p 89   
+  march 7  2006
+  june 19  2012
+  june 19  2012
+harrabin  roger  2 october 2012     bbc 
+markham  derek  october 3  2012     treehugger  discovery communications 
+dyer  ted g   february 2010  
+ pdf  
+ 
+  bbc news  bbc  9 october 2012  retrieved 9 october 2012 
+wallop  harry  9 october 2012     the daily telegraph  telegraph media group  retrieved 12 october 2012 
+ 
+gladwell  amy  9 october 2012     newsbeat  bbc  retrieved 9 october 2012 
+mattox  brent s 
+ reprint   texas a m university 
+british compressed gases association  2000  bcga code of practice cp30 
+issn 0260-4809 
+  valero refinery asphyxiation incident case study 
+  bbc news  october 25  1999 
+  united kingdom  birkbeck  university of london  2007  retrieved 2012-02-08 
+levey  christopher g    thayer school of engineering at dartmouth 
+  bbc news  october 8  2012 
+almqvist  ebbe  2003  history of industrial gases  springer 
+p  163
+ 
+retrieved from   
+  hidden categories 

@@ -1,0 +1,209 @@
+seawater
+from wikipedia  the free encyclopedia
+jump to 					 
+seawater in the
+temperature-salinity diagram of changes in density of water
+changes in ocean water density with depth at different latitudes
+seawater  or salt water  is water from a sea or ocean  on average  seawater in the world s oceans has a
+of about 3.5   35g l  or 0.600 m  this means that every kilogram  roughly one litre by volume  of seawater has approximately 35 grams  1.2oz  of
+ predominantly
+ na   and
+ cl     average density at the surface is 1.025kg l  seawater is
+than both
+and pure water  density 1.0kg l at 4c  39f   because the dissolved salts increase the mass by a larger proportion than the volume  the
+of seawater decreases as salt concentration increases  at typical salinity  it freezes at about 2c  28f   the coldest seawater ever recorded  in a liquid state  was in 2010  in a stream under an
+  and measured 2.6c  27.3f   seawater
+is typically limited to a range between 7.5 and 8.4  however  there is no universally accepted reference ph-scale for seawater and the difference between measurements based on different reference scales may be up to 0.14 units 
+contents
+geochemistry  
+the thermal conductivity of seawater is 0.6w mk at 25c and a salinity of 35g kg  the thermal conductivity decreases with increasing salinity and increases with increasing temperature 
+salinity  
+further information 
+annual mean sea surface salinity expressed in the
+for the   data from the
+examples of water salinity  values in parts per thousand 
+although the vast majority of seawater has a salinity of between 3.1  and 3.8   seawater is not uniformly saline throughout the world  where mixing occurs with fresh water runoff from river mouths or near melting glaciers  seawater can be substantially less saline  the most saline open sea is the   where high rates of   low
+and river inflow  and confined circulation result in unusually salty water  the salinity in isolated bodies of water  for example  the   can be considerably greater still 
+the
+of surface seawater ranges from about 1020 to 1029kg m3  depending on the temperature and salinity  deep in the ocean  under high pressure  seawater can reach a density of 1050kg m3 or higher  seawater
+is limited to the range 7.5 to 8.4  the
+in seawater is about 1,500m s  and varies with water temperature  salinity  and pressure 
+compositional differences from freshwater  
+seawater composition  by mass   salinity   3.5  
+element
+percent
+element
+percent
+85.84
+0.091
+10.82
+0.04
+1.94
+0.04
+1.08
+0.0067
+0.1292
+0.0028
+1.5  1011  3.3  1011
+seawater contains more dissolved
+than all types of freshwater  however  the ratios of solutes differ dramatically  for instance  although seawater contains about 2.8 times more
+than river water based on   the
+of bicarbonate in seawater as a ratio of all dissolved
+is far lower than in river water  bicarbonate ions also constitute 48  of river water solutes but only 0.14  of all seawater ions  differences like these are due to the varying
+of seawater solutes 
+and
+have very long residence times  while
+ vital for
+formation  tends to precipitate much more quickly  the most abundant dissolved ions in seawater are sodium  chloride   
+and calcium  its
+is about 1000 mosm l 
+small amounts of other substances are found including
+at concentrations up to 2 micrograms of nitrogen atoms per liter  which are thought to have played a key role in the  
+microbial components  
+research in 1957 by the
+sampled water in both
+and
+locations in the pacific ocean  direct microscopic counts and cultures were used  the direct counts in some cases showing up to 10 000 times that obtained from cultures  these differences were attributed to the occurrence of bacteria in aggregates  selective effects of the culture media  and the presence of inactive cells  a marked reduction in bacterial culture numbers was noted below the   but not by direct microscopic observation  large numbers of -like forms were seen by microscope but not under cultivation  the disparity in numbers obtained by the two methods is well known in this and other fields  in the 1990s  improved techniques of detection and identification of microbes by probing just small snippets of   enabled researchers taking part in the
+to identify thousands of previously unknown microbes usually present only in small numbers  this revealed a far greater diversity than previously suspected  so that a litre of seawater may hold more than 20,000 species  dr  mitchell sogin from the
+feels that  the number of different kinds of bacteria in the oceans could eclipse five to 10 million  
+bacteria are found at all depths in the   as well as in the sediments  some being aerobic  others anaerobic  most are free-swimming  but some exist as
+within other organisms  examples of these being bioluminescent bacteria 
+played an important role in the evolution of ocean processes  enabling the development of
+and oxygen in the atmosphere 
+some bacteria interact with   and form a critical link in the cycling of silicon in the ocean  one anaerobic species    plays an important part in the breakdown of
+eruptions from diatomaceous sediments off the namibian coast  and generated by high rates of phytoplankton growth in the
+upwelling zone  eventually falling to the seafloor 
+bacteria-like
+surprised marine microbiologists by their survival and thriving in extreme environments  such as the
+on the ocean floor  alkalotolerant marine bacteria such as
+and
+spp  survive in a
+range of 7.3 to 10.6  while some species will grow only at ph 10 to 10.6  archaea also exist in pelagic waters and may constitute as much as half the ocean s   clearly playing an important part in oceanic processes  in 2000 sediments from the ocean floor revealed a species of archaea that breaks down   an important
+gas and a major contributor to atmospheric warming  some bacteria break down the rocks of the sea floor  influencing seawater chemistry  oil spills  and runoff containing human sewage and chemical pollutants have a marked effect on microbial life in the vicinity  as well as harbouring pathogens and toxins affecting all forms of marine life  the protist
+may at certain times undergo population explosions called blooms or   often after human-caused pollution  the process may produce
+known as biotoxins  which move along the ocean food chain  tainting higher-order animal consumers 
+  a species of very large virus  with a genome much larger than that of any other virus species  was discovered in 2013  like the other very large viruses
+and   pandoravirus infects amoebas  but its genome  containing 1.9 to 2.5 megabases of dna  is twice as large as that of megavirus  and it differs greatly from the other large viruses in appearance and in genome structure 
+in 2013 researchers from
+announced that they were starting a hunt for undiscovered chemicals in organisms that have evolved in deep sea trenches  hoping to find  the next generation  of antibiotics  anticipating an  antibiotic apocalypse  with a dearth of new infection-fighting drugs  the eu-funded research will start in the
+and then move on to search trenches off new zealand and antarctica 
+the ocean has a long history of human waste disposal on the assumption that its vast size makes it capable of absorbing and diluting all noxious material  while this may be true on a small scale  the large amounts of sewage routinely dumped has damaged many coastal ecosystems  and rendered them life-threatening  pathogenic viruses and bacteria occur in such waters  such as  
+the cause of    
+and   along with protozoans causing
+and   these pathogens are routinely present in the ballast water of large vessels  and are widely spread when the ballast is discharged 
+origin  
+diagram showing concentrations of various salt ions in seawater  the composition of the total salt component is  cl 55   na  30.6   so2
+4 7.7   mg2  3.7   ca2  1.2   k  1.1   other 0.7   note that the diagram is only correct when in units of wt wt  not wt vol or vol vol 
+total molar composition of seawater  salinity   35 
+component
+concentration  mol kg 
+53.6
+0.546
+0.469
+0.0528
+0.0282
+0.0103
+0.0102
+0.00206
+0.000844
+0.000416
+0.000091
+0.000068
+behind the origins of sea salt started with sir
+in 1715  who proposed that salt and other minerals were carried into the sea by rivers after rainfall washed it out of the ground  upon reaching the ocean  these salts concentrated as more salt arrived over time  see    halley noted that most lakes that don t have ocean outlets  such as the
+and the   see    have high salt content  halley termed this process  continental weathering  
+halley s theory was partly correct  in addition  sodium leached out of the ocean floor when the ocean formed  the presence of salt s other dominant ion  chloride  results from
+of chloride  as   with other gases from earth s interior via
+and   the sodium and chloride ions subsequently became the most abundant constituents of sea salt 
+ocean salinity has been stable for billions of years  most likely as a consequence of a chemical  system which removes as much salt as is deposited  for instance  sodium and chloride sinks include
+deposits  pure water burial  and reactions with seafloor   133
+human impacts  
+  rising atmospheric   excess nutrients  and pollution in many forms are altering global oceanic geochemistry  rates of change for some aspects greatly exceed those in the historical and recent geological record  major trends include an increasing   reduced subsurface oxygen in both near-shore and pelagic waters  rising coastal nitrogen levels  and widespread increases in
+and persistent organic pollutants  most of these perturbations are tied either directly or indirectly to human fossil fuel combustion  fertilizer  and industrial activity  concentrations are projected to grow in coming decades  with negative impacts on ocean biota and other marine resources 
+human consumption  
+main article 
+see also 
+accidentally consuming small quantities of clean seawater is not harmful  especially if the seawater is taken along with a larger quantity of fresh water  however  drinking seawater to maintain hydration is counterproductive  more water must be excreted to eliminate the salt  via   than the amount of water obtained from the seawater itself 
+the
+actively regulates sodium chloride in the blood within a very narrow range around 9 g l  0.9  by weight  
+in most open waters concentrations vary somewhat around typical values of about 3.5   far higher than the body can tolerate and most beyond what the kidney can process  a point frequently overlooked    in claims that the kidney can excrete nacl in baltic concentrations  2    is that the gut cannot absorb water at such concentrations  so that there is no benefit in drinking such water  drinking seawater temporarily increases blood s nacl concentration  this signals the
+to excrete sodium  but seawater s sodium concentration is above the kidney s maximum concentrating ability  eventually the blood s sodium concentration rises to toxic levels  removing water from cells and interfering with
+conduction  ultimately producing fatal
+and    
+consistently advise against drinking seawater  a summary of 163
+voyages estimated the risk of death at 39  for those who drank seawater  compared to 3  for those who did not  the effect of seawater intake on rats confirmed the negative effects of drinking seawater when dehydrated 
+the temptation to drink seawater was greatest for sailors who had expended their supply of fresh water  and were unable to capture enough rainwater for drinking  this frustration was described famously by a line from  s  
+ water  water  everywhere 
+and all the boards did shrink 
+water  water  everywhere 
+nor any drop to drink  
+although humans cannot survive on seawater  some people claim that up to two cups a day  mixed with fresh water in a 2 3 ratio  produces no ill effect  the french physician
+survived an ocean crossing in a small zodiak rubber boat using mainly raw fish meat  which contains about 40 percent water  like most living tissues   as well as small amounts of seawater and other provisions harvested from the ocean  his findings were challenged  but an alternative explanation was not given  in his 1948 book   
+reported drinking seawater mixed with fresh in a 2 3 ratio during the 1947 expedition  a few years later  another adventurer    claimed to have drunk two cups of seawater and one cup of fresh per day for 70 days without ill effect when he lost part of his water supply 
+during the 18th century 
+advocated the practice s medical use in the uk  and
+expanded the advocation of the practice other countries  notably france  in the 20th century  currently  the practice is widely used in nicaragua and other countries  supposedly taking advantage of the latest medical discoveries 
+most ocean-going vessels
+water from seawater using processes such as
+or
+in an   or more recently by   these energy-intensive processes were not usually available during the   larger sailing warships with large crews  such as  s   were fitted with distilling apparati in their   animals such as fish  whales    and   such as penguins and   can adapt to a high saline habitat  for example  the kidney of the
+can concentrate sodium far more efficiently than the human kidney   
+standard  
+has an international standard for   astm d1141-98  original standard astm d1141-52   it is used in many research testing labs as a reproducible solution for seawater such as tests on corrosion  oil contamination  and detergency evaluation 
+see also  
+listen to this article   
+this audio file was created from a revision of the  seawater  article dated 2014-08-16  and does not reflect subsequent edits to the article    
+global ocean salinity
+references  
+ 
+sylte  gudrun urd  24 may 2010     forskning no  in norwegian   retrieved 24 may 2010 
+chester  jickells  roy  tim  2012   marine geochemistry  blackwell publishing   
+stumm  w  morgan  j  j   1981  aquatic chemistry  an introduction emphasizing chemical equilibria in natural waters  john wiley   sons  pp  414416   
+ pdf   department of mechanical engineering    april 2010  retrieved 17 october 2010 
+  retrieved 17 october 2010 
+    retrieved 5 december 2012 
+ 
+gale  thomson    retrieved 2 december 2006 
+ 
+pinet  paul r   1996   invitation to oceanography  st  paul  west publishing company  pp 126  134135   
+hogan  c  michael  2010     eds  a  jorgensen  c  cleveland  encyclopedia of earth  national council for science and the environment 
+ 
+tada  k   tada  m   maita  y   1998  
+ pdf   journal of oceanography  54  4   313    
+jannasch  holger w   jones  galen e 
+ pdf   limnology and oceanography  association for the sciences of limnology and oceanography  4  2   128139     retrieved 13 may 2013 
+  sciencedaily  2 september 2006  retrieved 13 may 2013 
+maeda  m   taga  n   31 march 1980  
+ pdf   marine ecology  progress series  2  105108     retrieved 13 may 2013 
+cheung  louisa  31 july 2006     bbc news  retrieved 13 may 2013 
+leslie  mitchell  5 october 2000     sciencenow  american association for the advancement of science  retrieved 13 may 2013 
+  bbc news  14 february 2013  retrieved 13 may 2013 
+  national academies  1971 page 36 
+hoyle  brian d   robinson  richard    water encyclopedia 
+doe  1994    5   in a g  dickson   c  goyet 
+ pdf   2  ornl cdiac-74  cs1 maint  uses editors parameter   
+doney  scott c   18 june 2010       328  5985   15121516     retrieved 16 december 2011 
+ 
+   
+ 29  
+ pdf   retrieved 17 october 2010 
+etzion  z   yagil  r   1987    metabolic effects in rats drinking increasing concentrations of seawater    comp biochem physiol a  86  1   4955      
+heyerdahl  thor  lyon  f h   translator   1950   kon-tiki  across the pacific by raft  rand mcnally   company  chicago  ill 
+king  dean  2004   skeletons on the zahara  a true story of survival  new york  back bay books  p 74   
+rippon  p m   commander  rn  1998   the evolution of engineering in the royal navy  vol 1  18271939  spellmount  pp 7879   
+  astm  retrieved 17 august 2013 
+external links  
+tables
+  mit
+composition
+vanadium concentration in seawater and estuary environments is around 1.53.3ug kg  
+vanadium speciation and cycling in coastal waters
+ocean anoxia and the concentrations of molybdenum and vanadium in seawater
+ocean zones
+satellites
+related
+seawater
+ 
+ 
+retrieved from   
+  hidden categories 

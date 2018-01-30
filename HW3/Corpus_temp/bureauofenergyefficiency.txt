@@ -1,0 +1,133 @@
+bureauofenergyefficiency
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Bureau_of_Energy_Efficiency&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(January 2012)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org">Bureau of Energy Efficiency<br/>
+ऊर्जा दक्षता ब्यूरो</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Bureau_of_Energy_Efficiency,_India_logo.svg"><img alt="Bureau of Energy Efficiency, India logo.svg" data-file-height="300" data-file-width="243" height="185" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c0/Bureau_of_Energy_Efficiency%2C_India_logo.svg/150px-Bureau_of_Energy_Efficiency%2C_India_logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c0/Bureau_of_Energy_Efficiency%2C_India_logo.svg/225px-Bureau_of_Energy_Efficiency%2C_India_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c0/Bureau_of_Energy_Efficiency%2C_India_logo.svg/300px-Bureau_of_Energy_Efficiency%2C_India_logo.svg.png 2x" width="150"/></a>
+<div>Bureau of Energy Efficiency, India</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Abbreviation</th>
+<td class="nickname">BEE</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Formation</th>
+<td class="note">1 March 2002<span class="noprint">; 14 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">2002-03-01</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Type</th>
+<td>Autonomous Government Agency</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Legal status</th>
+<td>Constituted by Energy Conservation Act, 2001.</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Purpose</th>
+<td>Development of policies and strategies, with an emphasis on self-regulation and market principles under the Energy Conservation Act, 2001.</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Headquarters</th>
+<td>SEWA Bhavan</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Location</th>
+<td class="label">
+<div class="plainlist">
+<ul>
+<li>R. K.Puram, New Delhi - 110066</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Region served</div>
+</th>
+<td><a href="/wiki/India" title="India">India</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Official language</div>
+</th>
+<td><a class="mw-redirect" href="/wiki/Hindi_language" title="Hindi language">Hindi</a><br/>
+<a href="/wiki/English_language" title="English language">English</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Parent organisation</div>
+</th>
+<td><a href="/wiki/Ministry_of_Power_(India)" title="Ministry of Power (India)">Ministry of Power</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Website</th>
+<td><a class="external text" href="http://www.beeindia.in/" rel="nofollow">beeindia.in</a></td>
+</tr>
+</table>
+<p>The <b>Bureau of Energy Efficiency</b> is an agency of the <a href="/wiki/Government_of_India" title="Government of India">Government of India</a>, under the <a href="/wiki/Ministry_of_Power_(India)" title="Ministry of Power (India)">Ministry of Power</a> created in March 2002 under the provisions of the nation's 2001 Energy Conservation Act.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> The agency's function is to develop programs which will increase the conservation and efficient use of energy in India.<sup class="reference" id="cite_ref-Use_2-0"><a href="#cite_note-Use-2">[2]</a></sup> The government has proposed to make it mandatory for all appliances in India to have ratings by the BEE starting in January 2010.<sup class="reference" id="cite_ref-mandatory_3-0"><a href="#cite_note-mandatory-3">[3]</a></sup> The mission of Bureau of Energy Efficiency is to "institutionalise" energy efficiency services, enable delivery mechanisms in the country and provide leadership to energy efficiency in all sectors of the country. The primary objective would be to reduce energy intensity in the economy.</p>
+<p>The broad objectives of BEE are as under: To exert leadership and provide policy recommendation and direction to national energy conservation and efficiency efforts and programs. To coordinate energy efficiency and conservation policies and programs and take it to the stakeholders To establish systems and procedures to measure, monitor and verify energy efficiency results in individual sectors as well as at a macro level. To leverage multi-lateral and bi-lateral and private sector support in implementation of Energy Conservation Act and efficient use of energy and its conservation programs. To demonstrate delivery of energy efficiency services as mandated in the EC bill through private-public partnerships. To interpret, plan and manage energy conservation programs as envisaged in the Energy Conservation Act. Objectives Provide a policy recommendation and direction to national energy conservation activities Coordinate policies and programmes on efficient use of energy with shareholders Establish systems and procedures to verify, measure and monitor <a href="/wiki/Efficient_energy_use" title="Efficient energy use">Energy Efficiency</a> (EE) improvements Leverage multilateral, bilateral and private sector support to implement the EC Act 2001 Demonstrate EE delivery systems through public-private partnerships</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Actions_.26_Activities"><span class="tocnumber">1</span> <span class="toctext">Actions &amp; Activities</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Actions_.26_Activities">Actions &amp; Activities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bureau_of_Energy_Efficiency&amp;action=edit&amp;section=1" title="Edit section: Actions &amp; Activities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Energy Audit</b> : The Government of India has identified certain energy intensive industries labelled as 'designated consumers',<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> and made it compulsory for them to conduct Energy Audits following the ‘Bureau of Energy Efficiency (Manner and Intervals of Time for Conduct of Energy Audit) Regulations, 2010’<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bureau_of_Energy_Efficiency&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Bachat_Lamp_Yojna" title="Bachat Lamp Yojna">Bachat Lamp Yojna</a></li>
+<li><a href="/wiki/Energy_Conservation_Building_Code" title="Energy Conservation Building Code">Energy Conservation Building Code</a></li>
+<li><a class="new" href="/w/index.php?title=Standards_and_Labeling_Program&amp;action=edit&amp;redlink=1" title="Standards and Labeling Program (page does not exist)">Standards and Labeling Program</a></li>
+<li>Life Long Learning (3L) Programme</li>
+<li><a href="/wiki/Ministry_of_New_and_Renewable_Energy" title="Ministry of New and Renewable Energy">Ministry of New and Renewable Energy</a></li>
+<li><a href="/wiki/Ministry_of_Power_(India)" title="Ministry of Power (India)">Ministry of Power</a></li>
+<li><a class="new" href="/w/index.php?title=National_Mission_for_Enhanced_Energy_Efficiency&amp;action=edit&amp;redlink=1" title="National Mission for Enhanced Energy Efficiency (page does not exist)">National Mission for Enhanced Energy Efficiency</a></li>
+<li><a href="/wiki/Renewable_energy_in_India" title="Renewable energy in India">Renewable energy in India</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bureau_of_Energy_Efficiency&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.beeindia.in/about_bee/documents/ec_act/act_detail/CHAPTER%20II.pdf" rel="nofollow">"THE ENERGY CONSERVATION ACT, 2001 No 52 OF 2001, Chapter III"</a> <span style="font-size:85%;">(PDF)</span>. <i><a class="external free" href="http://www.beeindia.in" rel="nofollow">http://www.beeindia.in</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 May</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABureau+of+Energy+Efficiency&amp;rft.atitle=THE+ENERGY+CONSERVATION+ACT%2C+2001+No+52+OF+2001%2C+Chapter+III&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.beeindia.in%2Fabout_bee%2Fdocuments%2Fec_act%2Fact_detail%2FCHAPTER%2520II.pdf&amp;rft.jtitle=http%3A%2F%2Fwww.beeindia.in&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span> <span class="error citation-comment" style="font-size:100%">External link in <code style="color:inherit; border:inherit; padding:inherit;">|website=</code> (<a href="/wiki/Help:CS1_errors#param_has_ext_link" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-Use-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Use_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20090803204648/http://www.dayafterindia.com/aug109/textnav.html" rel="nofollow">"The Action plan for Energy efficiency"</a>. <i>The Day After</i>. 1 August 2009. Archived from <a class="external text" href="http://www.dayafterindia.com/aug109/textnav.html" rel="nofollow">the original</a> on 3 August 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-08-17</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABureau+of+Energy+Efficiency&amp;rft.atitle=The+Action+plan+for+Energy+efficiency&amp;rft.date=2009-08-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.dayafterindia.com%2Faug109%2Ftextnav.html&amp;rft.jtitle=The+Day+After&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-mandatory-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-mandatory_3-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="http://sify.com/news/fullstory.php?a=jh5sOeeidgg" rel="nofollow">"Mandatory energy efficiency ratings in the offing"</a>. <a href="/wiki/Sify" title="Sify">Sify</a>. 2009-07-31. p. 1<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-08-19</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABureau+of+Energy+Efficiency&amp;rft.atitle=Mandatory+energy+efficiency+ratings+in+the+offing&amp;rft.date=2009-07-31&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fsify.com%2Fnews%2Ffullstory.php%3Fa%3Djh5sOeeidgg&amp;rft.pages=1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.beeindia.in/about_bee/documents/ec_act/act_detail/Chapter%20V.pdf" rel="nofollow">"The Energy Conservation Act, 2001, Chapter V"</a> <span style="font-size:85%;">(PDF)</span>. <i><a class="external free" href="http://www.beeindia.in" rel="nofollow">http://www.beeindia.in</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 May</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABureau+of+Energy+Efficiency&amp;rft.atitle=The+Energy+Conservation+Act%2C+2001%2C+Chapter+V&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.beeindia.in%2Fabout_bee%2Fdocuments%2Fec_act%2Fact_detail%2FChapter%2520V.pdf&amp;rft.jtitle=http%3A%2F%2Fwww.beeindia.in&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span> <span class="error citation-comment" style="font-size:100%">External link in <code style="color:inherit; border:inherit; padding:inherit;">|website=</code> (<a href="/wiki/Help:CS1_errors#param_has_ext_link" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://as1.ori.nic.in/eicelectricity/ECONS/Desgconsumer.aspx" rel="nofollow">"Designated Consumer"</a>. <i><a class="external free" href="http://as1.ori.nic.in/" rel="nofollow">http://as1.ori.nic.in/</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 May</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABureau+of+Energy+Efficiency&amp;rft.atitle=Designated+Consumer&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fas1.ori.nic.in%2Feicelectricity%2FECONS%2FDesgconsumer.aspx&amp;rft.jtitle=http%3A%2F%2Fas1.ori.nic.in%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span> <span class="error citation-comment" style="font-size:100%">External link in <code style="color:inherit; border:inherit; padding:inherit;">|website=</code> (<a href="/wiki/Help:CS1_errors#param_has_ext_link" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.creda.in/gazette-notification-issued-central-government-27th-may2014-mandatory-energy-audit-designated" rel="nofollow">"GAZETTE NOTIFICATION ISSUED BY CENTRAL GOVERNMENT ON 27TH MAY,2014 (MANDATORY ENERGY AUDIT FOR DESIGNATED CONSUMERS)"</a>. <i><a class="external free" href="http://www.creda.in" rel="nofollow">http://www.creda.in</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 May</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABureau+of+Energy+Efficiency&amp;rft.atitle=GAZETTE+NOTIFICATION+ISSUED+BY+CENTRAL+GOVERNMENT+ON+27TH+MAY%2C2014+%28MANDATORY+ENERGY+AUDIT+FOR+DESIGNATED+CONSUMERS%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.creda.in%2Fgazette-notification-issued-central-government-27th-may2014-mandatory-energy-audit-designated&amp;rft.jtitle=http%3A%2F%2Fwww.creda.in&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span> <span class="error citation-comment" style="font-size:100%">External link in <code style="color:inherit; border:inherit; padding:inherit;">|website=</code> (<a href="/wiki/Help:CS1_errors#param_has_ext_link" title="Help:CS1 errors">help</a>)</span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bureau_of_Energy_Efficiency&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="https://web.archive.org/web/20090808055015/http://www.bee-india.nic.in/" rel="nofollow">Bureau of Energy Efficiency</a></li>
+<li><a class="external text" href="http://www.energymanagertraining.com" rel="nofollow">IGEN</a></li>
+<li><a class="external text" href="http://cribb.in/save-electricity-by-checking-bee-labels.htm" rel="nofollow">Save Electricity by Checking BEE Labels</a></li>
+<li><a class="external text" href="http://beestarlabel.com/" rel="nofollow">E filing Standards &amp; Labeling Program in India</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23884136-0!*!0!!en!4!* and timestamp 20161110212156 and revision id 748867337
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bureau_of_Energy_Efficiency&amp;oldid=748867337">https://en.wikipedia.org/w/index.php?title=Bureau_of_Energy_Efficiency&amp;oldid=748867337</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2001_in_law" title="Category:2001 in law">2001 in law</a></li><li><a href="/wiki/Category:2002_establishments_in_India" title="Category:2002 establishments in India">2002 establishments in India</a></li><li><a href="/wiki/Category:Energy_efficiency" title="Category:Energy efficiency">Energy efficiency</a></li><li><a href="/wiki/Category:Energy_efficiency_in_India" title="Category:Energy efficiency in India">Energy efficiency in India</a></li><li><a href="/wiki/Category:Energy_efficiency_policy" title="Category:Energy efficiency policy">Energy efficiency policy</a></li><li><a href="/wiki/Category:Government_agencies_established_in_2002" title="Category:Government agencies established in 2002">Government agencies established in 2002</a></li><li><a href="/wiki/Category:Government_agencies_for_energy_(India)" title="Category:Government agencies for energy (India)">Government agencies for energy (India)</a></li><li><a href="/wiki/Category:Ministry_of_Power_(India)" title="Category:Ministry of Power (India)">Ministry of Power (India)</a></li><li><a href="/wiki/Category:Organisations_based_in_Delhi" title="Category:Organisations based in Delhi">Organisations based in Delhi</a></li><li><a href="/wiki/Category:Vajpayee_administration_initiatives" title="Category:Vajpayee administration initiatives">Vajpayee administration initiatives</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_external_links" title="Category:CS1 errors: external links">CS1 errors: external links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_June_2015" title="Category:Use dmy dates from June 2015">Use dmy dates from June 2015</a></li><li><a href="/wiki/Category:Use_Indian_English_from_June_2015" title="Category:Use Indian English from June 2015">Use Indian English from June 2015</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_Indian_English" title="Category:All Wikipedia articles written in Indian English">All Wikipedia articles written in Indian English</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2012" title="Category:Articles needing additional references from January 2012">Articles needing additional references from January 2012</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

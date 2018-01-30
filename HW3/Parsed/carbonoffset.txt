@@ -1,0 +1,354 @@
+carbonoffset
+from wikipedia  the free encyclopedia
+jump to 					 
+the
+of this article is
+because of its   please see the discussion on the   please do not remove this message until the issue is resolved   may 2013 
+part of
+about
+concepts
+policies
+dynamics
+carbon related
+carbon offset
+a carbon offset is a reduction in emissions of carbon dioxide or
+made in order to compensate for or to offset an emission made elsewhere 
+carbon offsets are measured in metric tons of
+ co2e  and may represent six primary categories of greenhouse gases 
+ co2  
+ ch4  
+ n2o  
+ pfcs  
+ hfcs   and
+ sf6   one carbon offset represents the reduction of one metric ton of carbon dioxide or its equivalent in other greenhouse gases 
+there are two markets for carbon offsets  in the larger  compliance market  companies  governments  or other entities buy carbon offsets in order to comply with
+on the total amount of carbon dioxide they are allowed to emit  this market exists in order to achieve compliance with obligations of annex 1 parties under the   and of liable entities under the   in 2006  about  5.5 billion of carbon offsets were purchased in the compliance market  representing about 1.6 billion metric tons of co2e reductions 
+in the much smaller  voluntary market  individuals  companies  or governments purchase carbon offsets to mitigate their own greenhouse gas emissions from transportation  electricity use  and other sources  for example  an individual might purchase carbon offsets to compensate for the greenhouse gas emissions caused by personal air travel  many companies  see list  offer carbon offsets as an up-sell during the sales process so that customers can mitigate the emissions related with their product or service purchase  such as offsetting emissions related to a vacation flight  car rental  hotel stay  consumer good  etc    in 2008  about  705 million of carbon offsets were purchased in the voluntary market  representing about 123.4 million metric tons of co2e reductions  some fuel suppliers in the uk offer fuel which has been carbon offset such as  
+offsets are typically achieved through financial support of projects that reduce the emission of greenhouse gases in the short- or long-term  the most common project type is   such as wind farms  biomass energy  or hydroelectric dams  others include energy efficiency projects  the destruction of industrial pollutants or agricultural byproducts  destruction of landfill methane  and forestry projects  some of the most popular carbon offset projects from a corporate perspective are energy efficiency and wind turbine projects 
+carbon offsetting has gained some appeal and momentum mainly among consumers in western countries who have become aware and concerned about the potentially negative environmental effects of energy-intensive lifestyles and economies  the
+has sanctioned offsets as a way for governments and private companies to earn
+that can be traded on a marketplace  the protocol established the
+ cdm   which validates and measures projects to ensure they produce authentic benefits and are genuinely  additional  activities that would not otherwise have been undertaken  organizations that are unable to meet their emissions quota can offset their emissions by buying cdm-approved certified emissions reductions  emissions from burning fuel  such as red diesel  has pushed one uk fuel supplier to create a carbon offset fuel named  
+offsets may be cheaper or more convenient alternatives to reducing one s own fossil-fuel consumption  however  some critics object to carbon offsets  and question the benefits of certain types of offsets 
+is recommended to help businesses in the assessment and identification of  good quality  offsets to ensure offsetting provides the desired additional environmental benefits  and to avoid reputational risk associated with poor quality offsets 
+offsets are viewed as an important policy tool to maintain stable economies and to improve sustainability  one of the hidden dangers of climate change policy is unequal prices of carbon in the economy  which can cause economic collateral damage if production flows to regions or industries that have a lower price of carbonunless carbon can be purchased from that area  which offsets effectively permit  equalizing the price 
+wind turbines near    
+projects are the most common source of carbon offsets 
+contents
+definitions  
+features  
+carbon offsets have several common features 
+vintage  the vintage is the year in which the carbon reduction takes place 
+source  the source refers to the project or technology used in offsetting the carbon emissions  projects can include land-use  methane  biomass  renewable energy and industrial energy efficiency  projects may also have secondary benefits  co-benefits   for example  projects that reduce agricultural greenhouse gas emissions may improve water quality by reducing fertilizer usage 
+certification regime  the certification regime describes the systems and procedures that are used to certify and register carbon offsets  different methodologies are used for measuring and verifying emissions reductions  depending on project type  size and location  for example  the cdm uses another  in the voluntary market  a variety of industry standards exist  these include the
+and the
+that are implemented to provide third-party verification of carbon offset projects  there are some additional standards for the validation of co-benefits  including the ccbs  issued by the
+and the social carbon standard  issued by ecologica institute 
+carbon offset markets  
+global market  
+in 2009  8.2 billion metric tons of carbon dioxide equivalent changed hands worldwide  up 68 per cent from 2008  according to the study by carbon-market research firm point carbon  of washington and oslo  but at eur94 billion  or about  135 billion  the market s value was nearly unchanged compared with 2008  with world carbon prices averaging eur11.40 a ton  down about 40 per cent from the previous year  according to the study  the world bank s  state and trends of the carbon market 2010  put the overall value of the market at  144 billion  but found that a significant part of this figure resulted from manipulation of a vat loophole 
+ 90  of voluntary offset volumes were contracted by the private sector  where corporate social responsibility and industry leadership were primary motivations for offset purchases 
+ offset buyers desire to positively impact the climate resilience of their supply chain or sphere of influence was evident in our data which identifies a strong relationship between buyers business sectors and the project categories from which they contract offsets 
+e u  market  
+the global carbon market is dominated by the   where companies that emit greenhouse gases are required to cut their emissions or buy pollution allowances or carbon credits from the market  under the
+ eu ets   europe  which has seen volatile carbon prices due to fluctuations in energy prices and supply and demand  will continue to dominate the global carbon market for another few years  as the u s  and chinathe world s top pollutershave yet to establish mandatory emission-reduction policies 
+u s  market  
+on the whole  the u s  market remains primarily a voluntary market  but multiple cap and trade regimes are either fully implemented or near-imminent at the regional level  the first mandatory  market-based cap-and-trade program to cut co2 in the u s   called the
+ rggi   kicked into gear in northeastern states in 2009  growing nearly tenfold to  2.5 billion  according to  
+ wci a regional cap-and-trade program including seven western states  california notably among them  and four canadian provinceshas established a regional target for reducing heat-trapping emissions of 15 percent below 2005 levels by 2020  a component of california s own   kicked off in early 2013  requires high-emissions industries to purchase carbon credits to cover emissions in excess of 25,000 co2 metric tons 
+voluntary market  
+participants
+a wide range of participants are involved in the voluntary market  including providers of different types of offsets  developers of quality assurance mechanisms  third party verifiers  and consumers who purchase offsets from domestic or international providers  suppliers include for-profit companies  governments  charitable non-governmental organizations  colleges and universities  and other groups 
+motivations
+according to industry analyst   the voluntary markets present the opportunity for citizen consumer action  as well as an alternative source of carbon finance and an incubator for carbon market innovation  in their survey of voluntary markets  data has shown that    and  public relations branding  are clearly in first place among motivations for voluntary offset purchases  with evidence indicating that companies seek to offset emissions  for goodwill  both of the general public and their investors  
+in addition  regarding market composition  research indicates   though many analysts perceive pre-compliance buying as a dominant driving force in the voluntary market  the results of our survey have repeatedly indicated that precompliance motives  as indicated by  investment resale and  anticipation of regulation   remain secondary to those of the pure voluntary market  companies individuals offsetting their emissions   
+pre-compliance   trading
+the other main category of buyers on the voluntary markets are those engaged in pre-compliance and or trading  those purchasing offsets for pre-compliance purposes are doing so with the expectation  or as a hedge against the possibility  of future mandatory cap and trade regulations  as a mandatory cap would sharply increase the price of offsets  firmsespecially those with large carbon footprints and the corresponding financial exposure to regulationmake the decision to acquire offsets in advance at what are expected to be lower prices 
+the trading market in offsets in general resembles the trade in other commodities markets  with financial professionals including hedge funds and desks at major investment banks  taking positions in the hopes of buying cheap and selling dear  with their motivation typically short or medium term financial gain 
+retail
+multiple players in the retail market have offerings that enable consumers and businesses to calculate their   most commonly through a web-based interface including a calculator or questionnaire  and sell them offsets in the amount of that footprint  in addition many companies selling products and services  especially carbon-intensive ones such as airline travel  offer options to bundle a proportional offsetting amount of carbon credits with each transaction 
+suppliers of voluntary offsets operate under both
+and
+models  or a blended approach sometimes referred to as   other suppliers include broader environmentally focused organizations with website subsections or initiatives that enable retail voluntary offset purchases by members  and government created projects 
+features of companies that voluntarily offset emissions
+companies that voluntarily offset their own emissions tend to be of relatively low   as they can offset a significant proportion of their emissions at relatively low cost  voluntary offsetting is particularly common in the financial sector  61 per cent of financial companies in the ftse 100 offset at least a portion of their 2009 emissions  twenty-two per cent of financial companies in the ftse 100 considered their entire 2009 operations to be carbon neutral 
+sources of carbon offsets  
+the cdm identifies over 200 types of projects suitable for generating carbon offsets  which are grouped into broad categories  these project types include renewable energy  methane abatement  energy efficiency  reforestation and fuel switching 
+renewable energy  
+offsets commonly include    
+and   some of these offsets are used to reduce the cost differential between renewable and conventional energy production  increasing the commercial viability of a choice to use renewable energy sources 
+ recs  are also sometimes treated as carbon offsets  although the concepts are distinct  whereas a carbon offset represents a reduction in greenhouse gas emissions  a rec represents a quantity of energy produced from renewable sources  to convert recs into offsets  the clean energy must be translated into carbon reductions  typically by assuming that the clean energy is displacing an equivalent amount of conventionally produced electricity from the local grid  this is known as an indirect offset  because the reduction doesn t take place at the project site itself  but rather at an external site   and some controversy surrounds the question of whether they truly lead to  additional  emission reductions and who should get credit for any reductions that may occur  intel corporation is the largest purchaser of renewable power in the us 
+methane collection and combustion  
+some offset projects consist of the combustion or containment of
+generated by farm animals  by use of an    landfills or other industrial waste  methane has a
+ gwp  23 times that of co2  when combusted  each molecule of methane is converted to one molecule of co2  thus reducing the global warming effect by 96  
+an example of a project using an
+can be found in chile where in december 2000  the largest pork production company in chile  initiated a voluntary process to implement advanced waste management systems  anaerobic and aerobic digestion of hog manure   in order to reduce greenhouse gas  ghg  emissions 
+energy efficiency  
+chicago climate justice activists protesting cap and trade legislation in front of
+building in chicago loop
+this section does not
+any   please help improve this section by   unsourced material may be challenged and    august 2008    
+while carbon offsets that fund renewable energy projects help lower the
+of energy supply  energy conservation projects seek to reduce the overall demand for energy  carbon offsets in this category fund projects of several types 
+plants generate both electricity and heat from the same power source  thus improving upon the energy efficiency of most power plants  which waste the energy generated as heat 
+fuel efficiency projects replace a combustion device with one using less fuel per unit of energy provided  assuming energy demand does not change  this reduces the carbon dioxide emitted 
+reduce the amount of energy wasted in buildings through efficient heating  cooling or lighting systems  in particular  the replacement of incandescent
+with
+can have a drastic effect on energy consumption  new buildings can also be constructed using less carbon-intensive input materials 
+destruction of industrial pollutants  
+industrial pollutants such as hydrofluorocarbons  hfcs  and perfluorocarbons  pfcs  have a
+many thousands of times greater than carbon dioxide by volume  because these pollutants are easily captured and destroyed at their source  they present a large and low-cost source of carbon offsets  as a category  hfcs  pfcs  and n2o reductions represent 71 per cent of offsets issued under the cdm 
+land use  land-use change and forestry  
+land use  land-use change and forestry    projects focus on natural
+such as forests and soil  deforestation  particularly in brazil  indonesia and parts of africa  account for about 20 per cent of greenhouse gas emissions  deforestation can be avoided either by paying directly for forest preservation  or by using offset funds to provide substitutes for forest-based products  there is a class of mechanisms referred to as redd schemes     which may be included in a post-kyoto agreement  redd credits provide carbon offsets for the protection of forests  and provide a possible mechanism to allow funding from developed nations to assist in the protection of native forests in developing nations 
+almost half of the world s people burn wood  or fiber or   for their cooking and heating needs    fuel-efficient cook stoves can reduce fuel wood consumption by 30 to 50   though the warming of the earth due to decreases in particulate matter  i e  smoke  from such fuel-efficient stoves has not been addressed  there are a number of different types of lulucf projects 
+avoided
+is the protection of existing forests 
+is the process of restoring forests on land that was once forested 
+is the process of creating forests on land that was previously unforested  typically for longer than a generation 
+projects attempt to preserve or increase the amount of carbon sequestered in soil 
+purchase of carbon allowances from emissions trading schemes  
+voluntary purchasers can offset their carbon emissions by purchasing carbon allowances from legally mandated cap-and-trade programs such as the
+or the european   by purchasing the allowances that power plants  oil refineries  and industrial facilities need to hold to comply with a cap  voluntary purchases tighten the cap and force additional emissions reductions 
+voluntary purchases can also be made through small-scale and sometimes uncertified schemes such as those offered at south african based promoting access to carbon equity centre  pace   which nevertheless offer clear services such as poverty alleviation in the form of renewable energy development  also  as  easy carbon credits are coming to an end   these projects have the potential to develop projects that are either too small or too complicated to benefit from legally mandated cap-and-trade programs 
+links with emission trading schemes  
+main article 
+once it has been accredited by the
+a carbon offset project can be used as
+and linked with official emission trading schemes  such as the
+or   as   european emission allowances for the 20082012 second phase were selling for between 21 and 24 euros per metric ton of co2 as of july 2007 
+the voluntary
+also includes a carbon offset scheme that allows offset project developers to sell emissions reductions to ccx members who have voluntarily agreed to meet emissions reduction targets 
+the   a regional greenhouse gas reduction initiative by states and provinces along the western rim of north america  includes an offset scheme  likewise  the   a similar program in the northeastern u s   includes an offset program  a credit mechanism that uses offsets may be incorporated in proposed schemes such as the australian carbon exchange 
+other  
+a uk offset provider set up a carbon offsetting scheme that set up a secondary market for
+in developing countries  these pumps are used by farmers  using human power  in place of
+pumps  however  given that treadle pumps are best suited to pumping shallow water  while diesel pumps are usually used to pump water from deep boreholes  it is not clear that the treadle pumps are actually achieving real emissions reductions  other companies have explored and rejected treadle pumps as a viable carbon offsetting approach due to these concerns 
+carbon retirement  
+involves retiring allowances from
+as a method for offsetting carbon emissions  under schemes such as the   eu emission allowances  euas   which represent the right to release carbon dioxide into the atmosphere  are issued to all the largest polluters  the theory is that by buying these allowances and permanently removing them  the price of euas increases and provides an incentive for industrial companies to reduce their emissions 
+accounting for and verifying reductions  
+due to their indirect nature  many types of offset are difficult to verify  some providers obtain independent certification that their offsets are accurately measured  to distance themselves from potentially fraudulent competitors  the credibility of the various certification providers is often questioned  certified offsets may be purchased from commercial or non-profit organizations for us 2.7599.00 per
+of co2  due to fluctuations of market price 
+in developed countries range from 6 to 23 tons per capita 
+accounting systems differ on precisely what constitutes a valid offset for voluntary reduction systems and for mandatory reduction systems  however formal standards for quantification exist based on collaboration between emitters  regulators  environmentalists and project developers  these standards include the   green-e climate  chicago climate exchange and the   the latter of which expands upon the requirements for the
+of the  
+accounting of offsets may address the following basic areas 
+baseline and measurementwhat emissions would occur in the absence of a proposed project  and how are the emissions that occur after the project is performed going to be measured 
+additionalitywould the project occur anyway without the investment raised by selling carbon offset credits  there are two common reasons why a project may lack additionality   a  if it is intrinsically financially worthwhile due to energy cost savings  and  b  if it had to be performed due to environmental laws or regulations 
+permanenceare some benefits of the reductions reversible   for example  trees may be harvested to burn the wood  and does growing trees for fuel wood decrease the need for    if woodlands are increasing in area or density  then   after roughly 50 years  newly planted forests will reach maturity and
+more slowly 
+does implementing the project cause higher emissions outside the project boundary 
+co-benefits  
+overall  carbon offsets improve the environment by reducing the amount of greenhouse gases in the earths atmosphere  offset projects often also lead to a number of co-benefits such as better air and water quality  and healthier communities 
+while the primary goal of carbon offsets is to reduce global carbon emissions  many offset projects also claim to lead to improvements in the quality of life for a local population  these additional improvements are termed co-benefits  and may be considered when evaluating and comparing carbon offset projects  some possible co-benefits from a project that replaces wood-burning stoves with ovens using a less carbon-intensive fuel include 
+lower nongreenhouse gas pollution  smoke  ash  and chemicals   which improves health in the home 
+better preservation of forests  which are an important habitat for wildlife 
+in a recent survey conducted by ecosecurities  conservation international  ccba and climatebiz  of the 120 corporates surveyed more than 77 per cent rated community and environmental benefits as the prime motivator for purchasing carbon offsets 
+carbon offset projects can also negatively affect quality of life  for example  people who earn their livelihoods from collecting firewood and selling it to households could become unemployed if firewood is no longer used  a paper from the
+offers some indicators to be used in assessing the potential developmental impacts of voluntary carbon offset schemes 
+what potential does the project have for income generation 
+what effects might a project have on future changes in land use and could conflicts arise from this 
+can small-scale producers engage in the scheme 
+what are the  add on  benefits to the countryfor example  will it assist capacity-building in local institutions 
+putting a price on carbon encourages innovation by providing funding for new ways to reduce greenhouse gases in many sectors  carbon reduction goals drive the demand for offsets and carbon trading  encouraging the development of this new industry and offering opportunities for different sectors to develop and use innovative new technologies 
+carbon offset projects also provide savings  energy efficiency measures may reduce fuel or electricity consumption  leading to a potential reduction in maintenance and operating costs 
+quality assurance schemes  
+quality assurance standard for carbon offsetting  qas   
+in an effort to inform and safeguard business and household consumers purchasing carbon offsets  in 2009  the
+has launched a scheme for regulating carbon offset products 
+have created the  approved carbon offsetting  brand to use as an endorsement on offsets approved by the uk government  the scheme sets standards for best practice in offsetting  approved offsets have to demonstrate the following criteria 
+accurate calculation of emissions to be offset
+use of good quality carbon credits i e  initially those that are kyoto compliant
+cancellation of carbon credits within a year of the consumers purchase of the offset
+clear and transparent pricing of the offset
+provision of information about the role of offsetting in tackling climate change and advice on how a consumer can reduce his or her carbon footprint
+the first company to qualify for the scheme was   followed by carbon footprint  carbon passport  pure 
+and  
+on 20 may 2011 the
+announced that the quality assurance scheme would close on 30 june 2011  the stated purpose of the quality assurance scheme was  to provide a straightforward route for those wishing to offset their emissions to identify quality offsets   critics of the closure therefore argued that without the scheme  businesses and individuals would struggle to identify quality carbon offsets 
+in 2012 the scheme was relaunched as the quality assurance standard  qas   the qas is now run independently by quality assurance standard ltd which is a company limited by guarantee based in the united kingdom  the quality assurance standard is a comprehensive independent audit system for carbon offsets  approved offsets are checked against a 40-point checklist to ensure they meet the very highest standards in the world 
+on 17 july 2012  the first organisations were approved as meeting the new qas 
+australian government national carbon offset program  
+the australian government is currently in a consultation period on the regulation of carbon offsets  on 20 december 2013  the australian government released the emissions reduction fund green paper outlining its preferred design options for the emissions reduction fund  a carbon buy-back model  the government invites public comment and written submissions on the green paper by 5pm on friday 21 february 2014 
+controversies  
+this article s criticism or controversy section may compromise the article s
+of the subject  please
+into the article as a whole  or rewrite the material   may 2013 
+project-offsetting  
+less than 30 pence in every pound spent on some carbon offset schemes goes directly to projects designed to reduce emissions  the figures reported by the bbc and based on un data reported that typically 28p goes to the set up and maintenance costs of an environmental project  34p goes to the company that takes on the risk that the project may fail  the project s investors take 19p  with smaller amounts of money being distributed between organisations involved in brokering and auditing the carbon credits  in that respect carbon offsets are similar to most consumer products  with only a fraction of sale prices going to the off-shore producers  the rest being shared between investors and distributors who bring it to the markets  who themselves need to pay their employees and service providers such as advertising agencies most of the time located in expensive areas 
+indulgence controversy  
+some activists disagree with the principle of carbon offsets  likening them to roman catholic   a way for the guilty to pay for absolution rather than changing their behavior    an english environmentalist and writer  says that carbon offsets are an excuse for business as usual with regard to pollution  proponents hold that the indulgence analogy is flawed because they claim carbon offsets actually reduce carbon emissions  changing the business as usual  and therefore address the root cause of climate change  proponents of offsets claim that third-party certified carbon offsets are leading to increased investment in renewable energy  energy efficiency  methane biodigesters and reforestation and avoided deforestation projects    and claim that these alleged effects are the intended goal of carbon offsets  on october 16  2009   once a strong voice in favour of carbon offsetting  announced that it would stop offering carbon offsetting to its clients  stating that  too often offsets are being used by the tourism industry in developed countries to justify growth plans on the basis that money will be donated to projects in developing countries  global reduction targets will not be met this way  
+on 4 february 2010  travel networking site vida loca travel announced that they would donate 5 per cent of profits to international medical corps  as they feel that international aid can be more effective at cutting global warming in the long term than carbon offsetting  citing the work of economist  
+effectiveness of tree-planting offsets  
+some environmentalists have questioned the effectiveness of
+for carbon offset purposes  critics point to the following issues with tree planting projects 
+timing  trees reach maturity over a course of many decades  project developers and offset retailers typically pay for the project and sell the promised reductions up-front  a practice known as  forward selling  
+permanence  it is difficult to guarantee the permanence of the forests  which may be susceptible to clearing  burning  or mismanagement  the well-publicized instance of the  coldplay forest   in which a forestry project supported by the british band
+resulted in a grove of dead mango trees  illustrates the difficulties of guaranteeing the permanence of tree-planting offsets  when discussing  tree offsets  forest campaigner jutta kill of european environmental group   clarified the physical reality that  carbon in trees is temporary  trees can easily release carbon into the atmosphere through fire  disease  climatic changes  natural decay and timber harvesting  
+monocultures and invasive species  in an effort to cut costs  some tree-planting projects introduce fast-growing invasive species that end up damaging native forests and reducing biodiversity  for example  in ecuador  the dutch
+has an offset project in the andean
+involving 220 square kilometres of
+and pine planted  the ngo
+criticized the project for destroying a valuable pramo ecosystem by introducing exotic tree species  causing the release of much soil carbon into the atmosphere  and harming local communities who had entered into contracts with the face foundation to plant the trees  however  some certification standards  such as the climate community and biodiversity standard require multiple species plantings 
+  a recent study has claimed that plants are a significant source of methane  a potent greenhouse gas  raising the possibility that trees and other terrestrial plants may be significant contributors to global methane levels in the atmosphere  however  this claim has been disputed recently by findings in another study 
+  another study suggested that  high latitude forests probably have a net warming effect on the earth s climate   because their absorption of sunlight creates a warming effect that balances out their absorption of carbon dioxide 
+necessity  corporate tree-planting is not a new idea  farming operations have been used by companies making
+from trees for a long time  if farmed trees are replanted  and the products made from them are placed into
+rather than   a very safe  efficient  economical and time-proven method of
+of greenhouse carbon is the result of the paper product use cycle  this only holds if the paper in the land fill is not decomposted  in most landfills  this is the case and leads to the fact that more than half of the
+emissions from the life cycle of paper products occur from landfill
+emissions   
+indigenous land rights issues  
+tree-planting projects can cause conflicts with indigenous people who are displaced or otherwise find their use of forest resources curtailed  for example  a
+report documents land disputes and
+abuses at   in march 2002  a few days before receiving forest stewardship council certification for a project near mount elgon  the
+evicted more than 300 families from the area and destroyed their homes and crops  that the project was taking place in an area of on-going land conflict and alleged human rights abuses did not make it into project report    a 2011 report by
+describes a case where over 20,000 farmers in uganda were displaced for a fsc-certified plantation to offset carbon by london-based new forests company
+additionality and lack of regulation in the voluntary market  
+several certification standards exist  offering variations for measuring emissions baseline  reductions    and other key criteria  however  no single standard governs the industry  and some offset providers have been criticized on the grounds that carbon reduction claims are exaggerated or misleading  problems include 
+widespread instances of people and organizations buying worthless credits that do not yield any reductions in carbon emissions 
+industrial companies profiting from doing very little  or from gaining carbon credits on the basis of efficiency gains from which they have already benefited substantially 
+brokers providing services of questionable or no value 
+a shortage of verification  making it difficult for buyers to assess the true value of carbon credits 
+perverse incentives  
+because offsets provide a revenue stream for the reduction of some types of emissions  they can in some cases provide incentives to emit more  so that emitting entities can later get credit for reducing emissions from an artificially high baseline  this is especially the case for offsets with a high profit margin  for example  one chinese company generated  500 million in carbon offsets by installing a  5million incinerator to burn the
+produced by the manufacture of refrigerants  the huge profits provided incentive to create new factories or expand existing factories solely for the purpose of increasing production of hfcs and then destroying the resultant pollutants to generate offsets  not only is this outcome environmentally undesirable  it undermines other offset projects by causing offset prices to collapse  the practice had become so common that offset credits are now no longer awarded for new plants to destroy  
+in
+oil companies
+40 per cent of the
+found  the
+plans to build plants to generate electricity from this gas and thus claim 1.5 million offset credits a year  united states company
+has also applied for credits in exchange for processing its own waste gas in nigeria  oilwatch org s michael karikpo calls this  outrageous   as flaring is illegal in nigeria  adding that  it s like a criminal demanding money to stop committing crimes  
+other negative impacts from offset projects  
+although many carbon offset projects tout their environmental co-benefits  some are accused of having negative secondary effects  point carbon has reported on an inconsistent approach with regard to some
+projects as carbon offsets  some countries in the eu are not allowing large projects into the   because of their environmental impacts  even though they have been individually approved by the unfccc and   it is difficult to assess the exact results of carbon offsets given the fact that they are a relatively new form of carbon reduction  and it is possible that some carbon offset purchases are made in an attempt to increase positive business public relations rather than to help solve the issue of greenhouse gas emissions 
+offset projects may also have negative social impacts  for example when local residents are evicted to enable a national park to be marketed as a carbon offset 
+see also  
+references  
+goodward  jenna  kelly  alexia  august 2010     world resources institute  retrieved 2010-09-08 
+  collins english dictionary - complete   unabridged 11th edition  retrieved september 21  2012 from collinsdictionary com 
+  environment protection authority victoria  2008-09-02  retrieved 2010-08-28 
+eci  2008-04-07     university of oxford environmental change institute  retrieved 2010-09-08 
+  intergovernmental panel on climate change  2001  retrieved 2010-02-22 
+friend  g   2009   the truth about green business  upper saddle river  nj  ft press 
+ pdf   world bank  2007 
+  carbon offsets daily  2008-08-01 
+ 
+  2011-04-18  retrieved 2011-05-24 
+ 
+  unep risoe centre  2010-02-01  retrieved 2010-02-22 
+gillenwater  michael  derik broekhoff  mark trexler  jasmine hyman  rob fowler  2007     nature reports climate change  6  711   8587    
+ 
+    carbon trust  november 2006  retrieved 14 august 2012 
+  www emisoft com  emisoft 
+  carbon offsets daily  2009-07-27 
+  retrieved 6 august 2015 
+united nations framework convention on climate change    retrieved 6 august 2015 
+united nations framework convention on climate change    retrieved 6 august 2015 
+    retrieved 9 may 2014 
+sweet  cassandra  2010-01-06     the wall street journal  retrieved 2010-03-03   
+  world bank group  retrieved 2010-08-26 
+reyes  oscar  2010-07-20     carbon trade watch  retrieved 2010-08-26  
+ 
+  ecosystem marketplace  retrieved 27 october 2014 
+for a list of commercial offset retailers  refer to   carbon catalog  2010-10-04  retrieved 2010-10-04 
+  retrieved 6 august 2015 
+  retrieved 6 august 2015 
+smith  tierney  2011-04-18     climate action  retrieved 2011-05-25 
+gillenwater  michael  2008    redefining recspart 1  untangling attributes and offsets   energy policy  36  6   2109    
+gillenwater  michael  2008    redefining recs  part 2   untangling certificates and emission markets   energy policy  36  6   2120    
+e  curry  b  guyon  c  sheridan  and b  donnellan    mis quarterly executive  vol  11  no  2  pp  6174  2012 
+  retrieved 6 august 2015 
+ pdf 
+  retrieved 6 august 2015 
+  retrieved 6 august 2015 
+  mongabay com  retrieved 6 august 2015 
+carbon equity centre  pace 
+the latest analysis from new carbon finance confirms that many of the low hanging fruit of cheap carbon credits in the developing world have now been harvested  further opportunities for reducing emissions will require more effort  spurring investments in renewable energy and energy efficiency  submitted on 07/29/08  10 26 am
+round-table discussion on policies and measures-source-unfccc official website
+hopkirk  james  2007-01-04     the independent  london  retrieved 2010-02-23 
+carbon retirement website
+  ecobusinesslinks  11 august 2016  retrieved 11 august 2016 
+ 
+pacific carbon trust    pacific carbon trust  retrieved 27 october 2014 
+    2007  retrieved 2007  check date values in   access-date    
+    2006  retrieved 2007  check date values in   access-date    
+decc to close carbon offset accreditation scheme 
+uk government defra  9 february 2009
+uk government defra  9 february 2009
+ 
+  department of energy and climate change  2011-05-20  retrieved 2011-05-25 
+will nichols  2011-05-23     businessgreen  retrieved 2011-05-25 
+qas 
+40 point check list 
+australian government  9 february 2009
+  2009-12-07  retrieved 2011-05-24 
+kahya  damian  2009-12-07     bbc news  retrieved 2010-09-01 
+ 2006-10-19     monbiot com  retrieved 2010-08-10  the trade in carbon offsets is an excuse for business as usual 
+kaste  martin  2006-11-28       it s a bit like the sale of indulgences prior to the reformation -that as long as you hand over your money  your sins are deemed to have been canceled out and you are no longer unclean in the eyes of god 
+roberts  david  2007-07-11     grist  retrieved 2010-03-02 
+ press release   www responsibletravel com  2009-10-16  retrieved 2010-04-30 
+  vida loca travel charity pledge  vida loca travel ltd  2010  retrieved 2010-08-11 
+  david suzuki foundation  2009  retrieved 2010-02-23 
+dhillon  amrit  harnden  toby  2006-04-30     telegraph  london  retrieved 2010-02-23 
+jutta kill  july 2006       retrieved 21 march 2010 
+accin ecolgica ecuador  may 2005  
+ pdf   world rainforest movement  retrieved 2007  check date values in   access-date    
+keppler f  hamilton jt  brass m  rckmann t  2006    methane emissions from terrestrial plants under aerobic conditions   nature  439  7073   187191         
+dueck ta  et al   2007    no evidence for substantial aerobic methane emission by terrestrial plants  a 13c-labelling approach   new phytologist  175  1   2935      
+chris lang  timothy byakola  december 2006  
+ pdf     retrieved 2007  check date values in   access-date    
+ 
+harvey  fiona  fidler  stephen  2007-04-25     financial times 
+other periodicals that have covered these issues include the christian science monitor   the guardian   mother jones   and the new york times  
+schapiro  mark  february 2010  
+ pdf     new york  pp 3139  retrieved 9 april 2012 
+bradsher  keith  2006-12-21     the new york times 
+ 
+mukerjee  madhussree  2009    
+ june   910 
+point carbon via river news  9 october 2007
+schmidt  charles  2009    carbon offsets  growing pains in a growing market    environmental health perspectives  11  2   6268    
+  9 september 2009 
+external links  
+at
+and
+temperatures
+causes
+  
+  
+history
+opinion and climate change
+  
+ 
+ 
+  
+general
+by country
+  
+governmental
+emissions reduction
+carbon offset
+carbon-free energy
+personal
+other
+strategies
+programmes
+concepts
+sources
+and
+  
+ tso 
+protective
+devices
+ gfi 
+economics
+and policies
+carbon offset
+categories
+portals
+ 
+retrieved from   
+  hidden categories 

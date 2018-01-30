@@ -1,0 +1,115 @@
+wasteheat
+from wikipedia  the free encyclopedia
+jump to 					 
+units use
+which ends up as
+waste heat is by necessity produced both by
+that do
+and in other processes that use   for example in a refrigerator warming the room air or a combustion engine releasing heat into the environment  the need for many systems to reject heat as a by-product of their operation is fundamental to the   waste heat has lower utility  or in thermodynamics lexicon a lower
+or higher   than the original energy source  sources of waste heat include all manner of human activities  natural systems  and all organisms  rejection of unneeded cold    as from a heat pump  is also a form of waste heat  i e  the medium has heat  but at a lower temperature than is considered warm  
+instead of being  wasted  by release into the ambient environment  sometimes waste heat  or cold  can be utilized by another process  or a portion of heat that would otherwise be wasted can be reused in the same process if make-up heat is added to the system  as with
+in a building  
+  which includes technologies both for short- and long-term retention of heat or cold  can create or improve the utility of waste heat  or cold   one example is waste heat from air conditioning machinery stored in a buffer tank to aid in night time heating  another is
+ stes  at a foundry in sweden  the heat is stored in the bedrock surrounding a cluster of heat exchanger equipped boreholes  and is used for space heating in an adjacent factory as needed  even months later  an example of using stes to utilize natural waste heat is the
+in   canada  which  by using a cluster of boreholes in bedrock for interseasonal heat storage  obtains 97 percent of its year-round heat from solar thermal collectors on the garage roofs  another stes application is storing winter cold underground  for summer air conditioning 
+on a biological scale  all organisms reject waste heat as part of their   and will die if the ambient temperature is too high to allow this 
+anthropogenic waste heat is thought by some to contribute to the
+effect  the biggest point sources of waste heat originate from machines  such as electrical generators or industrial processes  such as steel or glass production  and heat loss through building envelopes  the burning of transport fuels is a major contribution to waste heat 
+contents
+conversion of energy  
+see also 
+machines
+contained in
+to
+or
+produce heat as a by-product 
+sources  
+in the majority of energy applications  energy is required in multiple forms  these energy forms typically include some combination of   
+and   often  these additional forms of energy are produced by a   running on a source of high-temperature heat  a heat engine can never have perfect efficiency  according to the   therefore a heat engine will always produce a surplus of low-temperature heat  this is commonly referred to as waste heat or  secondary heat   or  low-grade heat   this heat is useful for the majority of heating applications  however  it is sometimes not practical to transport heat energy over long distances  unlike electricity or fuel energy  the largest proportions of total waste heat are from
+and vehicle engines    the largest single sources are power stations and industrial plants such as
+and
+plants   
+power generation  
+the
+of
+is defined as the ratio between the input and output energy  it is typically only 30   the images show
+which allow power stations to maintain the low side of the temperature difference essential for conversion of heat differences to other forms of energy  discarded or  waste  heat that is lost to the environment may instead be used to advantage 
+that transform chemical energy into 36 -48  electricity and remaining 52 -64  to waste heat
+industrial processes  
+industrial processes  such as  
+or
+are major sources of waste heat 
+electronics  
+although small in terms of power  the disposal of waste heat from
+and other electronic components  represents a significant engineering challenge  this necessitates the use of fans    etc  to dispose of the heat 
+biological  
+animals  including humans  create heat as a result of   in warm conditions  this heat exceeds a level required for
+in
+animals  and is disposed of by various
+methods such as
+and   fiala et al  modelled human thermoregulation 
+evaporating water at    
+disposal  
+low temperature heat contains very little capacity to do work     so the heat is qualified as waste heat and rejected to the environment  economically most convenient is the rejection of such heat to water from a  
+or   if sufficient cooling water is not available  the plant has to be equipped with a
+to reject the waste heat into the atmosphere  in some cases it is possible to use waste heat  for instance in heating homes by   however  by slowing the release of the waste heat  these systems always entail a reduction of efficiency for the primary user of the heat energy   
+uses  
+cogeneration and trigeneration  
+waste of the by-product heat is reduced if a
+system is used  also known as a combined heat and power  chp  system  limitations to the use of by-product heat arise primarily from the engineering cost efficiency challenges in effectively utilizing small temperature differences to generate other forms of energy  applications utilizing waste heat include
+heating and   in some cases cooling can also be produced by the use of
+for example  in this case it s called
+or cchp  combined cooling  heat and power  
+pre-heating  
+waste heat can be forced to heat incoming fluids and objects before being highly heated  for instance outgoing water can give its waste heat to incoming water in a
+before heating in homes or  
+electrification of waste heat  
+there are many different approaches to transfer thermal energy to electricity  and the technologies to do so have existed for several decades  the   offered by companies such as   is a very known approach  whereby an organic substance is used as
+instead of water  the benefit is that this process can utilize lower temperatures for the production of electricity than the regular water steam cycle  an example of use of the steam
+is the   another established approach is by using a   such as those offered by   where a change in temperature across a semiconductor material creates a voltage through a phenomenon known as the   a related approach is the use of   where a temperature difference gives rise to an electric current in an electrochemical cell 
+greenhouses  
+waste heat  along with carbon dioxide from combustion  can be used to provide heat for
+particularly in colder climates 
+anthropogenic heat  
+anthropogenic heat
+anthropogenic heat is heat generated by humans and human activity  the
+defines it as  heat released to the atmosphere as a result of human activities  often involving combustion of fuels  sources include industrial plants  space heating and cooling  human metabolism  and vehicle exhausts  in cities this source typically contributes 1550 w m2 to the local heat balance  and several hundred w m2 in the center of large cities in cold climates and industrial areas  
+estimates of
+heat generation can be made by totaling all the
+used for heating and cooling  running appliances  transportation  and industrial processes  plus that directly emitted by human  
+environmental impact  
+anthropogenic heat is a small influence on rural temperatures  and becomes more significant in dense
+areas  it is one contributor to   other human-caused effects  such as changes to   or loss of evaporative cooling  that might contribute to urban heat islands are not considered to be
+by this definition 
+anthropogenic heat is a much smaller contributor to
+than are   in 2005  although anthropogenic waste heat flux was significantly high in certain urban areas  and can be high regionally  for example  waste heat flux was  0.39 and  0.68 w m2 for the continental united states and western europe  respectively  globally it accounted for only 1  of the
+created by anthropogenic greenhouse gases  global forcing from waste heat was 0.028 w m2 in 2005  this statistic is predicted to rise as urban areas become more widespread 
+although waste heat has been shown to have influence on regional climates 
+from waste heat is not normally calculated in state-of-the-art global climate simulations  equilibrium climate experiments show statistically significant continental-scale surface warming  0.40.9c  produced by one 2100 ahf scenario  but not by current or 2040 estimates  simple global-scale estimates with different growth rates of anthropogenic heat that have been actualized recently show noticeable contributions to global warming  in the following centuries  for example  a 2  p a  growth rate of waste heat resulted in a 3 degree increase as a lower limit for the year 2300  meanwhile  this has been confirmed by more refined model calculations 
+see also  
+references  
+andersson  o   hgg  m   2008     igeia  integration of geothermal energy into industrial applications  pp  3856 and 7276  retrieved 21 april 2013
+wong  bill  june 28  2011     idea cdea district energy chp 2011 conference  toronto  pp  130  retrieved 21 april 2013
+wong b   thornton j   2013  
+renewable heat workshop 
+paksoy  h   stiles  l   2009     effstock 2009  11th international  - thermal energy storage for efficiency and sustainability  stockholm 
+  forbes  2008-07-07 
+fiala d  lomas kj  stohrer m  november 1999     j  appl  physiol  87  5   195772   
+gunawan  a  lin  ch  buttry  da  mujica  v  taylor  ra  prasher  rs  phelan  pe  2013    liquid thermoelectrics  review of recent and limited new data of thermogalvanic cell experiments   nanoscale microscale thermophys eng 17  304-23  doi  10.1080/15567265.2013.776149
+andrews  r   pearce  j m   environmental and economic assessment of a greenhouse waste heat exchange   journal of cleaner production   2011   19  13   14461454       
+   
+    2009  retrieved 2009-04-06 
+ 
+flanner  m  g   2009    integrating anthropogenic heat flux with global climate models   geophys  res  lett  36  2   l02801       
+block  a   k  keuler  and e  schaller  2004       31  12   l12211        cs1 maint  multiple names  authors list   
+   ber die geophysikalische schranke der industriellen energieerzeugung   wissenschaftl  zeitschrift der technischen hochschule ilmenau    bd  19  1973  h 2   37-52     
+h  arnold    and his model of global warming  an early warning  and its update    2013    1st ed    robert dpel und sein modell der globalen erwrmung  eine frhe warnung - und die aktualisierung   universittsverlag ilmenau 2009   
+chaisson  e  j   2008    long-term global heating from energy usage   eos  the newspaper of the geophysical sciences  89  28   253260       
+ 
+and
+heat waste
+processes
+agreements
+other topics
+retrieved from   
+  hidden categories 

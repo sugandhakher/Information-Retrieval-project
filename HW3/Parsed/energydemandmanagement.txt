@@ -1,0 +1,116 @@
+energydemandmanagement
+from wikipedia  the free encyclopedia
+jump to 					 
+energy demand management  also known as demand-side management  dsm  or demand-side response  dsr   is the modification of consumer demand for
+through various methods such as financial incentives and behavioral change through education  usually  the goal of demand side management is to encourage the consumer to use less energy during
+hours  or to move the time of energy use to off-peak times such as nighttime and weekends  peak demand management does not necessarily decrease total   but could be expected to reduce the need for investments in networks and or
+plants for meeting peak demands  an example is the use of energy storage units to store energy during off-peak hours and discharge them during peak hours  a newer application for dsm is to aid grid operators in balancing intermittent generation from wind and solar units  particularly when the timing and magnitude of energy demand does not coincide with the renewable generation 
+the term dsm was coined following the time of the
+and   governments of many countries mandated performance of various programs for demand management  an early example is the
+of 1978 in the   preceded by similar actions in
+and   demand side management was introduced publicly by
+ epri  in the 1980s  nowadays  dsm technologies become increasingly feasible due to the integration of
+and the power system  resulting in a new term   
+contents
+operation  
+electricity use can vary dramatically on short and medium time frames  largely dependent on weather patterns  generally the wholesale electricity system adjusts to changing demand by dispatching additional or less generation  however  during peak periods  the additional generation is usually supplied by less efficient   peaking   sources  unfortunately  the instantaneous financial and environmental cost of using these  peaking  sources is not necessarily reflected in the retail pricing system  in addition  the ability or willingness of electricity consumers to adjust to price signals by altering demand    may be low  particularly over short time frames  in many markets  consumers  particularly retail customers  do not face real-time pricing at all  but pay rates based on average annual costs or other constructed prices 
+energy demand management activities attempt to bring the electricity demand and supply closer to a perceived optimum  and helps give electricity end users more direct price signals to adjust their usage or automated signals to change load depending on system conditions  these system conditions could be peak times  or in areas with levels of   during times when demand must be adjusted upward to avoid overgeneration or downward to help with ramping needs 
+adjustments to demand can occur in various ways  through responses to price signals  such as permanent differential rates for evening and day times or occasional highly priced usage days  behavioral changes achieved through   automated controls such as with remotely controlled air-conditioners  or with permanent load adjustments with energy efficient appliances 
+logical foundations  
+demand for any commodity can be modified by actions of market players and government   and taxation   energy demand management implies actions that influence demand for energy  dsm is originally adopted in electricity  today dsm is applied widely to utility including water and gas as well 
+reducing energy demand is contrary to what both energy suppliers and governments have been doing during most of the modern industrial history  whereas real prices of various energy forms have been decreasing during most of the industrial era  due to
+and technology  the expectation for the future is the opposite  previously  it was not unreasonable to promote energy use as more copious and cheaper energy sources could be anticipated in the future or the supplier had installed excess capacity that would be made more profitable by increased consumption 
+in
+subsidizing energy was one of the main economic development tools  subsidies to the energy supply industry are still common in some countries 
+contrary to the historical situation  energy prices and availability are expected to deteriorate  governments and other public actors  if not the energy suppliers themselves  are tending to employ energy demand measures that will increase the efficiency of energy consumption 
+types  
+  using less power to perform the same tasks  this involves a permanent reduction of demand by using more efficient load-intensive appliances such as water heaters  refrigerators  or washing machines 
+  any reactive or preventative method to reduce  flatten or shift demand  historically  demand response programs have focused on peak reduction to defer the high cost of constructing generation capacity  however  demand response programs are now being looked to assist with changing the net load shape as well  load minus solar and wind generation  to help with integration of   demand response includes all intentional modifications to consumption patterns of electricity of end user customers that are intended to alter the timing  level of instantaneous demand  or the total electricity consumption  demand response refers to a wide range of actions which can be taken at the customer side of the electricity meter in response to particular conditions within the electricity system  such as peak period network congestion or high prices  
+  advance or delay appliance operating cycles by a few seconds to increase the
+of the set of loads  the concept is that by monitoring the
+of the power grid  as well as their own control parameters  individual  intermittent loads would switch on or off at optimal moments to balance the overall system load with generation  reducing critical power mismatches  as this switching would only advance or delay the appliance operating cycle by a few seconds  it would be unnoticeable to the end user  in the united states  in 1982  a  now-lapsed  patent for this idea was issued to power systems engineer fred schweppe  this type of dynamic demand control is frequently used for air-conditioners  one example of this is through the smartac program in california 
+scale  
+broadly  demand side management can be classified into four categories  national scale  utility scale  community scale  and individual household scale 
+national scale  
+energy efficiency improvement is one of the most important demand side management strategies  efficiency improvements can be implemented nationally through legislation and standards in housing  building  appliances  transport  machinaries etc 
+utility scale  
+during peak demand time  utilities are able to control storage water heaters and pool pumps in large areas to reduce peak demand  e g  australia and switzerland  one of the common technologies is ripple control  high frequency signal  e g  1000hz  is superimposed to normal electricity  50 or 60hz  to switch on or off devices 
+community scale  
+other names can be neighborhood  precinct  or district  community central heating systems have been existing for many decades in regions of cold winters  demand side management can be implemented in community scale to reduce peak demand for heating or cooling  another aspect is to achieve net zero energy community 
+household scale  
+in areas of australia  more than 30   2016  of households have rooftop photo-voltaic systems  it is useful for them to use free energy from the sun to reduce energy import from the grid  further  demand side management can be helpful when a systematic approach is considered  the operation of photovoltaic  air conditioner  battery energy storage systems  storage water heaters  building performance and energy efficiency measures 
+examples  
+queensland  australia  
+the utility companies in the state of queensland  australia have devices fitted onto certain household appliances such as air conditioners or into household meters to control water heater  pool pumps etc  these devices would allow energy companies to remotely cycle the use of these items during peak hours  their plan also includes improving the efficiency of energy-using items  encouraging the use of oil instead of electricity  and giving financial incentives to consumers who use electricity during off-peak hours  when it is less expensive for energy companies to produce 
+another example is that with demand side management  southeast queensland households can use electricity from rooftop photo-voltaic system to heat up water 
+toronto  canada  
+in 2007  toronto hydro  the monopoly energy distributor of ontario  had over 40,000 people signed up to have remote devices attached to air conditioners which energy companies use to offset spikes in demand  spokeswoman tanya bruckmueller says that this program can reduce demand by 40 megawatts during emergency situations 
+california  us  
+california has several demand side management programs  including automated and critical peak pricing demand response programs for commercial and industrial customers as well as residential consumers  energy efficiency rebates  non-event based time-of-use pricing  special electric vehicle charging rates  and distributed storage  some of these programs are slated to be added into the wholesale electricity market to be bid as  supply side  resources that can be dispatched by the system operator  demand side management in the state will be increasingly important as the level of renewable generation approaches 33  by 2020  and is expected to be increased beyond that level in the long-term 
+indiana  us  
+the aloca s warrick operation is participating in miso as a qualified demand response resource  which means it is providing demand response in terms of energy  spinning reserve  and regulation service 
+brazil  
+demand-side management can apply to electricity system based on thermal power plants or to systems where   as   is predominant but with a complementary   for instance  in  
+in brazils case  despite the generation of
+corresponds to more than 80  of the total  to achieve a practical balance in the generation system  the energy generated by hydroelectric plants supplies the consumption below the   peak generation is supplied by the use of fossil-fuel power plants  in 2008  brazilian consumers paid more than u 1 billion for complementary thermoelectric generation not previously programmed 
+in brazil  the consumer pays for all the investment to provide energy  even if a plant sits idle  for most fossil-fuel thermal plants  the consumers pay for the  fuels  and others operation costs only when these plants generate energy  the energy  per unit generated  is more expensive from thermal plants than from hydroelectric  only a few of the brazilian s thermoelectric plants use   so they
+significantly more  the power generated to meet the peak demand has higher costsboth investment and operating costsand the pollution has a significant environmental cost and potentially  financial and social liability for its use  thus  the expansion and the operation of the current system is not as efficient as it could be using demand side management  the consequence of this inefficiency is an increase in energy tariffs     passed on to the consumers 
+moreover  because
+is generated and consumed almost instantaneously  all the facilities  as transmission lines and distribution nets  are built for peak consumption  during the non-peak periods their full capacity is not utilized 
+the reduction of peak consumption can benefit the efficiency of the electric systems  like the brazilian system  in some senses  as deferring new investments in distribution and transmission networks  and reducing the necessity of complementary thermal power operation during peak periods  which can diminish both the payment for investment in new power plants to supply only during the peak period and the environmental impact associated with  
+problems  
+some people argue that demand-side management has been ineffective because it has often resulted in higher utility costs for consumers and less profit for utilities 
+one of the main goals of demand side management is to be able to charge the consumer based on the true price of the utilities at that time  if consumers could be charged less for using electricity during off-peak hours  and more during peak hours  then
+would theoretically encourage the consumer to use less electricity during peak hours  thus achieving the main goal of demand side management 
+another problem of dsm is privacy  the consumers have to provide some information about their usage of electricity to their electricity company  this is less of a problem now as people are used to suppliers noting purchasing patterns through mechanisms such as  loyalty cards  
+see also  
+notes  
+  ofgem  government of united kingdom  retrieved 7 september 2016 
+wei-yu chiu  hongjian sun  h v  poor  june 2013     ieee transactions on smart grid  4  2   896904      
+  office of energy  government of western australia  retrieved 30 november 2010 
+wei-yu chiu  hongjian sun  h v  poor  november 2012    demand-side energy storage system management in smart grid   2012 ieee third international conference on smart grid communications  smartgridcomm   73  78  58    
+jeffery greenblatt  jane long  september 2012  
+ pdf   california council on science and technology  4647 
+torriti  jacopo  2016     routledge   
+balijepalli  murthy  pradhan  khaparde  2011    review of demand response under smart grid paradigm   ieee pes innovative smart grid technologies 
+sila kiliccote  pamela sporborg  imran sheikh  erich huffaker  and mary ann piette   integrating renewable resources in california and the role of automated demand response   lawrence berkeley national lab  environmental energy technologies division   nov  2010
+albadi  m  h   e  f  el-saadany  2007    demand response in electricity markets  an overview   ieee 
+torriti  et al   2010     energy  35  4   15751583    
+ pdf   queensland government  queensland government  retrieved 2 december 2010 
+aaron lei liu  gerard ledwich  wendy miller  2015     ieee    
+bradbury  danny  5 november 2007     businessgreen  association of online publishers  retrieved 2 december 2010 
+ pdf  
+zhang  x   hug  g   2015-02-01     innovative smart grid technologies conference  isgt   2015 ieee power energy society  15    
+ccee  2008  
+ pdf   anlise anual 
+katz  myron      sciencedirect  oregon public utility commission  01 apr 2002  web  3 dec 2010 
+references  
+loughran  david s    jonathan kulick  2004    demand-side management and energy efficiency in the united states   the energy journal  25  1   1943    
+dunn  rodney  23 june 2002     us energy information administration  retrieved 9 november 2010  
+  pacificorp  a midamerican energy holdings company  2010  retrieved 9 november 2010 
+sarkar  ashok   singh  jas  october 2009  
+ pdf   united states energy association  the world bank  archived from
+ pdf  on 13 august 2010  retrieved 9 november 2010  
+simmons  daniel  20 may 2010     masterresource  retrieved 9 november 2010 
+works cited  
+ pdf   pacificcorp  report   1  final report ed    portland  quantec  2006  retrieved 7 november 2010 
+brennan  timothy j  2010  
+ pdf   energy policy  environmental sciences and pollution mgmt  38  8   retrieved 7 november 2010 
+moura  pedro s    anibal t  de almeida  2010     applied energy  environmental sciences and pollution mgmt  87  8   2581588     retrieved 7 november 2010 
+ pdf   report   rep  no  d06090 ed    oakland  charles river associates  2005 
+external links  
+concepts
+demand management
+sources
+and
+  
+ tso 
+protective
+devices
+ gfi 
+economics
+and policies
+categories
+portals
+retrieved from   
+ 

@@ -1,0 +1,259 @@
+carbonneutralfuel
+from wikipedia  the free encyclopedia
+ redirected from  
+jump to 					 
+part of a series about
+carbon-neutral fuel
+carbon-neutral fuels can refer to a variety of energy fuels or energy systems which have no net greenhouse gas emissions or carbon footprint  one class is
+ including      
+or   produced from
+or
+used to
+waste
+recycled from
+or derived from
+in   other types can be produced from
+sources such as wind turbines  solar panels  and hydroelectric power plants  such fuels are potentially
+because they do not result in a net increase in atmospheric   until
+is used for
+  carbon neutral fuel synthesis is the primary means of carbon capture and utilization or recycling 
+to the extent that carbon-neutral fuels displace   or if they are produced from waste carbon or seawater carbonic acid  and their combustion is subject to
+at the flue or exhaust pipe  they result in
+and net
+from the atmosphere  and thus constitute a form of   such
+carbon-neutral and carbon-negative fuels can be produced by the
+to make
+used in the
+to produce methane which may then be
+to be burned later in
+as synthetic   transported by pipeline  truck  or tanker ship  or be used in
+processes such as the
+to make traditional fuels for transportation or heating 
+carbon-neutral fuels are used in germany and iceland for   minimizing problems of wind and solar intermittency  and enabling transmission of wind  water  and solar power through existing natural gas pipelines  such renewable fuels could alleviate the costs and dependency issues of imported fossil fuels without requiring either electrification of the vehicle fleet or conversion to hydrogen or other fuels  enabling continued compatible and affordable vehicles  a 250 kilowatt synthetic methane plant has been built in germany and it is being scaled up to 10 megawatts 
+contents
+production  
+carbon-neutral fuels are synthetic hydrocarbons  they can be produced in chemical reactions between carbon dioxide  which can be captured from power plants or the air  and hydrogen  which is created by the electrolysis of water using renewable energy  the fuel  often referred to as electrofuel  stores the energy that was used in the production of the hydrogen  coal can also be used to produce the hydrogen  but that would not be a carbon-neutral source  carbon dioxide can be captured and buried  making fossil fuels carbon-neutral  although not renewable  carbon capture from exhaust gas can make carbon-neutral fuels carbon negative  other hydrocarbons can be broken down to produce hydrogen and carbon dioxide which could then be stored while the hydrogen is used for energy or fuel  which would also be carbon-neutral 
+the most energy-efficient fuel to produce is     which is made from a chemical reaction of a carbon-dioxide molecule with three hydrogen molecules to produce methanol and water  the stored energy can be recovered by burning the methanol in a combustion engine  releasing carbon dioxide  water  and heat 
+can be produced in a similar reaction  more energy can be used to combine methanol or methane into larger hydrocarbon fuel molecules 
+researchers have also suggested using methanol to produce   this fuel could be used as a substitute for diesel fuel due to its ability to self ignite under high pressure and temperature  it is already being used in some areas for heating and energy generation  it is nontoxic  but must be stored under pressure     and    can also be produced from carbon dioxide and hydrogen 
+all synthetic hydrocarbons are generally produced at temperatures of 200300c  and at pressures of 20 to 50 bar 
+are usually used to improve the efficiency of the reaction and create the desired type of hydrocarbon fuel  such reactions are exothermic and use about 3mol of hydrogen per mole of carbon dioxide involved  they also produce large amounts of water as a byproduct 
+sources of carbon for recycling  
+the most economical source of carbon for recycling into fuel is
+where it can be obtained for about usd  7.50 per ton  automobile exhaust gas capture has also been seen as economical but would require extensive design changes or retrofitting  since carbonic acid in seawater is in
+with atmospheric carbon dioxide  extraction of carbon from seawater has been studied  researchers have estimated that carbon extraction from seawater would cost about  50 per ton 
+is more costly  at between  600 and  1000 per ton and is considered impractical for fuel synthesis or carbon sequestration  direct air capture is less developed than other methods  proposals for this method involve using a caustic chemical to react with carbon dioxide in the air to produce   these can then be broken down and hydrated to release pure co2 gas and regenerate the caustic chemical  this process requires more energy than other methods because carbon dioxide is at much lower concentrations in the atmosphere than in other sources 
+researchers have also suggested using biomass as a carbon source for fuel production  adding hydrogen to the biomass would reduce its carbon to produce fuel  this method has the advantage of using plant matter to cheaply capture carbon dioxide  the plants also add some chemical energy to the fuel from biological molecules  this may be a more efficient use of biomass than conventional
+because it uses most of the carbon and chemical energy from the biomass instead of releasing as much energy and carbon  its main disadvantage is  as with conventional ethanol production  it competes with food production 
+part of
+about
+concepts
+policies
+dynamics
+carbon related
+renewable and nuclear energy costs  
+nighttime
+is considered the most economical form of electrical power with which to synthesize fuel  because the
+for electricity peaks sharply during the warmest hours of the day  but wind tends to blow slightly more at night than during the day  therefore  the price of nighttime wind power is often much less expensive than any alternative  off-peak wind power prices in high wind penetration areas of the u s  averaged 1.64 cents per
+in 2009  but only 0.71 cents kwh during the least expensive six hours of the day  typically 
+electricity costs 2 to 5 cents kwh during the day  commercial fuel synthesis companies suggest they can produce gasoline for less than
+fuels when oil costs more than  55 per barrel 
+the u s  navy estimates that 100 megawatts of electricity can produce 41,000 gallons of
+per day and shipboard production from nuclear power would cost about  6 per gallon  while that was about twice the petroleum fuel cost in 2010  it is expected to be much less than the market price in less than five years if recent trends continue  moreover  since the delivery of fuel to a
+costs about  8 per gallon  shipboard production is already much less expensive 
+demonstration projects and commercial development  
+a 250 kilowatt methane synthesis plant was constructed by the center for solar energy and hydrogen research  zsw  at
+and the
+in germany and began operating in 2010  it is being upgraded to 10 megawatts  scheduled for completion in autumn  2012 
+the
+carbon dioxide recycling plant operated by
+in  
+has been producing 2 million liters of
+transportation fuel per year from flue exhaust of the
+since 2011  it has the capacity to produce 5 million liters per year 
+has constructed a carbon-neutral
+ lng  plant in   the plant is intended to produce transportation fuel to offset lng used in their
+automobiles  and can keep 2,800 metric tons of co2 out of the environment per year at its initial capacity 
+commercial developments are taking place in     and   a demonstration project in
+proposes synthesizing both fuels and
+from recovered flue gases 
+greenhouse gas remediation  
+carbon-neutral fuels might lead to greenhouse gas remediation because carbon dioxide gas would be reused to produce fuel instead of being released into the atmosphere  capturing the carbon dioxide in flue gas emissions from power plants would eliminate their greenhouse gas emissions  although burning the fuel in vehicles would release that carbon because there is no economical way to capture those emissions  this approach would reduce net carbon dioxide emission by about 50  if it were used on all fossil fuel power plants  most
+and
+have been predicted to be economically retrofittable with
+for
+to recycle flue exhaust or for   such recycling is expected to not only cost less than the excess
+if it were not done  but also to pay for itself as global fuel
+growth and
+shortages increase the price of
+and
+ 
+capturing co2 directly from the air or extracting carbonic acid from seawater would also reduce the amount of carbon dioxide in the environment  and create a closed cycle of carbon to eliminate new carbon dioxide emissions  use of these methods would eliminate the need for fossil fuels entirely  assuming that enough renewable energy could be generated to produce the fuel  using synthetic hydrocarbons to produce synthetic materials such as plastics could result in permanent sequestration of carbon from the atmosphere 
+traditional fuels  methanol or ethanol  
+see also 
+some authorities have recommended producing
+instead of traditional transportation fuels  it is a liquid at normal temperatures and can be toxic if ingested  methanol has a higher
+than gasoline but a lower   and can be mixed with other fuels or used on its own  it may also be used in the production of more complex hydrocarbons and polymers  direct methanol fuel cells have been developed by caltech s
+to convert methanol and oxygen into electricity  it is possible to convert methanol into gasoline  jet fuel or other hydrocarbons  but that requires additional energy and more complex production facilities  methanol is slightly more corrosive than traditional fuels  requiring automobile modifications on the order of usd  100 each to use it 
+in 2016  a method using carbon spikes  copper
+and nitrogen that converts carbon dioxide to
+was developed 
+history  
+investigation of carbon-neutral fuels has been ongoing for decades  a 1965 report suggested synthesizing methanol from carbon dioxide in air using nuclear power for a mobile fuel depot  shipboard production of synthetic fuel using
+was studied in 1977 and 1995  a 1984 report studied the recovery of carbon dioxide from fossil fuel plants  a 1995 report compared converting
+for the use of carbon-neutral methanol with the further  
+see also  
+ geoengineering 
+references  
+leighty and holbrook  2012 
+proceedings of the asme 2012 international mechanical engineering congress   exposition november 915  2012  houston  texas
+ 
+zeman  frank s   keith  david w   2008  
+ pdf     366  390118     retrieved september 7  2012   review  
+wang  wei  wang  shengping  ma  xinbin  gong  jinlong  2011     chemical society reviews  40  7   370327     retrieved july 6  2013   review  
+ 
+macdowell  niall  et al   2010     energy and environmental science  3  11   164569     retrieved september 7  2012   review  
+ 
+eisaman  matthew d   et al   2012  
+ pdf   energy and environmental science  5  6   734652     retrieved july 6  2013 
+graves  christopher  ebbesen  sune d   mogensen  mogens  lackner  klaus s   2011    sustainable hydrocarbon fuels by recycling co2 and h2o with renewable or nuclear energy   renewable and sustainable energy reviews  15  1   123      review  
+ 
+socolow  robert  et al   june 1  2011  
+ pdf   peer reviewed literature review   american physical society  retrieved september 7  2012 
+ essen  germany  october 1011  2012   
+ 
+goeppert  alain  czaun  miklos  prakash  g k  surya  olah  george a   2012     energy and environmental science  5  7   783353     retrieved september 7  2012   review  
+ 
+house  k z   baclig  a c   ranjan  m   van nierop  e a   wilcox  j   herzog  h j   2011  
+ pdf   proceedings of the national academy of sciences  108  51   2042833     retrieved september 7  2012   review  
+ 
+lackner  klaus s   et al   2012     proceedings of the national academy of sciences of the united states of america  109  33   1315662       retrieved september 7  2012 
+ 
+pearson  r j   eisaman  m d   et al   2012  
+ pdf   proceedings of the ieee  100  2   44060     retrieved september 7  2012   review  
+ 
+pennline  henry w   et al   2010    separation of co2 from flue gas using electrochemical cells   fuel  89  6   130714    
+graves  christopher  ebbesen  sune d   mogensen  mogens  2011    co-electrolysis of co2 and h2o in solid oxide cells  performance and durability   solid state ionics  192  1   398403    
+fraunhofer-gesellschaft  may 5  2010     fraunhofer de  retrieved september 9  2012 
+pearson  richard  eisaman  2011  
+ pdf   proceedings of the ieee  100  440460     retrieved 18 october 2012 
+kleiner  kurt  17 january 2009     the globe and mail  f4  retrieved 23 october 2012 
+ 
+olah  george  alain geoppert  g  k  surya prakash  2009     journal of organic chemistry  74  2   48798       retrieved 23 october 2012 
+musadi  m r   martin  p   garforth  a   mann  r   2011  
+ pdf   chemical engineering transactions  24  152530     retrieved september 7  2012 
+dimascio  felice    hardy  dennis r   lewis  m  kathleen  williams  frederick w   july 23  2010  
+ pdf   memorandum report   washington  dc  chemistry division  navy technology center for safety and survivability  u s  naval research laboratory  retrieved september 7  2012 
+willauer  heather d   dimascio  felice  hardy  dennis r   lewis  m  kathleen  williams  frederick w   april 11  2011  
+ pdf   memorandum report   washington  dc  chemistry division  navy technology center for safety and survivability  u s  naval research laboratory  retrieved september 7  2012 
+newfuelist com  compare to   retrieved september 7  2012 
+holte  laura l   doty  glenn n   mccree  david l   doty  judy m   doty  f  david  2010  
+ pdf   4th international conference on energy sustainability  may 1722  2010  phoenix  arizona  american society of mechanical engineers  retrieved september 7  2012 
+willauer  heather d   hardy  dennis r   williams  frederick w   september 29  2010  
+ pdf   memorandum report   washington  dc  chemistry division  navy technology center for safety and survivability  u s  naval research laboratory  retrieved september 7  2012 
+center for solar energy and hydrogen research baden-wrttemberg  2011  
+ in german   zsw-bw de  retrieved september 9  2012 
+center for solar energy and hydrogen research  july 24  2012  
+ in german   zsw-bw de  retrieved september 9  2012 
+ chemicals-technology com 
+ carbon recycling international 
+okulski  travis  june 26  2012     jalopnik  gawker media   retrieved 29 july 2013 
+rousseau  steve  june 25  2013     popular mechanics  retrieved 29 july 2013 
+ september 5  2012  
+ press release   retrieved september 12  2012 
+dipietro  phil  nichols  chris  marquis  michael  january 2011  
+ pdf   report netl-402/102309   national energy technology laboratory  u s  department of energy  doe contract de-ac26-04nt41817  retrieved september 7  2012 
+ 
+steinberg  meyer  august 1995  
+ pdf   informal report bnl62110   upton  new york  department of advanced technology  brookhaven national laboratory   prepared for the u s  department of energy under contract no  de-ac02-76ch00016   retrieved september 7  2012 
+johnston  ian  2016-10-19      
+from the original on 2016-10-19  retrieved 2016-10-19 
+beller  m   steinberg  m   november 1965  
+ research report bnl 955   t396   upton  new york  brookhaven national laboratory  under contract with the u s  atomic energy commission   general  miscellaneous  and progress reports  tid4500  46th ed    retrieved september 7  2012 
+bushore  u s  navy lieutenant robin paul  may 1977  
+ pdf   m sc  thesis   cambridge  mass   department of ocean engineering  massachusetts institute of technology  retrieved september 7  2012 
+terry  u s  navy lieutenant kevin b   june 1995  
+ pdf   m sc  thesis   cambridge  mass   department of nuclear engineering  massachusetts institute of technology  retrieved september 7  2012 
+steinberg  m   et al   1984  
+ technical report doe ch 0016-2   washington  d c   u s  department of energy  office of energy research  carbon dioxide research division  retrieved september 8  2012 
+further reading  
+mcdonald  thomas m   lee  woo ram  mason  jarad a   wiers  brian m   hong  chang seop  long  jeffrey r   2012    capture of carbon dioxide from air and flue gas in the alkylamine-appended metalorganic framework mmen-mg2 dobpdc    journal of the american chemical society  134  16   705665      has
+as of september 2012  many of which discuss efficiency and cost of air and flue recovery 
+kulkarni  ambarish r   sholl  david s   2012     industrial and engineering chemistry research  51  25   863145      claims usd  100 ton co2 extraction from air  not counting capital expenses 
+external links  
+ columbia  south carolina 
+ stockton-on-tees  uk 
+ camarillo  california 
+spreadsheet by john morgan  january 2013   
+air pollution  
+ 
+water  
+ 
+fuel  
+ 
+  
+ 
+ 
+conservation
+building  
+ 
+fields
+displays
+other
+electronics
+energy
+production
+carbon-neutral fuel
+storage
+other
+memory
+manufacturing
+other
+other
+topics
+and
+temperatures
+causes
+  
+  
+history
+opinion and climate change
+  
+ 
+ 
+  
+general
+by country
+  
+governmental
+emissions reduction
+carbon-neutral fuel
+carbon-free energy
+personal
+other
+strategies
+programmes
+technology
+energy
+food
+water
+accountability
+applications
+management
+agreements
+ rio 10  johannesburg 
+ rio 20  2012 
+concepts
+sources
+and
+  
+ tso 
+protective
+devices
+ gfi 
+economics
+and policies
+categories
+portals
+retrieved from   
+  hidden categories 

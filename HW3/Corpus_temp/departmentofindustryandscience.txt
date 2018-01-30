@@ -1,0 +1,112 @@
+departmentofindustryandscience
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="infobox" style="width:22em">
+<caption>Department of Industry and Science</caption>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #efefef">Department overview</th>
+</tr>
+<tr>
+<th scope="row">Formed</th>
+<td>23 December 2014</td>
+</tr>
+<tr>
+<th scope="row">Preceding Department</th>
+<td>
+<div class="plainlist">
+<ul>
+<li style="text-indent: -1em; padding-left: 1em;"><a href="/wiki/Department_of_Industry_(Australia)" title="Department of Industry (Australia)">Department of Industry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Dissolved</th>
+<td>21 September 2015</td>
+</tr>
+<tr>
+<th scope="row">Superseding agency</th>
+<td>
+<div class="plainlist">
+<ul>
+<li style="text-indent: -1em; padding-left: 1em;"><a href="/wiki/Department_of_Industry,_Innovation_and_Science" title="Department of Industry, Innovation and Science">Department of Industry, Innovation and Science</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Jurisdiction</th>
+<td><a href="/wiki/Government_of_Australia" title="Government of Australia">Australian Government</a></td>
+</tr>
+<tr>
+<th scope="row">Employees</th>
+<td>4926 (at 31 December 2014)<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row">Ministers responsible</th>
+<td>
+<div class="plainlist">
+<ul>
+<li style="text-indent: -1em; padding-left: 1em;"><a href="/wiki/Ian_Macfarlane_(politician)" title="Ian Macfarlane (politician)">Ian Macfarlane</a>,<br/>
+<a class="mw-redirect" href="/wiki/Minister_for_Industry_(Australia)" title="Minister for Industry (Australia)">Minister for Industry and Science</a></li>
+<li style="text-indent: -1em; padding-left: 1em;">Karen Andrews,<br/>
+<a class="mw-redirect" href="/wiki/Parliamentary_Secretary" title="Parliamentary Secretary">Parliamentary Secretary</a> to the Minister for Industry and Science</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Department executive</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Glenys_Beauchamp" title="Glenys Beauchamp">Glenys Beauchamp</a>, Secretary</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a class="external text" href="http://www.industry.gov.au" rel="nofollow">www<wbr></wbr>.industry<wbr></wbr>.gov<wbr></wbr>.au</a></span></td>
+</tr>
+</table>
+<p>The <b>Department of Industry and Science</b> was a <a class="mw-redirect" href="/wiki/Government_department" title="Government department">department</a> of the <a href="/wiki/Government_of_Australia" title="Government of Australia">Australian Government</a> responsible for consolidating the Government’s efforts to drive economic growth, productivity and competitiveness by bringing together industry, energy, resources and science.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Department_of_Industry_and_Science&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The department was established on 23 December 2014, taking on most of the functions of the previous <a href="/wiki/Department_of_Industry_(Australia)" title="Department of Industry (Australia)">Department of Industry</a>; but transferring skills responsibilities to the <a href="/wiki/Department_of_Education_and_Training_(Australia)" title="Department of Education and Training (Australia)">Department of Education and Training</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<p>The Department's creation, and the associated swearing in of Industry Minister <a href="/wiki/Ian_Macfarlane_(politician)" title="Ian Macfarlane (politician)">Ian Macfarlane</a> when he added 'Science' to his official title, was seen by several media outlets as an admission from the <a href="/wiki/Abbott_Government" title="Abbott Government">Abbott Government</a> that it had been a mistake to not have a dedicated Science minister in 2014.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<p>The Department was abolished and replaced with the <a href="/wiki/Department_of_Industry,_Innovation_and_Science" title="Department of Industry, Innovation and Science">Department of Industry, Innovation and Science</a> in September 2015, to create a new federal government focus on innovation.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Scope">Scope</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Department_of_Industry_and_Science&amp;action=edit&amp;section=2" title="Edit section: Scope">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As outlined in the December 2014 Administrative Arrangements Orders,<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> the department was responsible for a wide range of functions including:</p>
+<ul>
+<li>Manufacturing and commerce including industry and market development</li>
+<li>Industry innovation policy and technology diffusion</li>
+<li>Construction industry, excluding workplace relations</li>
+<li>Facilitation of the development of service industries generally</li>
+<li>Trade marks, plant breeders’ rights and patents of inventions and designs</li>
+<li>Anti-dumping</li>
+<li>Civil space issues</li>
+<li>Science policy</li>
+<li>Energy policy</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Department_of_Industry_and_Science&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFAustralian_Public_Service_Commission2015">Australian Public Service Commission (2015), <a class="external text" href="https://web.archive.org/web/20150324105326/http://www.apsc.gov.au/about-the-apsc/parliamentary/aps-statistical-bulletin/snapshots-december-2014/table-3c" rel="nofollow"><i>Table 3C: All employees: agency by base classification, 31 December 2014</i></a>, Australian Government, archived from <a class="external text" href="http://www.apsc.gov.au/about-the-apsc/parliamentary/aps-statistical-bulletin/snapshots-december-2014/table-3c" rel="nofollow">the original</a> on 24 March 2015</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADepartment+of+Industry+and+Science&amp;rft.au=Australian+Public+Service+Commission&amp;rft.btitle=Table+3C%3A+All+employees%3A+agency+by+base+classification%2C+31+December+2014&amp;rft.date=2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.apsc.gov.au%2Fabout-the-apsc%2Fparliamentary%2Faps-statistical-bulletin%2Fsnapshots-december-2014%2Ftable-3c&amp;rft.pub=Australian+Government&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFDepartment_of_Industry_and_Science">Department of Industry and Science, <a class="external text" href="http://www.industry.gov.au/aboutus/pages/default.aspx" rel="nofollow"><i>About us</i></a>, <a href="/wiki/Government_of_Australia" title="Government of Australia">Australian Government</a><span class="reference-accessdate">, retrieved <span class="nowrap">24 March</span> 2015</span></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADepartment+of+Industry+and+Science&amp;rft.au=Department+of+Industry+and+Science&amp;rft.btitle=About+us&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.industry.gov.au%2Faboutus%2Fpages%2Fdefault.aspx&amp;rft.pub=Australian+Government&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFDepartment_of_Industry_and_Science">Department of Industry and Science, <a class="external text" href="https://web.archive.org/web/20150321070527/http://www.industry.gov.au/Pages/default.aspx" rel="nofollow"><i>Department of Industry and Science</i></a>, <a href="/wiki/Government_of_Australia" title="Government of Australia">Australian Government</a>, Archived from the original on 21 March 2015<span class="reference-accessdate">, retrieved <span class="nowrap">24 March</span> 2015</span></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADepartment+of+Industry+and+Science&amp;rft.au=Department+of+Industry+and+Science&amp;rft.btitle=Department+of+Industry+and+Science&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.industry.gov.au%2FPages%2Fdefault.aspx&amp;rft.pub=Australian+Government&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Unfit url (<a href="/wiki/Category:CS1_maint:_Unfit_url" title="Category:CS1 maint: Unfit url">link</a>)</span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news">Hutchens, Gareth (23 December 2014). <a class="external text" href="https://web.archive.org/web/20141224052222/http://www.smh.com.au/federal-politics/political-news/new-abbott-ministry-sworn-in-by-governorgeneral-sir-peter-cosgrove-20141223-12cnfl.html" rel="nofollow">"New Abbott ministry sworn in by Governor-General Sir Peter Cosgrove"</a>. <i>The Sydney Morning Herald</i>. Fairfax Media. Archived from <a class="external text" href="http://www.smh.com.au/federal-politics/political-news/new-abbott-ministry-sworn-in-by-governorgeneral-sir-peter-cosgrove-20141223-12cnfl.html" rel="nofollow">the original</a> on 24 December 2014.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADepartment+of+Industry+and+Science&amp;rft.atitle=New+Abbott+ministry+sworn+in+by+Governor-General+Sir+Peter+Cosgrove&amp;rft.aufirst=Gareth&amp;rft.aulast=Hutchens&amp;rft.date=2014-12-23&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.smh.com.au%2Ffederal-politics%2Fpolitical-news%2Fnew-abbott-ministry-sworn-in-by-governorgeneral-sir-peter-cosgrove-20141223-12cnfl.html&amp;rft.jtitle=The+Sydney+Morning+Herald&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news">Coyne, Allie (22 December 2014). <a class="external text" href="https://web.archive.org/web/20141228235619/http://www.itnews.com.au/News/399057,abbott-brings-back-science-minister-in-cabinet-reshuffle.aspx" rel="nofollow">"Abbott brings back Science minister in cabinet reshuffle"</a>. IT News. Archived from <a class="external text" href="http://www.itnews.com.au/News/399057,abbott-brings-back-science-minister-in-cabinet-reshuffle.aspx" rel="nofollow">the original</a> on 28 December 2014.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADepartment+of+Industry+and+Science&amp;rft.atitle=Abbott+brings+back+Science+minister+in+cabinet+reshuffle&amp;rft.aufirst=Allie&amp;rft.aulast=Coyne&amp;rft.date=2014-12-22&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.itnews.com.au%2FNews%2F399057%2Cabbott-brings-back-science-minister-in-cabinet-reshuffle.aspx&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news">Thomson, Phillip (25 September 2015). <a class="external text" href="http://www.canberratimes.com.au/national/public-service/department-with-most-name-changes-that-title-goes-to-department-of-industry-innovation-and-science-20150925-gjuqci.html" rel="nofollow">"Department with most name changes? That title goes to Department of Industry, Innovation and Science"</a>. <i>The Canberra Times</i>. Fairfax Media.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADepartment+of+Industry+and+Science&amp;rft.atitle=Department+with+most+name+changes%3F+That+title+goes+to+Department+of+Industry%2C+Innovation+and+Science&amp;rft.aufirst=Phillip&amp;rft.aulast=Thomson&amp;rft.date=2015-09-25&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.canberratimes.com.au%2Fnational%2Fpublic-service%2Fdepartment-with-most-name-changes-that-title-goes-to-department-of-industry-innovation-and-science-20150925-gjuqci.html&amp;rft.jtitle=The+Canberra+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation"><a class="external text" href="http://www.dpmc.gov.au/sites/default/files/publications/AAO_23_December_2014_signed.pdf" rel="nofollow"><i>Commonwealth of Australia Administrative Arrangement Order</i></a> <span style="font-size:85%;">(PDF)</span>, <a href="/wiki/Government_of_Australia" title="Government of Australia">Australian Government</a>, 23 December 2014</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADepartment+of+Industry+and+Science&amp;rft.btitle=Commonwealth+of+Australia+Administrative+Arrangement+Order&amp;rft.date=2014-12-23&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.dpmc.gov.au%2Fsites%2Fdefault%2Ffiles%2Fpublications%2FAAO_23_December_2014_signed.pdf&amp;rft.pub=Australian+Government&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:47962006-0!*!0!!*!*!* and timestamp 20161031043404 and revision id 739541736
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Department_of_Industry_and_Science&amp;oldid=739541736">https://en.wikipedia.org/w/index.php?title=Department_of_Industry_and_Science&amp;oldid=739541736</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2014_establishments_in_Australia" title="Category:2014 establishments in Australia">2014 establishments in Australia</a></li><li><a href="/wiki/Category:2015_disestablishments_in_Australia" title="Category:2015 disestablishments in Australia">2015 disestablishments in Australia</a></li><li><a href="/wiki/Category:Ministries_established_in_2014" title="Category:Ministries established in 2014">Ministries established in 2014</a></li><li><a href="/wiki/Category:Defunct_government_departments_of_Australia" title="Category:Defunct government departments of Australia">Defunct government departments of Australia</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Unfit_url" title="Category:CS1 maint: Unfit url">CS1 maint: Unfit url</a></li><li><a href="/wiki/Category:Use_Australian_English_from_March_2015" title="Category:Use Australian English from March 2015">Use Australian English from March 2015</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_Australian_English" title="Category:All Wikipedia articles written in Australian English">All Wikipedia articles written in Australian English</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_March_2015" title="Category:Use dmy dates from March 2015">Use dmy dates from March 2015</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

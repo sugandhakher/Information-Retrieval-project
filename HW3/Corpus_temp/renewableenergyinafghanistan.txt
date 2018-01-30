@@ -1,0 +1,248 @@
+renewableenergyinafghanistan
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Abstract_Summary"><span class="tocnumber">1</span> <span class="toctext">Abstract Summary</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#The_Uses_of_Renewable_Resources_and_Energy"><span class="tocnumber">2</span> <span class="toctext">The Uses of Renewable Resources and Energy</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Biomass_energy"><span class="tocnumber">3</span> <span class="toctext">Biomass energy</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Hydropower_energy"><span class="tocnumber">4</span> <span class="toctext">Hydropower energy</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Wind_Power"><span class="tocnumber">5</span> <span class="toctext">Wind Power</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#The_Importance_of_Biogas"><span class="tocnumber">6</span> <span class="toctext">The Importance of Biogas</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Footnotes"><span class="tocnumber">7</span> <span class="toctext">Footnotes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Abstract_Summary">Abstract Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_energy_in_Afghanistan&amp;action=edit&amp;section=1" title="Edit section: Abstract Summary">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Afghanistan is a landlocked country located in Asia that holds a spot as one of the countries with a smaller ecological footprint. As shown in Figure One, the biocapacity <sup>[1]</sup> of the country and their ecological footprint <sup>[2]</sup> have a tendency to be relatively close to one another <sup>[3]</sup> (Global Footprint Network). That being said their renewable energy is very important. Some of the most influential sources have proven to be hydropower <sup>[4]</sup>. It has been contended at different levels that hydropower may be an easier source of renewable energy for Afghanistan than other nations due to their geographical location (Ahmad &amp; Wasiq). Their mountainous environment facilitates hydro dams and other facets of hydro energy (Yasah et al.). The nation however, is not entirely independent on their sources of energy; they import an annual sum from neighboring countries like Tajikistan (Mainali &amp; Silveira). Another form of renewable energy that Afghanistan has been doing is the implementation of Biogas <sup>[5]</sup> (Amjid et al.). With the start of Biogas, communities have begun to feel the benefits beyond that of the environment through capacity building as well (Amjid et al.).</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Jalalabad_dam.jpg"><img alt="" class="thumbimage" data-file-height="848" data-file-width="1280" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Jalalabad_dam.jpg/220px-Jalalabad_dam.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Jalalabad_dam.jpg/330px-Jalalabad_dam.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Jalalabad_dam.jpg/440px-Jalalabad_dam.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Jalalabad_dam.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Naghlu_Dam" title="Naghlu Dam">Naghlu Hydroelectric Power Station</a> in <a href="/wiki/Kabul_Province" title="Kabul Province">Kabul Province</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Wind_farm_in_Panjshir_Province-2.jpg"><img alt="" class="thumbimage" data-file-height="2448" data-file-width="3264" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Wind_farm_in_Panjshir_Province-2.jpg/220px-Wind_farm_in_Panjshir_Province-2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Wind_farm_in_Panjshir_Province-2.jpg/330px-Wind_farm_in_Panjshir_Province-2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Wind_farm_in_Panjshir_Province-2.jpg/440px-Wind_farm_in_Panjshir_Province-2.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Wind_farm_in_Panjshir_Province-2.jpg" title="Enlarge"></a></div>
+Wind farm in Panjshir Province</div>
+</div>
+</div>
+<p><b>Renewable energy in Afghanistan</b> ranges from <a href="/wiki/Biomass" title="Biomass">biomass</a>, <a href="/wiki/Hydropower" title="Hydropower">hydropower</a>, <a href="/wiki/Solar_power" title="Solar power">solar</a>, <a href="/wiki/Wind" title="Wind">wind</a> energy in <a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a>.<sup class="reference" id="cite_ref-carnegieendowment_1-0"><a href="#cite_note-carnegieendowment-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="The_Uses_of_Renewable_Resources_and_Energy">The Uses of Renewable Resources and Energy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_energy_in_Afghanistan&amp;action=edit&amp;section=2" title="Edit section: The Uses of Renewable Resources and Energy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Afghanistan is one of the lowest energy consuming countries in relation to a global standing (Mainali &amp; Silveira). With an “ annual average solar insolation varies from 4 to 6.5 kWh/m<sup>2</sup>/<sup>day [6]</sup> spread over 300 days of sunshine per year. […] Afghanistan has significant hydro resources with the river catchment area of 677,900 km<sup>2</sup>, annual average rainfall of 300 mm and wide spread hilly topography” (Mainali &amp; Silveira, p. 300). Proving that with the right participatory development <sup>[7]</sup> there is immense potential in the area of renewable energy. (Mainali &amp; Silveira)</p>
+<p>In Afghanistan there is “currently, only a number of small renewable projects [that] are undertaken in the country. [To] promote usage of solar water heating and lighting, water pumping and micro-hydro<sup>[8]</sup> through private sector participation” which will all contribute to the number of renewable resources necessary to grow Afghanistan (Sharma, p. 65). Participatory local development is a vital asset to getting initiatives like these off the ground. In using participatory methods as a means of advancing initiatives like renewable energy it is important to note that “the idea of participation as empowerment is that the practical experience of being involved in considering options, making decisions, and taking collective action to fight injustice itself is transformative” (White, 2011, p. 60). [1]The participation of the people is an important aspect when tackling an issue involving their land and livelihood. (Sharma; Mainali &amp;Silveira)</p>
+<p>The country continues to feel the effect of the war, and the hardships it has endured in the name of it continue to leave scars. With “looting and lack of maintenance and spare parts mean that generation capacity is far below the potential level […] which in turn is sustainability below the country’s need” (Ahmad &amp; Wasiq, p. 23). Afghanistan is not self sustainable with their use of energy, they also have the need to import energy from neighboring countries. One particular country that Afghanistan imports from is Tajikistan. It is known that “the three countries also agreed to set up a joint commission to explore possibilities into the transfer of 500 Kilo Watts of energy from Tajikistan to Afghanistan and Iran” (Institute for the Study of War). Importing energy is a popular thing among central Asian countries, adding a deeper level of connectedness between governments and citizens.[2]</p>
+<h2><span class="mw-headline" id="Biomass_energy">Biomass energy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_energy_in_Afghanistan&amp;action=edit&amp;section=3" title="Edit section: Biomass energy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Traditional biomass energy supplies to 85% of energy demand, such as from wood and dung.</p>
+<h2><span class="mw-headline" id="Hydropower_energy">Hydropower energy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_energy_in_Afghanistan&amp;action=edit&amp;section=4" title="Edit section: Hydropower energy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Currently there is a 304 MW installed capacity of electricity generated by hydropower, in which 183 MW are in operation.The current system in place in Afghanistan though it works well, is not without its flaws. As Yasah et al. contend, “the common strategy is currently to build micro-hydropower facilities to power single bulbs and maybe a water boiler for the whole community. Such constructions will not deliver sufficient power for electric ovens etc., grid electricity will not stretch out to the rural areas of Afghanistan in the near decades” (Yasah et al., p. 51). That being said, Hydropower and Hydro Energy are some of the best options that are currently in place. The geographical location of Afghanistan is extremely mountainous which makes the implementation of Hydropower an easier choice though not much has been created and implemented yet (Ahmad &amp; Wasiq). Acknowledging how low Afghanistan’s ecological footprint is in terms of their energy consumption talking about a worldwide standpoint, it is not a current possibility to have enough energy (Global Footprint International; Mainali &amp; Silveira Mainali). In fact, “the country has 75 billion cubic meters of potentially available renewable water resources are also the main source of recharge for groundwater as precipitation is low in Afghanistan” (Ahmad &amp; Wasiq, p. 2). Water has become such a precious commodity across the globe that makes having an abundance of it, as a natural resource is a fortunate reality for Afghanistan (Ahmad &amp; Wasiq). That being said it is also contended that even though these ideas and proposals for hydro energy would work and have positive effects, the necessary work that is a project such as hydro energy. (Yasah et al.; Ahmad &amp; Wasiq)</p>
+<h2><span class="mw-headline" id="Wind_Power">Wind Power</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_energy_in_Afghanistan&amp;action=edit&amp;section=5" title="Edit section: Wind Power">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Wind power is not the most commonly used tool in Afghanistan for renewable energy though there are vast opportunities. It is contended that the areas which would produce the most wind energy and would benefit the most are in Western Afghanistan and some areas in the Northern region as well (Elliott).</p>
+<h2><span class="mw-headline" id="The_Importance_of_Biogas">The Importance of Biogas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_energy_in_Afghanistan&amp;action=edit&amp;section=6" title="Edit section: The Importance of Biogas">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Biogas can be used in many different countries with the same function and uses. The renewable energy sector in Afghanistan is strong though has potential to grow through initiatives like Biogas (Amjid et al.) The “use of biogas produced from anaerobic decomposition of organic material. This biogas typically contains equal amounts of CH<sub>4</sub> and CO<sub>2</sub>,”<sup>[9]</sup>(Barrai et al., p. 391). When biogas is converted in the right way, that is when the renewable energy and resource is possible deriving the hydrogen from the waste. (Amjid et al.) Biogas “decompose municipal solid wastes anaerobically <sup>[10]</sup> [1]and landfill gas to energy projects that directly combust the landfill gas are being implemented” (Barrai et al., p. 391). The strength of Biogas is incredible, it has [2]been proven that the “biogas energy corridor can work as a good substitute for nearly 70% of the country’s population residing in rural areas. Installation of plants to bottle the biogas can be additional opportunity. The need of a national policy is imperative to bring this technology at farmer’s doorstep.” (Amjid et al., p. 2833). The renewable energy that this brings is very strong through reducing the carbon footprint of each community immeasurably (Amjid et al.). The system of biogas also creates immense potential for capacity building through the community connectedness that goes into the process (Barrai et al.) The teamwork is inevitable that comes from this initiative with begins with an exchange of knowledge, both shared and new. Then capacity building can begin to form contributing to resources and market development growing rapidly (Amjid et al.). Advocacy for all parties is the only way for effective participatory renewable energy to be made (BORDA). The United Nations Environment Program (UNEP) <sup>[11]</sup> spoke on the topic when the Country Program Manager of Afghanistan had this to say,</p>
+<blockquote>
+<p>“UNEP is pleased to endorse the vision and mission of the Biogas Consortium Afghanistan. The majority of the population of Afghanistan uses firewood and coal for their cooking and heating needs; more sustainable energy options are required. […] UNEP has committed to providing higher-level guidance, helping the consortium align its activities towards national policies and strategies. UNEP shall also advocate the benefits and studies that arise from the consortiums work in biogas in Afghanistan” (BORDA)</p>
+</blockquote>
+<h2><span class="mw-headline" id="Footnotes">Footnotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_energy_in_Afghanistan&amp;action=edit&amp;section=7" title="Edit section: Footnotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><sup>1</sup> Biocapacity “refers to the capacity of a given biologically productive area to generate an on-going supply of renewable resources and to absorb its spillover wastes. Unsustainability occurs if the area's ecological footprint exceeds its biocapacity”. (Green Facts)</p>
+<p><sup>2</sup> Ecological Footprint refers to the impact that a person (or group/community) has on their environment in terms of how much is consumed in relation to what the earth has in capacity of natural resources. (World Wildlife Fund)</p>
+<p><sup>3</sup> Figure Number 1 demonstrates how Afghanistan has been able to stay under the 1(*) since the early 1990s and stays keeps their ecological footprint very close to their biocapacity</p>
+<p><sup>4</sup> Hydro Power “is electricity generated using the energy of moving water. Rain or melted snow, usually originating in hills and mountains, create streams and rivers that eventually run to the ocean. The energy of that moving water can be substantial” (National Geographic)</p>
+<p><sup>5</sup> Biogas is “produced through the breakdown of organic matter in the absence of oxygen, which is referred to as anaerobic digestion. The biogas can then be used for power generation, heating and cooling needs or piped into the natural gas grid.” (Generate)</p>
+<p><sup>6</sup> KW: Kilowatt. It is a measure of energy and when that measure of energy is constant over a certain period of time, then it is referred to as kWh, Kilowatt Hour (Energy Lens)</p>
+<p><sup>7</sup>Participatory Development: “s a process through which stakeholders can influence and share control over development initiatives, and over the decisions and resources that affect themselves”</p>
+<p><sup>8</sup> Micro Hydro: A form of Hydro Electric Power, using roughly 5 kW to 100 kW through the natural power of water. (United States Department of Energy)</p>
+<p><sup>9</sup> CH<sub>4</sub> &amp; CO<sub>2</sub> The scientific representation of Methane and Carbone Monoxide</p>
+<p><sup>10</sup> Anaerobically: Occurring in the absence of oxygen or not requiring oxygen to live. Anaerobic bacteria produce energy from food molecules without the presence of oxygen. Compare aerobic.(Dictionary Reference)</p>
+<p><sup>11</sup> The United Nations Environment Program is the leading global environmental authority that sets the global environmental agenda, promotes the coherent implementation of the environmental dimension of sustainable development within the United Nations system and serves as an authoritative advocate for the global environment. (United Nations)</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_energy_in_Afghanistan&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Renewable_energy_in_Asia" title="Renewable energy in Asia">Renewable energy in Asia</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_energy_in_Afghanistan&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-carnegieendowment-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-carnegieendowment_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Prof. Dr. Abdul Rahman Ashraf (25 January 2010). <a class="external text" href="http://carnegieendowment.org/files/Presentation_-%20Ashraf.pdf" rel="nofollow">"Energy Sector Afghanistan | Importance of Renewable Energy for Afghanistan | Renewable Energy for Sustainable Development"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-08-23</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+energy+in+Afghanistan&amp;rft.au=Prof.+Dr.+Abdul+Rahman+Ashraf&amp;rft.btitle=Energy+Sector+Afghanistan+%26%23124%3B+Importance+of+Renewable+Energy+for+Afghanistan+%26%23124%3B+Renewable+Energy+for+Sustainable+Development&amp;rft.date=2010-01-25&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcarnegieendowment.org%2Ffiles%2FPresentation_-%2520Ashraf.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<ol>
+<li class="mw-empty-elt"></li>
+<li>Ahmad, Masood, and Mahwash Wasiq. Water Resource Development in Northern Afghanistan and Its Implication for Amu Darya Basin. 36th ed. United States of America: World Bank, 2004. Google Books. Web. 29 Jan. 2016.</li>
+<li>Amjid, Syed, Muhammad Q. Bilal, Muhammad S. Nazir, and Atlaf Hussain. "Biogas, Renewable Energy Resource for Pakistan." Renewable and Sustainable Energy Reviews: 2833-837. Elsevier. 20 Feb. 2011. Web. 29 Jan. 2016.</li>
+<li>Asian Development Bank. "Afghanistan and Tajikistan: Regional Power Transmission Interconnection Project." Asian Development Bank. 25 Nov. 2014. Web. 29 Jan. 2016.</li>
+<li>Barrai, Frederico, Tracy Jackson, Noah Whitmore, and Marco J. Castaldi. "The Role of Carbon Deposition on Precious Metal Catalyst Activity during Dry Reforming of Biogas." Catalysis Today 129.3-4 (2007): 391-96. Elsevier. Web. 30 Jan. 2016.</li>
+<li>BORDA Afghanistan. "BORDA and HELP to Initiate the "Biogas Consortium Afghanistan“." Bremen Overseas Research and Development Association. 9 July 2014. Web. 28 Jan. 2016.</li>
+<li>Dictionary Reference. "Anaerobic." Def. 5. Dictionary Reference. 2002. Web. Jan. 2016.</li>
+<li>Elliott, Dennis. "Wind Resource Assessment and Mapping for Afghanistan and Pakistan." South Asia Regional Initiative for Energy Integration. National Renewable Energy Laboratory, June 2007. Web. 30 Jan. 2016.</li>
+<li>Energy Lens. "KW and KWh Explained." Energy Lens: Energy Management Made Easy. Web. 31 Jan. 2016.</li>
+<li>Generate. "What Is Biogas." Regenerate Biogas. Web. 30 Jan. 2016.</li>
+<li>Global Footprint Network. "Country Trends: Afghanistan." Global Footprint Network: Advancing the Science of Sustainability. 3 Dec. 2015. Web. 30 Jan. 2016.</li>
+<li>Green Facts. "Biocapacity." Green Facts. 24 Nov. 2015. Web. 30 Jan. 2016.</li>
+<li>Institute for the Study of War (ISW). "Tajikistan and Afghanistan." Institute for the Study of War. 2007. Web. 29 Jan. 2016.</li>
+<li>Mainali, Brijesh, and Semida Silveira. "Alternative Pathways for Providing Access to Electricity in Developing Countries." Renewable Energy 57 (2013): 299-310. Science Direct. Web. 29 Jan. 2016.</li>
+<li>National Geographic. "Hydropower." National Geographic. Web. 30 Jan. 2016.</li>
+<li>Ondrik, Richard S. "Participatory Approaches to National Development Planning." Framework for Mainstreaming Participatory Development Processes into Bank Operations: 1. The World Bank. Web. Feb. 1.</li>
+<li>Sharma, Sheel Kant. "SAARC Secretariat." SAARC Regional Energy Trade Study (SRETS) (2010): 50-100. Web. Mar. 2010.</li>
+<li>United Nations Environment Programme. "ABOUT UNEP." United Nations Environment Programme: Environment for Development. Web. Feb. 2016.</li>
+<li>U.S. Department of Energy. "MICROHYDROPOWER SYSTEMS." Energy.Gov. Office of Energy Efficiency &amp; Renewable Energy Forrestal Building. Web. Jan. 2016.</li>
+<li>White, S. “Depoliticizing development: the uses and abuses of participation,” Development in Practice 6(1), pp. 6–15.</li>
+<li>World Wildlife Fund. "Ecological Footprint." World Wildlife Global. Web. 29 Jan. 2016.</li>
+<li>Yarash, Nasratullah, Paul Smith, and Katja Mielke. "The Fuel Economy of Mountain Villages in Ishkamish and Burka (Northeast Afghanistan). Rural Subsistence and Urban Marketing Patterns." Working Paper Series 9 (2010): 20-50. Zentrum Für Entwicklungsforschung Center for Development Research. Web. 30 Jan. 2016.</li>
+</ol>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Renewable_energy_in_Afghanistan&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a class="image" href="/wiki/File:Commons-logo.svg"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" width="12"/></a> Media related to <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Renewable_energy_in_Afghanistan" title="commons:Category:Renewable energy in Afghanistan">Renewable energy in Afghanistan</a> at Wikimedia Commons</p>
+<div aria-labelledby="Renewable_energy_by_country" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Renewable_energy_by_country" title="Template:Renewable energy by country"><abbr style=";;background:none transparent;border:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Renewable_energy_by_country" title="Template talk:Renewable energy by country"><abbr style=";;background:none transparent;border:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Renewable_energy_by_country&amp;action=edit"><abbr style=";;background:none transparent;border:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Renewable_energy_by_country" style="font-size:114%"><a href="/wiki/List_of_renewable_energy_topics_by_country" title="List of renewable energy topics by country">Renewable energy by country</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Renewable_energy_in_Africa" title="Renewable energy in Africa">Africa</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Renewable_energy_in_Ethiopia" title="Renewable energy in Ethiopia">Ethiopia</a></li>
+<li><a href="/wiki/Renewable_energy_in_Kenya" title="Renewable energy in Kenya">Kenya</a></li>
+<li><a href="/wiki/Renewable_energy_in_Morocco" title="Renewable energy in Morocco">Morocco</a></li>
+<li><a href="/wiki/Renewable_energy_in_Seychelles" title="Renewable energy in Seychelles">Seychelles</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Renewable_energy_in_Asia" title="Renewable energy in Asia">Asia</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Afghanistan</strong></li>
+<li><a href="/wiki/Renewable_energy_in_Bangladesh" title="Renewable energy in Bangladesh">Bangladesh</a></li>
+<li><a href="/wiki/Renewable_energy_in_Bhutan" title="Renewable energy in Bhutan">Bhutan</a></li>
+<li><a href="/wiki/Renewable_energy_in_China" title="Renewable energy in China">China</a></li>
+<li><a href="/wiki/Renewable_energy_in_India" title="Renewable energy in India">India</a></li>
+<li><a href="/wiki/Renewable_energy_in_Kazakhstan" title="Renewable energy in Kazakhstan">Kazakhstan</a></li>
+<li><a href="/wiki/Renewable_energy_in_Nepal" title="Renewable energy in Nepal">Nepal</a></li>
+<li><a href="/wiki/Renewable_energy_in_Pakistan" title="Renewable energy in Pakistan">Pakistan</a></li>
+<li><a href="/wiki/Renewable_energy_in_the_Philippines" title="Renewable energy in the Philippines">Philippines</a></li>
+<li><a href="/wiki/Renewable_energy_in_Taiwan" title="Renewable energy in Taiwan">Taiwan</a></li>
+<li><a href="/wiki/Renewable_energy_in_Thailand" title="Renewable energy in Thailand">Thailand</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Renewable_energy_in_the_European_Union" title="Renewable energy in the European Union">Europe</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Renewable_energy_in_the_European_Union" title="Renewable energy in the European Union">European Union</a> (<a href="/wiki/Renewable_energy_in_the_Czech_Republic" title="Renewable energy in the Czech Republic">Czech Republic</a>, <a href="/wiki/Renewable_energy_in_Denmark" title="Renewable energy in Denmark">Denmark</a>, <a href="/wiki/Renewable_energy_in_Finland" title="Renewable energy in Finland">Finland</a>, <a href="/wiki/Renewable_energy_in_Germany" title="Renewable energy in Germany">Germany</a>, <a href="/wiki/Renewable_energy_in_Greece" title="Renewable energy in Greece">Greece</a>, <a href="/wiki/Renewable_energy_in_Hungary" title="Renewable energy in Hungary">Hungary</a>, <a href="/wiki/Renewable_energy_in_the_Republic_of_Ireland" title="Renewable energy in the Republic of Ireland">Ireland</a>, <a href="/wiki/Renewable_energy_in_Italy" title="Renewable energy in Italy">Italy</a>, <a href="/wiki/Renewable_energy_in_Lithuania" title="Renewable energy in Lithuania">Lithuania</a>, <a href="/wiki/Renewable_energy_in_Luxembourg" title="Renewable energy in Luxembourg">Luxembourg</a>, <a href="/wiki/Renewable_energy_in_the_Netherlands" title="Renewable energy in the Netherlands">Netherlands</a>, <a href="/wiki/Renewable_energy_in_Portugal" title="Renewable energy in Portugal">Portugal</a>, <a href="/wiki/Renewable_energy_in_Spain" title="Renewable energy in Spain">Spain</a>, <a class="mw-redirect" href="/wiki/Renewable_energy_in_Sweden" title="Renewable energy in Sweden">Sweden</a>, <a href="/wiki/Renewable_energy_in_the_United_Kingdom" title="Renewable energy in the United Kingdom">United Kingdom</a>)</li>
+<li><a href="/wiki/Renewable_energy_in_Albania" title="Renewable energy in Albania">Albania</a></li>
+<li><a href="/wiki/Renewable_energy_in_Iceland" title="Renewable energy in Iceland">Iceland</a></li>
+<li><a href="/wiki/Renewable_energy_in_Norway" title="Renewable energy in Norway">Norway</a></li>
+<li><a href="/wiki/Renewable_energy_in_Russia" title="Renewable energy in Russia">Russia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">North America</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Renewable_energy_in_Canada" title="Renewable energy in Canada">Canada</a></li>
+<li><a href="/wiki/Renewable_energy_in_Costa_Rica" title="Renewable energy in Costa Rica">Costa Rica</a></li>
+<li><a href="/wiki/Renewable_energy_in_Honduras" title="Renewable energy in Honduras">Honduras</a></li>
+<li><a href="/wiki/Renewable_energy_in_Mexico" title="Renewable energy in Mexico">Mexico</a></li>
+<li><a href="/wiki/Renewable_energy_in_the_United_States" title="Renewable energy in the United States">United States</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Oceania</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Renewable_energy_in_Australia" title="Renewable energy in Australia">Australia</a></li>
+<li><a href="/wiki/Renewable_energy_in_New_Zealand" title="Renewable energy in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Renewable_energy_in_Tuvalu" title="Renewable energy in Tuvalu">Tuvalu</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">South America</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Renewable_energy_in_Argentina" title="Renewable energy in Argentina">Argentina</a></li>
+<li><a href="/wiki/Renewable_energy_in_Brazil" title="Renewable energy in Brazil">Brazil</a></li>
+<li><a href="/wiki/Renewable_energy_in_Chile" title="Renewable energy in Chile">Chile</a></li>
+<li><a href="/wiki/Renewable_energy_in_Colombia" title="Renewable energy in Colombia">Colombia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<dl>
+<dt><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/><a href="/wiki/Category:Renewable_energy_by_country" title="Category:Renewable energy by country">Category</a></dt>
+<dd>Portals:</dd>
+<dd><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></dd>
+<dd><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a></dd>
+<dd><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:41445847-0!*!0!!en!4!* and timestamp 20161108061644 and revision id 716906650
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Renewable_energy_in_Afghanistan&amp;oldid=716906650">https://en.wikipedia.org/w/index.php?title=Renewable_energy_in_Afghanistan&amp;oldid=716906650</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Renewable_energy_in_Afghanistan" title="Category:Renewable energy in Afghanistan">Renewable energy in Afghanistan</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

@@ -1,0 +1,61 @@
+energyinputlabeling
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="hatnote" role="note">Not to be confused with <a href="/wiki/Energy_Star" title="Energy Star">Energy Star</a>.</div>
+<p>The term <b>energy input labeling</b> involved producers of goods and services determining how much energy is used to produce their product, and then including that information on their product packaging.<sup class="reference" id="cite_ref-Ref-1_1-0"><a href="#cite_note-Ref-1-1">[1]</a></sup> Energy input labeling is sometimes known by the acronym EIL. Energy input labeling provides the advantage of knowing how much energy was used to produce a product, but it does not indicate how much energy a product uses to operate, such as the <a href="/wiki/European_Union_energy_label" title="European Union energy label">European Union energy label</a> or the <a href="/wiki/Energy_rating_label" title="Energy rating label">Energy rating label</a> used in <a href="/wiki/Australia" title="Australia">Australia</a> and <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>, and is not in itself a standard for energy efficiency such as <a href="/wiki/Energy_Saving_Trust_Recommended" title="Energy Saving Trust Recommended">Energy Saving Trust Recommended</a> or <a href="/wiki/Energy_Star" title="Energy Star">Energy Star</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Usage_in_industry"><span class="tocnumber">2</span> <span class="toctext">Usage in industry</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#By_country"><span class="tocnumber">3</span> <span class="toctext">By country</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Japan"><span class="tocnumber">3.1</span> <span class="toctext">Japan</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_input_labeling&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Energy input labeling originated as a project by several energy and economics activists to explore <a href="/wiki/Energy_accounting" title="Energy accounting">energy accounting</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Usage_in_industry">Usage in industry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_input_labeling&amp;action=edit&amp;section=2" title="Edit section: Usage in industry">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Energy input labeling is intended to be easy for producers to implement,<sup class="reference" id="cite_ref-Ref-1_1-1"><a href="#cite_note-Ref-1-1">[1]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> At minimum, they can report and label the energy used by their firm to produce products, which is called "Energy Inputs Added", some sometimes merely "Energy Added." If a firm is able to also account for all of the energy imputed by its suppliers, then a firm can report and label "Total Energy Inputs" or "Total Energy", but this is rare. Energy Input Labeling is being used and further developed by the European Organization for Sustainability.<sup class="reference" id="cite_ref-Ref-1_1-2"><a href="#cite_note-Ref-1-1">[1]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="By_country">By country</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_input_labeling&amp;action=edit&amp;section=3" title="Edit section: By country">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Japan">Japan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_input_labeling&amp;action=edit&amp;section=4" title="Edit section: Japan">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Japan, the <a class="external text" href="http://www.climatepolicy.jp/thesis/pdf/09035dp.pdf" rel="nofollow">Top Runner Program</a> is run in which new appliances are regularly tested on efficiency, and the most efficient ones are made the standard</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_input_labeling&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/European_Union_energy_label" title="European Union energy label">European Union energy label</a>, description of European Union energy label</li>
+<li><a href="/wiki/EnergyGuide" title="EnergyGuide">EnergyGuide</a>, United States energy label</li>
+<li><a href="/wiki/Energy_rating_label" title="Energy rating label">Energy rating label</a>, energy label in <a href="/wiki/Australia" title="Australia">Australia</a> and <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_input_labeling&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Ref-1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ref-1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ref-1_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Ref-1_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://userwww.sfsu.edu/~ciotola/eil/EIL_Standards_08_v1_0.pdf" rel="nofollow">"Energy Input Labeling Standards : 2008 v10"</a> <span style="font-size:85%;">(PDF)</span>. Userwww.sfsu.edu<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+input+labeling&amp;rft.btitle=Energy+Input+Labeling+Standards+%3A+2008+v10&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fuserwww.sfsu.edu%2F~ciotola%2Feil%2FEIL_Standards_08_v1_0.pdf&amp;rft.pub=Userwww.sfsu.edu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external autonumber" href="http://www.technocracy.org/EIL_Report_to_CHQ.pdf" rel="nofollow">[1]</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since September 2013">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://pavilionrc.typepad.com/energy_input_labeling/calculating_energy_inputs/" rel="nofollow">"Energy Input Labeling: Calculating Energy Inputs"</a>. Pavilionrc.typepad.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+input+labeling&amp;rft.btitle=Energy+Input+Labeling%3A+Calculating+Energy+Inputs&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fpavilionrc.typepad.com%2Fenergy_input_labeling%2Fcalculating_energy_inputs%2F&amp;rft.pub=Pavilionrc.typepad.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://wiki.eoslife.eu/index.php/EIL_framework" rel="nofollow">"EIL framework - European Organisation for Sustainability - Wiki"</a>. Wiki.eoslife.eu. 2009-11-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+input+labeling&amp;rft.btitle=EIL+framework+-+European+Organisation+for+Sustainability+-+Wiki&amp;rft.date=2009-11-21&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwiki.eoslife.eu%2Findex.php%2FEIL_framework&amp;rft.pub=Wiki.eoslife.eu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_input_labeling&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://userwww.sfsu.edu/~ciotola/eil/" rel="nofollow">Userwww.sfsu.edu</a></li>
+<li><a class="external text" href="https://books.google.com/books?id=khVWQFqnkYEC&amp;pg=PA73&amp;lpg=PA73&amp;dq=energy+input+labeling&amp;source=bl&amp;ots=bmsgzTQPhi&amp;sig=O5dcJZQR0w4W-pBkfyoA_eH5kIU&amp;hl=en&amp;sa=X&amp;ei=GpGeT7W9JaqTiQeslqHRDg&amp;ved=0CC4Q6AEwADgK#v=onepage&amp;q=energy%20input%20labeling&amp;f=false" rel="nofollow">Books.google.com.au</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23058950-0!*!0!!en!*!* and timestamp 20161022033727 and revision id 740605266
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Energy_input_labeling&amp;oldid=740605266">https://en.wikipedia.org/w/index.php?title=Energy_input_labeling&amp;oldid=740605266</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Energy_conservation" title="Category:Energy conservation">Energy conservation</a></li><li><a href="/wiki/Category:Ecolabelling" title="Category:Ecolabelling">Ecolabelling</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_September_2013" title="Category:Articles with dead external links from September 2013">Articles with dead external links from September 2013</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

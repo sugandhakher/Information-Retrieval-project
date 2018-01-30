@@ -1,0 +1,237 @@
+energyrecovery
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Berner_Tricoil_Energy_Recovery_System_atop_the_Center_for_Sustainable_Landscape.jpg"><img alt="" class="thumbimage" data-file-height="2448" data-file-width="3264" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Berner_Tricoil_Energy_Recovery_System_atop_the_Center_for_Sustainable_Landscape.jpg/220px-Berner_Tricoil_Energy_Recovery_System_atop_the_Center_for_Sustainable_Landscape.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Berner_Tricoil_Energy_Recovery_System_atop_the_Center_for_Sustainable_Landscape.jpg/330px-Berner_Tricoil_Energy_Recovery_System_atop_the_Center_for_Sustainable_Landscape.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Berner_Tricoil_Energy_Recovery_System_atop_the_Center_for_Sustainable_Landscape.jpg/440px-Berner_Tricoil_Energy_Recovery_System_atop_the_Center_for_Sustainable_Landscape.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Berner_Tricoil_Energy_Recovery_System_atop_the_Center_for_Sustainable_Landscape.jpg" title="Enlarge"></a></div>
+Berner Tricoil Energy Recovery System atop the Center for Sustainable Landscapes in Pittsburgh, Pennsylvania</div>
+</div>
+</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Energy_recovery&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(May 2008)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p><b>Energy recovery</b> includes any technique or method of minimizing the input of <a href="/wiki/Energy" title="Energy">energy</a> to an overall <a href="/wiki/System" title="System">system</a> by the exchange of energy from one sub-system of the overall system with another. The energy can be in any form in either subsystem, but most energy recovery systems exchange <a href="/wiki/Thermal_energy" title="Thermal energy">thermal energy</a> in either <a href="/wiki/Sensible_heat" title="Sensible heat">sensible</a> or <a href="/wiki/Latent_heat" title="Latent heat">latent</a> form.</p>
+<p>In some circumstances the use of an enabling technology, either diurnal <a href="/wiki/Thermal_energy_storage" title="Thermal energy storage">thermal energy storage</a> or <a href="/wiki/Seasonal_thermal_energy_storage" title="Seasonal thermal energy storage">seasonal thermal energy storage</a> (STES, which allows heat or cold storage between opposing seasons), is necessary to make energy recovery practicable. One example is waste heat from air conditioning machinery stored in a buffer tank to aid in night time heating. Another is an STES application at a foundry in Sweden. Waste heat is recovered and stored in a large mass of native bedrock which is penetrated by a cluster of 140 heat exchanger equipped boreholes (155mm diameter) that are 150m deep. This store is used for heating an adjacent factory as needed, even months later.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> An example of using STES to recover and utilize natural heat that otherwise would be wasted is the <a href="/wiki/Drake_Landing_Solar_Community" title="Drake Landing Solar Community">Drake Landing Solar Community</a> in <a href="/wiki/Alberta" title="Alberta">Alberta</a>, Canada. The community uses a cluster of boreholes in bedrock for interseasonal heat storage, and this enables obtaining 97 percent of the year-round space heating from solar thermal collectors on the garage roofs.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Another STES application is recovering the cold of winter by circulating water through a dry cooling tower, and using that to chill a deep aquifer or borehole cluster. The chill is later recovered from the storage for summer air conditioning.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> With a coefficient of performance (COP) of 20 to 40, this method of cooling can be ten times more efficient than conventional air conditioning.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Principle"><span class="tocnumber">1</span> <span class="toctext">Principle</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#System_approach"><span class="tocnumber">2</span> <span class="toctext">System approach</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Examples"><span class="tocnumber">3</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Environmental_impact"><span class="tocnumber">4</span> <span class="toctext">Environmental impact</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Principle">Principle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_recovery&amp;action=edit&amp;section=1" title="Edit section: Principle">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A common application of this principle is in systems which have an <i>exhaust stream</i> or <i>waste stream</i> which is transferred from the system to its surroundings. Some of the energy in that flow of material (often <a href="/wiki/Gas" title="Gas">gaseous</a> or <a href="/wiki/Liquid" title="Liquid">liquid</a>) may be transferred to the <i>make-up</i> or <i>input</i> material flow. This <i>input</i> <a href="/wiki/Mass" title="Mass">mass</a> flow often comes from the system's surroundings, which, being at ambient conditions, are at a lower temperature than the <i>waste stream</i>. This temperature differential allows <a href="/wiki/Heat_transfer" title="Heat transfer">heat transfer</a> and thus energy transfer, or in this case, recovery. Thermal energy is often recovered from liquid or gaseous waste streams to <i>fresh</i> <i>make-up</i> <a class="mw-redirect" href="/wiki/Air" title="Air">air</a> and <a href="/wiki/Water" title="Water">water</a> intakes in <a class="mw-redirect" href="/wiki/Buildings" title="Buildings">buildings</a>, such as for the <a href="/wiki/HVAC" title="HVAC">HVAC</a> systems, or process systems.</p>
+<h2><span class="mw-headline" id="System_approach">System approach</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_recovery&amp;action=edit&amp;section=2" title="Edit section: System approach">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Energy consumption is a key part of most human activities. This consumption involves converting one energy system to another, for example: The conversion of mechanical energy to electrical energy, which can then power computers, light, motors etc. The input energy propels the work and is mostly converted to heat or follows the product in the process as output energy. Energy recovery systems harvest the output power and providing this as input power to the same or another process.</p>
+<p>An energy recovery system will close this energy cycle to prevent the input power from being released back to nature and rather be used in other forms of desired work.</p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_recovery&amp;action=edit&amp;section=3" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Heat recovery is implemented in heat sources like e.g. a steel mill. Heated cooling water from the process is sold for heating of homes, shops and offices in the surrounding area.</li>
+<li><a class="mw-redirect" href="/wiki/Regenerative_braking" title="Regenerative braking">Regenerative braking</a> is used in electric cars, trains, heavy cranes etc. where the energy consumed when elevating the potential is returned to the electric supplier when released.</li>
+<li>Active pressure reduction systems where the differential pressure in a pressurized fluid flow is recovered rather than converted to heat in a pressure reduction valve and released.</li>
+<li><a href="/wiki/Energy_recovery_ventilation" title="Energy recovery ventilation">Energy recovery ventilation</a></li>
+<li><a href="/wiki/Energy_recycling" title="Energy recycling">Energy recycling</a></li>
+<li><a href="/wiki/Water_heat_recycling" title="Water heat recycling">Water heat recycling</a></li>
+<li><a href="/wiki/Heat_recovery_ventilation" title="Heat recovery ventilation">Heat recovery ventilation</a></li>
+<li><a href="/wiki/Heat_recovery_steam_generator" title="Heat recovery steam generator">Heat recovery steam generator</a></li>
+<li><a class="new" href="/w/index.php?title=Heat_Regenerative_Cyclone_Engine&amp;action=edit&amp;redlink=1" title="Heat Regenerative Cyclone Engine (page does not exist)">Heat Regenerative Cyclone Engine</a><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></li>
+<li><a href="/wiki/Hydrogen_turboexpander-generator" title="Hydrogen turboexpander-generator">Hydrogen turboexpander-generator</a></li>
+<li><a href="/wiki/Thermal_diode" title="Thermal diode">Thermal diode</a></li>
+<li><a href="/wiki/Thermal_oxidizer" title="Thermal oxidizer">Thermal oxidizer</a></li>
+<li><a class="mw-redirect" href="/wiki/Thermoelectric_Modules" title="Thermoelectric Modules">Thermoelectric Modules</a></li>
+<li><a href="/wiki/Waste_heat_recovery_unit" title="Waste heat recovery unit">Waste heat recovery units</a></li>
+</ul>
+<h2><span class="mw-headline" id="Environmental_impact">Environmental impact</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_recovery&amp;action=edit&amp;section=4" title="Edit section: Environmental impact">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There is a large potential for energy recovery in compact systems like large industries and utilities. Together with <a href="/wiki/Energy_conservation" title="Energy conservation">energy conservation</a>, it should be possible to dramatically reduce world energy consumption. The effect of this will then be:</p>
+<ul>
+<li>Reduced number of coal-fired power plants</li>
+<li>Reduced airborne particles, <a href="/wiki/NOx" title="NOx">NOx</a> and <a class="mw-redirect" href="/wiki/CO2" title="CO2">CO2</a> - improved air quality</li>
+<li>Slowing or reducing <a href="/wiki/Climate_change" title="Climate change">climate change</a></li>
+<li>Lower fuel bills on transport</li>
+<li>Longer availability of <a class="mw-redirect" href="/wiki/Crude_oil" title="Crude oil">crude oil</a></li>
+<li>Change of industries and economies not fully researched</li>
+</ul>
+<p>In 2008 <a href="/wiki/Tom_Casten" title="Tom Casten">Tom Casten</a>, chairman of <a href="/wiki/Recycled_Energy_Development" title="Recycled Energy Development">Recycled Energy Development</a>, said that "<i>We think we could make about 19 to 20 percent of U.S. electricity with heat that is currently thrown away by industry.</i>"<sup class="reference" id="cite_ref-npr2008may22_7-0"><a href="#cite_note-npr2008may22-7">[7]</a></sup></p>
+<p>A 2007 Department of Energy study found the potential for 135,000 megawatts of <a class="mw-redirect" href="/wiki/Combined_heat_and_power" title="Combined heat and power">combined heat and power</a> (which uses energy recovery) in the U.S.,<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> and a Lawrence Berkley National Laboratory study identified about 64,000 megawatts that could be obtained from industrial waste energy, not counting CHP.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> These studies suggest about 200,000 megawatts—or 20% -- of total power capacity that could come from <a href="/wiki/Energy_recycling" title="Energy recycling">energy recycling</a> in the U.S. Widespread use of <a href="/wiki/Energy_recycling" title="Energy recycling">energy recycling</a> could therefore reduce global warming emissions by an estimated 20 percent.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> Indeed, as of 2005, about 42 percent of U.S. greenhouse gas pollution came from the production of electricity and 27 percent from the production of heat.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup><sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></p>
+<p>It is, however, difficult to quantify the environmental impact of a global energy recovery implementation in some sectors. The main impediments are</p>
+<ul>
+<li>Lack of efficient technologies for private homes. Heat recovery systems in private homes can have an efficiency as low as 30% or less. It may be more realistic to use energy conservation like insulation or improved buildings. Many areas are more dependent on forced cooling and a system for extracting heat from dwellings to be used for other uses are not widely available.</li>
+<li>Ineffective infrastructure. Heat recovery in particular need a short distance from producer to consumer to be viable. A solution may be to move a large consumer to the vicinity of the producer. This may have other complications.</li>
+<li>Transport sector not ready. With the transport sector using about 20% of the energy supply, most of the energy is spent on overcoming gravity and friction. Electric cars with regenerative braking seem to be the best candidate for energy recovery. Wind systems on ships are under development. Very little work on the airline industry is known in this field.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_recovery&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a></li>
+<li><a class="mw-redirect" href="/wiki/DWEER" title="DWEER">DWEER</a></li>
+<li><a href="/wiki/List_of_energy_storage_projects" title="List of energy storage projects">List of energy storage projects</a></li>
+<li><a href="/wiki/Mechanical_vapor_recompression" title="Mechanical vapor recompression">Mechanical vapor recompression</a></li>
+<li><a href="/wiki/Pinch_analysis" title="Pinch analysis">Pinch analysis</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_recovery&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Andersson, O.; Hägg, M. (2008), <a class="external text" href="http://www.saunier-associes.com/igeia/docs/documents/projectPublications/D10-FeasabilityStudies.pdf" rel="nofollow">"Deliverable 10 - Sweden - Preliminary design of a seasonal heat storage for ITT Flygt, Emmaboda, Sweden"</a>, IGEIA – Integration of geothermal energy into industrial applications, pp. 38–56 and 72–76, retrieved 21 April 2013</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Wong, Bill (June 28, 2011), <a class="external text" href="http://www.districtenergy.org/assets/pdfs/2011Annual_Conf/Proceedings/A24WONG-v03.pdf" rel="nofollow">"Drake Landing Solar Community"</a>, IDEA/CDEA District Energy/CHP 2011 Conference, Toronto, pp. 1–30, retrieved 21 April 2013</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Wong B., Thornton J. (2013). <a class="external text" href="http://www.geo-exchange.ca/en/UserAttachments/flex1304_5-%20SAIC-%20Bill%20Wong%202013%20-%20Integrating%20Solar%20and%20Heat%20Pumps.pdf" rel="nofollow"><i>Integrating Solar &amp; Heat Pumps.</i></a> Renewable Heat Workshop.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Paksoy, H.; Stiles, L. (2009), <a class="external text" href="http://underground-energy.com/Aquifer_Thermal_Energy_Cold_Storage_System_at_Richard_Stockton_College.pdf" rel="nofollow">"Aquifer Thermal Energy Cold Storage System at Richard Stockton College"</a>, Effstock 2009 (11th International) - Thermal Energy Storage for Efficiency and Sustainability, Stockholm.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Willemsen, G. 1998. <a class="external text" href="http://intraweb.stockton.edu/eyos/energy_studies/content/docs/proceedings/GUUS.PDF" rel="nofollow"><i>Open-loop geothermal heat pump systems in the USA and aquifer cold storage in the netherlands - similarities and differences.</i></a> The Second Stockton International Geothermal Conference. March 16 and 17, 1998</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.cyclonepower.com/works.html" rel="nofollow">Cyclone Power Technologies Website</a></span></li>
+<li id="cite_note-npr2008may22-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-npr2008may22_7-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.npr.org/templates/story/story.php?storyId=90714692" rel="nofollow">'Recycling' Energy Seen Saving Companies Money</a>. By David Schaper. May 22, 2008. <a href="/wiki/Morning_Edition" title="Morning Edition">Morning Edition</a>. <a class="mw-redirect" href="/wiki/National_Public_Radio" title="National Public Radio">National Public Radio</a>.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Bruce Hedman, Energy and Environmental Analysis/USCHPA, "Combined Heat and Power and Heat Recovery as Energy Efficiency Options", Briefing to Senate Renewable Energy Caucus, September 10, 2007, Washington DC.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.osti.gov/bridge/servlets/purl/843010-3bxGVs/native/843010.pdf" rel="nofollow">"Clean Energy Technologies: a Preliminary Inventory of the Potential for Electricity Generation, Lawrence Berkley National Laboratory, 4/05"</a> <span style="font-size:85%;">(PDF)</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+recovery&amp;rft.btitle=Clean+Energy+Technologies%3A+a+Preliminary+Inventory+of+the+Potential+for+Electricity+Generation%2C+Lawrence+Berkley+National+Laboratory%2C+4%2F05&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.osti.gov%2Fbridge%2Fservlets%2Fpurl%2F843010-3bxGVs%2Fnative%2F843010.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.eia.doe.gov/cneaf/electricity/epa/epat2p2.html" rel="nofollow">"The Energy Information Administration, Existing Capacity by Energy Source, 2006"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+recovery&amp;rft.btitle=The+Energy+Information+Administration%2C+Existing+Capacity+by+Energy+Source%2C+2006&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.eia.doe.gov%2Fcneaf%2Felectricity%2Fepa%2Fepat2p2.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.epa.gov/climatechange/emissions/usinventoryreport.html" rel="nofollow">"Inventory of U.S. Greenhouse Gas Emissions and Sinks"</a>. <i><a class="mw-redirect" href="/wiki/U.S._Environmental_Protection_Agency" title="U.S. Environmental Protection Agency">U.S. Environmental Protection Agency</a></i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+recovery&amp;rft.atitle=Inventory+of+U.S.+Greenhouse+Gas+Emissions+and+Sinks&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.epa.gov%2Fclimatechange%2Femissions%2Fusinventoryreport.html&amp;rft.jtitle=U.S.+Environmental+Protection+Agency&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.eia.doe.gov/oiaf/1605/ggrpt/emission.html" rel="nofollow">"Emissions of Greenhouse Gases in the United States 2005"</a>. <i><a class="mw-redirect" href="/wiki/U.S._Energy_Information_Administration" title="U.S. Energy Information Administration">U.S. Energy Information Administration</a>,</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+recovery&amp;rft.atitle=Emissions+of+Greenhouse+Gases+in+the+United+States+2005&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.eia.doe.gov%2Foiaf%2F1605%2Fggrpt%2Femission.html&amp;rft.jtitle=U.S.+Energy+Information+Administration%2C&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_recovery&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a class="image" href="/wiki/File:Commons-logo.svg"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Energy_recovery" title="commons:Category:Energy recovery">Energy recovery</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.carbontrust.com/resources/reports/advice/technology-and-energy-management-publications" rel="nofollow">Heat recovery: A guide to key systems and applications - Carbon Trust</a></li>
+<li><a class="external text" href="https://inlportal.inl.gov/portal/server.pt?open=514&amp;objID=1680&amp;parentname=CommunityPage&amp;parentid=29&amp;mode=2&amp;in_hi_userid=200&amp;cached=true" rel="nofollow">Energy Resources Recovery - Idaho National Laboratory</a></li>
+<li><a class="external text" href="https://www.epa.gov/smm/energy-recovery-combustion-municipal-solid-waste-msw" rel="nofollow">Energy Recovery from the Combustion of Municipal Solid Waste -EPA</a></li>
+<li><a class="external text" href="http://www.ashrae.org/pressroom/detail/13575" rel="nofollow">26 Projects Funded: Energy Recovery Methods Studied with ASHRAE Undergraduate Grants</a></li>
+<li><a class="external text" href="http://www.thecmmgroup.com" rel="nofollow">The CMM Group</a></li>
+<li><a class="external text" href="http://www.seav.vic.gov.au/manufacturing/sustainable_manufacturing/resource.asp?action=show_resource&amp;resourcetype=2&amp;resourceid=44" rel="nofollow">Heat Recovery in Industry</a></li>
+<li><a class="external text" href="http://www.zeropex.com" rel="nofollow">Zeropex, technology and products for active pressure reduction</a></li>
+</ul>
+<div aria-labelledby="Environmental_technology" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Environmental_technology" title="Template:Environmental technology"><abbr style=";;background:none transparent;border:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Environmental_technology" title="Template talk:Environmental technology"><abbr style=";;background:none transparent;border:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Environmental_technology&amp;action=edit"><abbr style=";;background:none transparent;border:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Environmental_technology" style="font-size:114%"><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental technology</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate technology</a></li>
+<li><a href="/wiki/Clean_technology" title="Clean technology">Clean technology</a></li>
+<li><a href="/wiki/Environmental_design" title="Environmental design">Environmental design</a></li>
+<li><a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">Environmental impact assessment</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable technology</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="7" style="width:0%;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Windmills_D1-D4_-_Thornton_Bank.jpg"><img alt="Windmills D1-D4 - Thornton Bank.jpg" data-file-height="3831" data-file-width="2421" height="158" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Windmills_D1-D4_-_Thornton_Bank.jpg/100px-Windmills_D1-D4_-_Thornton_Bank.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Windmills_D1-D4_-_Thornton_Bank.jpg/150px-Windmills_D1-D4_-_Thornton_Bank.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Windmills_D1-D4_-_Thornton_Bank.jpg/200px-Windmills_D1-D4_-_Thornton_Bank.jpg 2x" width="100"/></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Pollution" title="Pollution">Pollution</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Air pollution (<a href="/wiki/Emission_standard" title="Emission standard">control</a></li>
+<li><a href="/wiki/Atmospheric_dispersion_modeling" title="Atmospheric dispersion modeling">dispersion modeling</a>)</li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/List_of_solid_waste_treatment_technologies" title="List of solid waste treatment technologies">Solid waste treatment</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste management</a></li>
+<li>Water (<a href="/wiki/Agricultural_wastewater_treatment" title="Agricultural wastewater treatment">agricultural wastewater treatment</a></li>
+<li><a href="/wiki/Industrial_wastewater_treatment" title="Industrial wastewater treatment">industrial wastewater treatment</a></li>
+<li><a href="/wiki/Sewage_treatment" title="Sewage treatment">sewage treatment</a></li>
+<li><a href="/wiki/List_of_waste-water_treatment_technologies" title="List of waste-water treatment technologies">waste-water treatment technologies</a></li>
+<li><a href="/wiki/Water_purification" title="Water purification">water purification</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alternative_energy" title="Alternative energy">Alternative energy</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Energy_development" title="Energy development">Energy development</a></li>
+<li><strong class="selflink">Energy recovery</strong></li>
+<li>Fuel (<a href="/wiki/Alternative_fuel" title="Alternative fuel">alternative fuel</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">biofuel</a></li>
+<li><a class="mw-redirect" href="/wiki/Carbon_negative_fuel" title="Carbon negative fuel">carbon negative fuel</a></li>
+<li><a href="/wiki/Hydrogen_technologies" title="Hydrogen technologies">hydrogen technologies</a>)</li>
+<li><a href="/wiki/List_of_energy_storage_projects" title="List of energy storage projects">List of energy storage projects</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a> (<a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">commercialization</a>)</li>
+<li><a href="/wiki/Sustainable_energy" title="Sustainable energy">Sustainable energy</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transportation</a> (<a href="/wiki/Electric_vehicle" title="Electric vehicle">electric vehicle</a></li>
+<li><a href="/wiki/Hybrid_vehicle" title="Hybrid vehicle">hybrid vehicle</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Conservation</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li>Building (<a href="/wiki/Green_building" title="Green building">green</a></li>
+<li><a href="/wiki/Natural_building" title="Natural building">natural</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">sustainable architecture</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">New Urbanism</a></li>
+<li><a class="mw-redirect" href="/wiki/New_Classical_Architecture" title="New Classical Architecture">New Classical</a>)</li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Conservation_(ethic)" title="Conservation (ethic)">Conservation ethic</a></li>
+<li><a href="/wiki/Ecoforestry" title="Ecoforestry">Ecoforestry</a></li>
+<li><a class="mw-redirect" href="/wiki/Environmental_preservation" title="Environmental preservation">Environmental preservation</a></li>
+<li><a href="/wiki/Environmental_remediation" title="Environmental remediation">Environmental remediation</a></li>
+<li><a href="/wiki/Green_computing" title="Green computing">Green computing</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Recycling" title="Recycling">Recycling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6109551-0!*!0!!en!4!* and timestamp 20161028223843 and revision id 712567472
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Energy_recovery&amp;oldid=712567472">https://en.wikipedia.org/w/index.php?title=Energy_recovery&amp;oldid=712567472</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Energy_recovery" title="Category:Energy recovery">Energy recovery</a></li><li><a href="/wiki/Category:Energy_policy" title="Category:Energy policy">Energy policy</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2008" title="Category:Articles needing additional references from May 2008">Articles needing additional references from May 2008</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

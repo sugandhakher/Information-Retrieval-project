@@ -1,0 +1,156 @@
+marginalabatementcost
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Environmental_economics" title="Category:Environmental economics">a series</a> about</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></th>
+</tr>
+<tr>
+<th style="padding:0.1em">Concepts</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Green_accounting" title="Green accounting">Green accounting</a></li>
+<li><a href="/wiki/Green_economy" title="Green economy">Green economy</a></li>
+<li><a href="/wiki/Green_trading" title="Green trading">Green trading</a></li>
+<li><a href="/wiki/Eco_commerce" title="Eco commerce">Eco commerce</a></li>
+<li><a href="/wiki/Green_job" title="Green job">Green job</a></li>
+<li><a href="/wiki/Environmental_enterprise" title="Environmental enterprise">Environmental enterprise</a></li>
+<li><a href="/wiki/Fiscal_environmentalism" title="Fiscal environmentalism">Fiscal environmentalism</a></li>
+<li><a href="/wiki/Environmental_finance" title="Environmental finance">Environmental finance</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">Policies</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Sustainable tourism</a></li>
+<li><a href="/wiki/Ecotax" title="Ecotax">Ecotax</a></li>
+<li><a href="/wiki/Environmental_tariff" title="Environmental tariff">Environmental tariff</a></li>
+<li><a href="/wiki/Net_metering" title="Net metering">Net metering</a></li>
+<li><a href="/wiki/Environmental_pricing_reform" title="Environmental pricing reform">Environmental pricing reform</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">Dynamics</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">Renewable energy commercialization</a></li>
+<li><strong class="selflink">Marginal abatement cost</strong></li>
+<li><a href="/wiki/Green_paradox" title="Green paradox">Green paradox</a></li>
+<li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Pollution_haven_hypothesis" title="Pollution haven hypothesis">Pollution haven hypothesis</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">Carbon related</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Low-carbon_economy" title="Low-carbon economy">Low-carbon economy</a></li>
+<li><a class="mw-redirect" href="/wiki/Carbon_neutral_fuel" title="Carbon neutral fuel">Carbon neutral fuel</a></li>
+<li><a href="/wiki/Carbon_neutrality" title="Carbon neutrality">Carbon neutrality</a></li>
+<li><a class="mw-redirect" href="/wiki/Carbon_pricing" title="Carbon pricing">Carbon pricing</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Carbon_credit" title="Carbon credit">Carbon credit</a></li>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Carbon_emission_trading" title="Carbon emission trading">Carbon emission trading</a></li>
+<li><a href="/wiki/Personal_carbon_trading" title="Personal carbon trading">Personal carbon trading</a></li>
+<li><a href="/wiki/Carbon_tax" title="Carbon tax">Carbon tax</a></li>
+<li><a href="/wiki/Carbon_finance" title="Carbon finance">Carbon finance</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Carbon_diet" title="Carbon diet">Carbon diet</a></li>
+<li><a href="/wiki/Food_miles" title="Food miles">Food miles</a></li>
+<li><a href="/wiki/2000-watt_society" title="2000-watt society">2000-watt society</a></li>
+<li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Green_economics_sidebar" title="Template:Green economics sidebar"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Green_economics_sidebar" title="Template talk:Green economics sidebar"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Green_economics_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>Abatement cost is the cost of reducing environmental negatives such as pollution. Marginal cost is an economic concept that measures the cost of an additional unit. The <b>marginal abatement cost</b> (<b>MAC</b>), in general, measures the cost of reducing one more unit of pollution.</p>
+<p>Although marginal abatement costs can be negative, such as when the low carbon option is cheaper than the business-as-usual option, MACs often rise steeply as more pollution is reduced.</p>
+<p>Marginal abatement costs are typically used on a <b>marginal abatement cost curve</b> or <b>MAC curve</b>, which shows the marginal cost of additional reductions in pollution.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Usage"><span class="tocnumber">1</span> <span class="toctext">Usage</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Criticism"><span class="tocnumber">2</span> <span class="toctext">Criticism</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Examples_of_existing_MAC_curves"><span class="tocnumber">3</span> <span class="toctext">Examples of existing MAC curves</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Usage">Usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marginal_abatement_cost&amp;action=edit&amp;section=1" title="Edit section: Usage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Carbon traders use MAC curves to derive the supply function for modelling carbon price fundamentals. Power companies may employ MAC curves to guide their decisions about long-term capital investment strategies to select among a variety of efficiency and generation options. Economists have used MAC curves to explain the economics of interregional carbon trading.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> Policy-makers use MAC curves as <a href="/wiki/Merit_order" title="Merit order">merit order</a> curves, to analyze how much abatement can be done in an economy at what cost, and where policy should be directed to achieve the emission reductions.</p>
+<p>However, MAC curves should not be used as abatement supply curves (or <a href="/wiki/Merit_order" title="Merit order">merit order</a> curves) to decide which measures to implement in order to achieve a given emission-reduction target. Indeed, the options they list would take decades to implement, and it may be optimal to implement expensive but high-potential measures before introducing cheaper measures.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Criticism">Criticism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marginal_abatement_cost&amp;action=edit&amp;section=2" title="Edit section: Criticism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The way that MAC curves are usually built has been criticized for lack of transparency and the poor treatment it makes of uncertainty, inter-temporal dynamics, interactions between sectors and ancillary benefits.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Examples_of_existing_MAC_curves">Examples of existing MAC curves</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marginal_abatement_cost&amp;action=edit&amp;section=3" title="Edit section: Examples of existing MAC curves">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Various economists, research organizations, and consultancies have produced MAC curves. Bloomberg New Energy Finance<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> and <a href="/wiki/McKinsey_%26_Company" title="McKinsey &amp; Company">McKinsey &amp; Company</a><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> have produced economy wide analyses on greenhouse gas emissions reductions for the <a href="/wiki/United_States" title="United States">United States</a>. <a href="/wiki/ICF_International" title="ICF International">ICF International</a><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> produced a California specific curve following <a class="mw-redirect" href="/wiki/AB-32" title="AB-32">AB-32</a> legislation as have Sweeney and Weyant.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<p>The <a href="/wiki/Wuppertal_Institute_for_Climate,_Environment_and_Energy" title="Wuppertal Institute for Climate, Environment and Energy">Wuppertal Institute for Climate, Environment and Energy</a> produced several marginal abatement cost curves for Germany (also called Cost Potential Curves), depending on the perspective (end-user, utilities, society).<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></p>
+<p>The US <a class="mw-redirect" href="/wiki/Environmental_Protection_Agency" title="Environmental Protection Agency">Environmental Protection Agency</a> has done work on a MAC curve for non carbon dioxide emissions such as methane, N<sub>2</sub>O, and HFCs.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> Enerdata and LEPII-CNRS (France) produce MAC curves with the <a class="mw-redirect" href="/wiki/POLES" title="POLES">POLES</a> model for the 6 Kyoto Protocol gases.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> These curves have been used for various public and private actors either to assess carbon policies <sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> or through the use of a carbon market analysis tool.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></p>
+<p>The World Bank 2013 low-carbon energy development plan for Nigeria,<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> prepared jointly with the <a href="/wiki/World_Bank" title="World Bank">World Bank</a>, ulitizes MAC curves created in <a href="/wiki/Analytica_(software)" title="Analytica (software)">Analytica</a>.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marginal_abatement_cost&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></li>
+<li><a href="/wiki/Marginal_cost" title="Marginal cost">Marginal cost</a></li>
+<li><a href="/wiki/Social_cost" title="Social cost">Social cost</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marginal_abatement_cost&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://web.mit.edu/globalchange/www/MITJPSPGC_Rpt40.pdf" rel="nofollow">"Ellerman, A.D. and Decaux, A., Analysis of post-Kyoto CO<sub>2</sub>} emissions trading using marginal abatement curves, 1998."</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarginal+abatement+cost&amp;rft.btitle=Ellerman%2C+A.D.+and+Decaux%2C+A.%2C+Analysis+of+post-Kyoto+CO%3Csub%3E2%3C%2Fsub%3E%26%23125%3B+emissions+trading+using+marginal+abatement+curves%2C+1998.&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fweb.mit.edu%2Fglobalchange%2Fwww%2FMITJPSPGC_Rpt40.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">"Vogt-Schilb, A. and Hallegatte, S., 2014. Marginal abatement cost curves and the optimal timing of mitigation measures.". <i>Energy Policy</i>. <b>66</b>: 645–653. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1016%2Fj.enpol.2013.11.045" rel="nofollow">10.1016/j.enpol.2013.11.045</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarginal+abatement+cost&amp;rft.atitle=Vogt-Schilb%2C+A.+and+Hallegatte%2C+S.%2C+2014.+Marginal+abatement+cost+curves+and+the+optimal+timing+of+mitigation+measures.&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.enpol.2013.11.045&amp;rft.jtitle=Energy+Policy&amp;rft.pages=645-653&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=66"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">"Marginal abatement cost curves: a call for caution". <i>Climate Policy</i>. <b>12</b>: 219–236. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1080%2F14693062.2011.582347" rel="nofollow">10.1080/14693062.2011.582347</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarginal+abatement+cost&amp;rft.atitle=Marginal+abatement+cost+curves%3A+a+call+for+caution&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1080%2F14693062.2011.582347&amp;rft.jtitle=Climate+Policy&amp;rft.pages=219-236&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=12"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external text" href="http://carbon.newenergyfinance.com/download.php?n=BBNEF_CarbonMarkets_NAmerica_RN_2010_01_RN_USMACC.pdf&amp;f=fileName&amp;t=NCF_downloads" rel="nofollow">Bloomberg New Energy Finance, US Marginal Abatement Cost Curve, 2010</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.mckinsey.com/clientservice/ccsi/greenhousegas.asp" rel="nofollow">McKinsey &amp; Company, Reducing US greenhouse gas emissions: how much at what cost? 2007</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.energy.ca.gov/2005publications/CEC-500-2005-121/CEC-500-2005-121.PDF" rel="nofollow">"ICF International, Emission reduction opportunities for non-CO<sub>2</sub>} greenhouse gases in California, 2005"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarginal+abatement+cost&amp;rft.btitle=ICF+International%2C+Emission+reduction+opportunities+for+non-CO%3Csub%3E2%3C%2Fsub%3E%26%23125%3B+greenhouse+gases+in+California%2C+2005&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.energy.ca.gov%2F2005publications%2FCEC-500-2005-121%2FCEC-500-2005-121.PDF&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a class="external text" href="http://web.stanford.edu/group/peec/cgi-bin/docs/policy/research/September%2027%202008%20Discussion%20Draft%20-%20Analysis%20of%20Measures%20to%20Meet%20the%20Requirements%20of%20Californias%20Assembly%20Bill%2032.pdf" rel="nofollow">Sweeney, J. and Weyant, J., Analysis of measures to meet the requirements of California’s Assembly Bill 32, 2008</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a class="external text" href="http://epub.wupperinst.org/files/5015/5015_EE_EDL_en.pdf" rel="nofollow">Options and Potentials for Energy End-use Efficiency and Energy Services, Wuppertal Institute, 2006</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.epa.gov/climatechange/economics/international.html" rel="nofollow">"EPA, Global mitigation of non-CO<sub>2</sub>} greenhouse gases, 2006"</a>. Epa.gov. 2010-11-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarginal+abatement+cost&amp;rft.btitle=EPA%2C+Global+mitigation+of+non-CO%3Csub%3E2%3C%2Fsub%3E%26%23125%3B+greenhouse+gases%2C+2006&amp;rft.date=2010-11-17&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.epa.gov%2Fclimatechange%2Feconomics%2Finternational.html&amp;rft.pub=Epa.gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.enerdata.net/enerdatauk/energy-advisory/forecasting/mac-curves-methodology.php" rel="nofollow">"Enerdata, Production of MAC curves by sector and by country, 2010"</a>. Enerdata.net<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarginal+abatement+cost&amp;rft.btitle=Enerdata%2C+Production+of+MAC+curves+by+sector+and+by+country%2C+2010&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.enerdata.net%2Fenerdatauk%2Fenergy-advisory%2Fforecasting%2Fmac-curves-methodology.php&amp;rft.pub=Enerdata.net&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Impacts of Multi-gas Strategies for Greenhouse Gas Emissions Abatement: Insights from a Partial Equilibirum Model, Criqui P., Russ P., Deybe D., in The Energy Journal, Special Issue: Multi-Greenhouse Gas Mitigation and Climate Policy, 2007</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.enerdata.net/enerdatauk/solutions/energy-models/aspen-model.php" rel="nofollow">"Enerdata, Use of MACCs for carbon markets analysis, 2010"</a>. Enerdata.net<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarginal+abatement+cost&amp;rft.btitle=Enerdata%2C+Use+of+MACCs+for+carbon+markets+analysis%2C+2010&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.enerdata.net%2Fenerdatauk%2Fsolutions%2Fenergy-models%2Faspen-model.php&amp;rft.pub=Enerdata.net&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Low-Carbon Development: Opportunities for Nigeria, Editors: Raffaello Cervigni, John Allen Rogers, and Max Henrion, No 15812 in World Bank Publications, January 2013. 186p.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://blog.lumina.com/2015/marginal-abatement/" rel="nofollow">"Marginal Abatement"</a>. Lumina Decision Systems<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-01-27</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarginal+abatement+cost&amp;rft.btitle=Marginal+Abatement&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fblog.lumina.com%2F2015%2Fmarginal-abatement%2F&amp;rft.pub=Lumina+Decision+Systems&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:26127533-0!*!0!!en!*!* and timestamp 20161027133554 and revision id 732703490
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Marginal_abatement_cost&amp;oldid=732703490">https://en.wikipedia.org/w/index.php?title=Marginal_abatement_cost&amp;oldid=732703490</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Emissions_trading" title="Category:Emissions trading">Emissions trading</a></li><li><a href="/wiki/Category:Carbon_finance" title="Category:Carbon finance">Carbon finance</a></li><li><a href="/wiki/Category:Economics_and_climate_change" title="Category:Economics and climate change">Economics and climate change</a></li><li><a href="/wiki/Category:Climate_change_policy" title="Category:Climate change policy">Climate change policy</a></li><li><a href="/wiki/Category:Marginal_concepts" title="Category:Marginal concepts">Marginal concepts</a></li><li><a href="/wiki/Category:Pollution" title="Category:Pollution">Pollution</a></li></ul></div></div> <div class="visualClear"></div>
+</div>

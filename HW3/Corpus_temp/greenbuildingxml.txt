@@ -1,0 +1,27 @@
+greenbuildingxml
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><p>The <b>Green Building XML</b> schema (<b>gbXML</b>) is an <a href="/wiki/Open_standard" title="Open standard">open</a> <a href="/wiki/XML_schema" title="XML schema">schema</a> developed to facilitate transfer of building data stored in <a class="mw-redirect" href="/wiki/Building_Information_Model" title="Building Information Model">Building Information Models</a> (BIM) to engineering analysis tools. gbXML is being integrated into a range of software CAD and engineering tools and supported by leading 3D BIM vendors. gbXML is streamlined to transfer building properties to and from engineering analysis tools to reduce the interoperability issues and eliminate plan take-off time.</p>
+<p>gbXML is the underlying architecture of <a href="/wiki/Autodesk" title="Autodesk">Autodesk</a>'s Green Building Studio commercial on-line energy analysis product,<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> and is the main export option for energy analysis from their modeling products.</p>
+<h2><span class="mw-headline" id="Green_Building_XML_analysis_software">Green Building XML analysis software</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Building_XML&amp;action=edit&amp;section=1" title="Edit section: Green Building XML analysis software">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In order to see the complete list of the software that support gbXML format see <a class="external text" href="http://gbxml.org/software.php" rel="nofollow">gbXML software page</a>.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Building_XML&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://gbs.autodesk.com/GBS/" rel="nofollow">"Green Building Studio Website"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+Building+XML&amp;rft.btitle=Green+Building+Studio+Website&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fgbs.autodesk.com%2FGBS%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Building_XML&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.gbxml.org" rel="nofollow">Green Building XML</a> Standards Site.</li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:7793802-0!*!0!!*!*!* and timestamp 20161022112156 and revision id 702143474
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Building_XML&amp;oldid=702143474">https://en.wikipedia.org/w/index.php?title=Green_Building_XML&amp;oldid=702143474</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Industry-specific_XML-based_standards" title="Category:Industry-specific XML-based standards">Industry-specific XML-based standards</a></li><li><a href="/wiki/Category:Building_information_modeling" title="Category:Building information modeling">Building information modeling</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
